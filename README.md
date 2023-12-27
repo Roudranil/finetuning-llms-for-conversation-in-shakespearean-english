@@ -8,13 +8,15 @@
   - [Dataset creation](#dataset-creation)
     - [Overview](#overview)
     - [Scraping](#scraping)
+    - [Processing to CSV](#processing-to-csv)
+    - [On 🤗 Datasets](#on--datasets)
 <!--toc:end-->
 
 ## Introduction
 
 For now the goal is to simply finetune a chat model, such that it can converse
 with us in Shakespearean english, even if we are prompting in plain english. The
-goal is to try out with some small models first ($1$B - $1.5$B)
+goal is to try out with some small models first ($1$ B - $1.5$ B)
 
 ## Setup
 
@@ -60,4 +62,20 @@ Each json file as the following structure
     ]
 }
 ```
-Note that the array of dialogs is in the same order as they occur in the books. Meaning any dialog can be taken as the **repsonse** to the dialog that comesjust before it in the array. Refer to [docs/scrape.md](docs/scrape.md) for more info on the scraping side.
+Note that the array of dialogs is in the same order as they occur in the books. Meaning any dialog can be taken as the **repsonse** to the dialog that comes just before it in the array. Refer to [docs/scrape.md](docs/scrape.md) for more info on the scraping side.
+
+### Processing to CSV
+
+This part is done in [src/dataset.py]. Simply the JSON files are loaded, then they are exorted to a csv with the following columns
+| id                          | translated_dialog             | og_response                                              |
+| --------------------------- | ----------------------------- | -------------------------------------------------------- |
+| bookname-chaptername-line-# | some dialog in modern english | reply to that dialog as written in shakespearean english |
+
+To create the dataset, navigate to the src folder and run
+```bash
+python dataset.py
+```
+
+### On 🤗 Datasets
+
+Check out the final dataset on [`🤗 Datasets`](https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset)

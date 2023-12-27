@@ -13,7 +13,7 @@ from tqdm import tqdm
 CRAWLER_NAME = "shakespeare"
 START_URLS = ["https://www.litcharts.com/shakescleare/shakespeare-translations"]
 BASE_URL = "https://www.litcharts.com"
-DATA_DIR = "../data"
+DATA_DIR = "../raw-data"
 
 
 class ShakespeareSpider(scrapy.Spider):
