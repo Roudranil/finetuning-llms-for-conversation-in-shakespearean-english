@@ -1,8 +1,8 @@
-# Shakespearen Chabot with opensource LLM's
+# Shakespearen Chatbot with opensource LLM's
 
 <!--toc:start-->
 
-- [Shakespearen Chabot with opensource LLM's](#shakespearen-chabot-with-opensource-llms)
+- [Shakespearen Chatbot with opensource LLM's](#shakespearen-chatbot-with-opensource-llms)
   - [Introduction](#introduction)
   - [Setup](#setup)
   - [Dataset creation](#dataset-creation)
