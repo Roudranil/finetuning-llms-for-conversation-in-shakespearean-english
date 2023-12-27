@@ -4,6 +4,8 @@ import os
 from tqdm import tqdm
 import pandas as pd
 
+from sklearn.model_selection import train_test_split
+
 
 DATA_DIR = "../raw-data"
 EXPORT_DIR = "../processed-data"
@@ -47,12 +49,25 @@ def build_book_dataset(book):
 
 
 def main():
+    complete_dataset = {
+        "id": [],
+        "translated_dialog": [],
+        "og_response": [],
+    }
     book_names = os.listdir(DATA_DIR)
     outer_loop = tqdm(book_names, position=0, leave=False)
     for book in outer_loop:
         book_data = build_book_dataset(book)
-        book_df = pd.DataFrame.from_dict(book_data, orient="columns")
-        book_df.to_csv(os.path.join(EXPORT_DIR, f"{book}.csv"), index=False)
+        complete_dataset = data_dict_merge(complete_dataset, book_data)
+
+    complete_df = pd.DataFrame.from_dict(complete_dataset, orient="columns")
+    print(complete_df.iloc[:3, :])
+    complete_df_train, complete_df_test = train_test_split(
+        complete_df, test_size=0.4, random_state=42
+    )
+    print(complete_df_train.iloc[:3, :])
+    complete_df_train.to_csv(os.path.join(EXPORT_DIR, f"train-v1.csv"), index=False)
+    complete_df_test.to_csv(os.path.join(EXPORT_DIR, f"test-v1.csv"), index=False)
 
 
 if __name__ == "__main__":
