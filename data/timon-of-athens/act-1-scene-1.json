@@ -1,0 +1,636 @@
+{
+    "dialogs": [
+        {
+            "original": "  Good day, sir.  ",
+            "translated": "Hello."
+        },
+        {
+            "original": "  I am glad you're well.  ",
+            "translated": "It's good to see you."
+        },
+        {
+            "original": "  I have not seen you long: how goes the world?  ",
+            "translated": "It's been a while. How is everything in your world?"
+        },
+        {
+            "original": "  It wears, sir, as it grows.  ",
+            "translated": "Up and down, up and down."
+        },
+        {
+            "original": "   Ay, that's well known:    But what particular rarity?   what strange,    Which manifold record not matches? See,    Magic of bounty! all these spirits thy power    Hath conjured to attend.   I know the merchant.   ",
+            "translated": "So they say. But how weird is thishave you ever seen anything like it? Look at how amazing wealth and generosity are, how they can summon all these people to attend to them.\u00a0I know this merchant."
+        },
+        {
+            "original": "  I know them both; th' other's a jeweller.  ",
+            "translated": "I know both of them. The other one is a jeweler."
+        },
+        {
+            "original": "  O, 'tis a worthy lord.  ",
+            "translated": "Such a worthy man, this lord."
+        },
+        {
+            "original": "  Nay, that's most fix'd.  ",
+            "translated": "Definitely."
+        },
+        {
+            "original": "  A most incomparable man, breathed, as it were,To an untirable and continuate goodness:He passes.  ",
+            "translated": "There's no one like him, almost born to be forever generous. He exceeds everyone else."
+        },
+        {
+            "original": "  I have a jewel here  ",
+            "translated": "I have a jewel right here"
+        },
+        {
+            "original": "  O, pray, let's see't: for the Lord Timon, sir?  ",
+            "translated": "Oh please, let's see it. Is it for the Lord Timon?"
+        },
+        {
+            "original": "  If he will touch the estimate: but, for that  ",
+            "translated": "If he will pay the price. But for that"
+        },
+        {
+            "original": "   [Reciting to himself]   'When we for recompense have    praised the vile,    It stains the glory in that happy verse    Which aptly sings the good.'   ",
+            "translated": "[Reciting a poem to himself] \"When we write poetry praising bad things for money, it ruins the better verse that rightly supports good things.\""
+        },
+        {
+            "original": "  'Tis a good form.  ",
+            "translated": "[Looking at the jewel]\u00a0It's beautiful."
+        },
+        {
+            "original": "  And rich: here is a water, look ye.  ",
+            "translated": "And expensive from the looks of it. Look at how it shines!"
+        },
+        {
+            "original": "  You are rapt, sir, in some work, some dedicationTo the great lord.  ",
+            "translated": "You are captivated by some task, writing a poetic dedication to Lord Timon."
+        },
+        {
+            "original": "   A thing slipp'd idly from me.    Our poesy is as a gum, which oozes    From whence 'tis nourish'd:   the fire i' the flint    Shows not till it be struck; our gentle flame    Provokes itself and like the current flies    Each bound it chafes. What have you there?   ",
+            "translated": "Something slipped my mind. Poetry is like sap that oozes from the tree it gets its nutrients from. The spark that illuminates in the flint does not reveal itself until the flint is hit with something, but our gentle flame lights itself up and runs like a current over every surface it touches. What is that right there?"
+        },
+        {
+            "original": "  A picture, sir. When comes your book forth?  ",
+            "translated": "A portrait. When will your book be published?"
+        },
+        {
+            "original": "  Upon the heels of my presentment, sir.Let's see your piece.  ",
+            "translated": "After I have presented my poem to Timon. Let me see your painting."
+        },
+        {
+            "original": "  'Tis a good piece.  ",
+            "translated": "It's nice."
+        },
+        {
+            "original": "  So 'tis: this comes off well and excellent.  ",
+            "translated": "Yes, it looks well made."
+        },
+        {
+            "original": "  Indifferent.  ",
+            "translated": "It's not bad."
+        },
+        {
+            "original": "   Admirable: how this grace    Speaks his own standing!   what a mental power    This eye shoots forth! how big imagination    Moves in this lip! to the dumbness of the gesture    One might interpret.   ",
+            "translated": "It is incredible how its beauty reflects the dignity of its subject! Look at the intelligence that twinkles in the eye!\u00a0There is a certain imagination that moves in its lip! Even though the painting is silent I feel like I could understand what the man is saying."
+        },
+        {
+            "original": "  It is a pretty mocking of the life.Here is a touch; is't good?  ",
+            "translated": "It is a pretty good imitation of life. Here is a nice touch, do you like it?"
+        },
+        {
+            "original": "  I will say of it,It tutors nature: artificial strifeLives in these touches, livelier than life.  ",
+            "translated": "I will admit it does represent nature well. The purpose of artlies in these touches. They're almost livelier than life itself."
+        },
+        {
+            "original": "  How this lord is follow'd!  ",
+            "translated": "Look at all the people following the lord!"
+        },
+        {
+            "original": "  The senators of Athens: happy man!  ",
+            "translated": "They're Senators of Athens. How lucky is he!"
+        },
+        {
+            "original": "  Look, more!  ",
+            "translated": "And more too!"
+        },
+        {
+            "original": "   You see this confluence, this great flood    of visitors.    I have, in this rough work, shaped out a man,    Whom this beneath world doth embrace and hug    With amplest entertainment:   my free drift    Halts not particularly, but moves itself    In a wide sea of wax:   no levell'd malice    Infects one comma in the course I hold;    But flies an eagle flight, bold and forth on,    Leaving no tract behind.   ",
+            "translated": "Look at this huge crowd of flooding visitors. I have in this draft of my poem drawn the outline of a man beloved and embraced by the earthly world.\u00a0I do not mean to represent particular people, but work in generalities as if my tablet were an entire sea of wax. Personal grudges do not affect even the smallest details of my writing. My creative process flies forth, strong as an eagle in flight, and leaves no trace of its earthly inspirations."
+        },
+        {
+            "original": "  How shall I understand you?  ",
+            "translated": "How could I possibly understand what you're talking about?"
+        },
+        {
+            "original": "   I will unbolt to you.    You see how all conditions, how all minds,    As well of glib and slippery creatures as    Of grave and austere quality, tender down    Their services to Lord Timon:   his large fortune    Upon his good and gracious nature hanging    Subdues and properties to his love and tendance    All sorts of hearts; yea, from the glass-faced flatterer    To Apemantus, that few things loves better    Than to abhor himself:   even he drops down    The knee before him, and returns in peace    Most rich in Timon's nod.   ",
+            "translated": "I will unlock the meaning for you. Notice how people of all types and temperaments, whether smooth-talking and self-interested or serious and truthful, offer their services to Lord Timon. His immense wealth and his kind and gracious nature overwhelm people, and buy him the approval of all sorts of people eager to love and attend him, from the flatterer whose face mirrors the wishes of his counterpart, to Apemantus, who loves nothing more than hating himself. Even he bows down on his knees to Timon, and leaves peacefully after receiving Timon's approval."
+        },
+        {
+            "original": "  I saw them speak together.  ",
+            "translated": "I did see them speaking to one another."
+        },
+        {
+            "original": "   Sir, I have upon a high and pleasant hill    Feign'd Fortune to be throned: the base o' the mount    Is rank'd with all deserts, all kind of natures,    That labour on the bosom of this sphere    To propagate their states:   amongst them all,    Whose eyes are on this sovereign lady fix'd,    One do I personate of Lord Timon's frame,    Whom Fortune with her ivory hand wafts to her;    Whose present grace to present slaves and servants    Translates his rivals.   ",
+            "translated": "[Speaking of the content of his poem] I have written down here that the goddess Fortune is sitting high atop her throne on a beautiful hill. The base of the mountain is surrounded by men of all stations, all dispositions, all trying their hardest to get richer while on earth. Among all of these men, who watch Fortune attentively, I have one meant to represent Lord Timon, whom Fortune beckons to her, instantly transforming all of the other men, his rivals, into servants and slaves."
+        },
+        {
+            "original": "   'Tis conceived to scope.    This throne, this Fortune, and this hill, methinks,    With one man beckon'd from the rest below,    Bowing his head against the sleepy mount    To climb his happiness, would be well express'd    In our condition.   ",
+            "translated": "How well you've depicted the scene! This throne, this depiction of Fortune, and this hillwith one man beckoned from the rest below, bowing his head before the great mountain on which Fortune sits, the source of his happinessperfectly captures the human condition."
+        },
+        {
+            "original": "   Nay, sir, but hear me on.    All those which were his fellows but of late,    Some better than his value, on the moment    Follow his strides, his lobbies fill with tendance,    Rain sacrificial whisperings in his ear,    Make sacred even his stirrup, and through him    Drink the free air.   ",
+            "translated": "Sir, listen to some more of the poem. All of those men who were his equals, some of an even better rank, immediately follow him, so that his rooms are suddenly filled with attendants who shower his ears with whispers of their sacrificial devotion to him, and make sacred even his mounting of a horse, as if it were only because of him that they could breathe."
+        },
+        {
+            "original": "  Ay, marry, what of these?  ",
+            "translated": "Indeed, and what do we make of these people?"
+        },
+        {
+            "original": "   When Fortune in her shift and change of mood    Spurns down her late beloved, all his dependants    Which labour'd after him to the mountain's top    Even on their knees and hands, let him slip down,    Not one accompanying his declining foot.   ",
+            "translated": "The moment Fortune changes her mind and spurns this newly chosen man, all of those who depended on him and who helped him on their hands and knees to reach the mountain top, they let him slip without even trying to save him."
+        },
+        {
+            "original": "   'Tis common:    A thousand moral paintings I can show    That shall demonstrate these quick blows of Fortune's    More pregnantly than words.   Yet you do well    To show Lord Timon that mean eyes have seen    The foot above the head.   ",
+            "translated": "That is true. I can show you a thousand paintings of moral lessons that demonstrate Fortune's sudden victims more effectively than words ever could. But you'd do well nevertheless to show the Lord Timon that even we commoners can see that he is falling."
+        },
+        {
+            "original": "  Imprison'd is he, say you?  ",
+            "translated": "You say that he is imprisoned?"
+        },
+        {
+            "original": "   Ay, my good lord: five talents is his debt,    His means most short, his creditors most strait:    Your honourable letter he desires    To those have shut him up; which failing,    Periods his comfort.   ",
+            "translated": "Yes, my good lord: he owes five talents, and even though he has such a small income, his creditors are insistent that he give it back right away. He wants a letter from you to those who have imprisoned him, without which he claims he'll have no comfort."
+        },
+        {
+            "original": "   Noble Ventidius! Well;    I am not of that feather to shake off    My friend when he must need me.   I do know him    A gentleman that well deserves a help:    Which he shall have: I'll pay the debt,    and free him.   ",
+            "translated": "Great Ventidius! Well, I am not the type of man to neglect a friend in need. I know that he is a gentleman that deserves assistance, which he will get. I'll pay the debt for his freedom."
+        },
+        {
+            "original": "  Your lordship ever binds him.  ",
+            "translated": "Your lordship always makes him grateful."
+        },
+        {
+            "original": "   Commend me to him: I will send his ransom;    And being enfranchised, bid him come to me.    'Tis not enough to help the feeble up,    But to support him after. Fare you well.   ",
+            "translated": "Give him my regards. I will send his ransom and when he is free I will ask him to come to me. It is not enough simply to help the weak stand. One must also support them after helping them up. Farewell."
+        },
+        {
+            "original": "  All happiness to your honour!  ",
+            "translated": "Goodbye. Be well!"
+        },
+        {
+            "original": "  Lord Timon, hear me speak.  ",
+            "translated": "Lord Timon, would you hear me speak?"
+        },
+        {
+            "original": "  Freely, good father.  ",
+            "translated": "Speak freely, good man."
+        },
+        {
+            "original": "  Thou hast a servant named Lucilius.  ",
+            "translated": "You have a servant named Lucilius."
+        },
+        {
+            "original": "  I have so: what of him?  ",
+            "translated": "I do. What of him?"
+        },
+        {
+            "original": "  Most noble Timon, call the man before thee.  ",
+            "translated": "Most noble Timon, would you call the man before you?"
+        },
+        {
+            "original": "  Attends he here, or no? Lucilius!  ",
+            "translated": "Is he here right now? Lucilius!"
+        },
+        {
+            "original": "  Here, at your lordship's service.  ",
+            "translated": "Here, at your lordship's service."
+        },
+        {
+            "original": "   This fellow here, Lord Timon, this thy creature,    By night frequents my house.   I am a man    That from my first have been inclined to thrift;    And my estate deserves an heir more raised    Than one which holds a trencher.   ",
+            "translated": "This man, Lord Timon, this dependent of yours, comes by my house at night. I am a man who has been thrifty from the start, and my estate deserves an heir of better rank than this lowly waiter here."
+        },
+        {
+            "original": "  Well; what further?  ",
+            "translated": "Okay. What, then?"
+        },
+        {
+            "original": "   One only daughter have I, no kin else,    On whom I may confer what I have got:    The maid is fair, o' the youngest for a bride,    And I have bred her at my dearest cost    In qualities of the best.  This man of thineAttempts her love: I prithee, noble lord,Join with me to forbid him her resort;Myself have spoke in vain.  ",
+            "translated": "I have just one daughter, no other family, to whom I can give my estate. She is a good-looking girl, barely old enough to be a bride, and I have raised her well to possess the most desirable qualities. This man of yours keeps flirting with her. Please, my lord, help me forbid him from seeing her. Otherwise I might as well have said nothing."
+        },
+        {
+            "original": "  The man is honest.  ",
+            "translated": "[Speaking of LUCILIUS] This man is honest."
+        },
+        {
+            "original": "  Therefore he will be, Timon:His honesty rewards him in itself;It must not bear my daughter.  ",
+            "translated": "And because of that your man should be too, Timon. His honesty ought to reward him in and of itself. But it should not earn him my daughter too."
+        },
+        {
+            "original": "  Does she love him?  ",
+            "translated": "Does she love him?"
+        },
+        {
+            "original": "  She is young and apt:Our own precedent passions do instruct usWhat levity's in youth.  ",
+            "translated": "She is young and impressionable. You and I know well from our past passions what lighthearted thoughtlessness there is in youth."
+        },
+        {
+            "original": "   [To LUCILIUS]  Love you the maid?  ",
+            "translated": "[To LUCILIUS] Do you love this young woman?"
+        },
+        {
+            "original": "  Ay, my good lord, and she accepts of it.  ",
+            "translated": "Yes, my lord, and she loves me back."
+        },
+        {
+            "original": "   If in her marriage my consent be missing,    I call the gods to witness,   I will choose    Mine heir from forth the beggars of the world,    And dispossess her all.   ",
+            "translated": "If I do not consent to her marriage, with the gods as my witness, I will choose my heir from all the beggars of the world and deprive her of everything."
+        },
+        {
+            "original": "  How shall she be endow'd,if she be mated with an equal husband?  ",
+            "translated": "What dowry should she have if she married a husband from the same social class?"
+        },
+        {
+            "original": "  Three talents on the present; in future, all.  ",
+            "translated": "About $6,000 immediately, and everything I have in the future."
+        },
+        {
+            "original": "   This gentleman of mine hath served me long:    To build his fortune I will strain a little,    For 'tis a bond in men.   Give him thy daughter:    What you bestow, in him I'll counterpoise,    And make him weigh with her.   ",
+            "translated": "This gentleman Lucilius has served me for a long time. I will make some efforts to build his fortune, such is the duty of friendship. If you give him your daughter I will match whatever you give and make him her equal."
+        },
+        {
+            "original": "  Most noble lord,Pawn me to this your honour, she is his.  ",
+            "translated": "Most noble lord, if you swear this on your honor, she is his."
+        },
+        {
+            "original": "  My hand to thee; mine honour on my promise.  ",
+            "translated": "I swear on my own honor."
+        },
+        {
+            "original": "  Humbly I thank your lordship: never mayThe state or fortune fall into my keeping,Which is not owed to you!  ",
+            "translated": "I humbly thank you, my Lord. There is nothing that should come to me that I do not owe to you!"
+        },
+        {
+            "original": "  Vouchsafe my labour, and long live your lordship!  ",
+            "translated": "Accept this gift I made for you, and long live my lord!"
+        },
+        {
+            "original": "  I thank you; you shall hear from me anon:Go not away. What have you there, my friend?  ",
+            "translated": "Thank you. I will let you know when I'd like to hear your work. But don't go away. [To the PAINTER] What do you have there, friend?"
+        },
+        {
+            "original": "  A piece of painting, which I do beseechYour lordship to accept.  ",
+            "translated": "A painting, which I'm begging you to accept as a gift from me."
+        },
+        {
+            "original": "   Painting is welcome.    The painting is almost the natural man;    or since dishonour traffics with man's nature,    He is but outside:   these pencill'd figures are    Even such as they give out. I like your work;    And you shall find I like it: wait attendance    Till you hear further from me.   ",
+            "translated": "I do like paintings, and this one is \u00a0looks almost exactly like me. Sometimes, because men can be duplicitous, a man becomes only what he lets other people see from the outside. But these pencil marks in your painting are no more than they appear to be. I like your work, and I'll let you know soon how much I like it. Wait here until you hear from me."
+        },
+        {
+            "original": "  The gods preserve ye!  ",
+            "translated": "God bless you!"
+        },
+        {
+            "original": "  Well fare you, gentleman: give me your hand;We must needs dine together. Sir, your jewelHath suffer'd under praise.  ",
+            "translated": "Well goodbye, gentleman. Give me your hands. We must dine together sometime soon.[To the JEWELER] Sir, your jewel has gotten too much praise!"
+        },
+        {
+            "original": "  What, my lord! dispraise?  ",
+            "translated": "What? You don't like it?"
+        },
+        {
+            "original": "  A more satiety of commendations.If I should pay you for't as 'tis extoll'd,It would unclew me quite.  ",
+            "translated": "It's gotten too much praise. If I paid you based on how much it's been praised, I would go broke.\u00a0"
+        },
+        {
+            "original": "   My lord, 'tis rated    As those which sell would give: but you well know,    Things of like value differing in the owners    Are prized by their masters:   believe't, dear lord,    You mend the jewel by the wearing it.   ",
+            "translated": "My lord, it is valued as much as its sellers would pay for it. But you know well that the value of things differs in the hands of different owners, and increases when they belong to masters of higher status. Believe me, dear lord, you would make this jewel more expensive just by wearing it."
+        },
+        {
+            "original": "  Well mock'd.  ",
+            "translated": "That's a compelling sales pitch."
+        },
+        {
+            "original": "  No, my good lord; he speaks the common tongue,Which all men speak with him.  ",
+            "translated": "No, my good lord. He says what everyone says. They all agree."
+        },
+        {
+            "original": "  Look, who comes here: will you be chid?  ",
+            "translated": "Uh oh, look who's coming. Will we be mocked?\u00a0"
+        },
+        {
+            "original": "  We'll bear, with your lordship.  ",
+            "translated": "We'll bear the brunt of his insults with you."
+        },
+        {
+            "original": "  He'll spare none.  ",
+            "translated": "He won't spare anyone."
+        },
+        {
+            "original": "  Good morrow to thee, gentle Apemantus!  ",
+            "translated": "Good day to you, gentle Apemantus!"
+        },
+        {
+            "original": "  Till I be gentle, stay thou for thy good morrow;When thou art Timon's dog, and these knaves honest.  ",
+            "translated": "Save your \"good morrow\" until after I've been nice to you"
+        },
+        {
+            "original": "  Why dost thou call them knaves? thou know'st them not.  ",
+            "translated": "Why do you call them villains? You don't even know them."
+        },
+        {
+            "original": "  Are they not Athenians?  ",
+            "translated": "Are they from Athens?"
+        },
+        {
+            "original": "  Yes.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Then I repent not.  ",
+            "translated": "Then I don't feel bad for saying it."
+        },
+        {
+            "original": "  You know me, Apemantus?  ",
+            "translated": "Do you know who I am, Apemantus?"
+        },
+        {
+            "original": "  Thou know'st I do: I call'd thee by thy name.  ",
+            "translated": "You know I do, because I called you by your name, \"villain.\""
+        },
+        {
+            "original": "  Thou art proud, Apemantus.  ",
+            "translated": "You are too arrogant, Apemantus."
+        },
+        {
+            "original": "  Of nothing so much as that I am not like Timon.  ",
+            "translated": "I couldn't be less like you in that way, Timon."
+        },
+        {
+            "original": "  Whither art going?  ",
+            "translated": "Where are you going?"
+        },
+        {
+            "original": "  To knock out an honest Athenian's brains.  ",
+            "translated": "To knock the brains out of an honest Athenian.\u00a0"
+        },
+        {
+            "original": "  That's a deed thou'lt die for.  ",
+            "translated": "That is a deed that you will die for."
+        },
+        {
+            "original": "  Right, if doing nothing be death by the law.  ",
+            "translated": "Only if doing nothing would be punishable by death under the law."
+        },
+        {
+            "original": "  How likest thou this picture, Apemantus?  ",
+            "translated": "How do you like this portrait, Apemantus?"
+        },
+        {
+            "original": "  The best, for the innocence.  ",
+            "translated": "It's fine, but it's just a painting."
+        },
+        {
+            "original": "  Wrought he not well that painted it?  ",
+            "translated": "Didn't the painter do a good job?"
+        },
+        {
+            "original": "  He wrought better that made the painter; and yethe's but a filthy piece of work.  ",
+            "translated": "Whoever made the painter did a better job, and he himself is a terribly flawed piece of work."
+        },
+        {
+            "original": "  You're a dog.  ",
+            "translated": "You're a dog."
+        },
+        {
+            "original": "  Thy mother's of my generation: what's she, if I be a dog?  ",
+            "translated": "Your mother is of the same species: what is she if I am a dog?"
+        },
+        {
+            "original": "  Wilt dine with me, Apemantus?  ",
+            "translated": "Will you dine with me, Apemantus?"
+        },
+        {
+            "original": "  No; I eat not lords.  ",
+            "translated": "No, I do not eat lords."
+        },
+        {
+            "original": "  An thou shouldst, thou 'ldst anger ladies.  ",
+            "translated": "If you did, you would anger the ladies."
+        },
+        {
+            "original": "  O, they eat lords; so they come by great bellies.  ",
+            "translated": "Oh, they eat lords; that's how they get pregnant."
+        },
+        {
+            "original": "  That's a lascivious apprehension.  ",
+            "translated": "That's a crude sentiment."
+        },
+        {
+            "original": "  So thou apprehendest it: take it for thy labour.  ",
+            "translated": "That's how you've interpreted it: it's your fault then."
+        },
+        {
+            "original": "  How dost thou like this jewel, Apemantus?  ",
+            "translated": "Do you like this jewel, Apemantus?"
+        },
+        {
+            "original": "  Not so well as plain-dealing, which will not cost aman a doit.  ",
+            "translated": "Not as much as I value telling the truth, which doesn't cost a penny."
+        },
+        {
+            "original": "  What dost thou think 'tis worth?  ",
+            "translated": "What do you think it's worth?"
+        },
+        {
+            "original": "  Not worth my thinking. How now, poet!  ",
+            "translated": "It's not worth my thinking about it. What about you, poet?"
+        },
+        {
+            "original": "  How now, philosopher!  ",
+            "translated": "And you, philosopher!"
+        },
+        {
+            "original": "  Thou liest.  ",
+            "translated": "You lie."
+        },
+        {
+            "original": "  Art not one?  ",
+            "translated": "Are you not a philosopher?"
+        },
+        {
+            "original": "  Yes.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Then I lie not.  ",
+            "translated": "Then I do not lie."
+        },
+        {
+            "original": "  Art not a poet?  ",
+            "translated": "Aren't you a poet?"
+        },
+        {
+            "original": "  Yes.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Then thou liest: look in thy last work, where thouhast feigned him a worthy fellow.  ",
+            "translated": "Then you lie: look at your last poem, in which you pretended that you think Timon is a worthy man."
+        },
+        {
+            "original": "  That's not feigned; he is so.  ",
+            "translated": "I wasn't faking that. He is a worthy man."
+        },
+        {
+            "original": "  Yes, he is worthy of thee, and to pay thee for thylabour: he that loves to be flattered is worthy o'the flatterer. Heavens, that I were a lord!  ",
+            "translated": "Yes he is worthy of you, and to pay you for your labor. He who loves to be flattered is worthy of the flatterer. God, if only I were a lord!"
+        },
+        {
+            "original": "  What wouldst do then, Apemantus?  ",
+            "translated": "What would you do then, Apemantus?"
+        },
+        {
+            "original": "  E'en as Apemantus does now; hate a lord with my heart.  ",
+            "translated": "The same that I do right now: hate a lord with all my heart."
+        },
+        {
+            "original": "  What, thyself?  ",
+            "translated": "What? Yourself?"
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Wherefore?  ",
+            "translated": "Why?"
+        },
+        {
+            "original": "  That I had no angry wit to be a lord.Art not thou a merchant?  ",
+            "translated": "Because I would have lost the angry wit I now have if I were a lord. Aren't you a merchant?"
+        },
+        {
+            "original": "  Ay, Apemantus.  ",
+            "translated": "Yes, Apemantus."
+        },
+        {
+            "original": "  Traffic confound thee, if the gods will not!  ",
+            "translated": "I hope your business destroys youthat is, if the gods don't first!"
+        },
+        {
+            "original": "  If traffic do it, the gods do it.  ",
+            "translated": "If my business ruins me, the gods ruin me."
+        },
+        {
+            "original": "  Traffic's thy god; and thy god confound thee!  ",
+            "translated": "Business is your god, and your god will ruin you."
+        },
+        {
+            "original": "  What trumpet's that?  ",
+            "translated": "What's the trumpet for?"
+        },
+        {
+            "original": "  'Tis Alcibiades, and some twenty horse,All of companionship.  ",
+            "translated": "It is Alcibiades and twenty horsemen, all together."
+        },
+        {
+            "original": "  Pray, entertain them; give them guide to us.  ",
+            "translated": "Welcome them and guide them to us."
+        },
+        {
+            "original": "  You must needs dine with me: go not you henceTill I have thank'd you: when dinner's done,Show me this piece. I am joyful of your sights.  ",
+            "translated": "[To the PAINTER] You must dine with me. Don't go until I have thanked you for your painting, and when dinner is over show me your latest work. I will be happy to see you."
+        },
+        {
+            "original": "  Most welcome, sir!  ",
+            "translated": "Welcome!"
+        },
+        {
+            "original": "   So, so, there!    Aches contract and starve your supple joints!    That there should be small love 'mongst these    sweet knaves,    And all this courtesy!   The strain of man's bred out    Into baboon and monkey.   ",
+            "translated": "Yes, yes! Pains flare up and wither your tender joints! That there can be so much disdain amongst these villains, who act with such politeness!\u00a0All this politeness! The human species has bred itself into baboons and monkeys."
+        },
+        {
+            "original": "  Sir, you have saved my longing, and I feedMost hungerly on your sight.  ",
+            "translated": "[To TIMON] Sir your presence has saved me from my longing, and I feed most hungrily at the sight of you."
+        },
+        {
+            "original": "  Right welcome, sir!Ere we depart, we'll share a bounteous timeIn different pleasures. Pray you, let us in.  ",
+            "translated": "You are welcome, sir! Before you depart, you'll have a wonderful time filled with many pleasures. Please, let's go inside!"
+        },
+        {
+            "original": "  What time o' day is't, Apemantus?  ",
+            "translated": "What time of day is it Apemantus?"
+        },
+        {
+            "original": "  Time to be honest.  ",
+            "translated": "Time to be honest."
+        },
+        {
+            "original": "  That time serves still.  ",
+            "translated": "It is always that time."
+        },
+        {
+            "original": "  The more accursed thou, that still omitt'st it.  ",
+            "translated": "Shame on you then for having failed to do so."
+        },
+        {
+            "original": "  Thou art going to Lord Timon's feast?  ",
+            "translated": "Are you going to Lord Timon's feast?"
+        },
+        {
+            "original": "  Ay, to see meat fill knaves and wine heat fools.  ",
+            "translated": "Yes, to see idiots fill up on meat and fools get drunk on wine."
+        },
+        {
+            "original": "  Fare thee well, fare thee well.  ",
+            "translated": "Farewell, farewell."
+        },
+        {
+            "original": "  Thou art a fool to bid me farewell twice.  ",
+            "translated": "You are a fool to bid me farewell twice."
+        },
+        {
+            "original": "  Why, Apemantus?  ",
+            "translated": "Why, Apemantus?"
+        },
+        {
+            "original": "  Shouldst have kept one to thyself, for I mean togive thee none.  ",
+            "translated": "You should have kept one for yourself, because I have no intention of giving you one."
+        },
+        {
+            "original": "  Hang thyself!  ",
+            "translated": "Go kill yourself!"
+        },
+        {
+            "original": "  No, I will do nothing at thy bidding: make thyrequests to thy friend.  ",
+            "translated": "No, I won't do anything you ask me to do: go ask that of your friend."
+        },
+        {
+            "original": "  Away, unpeaceable dog, or I'll spurn thee hence!  ",
+            "translated": "Go away you angry dog, or I'll kick you!"
+        },
+        {
+            "original": "  I will fly, like a dog, the heels o' the ass.  ",
+            "translated": "I will run away like a dog so your heels catch nothing but my ass!"
+        },
+        {
+            "original": "  He's opposite to humanity. Come, shall we in,And taste Lord Timon's bounty? he outgoesThe very heart of kindness.  ",
+            "translated": "Apemantus is inhuman. Come, shall we go in and taste Lord Timon's bounty? He exceeds the meaning of the word kindness."
+        },
+        {
+            "original": "   He pours it out; Plutus, the god of gold,    Is but his steward: no meed, but he repays    Sevenfold above itself;   no gift to him,    But breeds the giver a return exceeding    All use of quittance.   ",
+            "translated": "Kindness pours out of him. Even Plutus, the god of gold, seems like just a mere apprentice of Timon's. There is no service given him that he does not repay seven times in value. There is no gift he receives that doesn't return to the giver a sense of value exceeding the price paid for it."
+        },
+        {
+            "original": "  The noblest mind he carriesThat ever govern'd man.  ",
+            "translated": "He has the noblest mind any man has ever had."
+        },
+        {
+            "original": "  Long may he live in fortunes! Shall we in?  ",
+            "translated": "May he live a long and wealthy life! Shall we go in?"
+        },
+        {
+            "original": "  I'll keep you company.  ",
+            "translated": "I'll accompany you."
+        }
+    ]
+}

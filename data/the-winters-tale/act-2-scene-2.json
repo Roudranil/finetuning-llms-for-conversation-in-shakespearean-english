@@ -1,0 +1,84 @@
+{
+    "dialogs": [
+        {
+            "original": "  The keeper of the prison, call to him;let him have knowledge who I am.  [Exit Gentleman]  Good lady,No court in Europe is too good for thee;What dost thou then in prison?  [Re-enter Gentleman, with the Gaoler]  Now, good sir,You know me, do you not?  ",
+            "translated": "Tell the jailer to come in here. Tell him who I am. [The gentleman leaves][Muttering to herself] Oh, Hermione, you're good enough for any court in Europe. What are you doing in a prison? [The gentleman comes back in with the JAILER]Now, sir, you know who I am, right?"
+        },
+        {
+            "original": "  For a worthy ladyAnd one whom much I honour.  ",
+            "translated": "I know your reputation, and I have a lot of respect for you."
+        },
+        {
+            "original": "  Pray you then,Conduct me to the queen.  ",
+            "translated": "Well then, please take me to the queen."
+        },
+        {
+            "original": "  I may not, madam:To the contrary I have express commandment.  ",
+            "translated": "I can't, ma'am. I have orders to do exactly the opposite."
+        },
+        {
+            "original": "  Here's ado,To lock up honesty and honour fromThe access of gentle visitors!Is't lawful, pray you,To see her women? any of them? Emilia?  ",
+            "translated": "Well, isn't that something: locking up an innocent woman and keeping her from friendly visitors. Am I allowed to see any of her servants? Emilia?"
+        },
+        {
+            "original": "  So please you, madam,To put apart these your attendants, IShall bring Emilia forth.  ",
+            "translated": "If you'll get rid of your servants, ma'am, I can bring Emilia out."
+        },
+        {
+            "original": "  I pray now, call her.Withdraw yourselves.  ",
+            "translated": "All right, then, call her.\u00a0[To her servants]\u00a0You may all leave."
+        },
+        {
+            "original": "  And, madam,I must be present at your conference.  ",
+            "translated": "And, ma'am, I'll have to stay in the room to monitor your conversation."
+        },
+        {
+            "original": "  Well, be't so, prithee.   [Exit Gaoler]  Here's such ado to make no stain a stainAs passes colouring.  [Re-enter Gaoler, with EMILIA]  Dear gentlewoman,How fares our gracious lady?  ",
+            "translated": "Well, so be it, then. [The JAILER leaves] [To herself] This is a lot of hullabaloo to make an innocent woman look guilty. [The JAILER comes back in with EMILIA][To EMILIA] How's Hermione doing?"
+        },
+        {
+            "original": "  As well as one so great and so forlornMay hold together: on her frights and griefs,Which never tender lady hath born greater,She is something before her time deliver'd.  ",
+            "translated": "As well as a queen with so many reasons to grieve can be expected to do. Poor thingbecause of the stress, she went into labor early."
+        },
+        {
+            "original": "  A boy?  ",
+            "translated": "A boy?"
+        },
+        {
+            "original": "  A daughter, and a goodly babe,Lusty and like to live: the queen receivesMuch comfort in't; says 'My poor prisoner,I am innocent as you.'  ",
+            "translated": "A daughter. She's beautiful, healthy, and will probably live. The queen takes a lot of comfort from the baby. She keeps saying, \"My poor prisoner, I am as innocent as you.\""
+        },
+        {
+            "original": "   I dare be sworn    These dangerous unsafe lunes i' the king,    beshrew them!    He must be told on't, and he shall: the office    Becomes a woman best; I'll take't upon me:    If I prove honey-mouth'd let my tongue blister    And never to my red-look'd anger be    The trumpet any more.   Pray you, Emilia,    Commend my best obedience to the queen:    If she dares trust me with her little babe,    I'll show't the king and undertake to be    Her advocate to the loud'st.   We do not know    How he may soften at the sight o' the child:    The silence often of pure innocence    Persuades when speaking fails.   ",
+            "translated": "I sweardamn the king's crazy delusions! We have to tell him about the baby. We will. It's a woman's job and I'll do it myself. I won't have many nice things to say to him, I can guarantee you. Emilia, please tell the queen that I'm completely at her service. If she'll trust me with her tiny newborn, I'll show it to the king and will advocate for her to the best of my ability. It's hard to say how he'll reacthe may be touched when he sees her. Sometimes the silent testimony of pure innocence can persuade when words fail."
+        },
+        {
+            "original": "   Most worthy madam,    Your honour and your goodness is so evident    That your free undertaking cannot miss    A thriving issue:   there is no lady living    So meet for this great errand.   Please your ladyship    To visit the next room, I'll presently    Acquaint the queen of your most noble offer;    Who but to-day hammer'd of this design,    But durst not tempt a minister of honour,    Lest she should be denied.   ",
+            "translated": "Ma'am, you're so obviously good and virtuous that I can't imagine you not succeeding. There's no better woman for this job. I'll go into the next room and tell the queen your plan. Though she only gave birth today, she's afraid to ask them to take the baby out of this prison. If they deny her request, who knowsthey might kill the child."
+        },
+        {
+            "original": "  Tell her, Emilia.I'll use that tongue I have: if wit flow from'tAs boldness from my bosom, let 't not be doubtedI shall do good.  ",
+            "translated": "Tell her, Emilia. I'll use my gift of speech. If I can be as articulate as I am bold, then I'll do well."
+        },
+        {
+            "original": "  Now be you blest for it!I'll to the queen: please you,come something nearer.  ",
+            "translated": "And God bless you for that! I'll go to the queen. But please, come closer."
+        },
+        {
+            "original": "  Madam, if't please the queen to send the babe,I know not what I shall incur to pass it,Having no warrant.  ",
+            "translated": "Ma'am, if the queen agrees to send the baby, I don't think I can allow it. I don't have a warrant."
+        },
+        {
+            "original": "  You need not fear it, sir:This child was prisoner to the womb and isBy law and process of great nature thenceFreed and enfranchised, not a party toThe anger of the king nor guilty of,If any be, the trespass of the queen.  ",
+            "translated": "There's nothing to worry about, sir. The baby was imprisoned in the womb, but she's been freed by natural law. She's not under any accusations from the king, and she can't possibly be guilty of anything the queen did."
+        },
+        {
+            "original": "  I do believe it.  ",
+            "translated": "I'll buy that."
+        },
+        {
+            "original": "  Do not you fear: upon mine honour,I will stand betwixt you and danger.  ",
+            "translated": "Don't worry. I swear I'll keep you out of trouble."
+        }
+    ]
+}

@@ -1,0 +1,636 @@
+{
+    "dialogs": [
+        {
+            "original": "   I have sent after him. He says hell come.    How shall I feast him? What bestow of him?    For youth is bought more oft than begged or borrowd.    I speak too loud.     (to MARIA)    Wheres Malvolio? He is sad and civil    And suits well for a servant with my fortunes.    Where is Malvolio?   ",
+            "translated": "[To herself]\u00a0I've sent for him. He says he'll come. What food should I give him? What gifts? For it's better to buy something than beg for it or borrow itand it's the same with youth and love. But I'm speaking too loud. [To MARIA]\u00a0Where's Malvolio? He is very serious and solemn, which is appropriate for someone in mourning like I am. Where is Malvolio?"
+        },
+        {
+            "original": "  Hes coming, madam; but in very strange manner. He is sure possessed, madam.  ",
+            "translated": "He's coming, madam, but in a very strange manner. He seems crazy, madam."
+        },
+        {
+            "original": "  Why, whats the matter? Does he rave?  ",
+            "translated": "Why, what's the matter? Is he talking nonsense?"
+        },
+        {
+            "original": "  No, madam, he does nothing but smile. Your ladyship were best to have some guard about you if he come, for sure the man is tainted in s wits.  ",
+            "translated": "No, madam, he does nothing but smile. It would be best if you had a guard nearby if he comes here, for the man is surely sick in his head."
+        },
+        {
+            "original": "  Go call him hither.  ",
+            "translated": "Go call him here."
+        },
+        {
+            "original": "  I am as mad as he, If sad and merry madness equal be.  ",
+            "translated": "I am as mad as he is, if sad madness and merry madness are equals."
+        },
+        {
+            "original": "  How now, Malvolio?  ",
+            "translated": "What's going on, Malvolio?"
+        },
+        {
+            "original": "  Sweet lady, ho, ho.  ",
+            "translated": "Sweet lady, hello."
+        },
+        {
+            "original": "  Smilest thou? I sent for thee upon a sad occasion.  ",
+            "translated": "Are you smiling? I sent for you on a sad occasion."
+        },
+        {
+            "original": "   Sad, lady! I could be sad. This does make some obstruction in the blood, this cross-gartering, but whatof that?   If it please the eye of one, it is with me as the very true sonnet is, Please one, and please all.   ",
+            "translated": "Sad, my lady! I could be sad. These crossed laces do cut off the circulation in my legs a bit, but what of that? If a certain person likes them, then it's like that poem says: \"Please one, and please all.\""
+        },
+        {
+            "original": "  Why, how dost thou, man? What is the matter with thee?  ",
+            "translated": "Why, what's going on, man? What is the matter with you?"
+        },
+        {
+            "original": "   Not black in my mind, though yellow in my legs.   It did come to his hands, and commands shall be executed. I think we do know the sweet Roman hand.   ",
+            "translated": "My legs are yellow, but I don't feel blue. The letter came to me, and its commands must be obeyed. I think I recognized the fancy Italian handwriting."
+        },
+        {
+            "original": "  Wilt thou go to bed, Malvolio?  ",
+            "translated": "Don't you think you ought to go to bed, Malvolio?"
+        },
+        {
+            "original": "  To bed? Ay, sweetheart, and Ill come to thee.  ",
+            "translated": "To bed? \"Yes, sweetheart, I'll come to you.\""
+        },
+        {
+            "original": "  God comfort thee! Why dost thou smile so, and kiss thyhand so oft?  ",
+            "translated": "For God's sake! Why are you smiling like that, and kissing your hand so often?"
+        },
+        {
+            "original": "  How do you, Malvolio?  ",
+            "translated": "Are you okay, Malvolio?"
+        },
+        {
+            "original": "  At your request! Yes, nightingales answer daws!  ",
+            "translated": "You think I'll answer you? Noblemen don't answer servants!"
+        },
+        {
+            "original": "  Why appear you with this ridiculous boldness before my lady?  ",
+            "translated": "Why are you acting with such ridiculous arrogance in front of my lady?"
+        },
+        {
+            "original": "  Be not afraid of greatness. 'Twas well writ.  ",
+            "translated": "\"Don't be afraid of my greatness.\" It was well written."
+        },
+        {
+            "original": "  What meanest thou by that, Malvolio?  ",
+            "translated": "What do you mean by that, Malvolio?"
+        },
+        {
+            "original": "  Some are born great  ",
+            "translated": "\"Some are born great\""
+        },
+        {
+            "original": "  Ha?  ",
+            "translated": "What?"
+        },
+        {
+            "original": "  Some achieve greatness  ",
+            "translated": "\"Some achieve greatness\""
+        },
+        {
+            "original": "  What sayest thou?  ",
+            "translated": "What did you say?"
+        },
+        {
+            "original": "  And some have greatness thrust upon them.  ",
+            "translated": "\"And some have greatness thrust upon them.\""
+        },
+        {
+            "original": "  Heaven restore thee!  ",
+            "translated": "May heaven restore your sanity!"
+        },
+        {
+            "original": "  Remember who commended thy yellow stockings  ",
+            "translated": "\"Remember who it was who complimented your yellow stockings\""
+        },
+        {
+            "original": "  Thy yellow stockings?  ",
+            "translated": "Your yellow stockings?"
+        },
+        {
+            "original": "  And wished to see thee cross-gartered.  ",
+            "translated": "\"And asked to see you always wearing crossed laces going up your legs.\""
+        },
+        {
+            "original": "  Cross-gartered?  ",
+            "translated": "Crossed laces?"
+        },
+        {
+            "original": "  Go to, thou art made, if thou desirest to be so  ",
+            "translated": "\"Now go. You are assured of becoming a gentleman, if you want to be\""
+        },
+        {
+            "original": "  Am I made?  ",
+            "translated": "Am I a gentleman?"
+        },
+        {
+            "original": "  If not, let me see thee a servant still.  ",
+            "translated": "\"If not, just keep acting like a servant.\""
+        },
+        {
+            "original": "  Why, this is very midsummer madness.  ",
+            "translated": "This is surely insanity."
+        },
+        {
+            "original": "  Madam, the young gentleman of the Count Orsinos is returned. I could hardly entreat him back. He attends your ladyships pleasure.  ",
+            "translated": "Madam, Duke Orsino's young gentleman has returned. I had to beg him to come back, but he is here now and ready to see you when you're ready."
+        },
+        {
+            "original": "  Ill come to him.  ",
+            "translated": "I'll go to him."
+        },
+        {
+            "original": "   Good Maria, let this fellow be looked to. Wheres my cousin Toby?   Let some of my people have a special care of him. I would not have him miscarry for the half of mydowry.   ",
+            "translated": "Good Maria, take care of this fellow here. Where's my cousin Toby? Let some of my servants take special care of Malvolio. I'd give half my wealth to keep him from harm."
+        },
+        {
+            "original": "   Oh, ho! Do you come near me now? No worse man than SirToby to look to me. This concurs directly with the letter.   She sends him on purpose that I may appear stubborn to him, for she incites me to that in the letter.   Cast thy humble slough, says she. Be oppositewith a kinsman, surly with servants. Let thy tongue tang with arguments of state. Put thyself into the trickof singularity, and consequently sets down the manner how:   as, a sad face, a reverend carriage, a slow tongue,in the habit of some sir of note, and so forth.   I have limed her, but it is Joves doing, and Jove make me thankful!   And when she went away now, Let this fellow be looked to. Fellow! Not Malvolio, nor after my degree, but fellow.   Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstancewhat canbe said?   Nothing that can be can come between me and the full prospect of my hopes. Well, Jove, not I, is thedoer of this, and he is to be thanked.   ",
+            "translated": "Oh ho! Do you see me now? Sir Toby himself has been told to take care of me. This fits exactly with the letter. She sends Sir Toby to me on purpose so that I can be rude to him, just as she told me to in the letter. \"Cast aside your lowly outer self,\" she said. \"Be rude to your companions, and be mean to servants. Talk loudly and often about politics, and make a habit of being unique and eccentric.\" And then she wrote down the ways I should go about this: I should have a solemn face and a dignified demeanor, speak slowly, dress like a distinguished gentleman, and so forth. I've caught her now, but it is really God's doingand may God make me thankful! And when she went away just now, she said \"take care of this fellow here.\" \"Fellow!\" Not \"Malvolio,\" nor anything appropriate for a servant, but \"fellow.\" Almost \"companion\" or \"partner.\" Why, everything is coming together perfectly, and not the tiniest amount of doubt, no obstacle, no incredible or unfortunate event could ruin itwhat else can be said? Nothing that exists can now come between me and the fulfillment of my hopes. Well, God is responsible for this, not me, and he is to be thanked."
+        },
+        {
+            "original": "   Which way is he, in the name of sanctity?   If all the devils of hell be drawn in little, and Legion himself possessed him, yet Ill speak to him.   ",
+            "translated": "Where is he, in the name of all that's holy? Even if all the devils of hell are crammed together inside of him, even if a troop of demons possesses him, I still want to speak to him."
+        },
+        {
+            "original": "  Here he is, here he is. How ist with you, sir? How ist with you, man?  ",
+            "translated": "Here he is, here he is. How are you, sir? How are you feeling, man?"
+        },
+        {
+            "original": "  Go off, I discard you. Let me enjoy my private. Go off.  ",
+            "translated": "Go away, I cast you off. Let me enjoy my privacy. Go away."
+        },
+        {
+            "original": "   [t    o  SIR TOBY BELCH   ]  Lo, how hollow the fiend speaks within him! Did not I tell you? Sir Toby, my lady prays you to have a care of him.  ",
+            "translated": "[To SIR TOBY BELCH]\u00a0Oh my, the demon speaks so loudly from within him. Didn't I tell you? Sir Toby, my lady asks you to take care of him."
+        },
+        {
+            "original": "  Aha! Does she so?  ",
+            "translated": "Aha! Does she?"
+        },
+        {
+            "original": "   [t    o  FABIAN  and  MARIA   ]   Go to, go to! Peace, peace. We must deal gently with him. Let me alone.   How do you, Malvolio? How is t with you? What, man, defy the devil!Consider, hes an enemy to mankind.   ",
+            "translated": "[To FABIAN and MARIA]\u00a0Come on, come on! Quiet, quiet. We must be gentle with him. Let me deal with this. [To MALVOLIO]\u00a0How are you, Malvolio? How are you feeling? Come on, man, renounce the devil! Remember, he's the enemy of mankind."
+        },
+        {
+            "original": "  Do you know what you say?  ",
+            "translated": "Do you know what you're saying?"
+        },
+        {
+            "original": "   [t    o  SIR TOBY BELCH   ]  La you, an you speak ill of the devil, how he takes it at heart! Pray God, he be not bewitched!  ",
+            "translated": "[To SIR TOBY BELCH]\u00a0Look, he resents it when you insult the devil! Pray to God that he's not bewitched!"
+        },
+        {
+            "original": "  Carry his water to the wisewoman.  ",
+            "translated": "Get a urine sample from him and take it to the healing woman."
+        },
+        {
+            "original": "  Marry, and it shall be done tomorrow morning if I live. My lady would not lose him for more than Ill say.  ",
+            "translated": "Sure, I'll do it tomorrow morning, I swear. My lady would give a lot to keep from losing him."
+        },
+        {
+            "original": "  How now, mistress?  ",
+            "translated": "What's that, mistress?"
+        },
+        {
+            "original": "  O Lord!  ",
+            "translated": "Oh Lord!"
+        },
+        {
+            "original": "   [t    o  MARIA   ]  Prithee, hold thy peace. This is not the way. Do you not see you move him? Let me alone with him.  ",
+            "translated": "[To MARIA]\u00a0Please, keep quiet. This isn't the way to go about it. Don't you see that you're making him upset? Leave me alone with him."
+        },
+        {
+            "original": "  No way but gentleness, gently, gently. The fiend is rough and will not be roughly used.  ",
+            "translated": "The only way to deal with him is gently, gently. The demon in him is rough, but we can't treat it roughly."
+        },
+        {
+            "original": "   [t    o  MALVOLIO   ]  Why, how now, my bawcock! How dost thou, chuck?  ",
+            "translated": "[To the demon possessing MALVOLIO]\u00a0Why, hello, my fine fellow! How are you, little chicken?"
+        },
+        {
+            "original": "  Sir!  ",
+            "translated": "Sir!"
+        },
+        {
+            "original": "   Ay, Biddy, come with me.   What, man! 'Tis not for gravity to play at cherry-pit with Satan. Hang him, foulcollier!   ",
+            "translated": "[To the devil \"possessing\" MALVOLIO]\u00a0Yes, little chicken, come with me. [To MALVOLIO]\u00a0What, man! You're too serious to play games with Satan. Damn him, that dirty coal miner devil!"
+        },
+        {
+            "original": "  Get him to say his prayers, good Sir Toby, get him to pray.  ",
+            "translated": "Get him to say his prayers, good Sir Toby, get him to pray."
+        },
+        {
+            "original": "  My prayers, minx?  ",
+            "translated": "My prayers, you hussy?"
+        },
+        {
+            "original": "   [To SIR TOBY BELCH]  No, I warrant you, he will not hear of godliness.  ",
+            "translated": "[To SIR TOBY BELCH]\u00a0No, I'm telling you, he doesn't want to hear about God."
+        },
+        {
+            "original": "  Go, hang yourselves all! You are idle, shallow things. I am not of your element. You shall know more hereafter.  ",
+            "translated": "Go hang yourselves, all of you! You are lazy, shallow creatures. I'm made of better stuff than you. You'll learn more about that, later."
+        },
+        {
+            "original": "  Is t possible?  ",
+            "translated": "Is it possible?"
+        },
+        {
+            "original": "  If this were played upon a stage now, I could condemn it as an improbable fiction.  ",
+            "translated": "If this were being acted out on a stage, I would complain that it was unrealistic."
+        },
+        {
+            "original": "  His very genius hath taken the infection of the device,man.  ",
+            "translated": "He's really taken our trick to heartit seems to have infected his very soul."
+        },
+        {
+            "original": "  Nay, pursue him now, lest the device take air and taint.  ",
+            "translated": "No, pursue him now, before he exposes the prank and it gets ruined."
+        },
+        {
+            "original": "  Why, we shall make him mad indeed.  ",
+            "translated": "Why, we're really going to make him crazy."
+        },
+        {
+            "original": "  The house will be the quieter.  ",
+            "translated": "The house will be a calmer place for it."
+        },
+        {
+            "original": "   Come, well have him in a dark room and bound. My nieceis already in the belief that hes mad.   We may carry itthus, for our pleasure and his penance, till our very pastime, tired out of breath, prompt us to have mercy onhim,   at which time we will bring the device to the bar and crown thee for a finder of madmen. But see, but see!   ",
+            "translated": "Come, we'll get him into a madhouse soon enough. My niece already thinks that he's crazy. We can take it as far as we want, punishing him and having fun, until we're tired and out of breath from laughing so hard, and then we can have mercy on him and reveal the joke, and crown you, Maria, the prank's mastermind. Come on, come on!"
+        },
+        {
+            "original": "  More matter for a May morning.  ",
+            "translated": "Here's more material for our comedy."
+        },
+        {
+            "original": "   [presenting a paper]  Heres the challenge, read it. Warrant theres vinegar and pepper in t.  ",
+            "translated": "[Presenting a paper]\u00a0Here's my challenge; read it. I promise that it's feisty enough."
+        },
+        {
+            "original": "  Is t so saucy?  ",
+            "translated": "Is it that insulting?"
+        },
+        {
+            "original": "  Ay, is t, I warrant him. Do but read.  ",
+            "translated": "Yes, it is, I promise. Just read it."
+        },
+        {
+            "original": "  Give me.  [reads]  Youth, whatsoever thou art, thou art but a scurvy fellow.  ",
+            "translated": "Give it to me. [Reading]\u00a0\"Youth, whatever you are, you're nothing but a filthy fellow.\""
+        },
+        {
+            "original": "  Good, and valiant.  ",
+            "translated": "Good, and brave."
+        },
+        {
+            "original": "   [reads]  Wonder not, nor admire not in thy mind, why I do call thee so, for I will show thee no reason for t.  ",
+            "translated": "[Reading]\u00a0\"And don't be amazed or ask why I call you that, for I won't give you any reason for it.\""
+        },
+        {
+            "original": "  A good note, that keeps you from the blow of the law.  ",
+            "translated": "Good job, that vagueness will keep you from being accused of slander."
+        },
+        {
+            "original": "    (reads)      Thou comest to the lady Olivia, and in my sight she uses thee kindly.   But thou liest in thy throat. That is not the matter I challenge thee for.   ",
+            "translated": "[Reading]\u00a0\"You came to the lady Olivia, and she was kind to you in front of me. But you lie like a dog. That's not what I'm challenging you about.\""
+        },
+        {
+            "original": "  Very brief, and to exceeding good senseless.  ",
+            "translated": "Very brief, and full of good sense... or nonsense."
+        },
+        {
+            "original": "   [reads]  I will waylay thee going home, where if it be thy chance to kill me  ",
+            "translated": "[Reading]\u00a0\"I will ambush you on your way home, and if you happen to kill me there\""
+        },
+        {
+            "original": "  Good.  ",
+            "translated": "Good."
+        },
+        {
+            "original": "   [reads]  Thou killest me like a rogue and a villain.  ",
+            "translated": "[Reading]\u00a0\"You'll be killing me like a criminal and a villain.\""
+        },
+        {
+            "original": "  Still you keep o' the windy side of the law. Good.  ",
+            "translated": "You're still keeping on the safe side of the law. Good."
+        },
+        {
+            "original": "   [reads]   Fare thee well, and God have mercy upon one of our souls. He may have mercy upon mine, but my hope is better, and so look to thyself.   Thy friend, as thou usest him, and thy sworn enemy,    Andrew Aguecheek    If this letter move him not, his legs cannot. Ill givet him.   ",
+            "translated": "[Reading]\u00a0\"Farewell then, and may God have mercy upon one of our souls. He may have mercy upon mine, but my hope of surviving is better than yours, so watch yourself. Signed, your friend, if you were friendly in return, and your sworn enemy,Andrew Aguecheek\"[To ANDREW]\u00a0If this letter won't make him get up and fight, then his legs must not work. I'll give it to him."
+        },
+        {
+            "original": "  You may have very fit occasion for t. He is now in some commerce with my lady and will by and by depart.  ",
+            "translated": "You have a very convenient opportunity for it. He's doing some business with my lady right now, and he'll be leaving sooner or later."
+        },
+        {
+            "original": "   Go, Sir Andrew. Scout me for him at the corner the orchard like a bum-baily.   So soon as ever thou seest him, draw, and as thou drawest, swear horrible,   for it comes to pass oft that a terrible oath, with a swaggering accent sharply twanged off, gives manhood more approbation than ever proof itself would have earned him. Away!   ",
+            "translated": "Go, Sir Andrew. Look for him in the corner of the garden as if you were a bounty hunter. As soon as you see him, draw your sword, and swear horribly as you draw it. It's often the case that a terrible swear word uttered with an arrogant tone can increase your reputation for courage better than actually fighting would. Now go!"
+        },
+        {
+            "original": "  Nay, let me alone for swearing.  ",
+            "translated": "No, I can't bear to swear."
+        },
+        {
+            "original": "   Now will not I deliver his letter, for the behavior of the young gentleman gives him out to be of good capacityand breeding. His employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth.   He will find it comes from a clodpole. But, sir, I willdeliver his challenge by word of mouth, set upon Aguecheek a notable report of valor, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity.   This will so fright them both that theywill kill one another by the look, like cockatrices.   ",
+            "translated": "Now I won't deliver this letter, for the young gentleman's behavior shows that he is noble and sensible, and his role as a messenger between his lord and my niece confirms this. Therefore this letter, which is so incredibly ignorant, won't frighten him at all. He'll know it came from a fool. But, sir, I will deliver Sir Andrew's challenge by word of mouth. I'll describe him as having a great reputation for bravery, and convince the youth that Sir Andrew is angry, courageous, and skilled with a swordand he'll believe me because he's so young. Then they'll both be so afraid, that when they see each other they'll kill each other with just a look, like basilisks."
+        },
+        {
+            "original": "  Here he comes with your niece. Give them way till he take leave, and presently after him.  ",
+            "translated": "Here comes the youth with your niece. Stay away until he leaves her, and then confront him."
+        },
+        {
+            "original": "  I will meditate the while upon some horrid message for a challenge.  ",
+            "translated": "While I wait I'll come up with some horrible message to be the challenge."
+        },
+        {
+            "original": "   I have said too much unto a heart of stone    And laid mine honor too unchary on t.    Theres something in me that reproves my fault,    But such a headstrong potent fault it is    That it but mocks reproof.   ",
+            "translated": "I've said too much to your heart of stone, and carelessly laid my honor and reputation on that stone. There's something in me that condemns my love, but that love is so willful and powerful that it ignores all condemnation."
+        },
+        {
+            "original": "  With the same 'havior that your passion bearsGoes on my masters grief.  ",
+            "translated": "My master's behavior in his passion for you is the same as yours in your passion for me."
+        },
+        {
+            "original": "   Here, wear this jewel for me. 'Tis my picture.    Refuse it not. It hath no tongue to vex you.    And I beseech you come again tomorrow.    What shall you ask of me that Ill deny,    That honor, saved, may upon asking give?   ",
+            "translated": "Here, wear this locket for me. My picture is inside. Don't refuse it, please. Unlike me, it has no voice to upset you with. And I beg you to come again tomorrow. What could you ask of me that I would deny, as long as I can retain my honor in giving it?"
+        },
+        {
+            "original": "  Nothing but this: your true love for my master.  ",
+            "translated": "Nothing but this: give your true love to my master."
+        },
+        {
+            "original": "  How with mine honor may I give him thatWhich I have given to you?  ",
+            "translated": "How could I keep my honor and \u00a0give him what I have already given to you?"
+        },
+        {
+            "original": "  I will acquit you.  ",
+            "translated": "I will release you from any obligation to me."
+        },
+        {
+            "original": "  Well, come again tomorrow. Fare thee well.A fiend like thee might bear my soul to hell.  ",
+            "translated": "Well, come again tomorrow. Farewell. A devil who wore your face could lead my soul to hell."
+        },
+        {
+            "original": "  Gentleman, God save thee.  ",
+            "translated": "Hello, gentleman."
+        },
+        {
+            "original": "  And you, sir.  ",
+            "translated": "And hello to you, sir."
+        },
+        {
+            "original": "   That defense thou hast, betake thee to t   . Of what nature the wrongs are thou hast done him, I know not, but thy intercepter, full of despite, bloody as the hunter, attends thee at the orchard end.   Dismount thy tuck, be yare in thy preparation, for thy assailant is quick, skillful and deadly.   ",
+            "translated": "Prepare yourself with whatever fighting defenses you have. I don't know what you've done to insult him, but someone is full of defiance and bloodthirstiness towards you, and he waits for you at the end of the garden. Draw your sword and prepare yourself swiftly, for your assailant is quick, skillful, and deadly."
+        },
+        {
+            "original": "  You mistake, sir. I am sure no man hath any quarrel to me. My remembrance is very free and clear from any imageof offense done to any man.  ",
+            "translated": "You must be mistaken, sir. I'm sure no man has any reason to quarrel with me. I can't remember ever offending anyone."
+        },
+        {
+            "original": "   Youll find it otherwise, I assure you.   Therefore, if you hold your life at any price, betake you to your guard,   for your opposite hath in him what youth, strength, skill, and wrath can furnish man withal.   ",
+            "translated": "You'll find the truth to be otherwise, I assure you. So if you value your life at all, be on your guard, for your opponent has all the youth, strength, skill, and anger that God can give to a man."
+        },
+        {
+            "original": "  I pray you, sir, what is he?  ",
+            "translated": "Please, sir, who is he?"
+        },
+        {
+            "original": "   He is knight, dubbed with unhatched rapier and on carpet consideration, but he is a devil in private brawl.   Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre.   Hob, nob, is his word. Give t or take t.   ",
+            "translated": "He is a knight. His sword has never been used in battle, and he was knighted through his court connections rather than his battle skill, but he's a devil when he's fighting a private duel. He's killed three people, and his anger is so great right now that the only thing he'll be satisfied with is seeing you dead and buried. \"Kill or be killed, it doesn't matter\" is his motto."
+        },
+        {
+            "original": "   I will return again into the house and desire some conduct of the lady.   I am no fighter.   I have heard of some kind of men that put quarrels purposely on others, to taste their valor. Belike this is a man of that quirk.   ",
+            "translated": "I'll go back into the house and ask for a protective escort from the lady. I'm no fighter. I've heard of some men who pick fights with people on purpose, just to test their bravery. This man must have that kind of personality."
+        },
+        {
+            "original": "   Sir, no. His indignation derives itself out of a very competent injury. Therefore get you on and give him his desire.   Back you shall not to the house, unless you undertake that with me which with as much safety you might answer him.   Therefore on, or strip your sword stark naked, for meddle you must, thats certain, or forswear to wear iron about you.   ",
+            "translated": "No, sir. His fury comes from a very real insult you gave him. So go ahead and give him what he wants. You won't be allowed to go back into the house unless you want to fight me, and if you're going to do that you might as well fight him instead. So go on to the garden, or else draw your sword right now. There's no way you're going to avoid a fight today, unless you want to give up your title as a gentleman and swear that you'll never carry a sword again."
+        },
+        {
+            "original": "   This is as uncivil as strange.   I beseech you, do me this courteous office, as to know of the knight what my offense to him is.   It is something of my negligence, nothing of my purpose.   ",
+            "translated": "This is as rude as it is strange. I beg you, please do me the favor of asking the knight how I've offended him. It must be something I've done without knowing it, not on purpose."
+        },
+        {
+            "original": "  I will do so. Signior Fabian, stay you by this gentleman till my return.  ",
+            "translated": "I will do so. Sir Fabian, stay with this gentleman until I return."
+        },
+        {
+            "original": "  Pray you, sir, do you know of this matter?  ",
+            "translated": "Please, sir, do you know anything about this matter?"
+        },
+        {
+            "original": "  I know the knight is incensed against you, even to a mortal arbitrament, but nothing of the circumstance more.  ",
+            "translated": "I know the knight is furious with you, even to the degree of wanting a fight to the death, but I don't know any more details."
+        },
+        {
+            "original": "  I beseech you, what manner of man is he?  ",
+            "translated": "Please, what kind of man is he?"
+        },
+        {
+            "original": "   Nothing of that wonderful promise, to read him by his form, as you are like to find him in the proof of his valor.   He is, indeed, sir, the most skillful, bloody, and fatal opposite that you could possibly have found inany part of Illyria.     Will you walk towards him? I will make your peace with him if I can.   ",
+            "translated": "He doesn't look so great from the outside, but in fighting he always proves his bravery. Indeed, sir, he's the most skillful, bloodthirsty, and deadly opponent that you could find in all of Illyria. Will you go see him? I'll try to appease him for you if I can."
+        },
+        {
+            "original": "  I shall be much bound to you for t. I am one that hadrather go with sir priest than sir knight. I care not who knows so much of my mettle.  ",
+            "translated": "I'll be in your debt if you can do it. I'm a man who would rather deal with priests than with knights. I don't care if everyone knows that I'm not brave."
+        },
+        {
+            "original": "   Why, man, hes a very devil. I have not seen such a firago.   I had a pass with him, rapier, scabbard, and all, and he gives me the stuck-in with such a mortal motion, that it is inevitable.   And on the answer, he pays you as surely as your feet hit the ground they stepon.   They say he has been fencer to the Sophy.   ",
+            "translated": "Why, man, he's a real devil. I've never seen such a virago.\u00a0I fought a round with him, with real swords and all, and his thrusts and lunges are so deadly that defeat is inevitable. And when he strikes at you, he'll hit you as surely as your feet hit the ground they're standing on. They say that he used to fence for the Shah of Persia."
+        },
+        {
+            "original": "  Pox on t! Ill not meddle with him.  ",
+            "translated": "Damn my luck! I won't mess with him."
+        },
+        {
+            "original": "  Ay, but he will not now be pacified. Fabian can scarcehold him yonder.  ",
+            "translated": "Yes, but now he can't be calmed down. Fabian can barely keep him from coming over here now."
+        },
+        {
+            "original": "   Plague on t, an I thought he had been valiant and so cunning in fence, Id have seen him damned ere Id have challenged him.   Let him let the matter slip, and Ill give him my horse, gray Capilet.   ",
+            "translated": "Damn it, if I'd known that he was so brave and skilled at fighting, I wouldn't have challenged him in a million years. If he'll forget the whole matter, I'll give him my gray horse Capilet."
+        },
+        {
+            "original": "   Ill make the motion. Stand here, make a good show on t.    This shall end without the perdition of souls.   [aside]   Marry,    Ill ride your horse as well as I ride you.   ",
+            "translated": "I'll make him the offer. Stand here and put on a brave face. We'll end this without anyone dying. [To himself]\u00a0And I'll ride your horse just like I ride you."
+        },
+        {
+            "original": "   [To   FABIAN   ]  I have his horse to take up the quarrel. Ihave persuaded him the youths a devil.  ",
+            "translated": "[To FABIAN]\u00a0He's offered his horse to settle the quarrel. I've persuaded him that the youth's a fighting devil."
+        },
+        {
+            "original": "  He is as horribly conceited of him, and pants and lookspale, as if a bear were at his heels.  ",
+            "translated": "The youth is just as afraid of Sir Andrew. He's pale and gasping, as if a bear were chasing him."
+        },
+        {
+            "original": "    (t      o    VIOLA     )    Theres no remedy, sir; he will fight with you for s oath sake.   Marry, he hath better bethought him of his quarrel, and he finds that now scarce to be worth talking of.   Therefore, draw for the supportance ofhis vow. He protests he will not hurt you.   ",
+            "translated": "[To VIOLA]\u00a0There's nothing to be done, sir; he still wants to fight you just because he swore that he would. But he's reconsidered his reasons for challenging you, and now realizes that they're so insignificant that they're not worth discussing. So draw your sword so that he can fulfill his promise. He promises he won't hurt you."
+        },
+        {
+            "original": "   [aside]  Pray God defend me! A little thing would make me tell them how much I lack of a man.  ",
+            "translated": "[To herself]\u00a0May God defend me! Whatever insignificant insult I committed will now reveal just how unmanly I am."
+        },
+        {
+            "original": "  Give ground, if you see him furious.  ",
+            "translated": "Back off, if you see him get angry."
+        },
+        {
+            "original": "   Come, Sir Andrew, theres no remedy. The gentleman will, for his honors sake, have one bout with you.   He cannot by the duello avoid it.   But he has promised me, as he is a gentleman and a soldier, he will not hurt you. Come on, to t.   ",
+            "translated": "Come, Sir Andrew, there's nothing to be done. The gentleman insists on fighting one round with you for his honor's sake. The rules of dueling say he can't avoid it. But he has promised me, as he is a gentleman and a soldier, that he won't hurt you. Come on, get to it."
+        },
+        {
+            "original": "  Pray God, he keep his oath!  ",
+            "translated": "I pray to God that he keeps his promise!"
+        },
+        {
+            "original": "  I do assure you, tis against my will.  ",
+            "translated": "I assure you, I wish none of this was happening."
+        },
+        {
+            "original": "   Put up your sword. If this young gentleman    Have done offence, I take the fault on me.    If you offend him, I for him defy you.   ",
+            "translated": "Put away your sword. If this young gentleman has offended you, then let the blame pass to me. And if you've offended him, then I'll fight you on his behalf."
+        },
+        {
+            "original": "  You, sir? Why, what are you?  ",
+            "translated": "You, sir? Why, who are you?"
+        },
+        {
+            "original": "  One, sir, that for his love dares yet do moreThan you have heard him brag to you he will.  ",
+            "translated": "I'm his friend, sir, and I would do more to you for his sake than whatever he might have said he would ."
+        },
+        {
+            "original": "  Nay, if you be an undertaker, I am for you.  ",
+            "translated": "Well, if you're someone who accepts challenges, then I'll challenge you."
+        },
+        {
+            "original": "  O good Sir Toby, hold! Here come the officers.  ",
+            "translated": "Oh good Sir Toby, stop! Here come the officers."
+        },
+        {
+            "original": "   [t    o  ANTONIO   ]  Ill be with you anon.  ",
+            "translated": "[To ANTONIO]\u00a0We'll continue this later."
+        },
+        {
+            "original": "   [t    o  ANDREW   ]  Pray, sir, put your sword up, if you please.  ",
+            "translated": "[To ANDREW]\u00a0Please, sir, put away your sword, please."
+        },
+        {
+            "original": "  Marry, will I, sir. And for that I promised you, Ill be as good as my word. He will bear you easily and reinswell.  ",
+            "translated": "I will then, sir. And as for what I promised you, I'll be as good as my word. He is easy to ride, and responds well to the reins."
+        },
+        {
+            "original": "  This is the man. Do thy office.  ",
+            "translated": "This is the man. Do your duty."
+        },
+        {
+            "original": "  Antonio, I arrest thee at the suit of Count Orsino.  ",
+            "translated": "Antonio, I arrest you on the orders of Duke Orsino."
+        },
+        {
+            "original": "  You do mistake me, sir.  ",
+            "translated": "You've mistaken me for someone else, sir."
+        },
+        {
+            "original": "  No, sir, no jot. I know your favor well,Though now you have no sea-cap on your head.Take him away. He knows I know him well.  ",
+            "translated": "No, sir, not a bit. I know your face well, even without a sailor's cap on your head. Take him away. He knows that I've recognized him."
+        },
+        {
+            "original": "   I must obey.    (t      o    VIOLA     )    This comes with seeking you:    But theres no remedy. I shall answer it  .  What will you do, now my necessity    Makes me to ask you for my purse?   It grieves me    Much more for what I cannot do for you    Than what befalls myself.   You stand amazed,    But be of comfort.   ",
+            "translated": "I must obey. [To VIOLA]\u00a0This happened because I was looking for you, but there's nothing to be done now. I'll answer for what I've done. But what will you do, now that I am forced to ask for my purse back? I feel worse about not being able to help you than I do about what's going to happen to me. You look confused, but don't worry about me."
+        },
+        {
+            "original": "  Come, sir, away.  ",
+            "translated": "Come, sir, let's go."
+        },
+        {
+            "original": "   [t    o  VIOLA   ]  I must entreat of you some of that money.  ",
+            "translated": "[To VIOLA]\u00a0I must ask you for some of that money."
+        },
+        {
+            "original": "   What money, sir?    For the fair kindness you have showed me here,    And part being prompted by your present trouble,    Out of my lean and low ability    Ill lend you something.   My having is not much.    Ill make division of my present with you.    Hold, theres half my coffer.    (offering him money)    ",
+            "translated": "What money, sir? I'll lend you what I can to thank you for the kindness you've shown me here, and because I pity your current troubles, but I don't have much. I'll divide my money with you. Here is half of all that I have. [Offering him money]"
+        },
+        {
+            "original": "   Will you deny me now?    Is t possible that my deserts to you    Can lack persuasion?   Do not tempt my misery,    Lest that it make me so unsound a man    As to upbraid you with those kindnesses    That I have done for you.   ",
+            "translated": "Will you really deny that you know me now? Is it possible that all I've done for you can't persuade you to help me? Don't make my misery even worse, or make me so angry that I list out all the kind things I've done for you."
+        },
+        {
+            "original": "   I know of none,    Nor know I you by voice or any feature.    I hate ingratitude more in a man    Than lying, vainness, babbling, drunkenness,    Or any taint of vice whose strong corruption    Inhabits our frail blood   ",
+            "translated": "I don't know of any kind thing you've done, and I don't know your voice or your face. I hate an ungrateful man more than I hate lying, vanity, babbling, drunkenness, or any other sin that corrupts our frail human blood"
+        },
+        {
+            "original": "  O heavens themselves!  ",
+            "translated": "Oh God!"
+        },
+        {
+            "original": "  Come, sir, I pray you, go.  ",
+            "translated": "Come on, sir, please, let's go."
+        },
+        {
+            "original": "   Let me speak a little. This youth that you see here    I snatched one half out of the jaws of death,    Relieved him with such sanctity of love,    And to his image, which methought did promise    Most venerable worth, did I devotion.   ",
+            "translated": "Let me speak a little. This youth that you see hereI snatched him from the jaws of death and nursed him back to health with tenderness and love, and I thought that he seemed so noble and worthy that I totally devoted myself to him."
+        },
+        {
+            "original": "  Whats that to us? The time goes by. Away!  ",
+            "translated": "What do we care about that? You're wasting time. Let's go!"
+        },
+        {
+            "original": "   But oh, how vile an idol proves this god!    Thou hast, Sebastian, done good feature shame.    In nature theres no blemish but the mind.    None can be called deformed but the unkind.    Virtue is beauty, but the beauteous evil    Are empty trunks o'erflourished by the devil.   ",
+            "translated": "But oh, this god turned out to be a false idol! Sebastian, you have shamed your good looks. On the outside you seem perfect, but you are really a deformed monster because of your unkind soul. Virtue is beauty, but someone beautiful and evil is like an empty chest decorated by the devil."
+        },
+        {
+            "original": "  The man grows mad. Away with him. Come, come, sir.  ",
+            "translated": "The man is going mad. Take him away. Come on, come on, sir."
+        },
+        {
+            "original": "  Lead me on.  ",
+            "translated": "Lead me on."
+        },
+        {
+            "original": "   Methinks his words do from such passion fly,    That he believes himself. So do not I.    Prove true, imagination, oh, prove true,    That I, dear brother, be now ta'en for you!   ",
+            "translated": "His words are so passionate that he must believe what he's saying. But I can hardly believe it. Please be true, imagination, oh please be truelet it be true that I've been mistaken for you, my dear brother!"
+        },
+        {
+            "original": "  Come hither, knight. Come hither, Fabian. Well whispero'er a couplet or two of most sage saws.  ",
+            "translated": "Come here, Sir Andrew. Come here, Fabian. We'll whisper together about some wise sayings."
+        },
+        {
+            "original": "   He named Sebastian. I my brother know    Yet living in my glass.   Even such and so    In favor was my brother, and he went    Still in this fashion, color, ornament,    For him I imitate.   Oh, if it prove,    Tempests are kind and salt waves fresh in love!   ",
+            "translated": "He called me Sebastian. I have seen my brother when I look in my mirror. My brother looked like me, and now I'm dressed as he used to dress, in the same fashion, colors, and with the same accessoriesbecause I imitated him in my disguise. Oh, if it's true, then storms are kind and the ocean is full of love!"
+        },
+        {
+            "original": "   A very dishonest paltry boy, and more a coward than a hare.   His dishonesty appears in leaving his friend here in necessity and denying him.   And for his cowardship, ask Fabian.   ",
+            "translated": "What a dishonorable, puny boy, and more cowardly than a rabbit. He shows his dishonesty in abandoning his friend in his time of need, and denying that he even knew him. And as for his cowardice, ask Fabian."
+        },
+        {
+            "original": "  A coward, a most devout coward, religious in it.  ",
+            "translated": "He's a coward, a true coward, religiously devoted to his cowardice."
+        },
+        {
+            "original": "  'Slid, Ill after him again and beat him.  ",
+            "translated": "By God's eyelid, I'll go after him again and fight him."
+        },
+        {
+            "original": "  Do, cuff him soundly, but never draw thy sword.  ",
+            "translated": "Please do, beat him up well, but don't draw your sword."
+        },
+        {
+            "original": "  An I do not  ",
+            "translated": "And if I don't"
+        },
+        {
+            "original": "  Come, lets see the event.  ",
+            "translated": "Come, let's go see what will happen."
+        },
+        {
+            "original": "  I dare lay any money twill be nothing yet.  ",
+            "translated": "I'll bet any money that nothing will happenstill."
+        }
+    ]
+}

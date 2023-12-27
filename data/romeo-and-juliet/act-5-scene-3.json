@@ -1,0 +1,284 @@
+{
+    "dialogs": [
+        {
+            "original": "  Give me thy torch, boy. Hence, and stand aloof.Yet put it out, for I would not be seen.  ",
+            "translated": "Give me your torch, boy. Now go and stand far away from me. Actually, put out the torch out so no one can see me."
+        },
+        {
+            "original": "   Under yon yew trees lay thee all along,    Holding thine ear close to the hollow ground    So shall no foot upon the churchyard tread,    Being loose, unfirm, with digging up of graves,    But thou shalt hear it.   Whistle then to me,    As signal that thou hearst something approach.    Give me those flowers. Do as I bid thee, go.   ",
+            "translated": "Hide under the yew-trees over there, and put your ear against the ground so that youll hear anyone walking through the graveyard. If you hear someone approach, signal me with a whistle. Give me those flowers. Do as I tell you. Go."
+        },
+        {
+            "original": "   [Aside]  I am almost afraid to stand aloneHere in the churchyard. Yet I will adventure.  ",
+            "translated": "[To himself] I am almost afraid to stand here alone in the graveyard, but Ill do it."
+        },
+        {
+            "original": "   [Scatters flowers around JULIETS closed tomb]    Sweet flower, with flowers thy bridal bed I strew    O woe! Thy canopy is dust and stones    Which with sweet water nightly I will dew.    Or, wanting that, with tears distilled by moans,    The obsequies that I for thee will keep    Nightly shall be to strew thy grave and weep.   ",
+            "translated": "[Scattering flowers at the door of JULIETs closed tomb] Sweet flower, Im covering your bridal bed with flowers. Oh, misery! The canopy of your bed is dust and stones. Each night Ill water these flowers. Or, if I dont do that, the ritual I will keep for you each night will be to put flowers on your grave and weep."
+        },
+        {
+            "original": "  The boy gives warning something doth approach.What curs\u00e8d foot wanders this way tonightTo cross my obsequies and true loves rite?  ",
+            "translated": "The boy warns that someone is approaching. What cursed person would be wandering out here tonight, interfering with my rituals of true love?\u00a0"
+        },
+        {
+            "original": "  What with a torch! Muffle me, night, awhile.  ",
+            "translated": "Whoever it is is carrying a torch! Ill hide in the darkness for a while."
+        },
+        {
+            "original": "   Give me that mattock and the wrenching iron.    [Takes them from BALTHASAR]    Hold, take this letter. Early in the morning    See thou deliver it to my lord and father.    [Gives letter to BALTHASAR]    Give me the light.    [Takes torch from BALTHASAR]    Upon thy life I charge thee,    Whateer thou hearst or seest, stand all aloof,    And do not interrupt me in my course.    Why I descend into this bed of death    Is partly to behold my ladys face,    But chiefly to take thence from her dead finger    A precious ring, a ring that I must use    In dear employment.   Therefore hence, be gone.    But if thou, jealous, dost return to pry    In what I farther shall intend to do,    By heaven, I will tear thee joint by joint    And strew this hungry churchyard with thy limbs.    The time and my intents are savage, wild,    More fierce and more inexorable far    Than empty tigers or the roaring sea.   ",
+            "translated": "Give me the pickax and the crowbar. [He takes them from BALTHASAR] Now, take this letter. Deliver it to my father early in the morning. [He gives the letter to BALTHASAR] Give me the torch. [He takes the torch from BALTHASAR] By your life, I command that no matter what you hear or see, you stay away, and do not interrupt me in my actions. Im going to go down into this tomb in part to look upon my wifes face, but more importantly, to take a precious ring from her dead finger. I must use the ring for urgent business. So go, get out of here. And if you get suspicious and return to spy on what Im doing, I swear Ill tear you limb from limb and throw your body parts around this graveyard, which is so hungry for death. The times, and my plan, are wild and savage, and I am more fierce and unstoppable than a hungry tiger or the raging sea."
+        },
+        {
+            "original": "  I will be gone, sir, and not trouble you.  ",
+            "translated": "Ill go, sir, and not interfere."
+        },
+        {
+            "original": "  So shalt thou show me friendship. Take thou that.  [He gives BALTHASAR money]  Live and be prosperous, and farewell, good fellow.  ",
+            "translated": "Thats how you will show me friendship. Take this. [He gives BALTHASAR money] Live and be prosperous. Farewell, good fellow."
+        },
+        {
+            "original": "   [Aside]  For all this same, Ill hide me hereabout. His looks I fear, and his intents I doubt.  ",
+            "translated": "[To himself] Despite everything I just said, Ill hide nearby. The look on his face makes me nervous, and I have doubts about his story of what he plans to do."
+        },
+        {
+            "original": "   Thou detestable maw, thou womb of death,    Gorged with the dearest morsel of the earth,    Thus I enforce thy rotten jaws to open,    And in despite Ill cram thee with more food!    [Begins to opens the tomb with his tools]   ",
+            "translated": "[Speaking to the door of the tomb] You hateful mouth, you womb of death. Youve feasted on the most precious girl on earth. So now Im going to force open your rotten jaws and cram more food into you. [ROMEO begins to open the tomb with his tools]"
+        },
+        {
+            "original": "   [Aside]   This is that banished haughty Montague,    That murdered my loves cousin, with which grief,    It is supposed the fair creature died.    And here is come to do some villainous shame    To the dead bodies. I will apprehend him.    [To ROMEO]   Stop thy unhallowed toil, vile Montague!    Can vengeance be pursued further than death?    Condemn\u00e8d villain, I do apprehend thee.    Obey and go with me, for thou must die.   ",
+            "translated": "[To himself] Its that arrogant Montague who was banished. Hes the one who murdered my loves cousin Tybalt, which caused Juliet the grief that they think killed her. And here hes come to do something terrible and shameful to the dead bodies. Ill arrest him.\u00a0"
+        },
+        {
+            "original": "   I must indeed, and therefore came I hither.    Good gentle youth, tempt not a desperate man.    Fly hence and leave me. Think upon these gone.    Let them affright thee.   I beseech thee, youth,    Put not another sin upon my head    By urging me to fury. O, be gone!    By heaven, I love thee better than myself,    For I come hither armed against myself.    Stay not, be gone. Live, and hereafter say    A madmans mercy bid thee run away.   ",
+            "translated": "Indeed, I must die, which is why I came here. Good and noble young man, dont tempt a desperate man. Run from here and leave me alone. Think about the dead who rest here. Let them terrify you. I beg you, young man, dont make me so angry that I have to add another sin to those I already have committed. Oh, get out of here! I swear by God, I love you more than I love myself. For Ive come here with weapons to use against myself. Dont stay here, go away. Live, and afterwards say that a merciful madman told you to run away."
+        },
+        {
+            "original": "  I do defy thy comminationAnd apprehend thee for a felon here.  ",
+            "translated": "I defy your threats. Im arresting you as a criminal."
+        },
+        {
+            "original": "  Wilt thou provoke me? Then have at thee, boy!  ",
+            "translated": "You're really provoking me? Then lets fight, boy!"
+        },
+        {
+            "original": "  O Lord, they fight! I will go call the watch.  ",
+            "translated": "Oh Lord, theyre fighting! Ill go call the watch."
+        },
+        {
+            "original": "   [Falls]  Oh, I am slain! If thou be merciful, Open the tomb. Lay me with Juliet.  ",
+            "translated": "[He falls] Oh, Ive been killed! If you are merciful, open the tomb and lay me next to Juliet.\n"
+        },
+        {
+            "original": "   In faith, I will.Let me peruse this face.    Mercutios kinsman, noble County Paris.    What said my man, when my betoss\u00e8d soul    Did not attend him as we rode? I think    He told me Paris should have married Juliet.    Said he not so? Or did I dream it so?    Or am I mad, hearing him talk of Juliet,    To think it was so?   O, give me thy hand,    One writ with me in sour misfortunes book.    Ill bury thee in a triumphant grave.    [ROMEO opens the tomb to reveal JULIET inside]    A grave? Oh, no. A lantern, slaughtered youth,    For here lies Juliet, and her beauty makes    This vault a feasting presence full of light.    Death, lie thou there, by a dead man interred.    [Lays PARIS in the tomb]    How oft when men are at the point of death    Have they been merry, which their keepers call    A lightning before death! Oh, how may I    Call this a lightning?O my love, my wife!    Death, that hath sucked the honey of thy breath,    Hath had no power yet upon thy beauty.    Thou art not conquered.   Beautys ensign yet    Is crimson in thy lips and in thy cheeks,    And deaths pale flag is not advanc\u00e8d there.    Tybalt, liest thou there in thy bloody sheet?    O, what more favor can I do to thee,    Than with that hand that cut thy youth in twain    To sunder his that was thine enemy?    Forgive me, cousin.   Ah, dear Juliet,    Why art thou yet so fair? Shall I believe    That unsubstantial death is amorous,    And that the lean abhorr\u00e8d monster keeps    Thee here in dark to be his paramour?    For fear of that, I still will stay with thee,    And never from this palace of dim night    Depart again. Here, here will I remain    With worms that are thy chamber maids.   Oh, here    Will I set up my everlasting rest,    And shake the yoke of inauspicious stars    From this world-wearied flesh.   Eyes, look your last.    Arms, take your last embrace. And, lips, O you    The doors of breath, seal with a righteous kiss    A dateless bargain to engrossing death.    [Kisses JULIET, takes out the poison]    Come, bitter conduct, come, unsavoury guide.    Thou desperate pilot, now at once run on    The dashing rocks thy seasick, weary bark.    Heres to my love!   [Drinks the poison]   O true apothecary,    Thy drugs are quick. Thus with a kiss I die.   ",
+            "translated": "I promise, I will. Let me look at this face. Its Mercutios relative, noble Count Paris. What did my servant tell me while we were riding here? I was so upset I wasnt paying attention to him. I think he told me Paris was supposed to marry Juliet. Isnt that what he said? Or was I dreaming? Or am I crazy and, hearing him say something about Juliet, I jumped to the wrong conclusion? [Speaking to Paris body] Oh, give me your hand. You and I both had equal measures of bad fortune! Ill bury you in a magnificent grave. [ROMEO opens the tomb to reveal JULIET inside] A grave? No! It is a cupola atop a tower, my dead young man. Juliet lies here, and her beauty fills this tomb like a festival chamber full of light. Dead man, lie down right thereanother dead man is burying you. [ROMEO lays PARIS in the tomb] Men are often happy just before their death. Their nurses call it the lightness before death. Oh, how can I call this lightness? Oh, my love, my wife! Though death has sucked the honey from your breath, it has not yet had the power to ruin your beauty. You are not conquered. A beautiful banner of red still lingers on your lips and cheeks. The paleness of death has not yet reached them. Tybalt, are you lying there in your bloody shroud? Oh, what better favor can I do for you than to use the hand that cut short your youth to kill your murderer. Forgive me, cousin! Ah, dear Juliet, why are you still so beautiful? Should I believe that death itself loves you, and that the hungry, hated monster keeps you here in the dark to be his lover? To make sure that doesnt happen, Ill stay with you forever and never again leave this dark tomb. Here, here Ill remain with the worms that are your chamber-maids. Oh, Ill rest here forever and escape the control of the bad fortune that has plagued my body. Eyes, see for the last time! Arms, make your last embrace! And lips, you doors of breath, seal with a righteous kiss the infinite deal I have made with death. [ROMEO kisses JULIET and takes out the poison] Come, bitter transport. Come, unpleasant guide! You desperate pilot, crash this seasick and weary ship into the rocks. Heres to my love! [He drinks the poison] Oh, honest pharmacist, your drugs work quickly. With this kiss, I die."
+        },
+        {
+            "original": "  Saint Francis be my speed! How oft tonightHave my old feet stumbled at graves!Whos there?  ",
+            "translated": "Saint Francis, speed my steps! How often tonight have my old feet stumbled on gravestones! Whos there?"
+        },
+        {
+            "original": "  Heres one, a friend, and one that knows you well.  ",
+            "translated": "I am a friend who knows you well."
+        },
+        {
+            "original": "   Bliss be upon you! Tell me, good my friend,    What torch is yond that vainly lends his light    To grubs and eyeless skulls?   As I discern,    It burneth in the Capels monument.   ",
+            "translated": "God bless you! Good friend, tell me why that torch is lying over there for no good reason? It's offering its light to no one but worms and eyeless skulls. As far as I can tell, it seems to be burning in the Capulet tomb."
+        },
+        {
+            "original": "  It doth so, holy sir, and theres my master,One that you love.  ",
+            "translated": "Holy father, it is there along with my master, whom you love."
+        },
+        {
+            "original": "  Who is it?  ",
+            "translated": "Who is it?"
+        },
+        {
+            "original": "  Romeo.  ",
+            "translated": "Romeo."
+        },
+        {
+            "original": "  How long hath he been there?  ",
+            "translated": "How long has he been there?"
+        },
+        {
+            "original": "  Full half an hour.  ",
+            "translated": "For a full half hour."
+        },
+        {
+            "original": "  Go with me to the vault.  ",
+            "translated": "Go with me to the tomb."
+        },
+        {
+            "original": "   I dare not, sir.    My master knows not but I am gone hence,    And fearfully did menace me with death    If I did stay to look on his intents.   ",
+            "translated": "I dont dare, sir. My master thinks Ive gone from here. He threatened to kill me if I stayed to watch his actions."
+        },
+        {
+            "original": "  Stay, then. Ill go alone. Fear comes upon me.Oh, much I fear some ill unthrifty thing.  ",
+            "translated": "Stay, then. Ill go alone. Now Im frightened. Oh, Im very worried something terrible and unfortunate has happened."
+        },
+        {
+            "original": "  As I did sleep under this yew tree here,I dreamt my master and another fought,And that my master slew him.  ",
+            "translated": "As I slept under this yew-tree, I dreamed that my master fought someone else, and that my master killed him."
+        },
+        {
+            "original": "   [Approaches the tomb]    Romeo!    Alack, alack, what blood is this, which stains    The stony entrance of the sepulcher?    What mean these masterless and gory swords    To lie discolored by this place of peace?    [Looks inside the tomb]    Romeo! O, pale!Who else? What, Paris too?    And steeped in blood?Ah, what an unkind hour    Is guilty of this lamentable chance!    The lady stirs.   ",
+            "translated": "[Approaching the tomb] Romeo! Oh no! Whats this blood staining the stony entrance of this tomb? Why are these swordsdiscolored by gore and bloodlying abandoned here, in this place of peace? [He looks inside the tomb] Romeo! Oh, hes pale! Who else? What, Paris too? And covered in blood? Ah, during what cruel hour did this sad turn of events occur? The lady moves."
+        },
+        {
+            "original": "   O comfortable Friar! Where is my lord?    I do remember well where I should be,    And there I am.   Where is my Romeo?   ",
+            "translated": "Oh comforting friar! Where is my husband? I remember well where I should be, and here I am. Where is my Romeo?"
+        },
+        {
+            "original": "   I hear some noise. Lady, come from that nest    Of death, contagion, and unnatural sleep.    A greater power than we can contradict    Hath thwarted our intents.   Come, come away.    Thy husband in thy bosom there lies dead,    And Paris too. Come, Ill dispose of thee    Among a sisterhood of holy nuns.    Stay not to question, for the watch is coming.    Come, go, good Juliet. I dare no longer stay.    ",
+            "translated": "I hear a noise. Lady, come with me from this tomb of death, sickness, and unnatural sleep. A power greater than us has ruined our plans. Come, come away. Your husband lies dead, resting against your chest. Paris is dead too. Come, Ill bring you to join a sisterhood of holy nuns. Dont wait here asking questions. The watch is coming. Come, come with me, good Juliet. I dare not stay any longer."
+        },
+        {
+            "original": "   Go, get thee hence, for I will not away.    Whats here? A cup, closed in my true loves hand?    Poison, I see, hath been his timeless end.    O churl, drunk all, and left no friendly drop    To help me after? I will kiss thy lips.    Haply some poison yet doth hang on them,    To make me die with a restorative.    [Kisses ROMEO]    Thy lips are warm.   ",
+            "translated": "Go, go away. Im not leaving.Whats this? A cup, held in my true loves hand? I see poison has caused his death. How selfish, drinking it all, not leaving a drop to help me follow after you. Ill kiss your lips. Maybe Ill be lucky and theres still some poison on your lips, a bit of medicine that will return me to my Romeo. [She kisses ROMEO] Your lips are warm."
+        },
+        {
+            "original": "   [To PAGE]  Lead, boy. Which way?  ",
+            "translated": "[To the PAGE] Lead on, boy. Which way?"
+        },
+        {
+            "original": "  Yea, noise? Then Ill be brief. O happy dagger,This is thy sheath. There rust and let me die.  [Stabs herself with ROMEOs dagger and dies]   ",
+            "translated": "What's that noise? Ill act fast. Oh, what luck: heres a dagger! Ill be your sheath. Rust inside my body, and let me die. [She stabs herself with ROMEOs dagger and dies]"
+        },
+        {
+            "original": "  This is the place. There, where the torch doth burn.  ",
+            "translated": "This is the place. There, where that torch is burning."
+        },
+        {
+            "original": "  The ground is bloody.Search about the churchyard.Go, some of you. Whoeer you find, attach.  ",
+            "translated": "The ground is bloody. Search the graveyard. Go, a few of you, and arrest anyone you find."
+        },
+        {
+            "original": "   Pitiful sight! Here lies the county slain,    And Juliet bleeding, warm and newly dead,    Who here hath lain these two days buried.    Go, tell the Prince. Run to the Capulets.    Raise up the Montagues.    Some others search.   ",
+            "translated": "What a pitiful sight! The count lies here, dead. And Juliet is bleeding. Her body is still warm even though she has been dead and buried for the last two days. Go, tell the Prince. Run to the Capulets. Wake up the Montagues. Have some others search."
+        },
+        {
+            "original": "  We see the ground whereon these woes do lie,But the true ground of all these piteous woesWe cannot without circumstance descry.  ",
+            "translated": "We see the ground on which these bodies lie, but we wont be able to figure out the true cause of all these awful events without an investigation."
+        },
+        {
+            "original": "  Heres Romeos man. We found him in the churchyard.  ",
+            "translated": "Heres Romeos servant. We found him in the churchyard."
+        },
+        {
+            "original": "  Hold him in safety till the Prince come hither.  ",
+            "translated": "Hold him securely until the Prince arrives."
+        },
+        {
+            "original": "  Here is a friar that trembles, sighs and weeps.We took this mattock and this spade from him As he was coming from this churchyards side.  ",
+            "translated": "Heres a friar whos trembling, sighing, and weeping. We took this pickax and this shovel from him as he was leaving the graveyard."
+        },
+        {
+            "original": "  A great suspicion. Stay the friar too.  ",
+            "translated": "Very suspicious. Hold the friar too."
+        },
+        {
+            "original": "  What misadventure is so early upThat calls our person from our morning rest?  ",
+            "translated": "What disaster has occurred so early in the morning that it forces me from my bed?"
+        },
+        {
+            "original": "  What should it be, that they shriek so abroad?  ",
+            "translated": "What has happened to cause everyone to start shrieking?"
+        },
+        {
+            "original": "  Oh, the people in the street cry Romeo,Some Juliet, and some Paris, and all runWith open outcry toward our monument.  ",
+            "translated": "Some people in the street are crying Romeo. Others cry Juliet, and still others Paris. Theyre all running and screaming towards our tomb."
+        },
+        {
+            "original": "  What fear is this which startles in our ears?  ",
+            "translated": "What terror has occurred to result in all this startling noise?"
+        },
+        {
+            "original": "  Sovereign, here lies the County Paris slain, And Romeo dead, and Juliet, dead before,Warm and new killed.  ",
+            "translated": "Prince, here lies Count Paris, killed. And Romeo dead. And Juliet, who was dead before, but is warm like someone newly killed."
+        },
+        {
+            "original": "  Search, seek, and know how this foul murder comes.  ",
+            "translated": "Find out how this foul murder came to happen."
+        },
+        {
+            "original": "  Here is a friar, and slaughtered Romeos man,With instruments upon them fit to open These dead mens tombs.  ",
+            "translated": "Here is a friar, and dead Romeos servant. Theyre carrying tools for opening a tomb."
+        },
+        {
+            "original": "   O heavens! O wife, look how our daughter bleeds!    This dagger hath mistaen   for, lo, his house    Is empty on the back of Montague,    And it mis-sheath\u00e8d in my daughters bosom.   ",
+            "translated": "Oh heavens! Oh, wife, look at how our daughter bleeds! That dagger is in the wrong place. It should be in the empty sheath on the back of that Montague, but instead is misplaced, sheathed in my daughters chest."
+        },
+        {
+            "original": "  O me! This sight of death is as a bell,That warns my old age to a sepulcher.  ",
+            "translated": "Woe is me! Seeing my daughter dead is like a warning bell of my own imminent death."
+        },
+        {
+            "original": "  Come, Montague, for thou art early upTo see thy son and heir now early down.  ",
+            "translated": "Come, Montague. Youre up early to see your son and heir killed at too young an age."
+        },
+        {
+            "original": "  Alas, my liege, my wife is dead tonight. Grief of my sons exile hath stopped her breath.What further woe conspires against mine age?  ",
+            "translated": "My liege, my wife died tonight. Her sadness about my sons exile stopped her breath. What further misery must I endure in my old age?"
+        },
+        {
+            "original": "  Look, and thou shalt see.  ",
+            "translated": "Look, and youll see."
+        },
+        {
+            "original": "   [To ROMEO]  O thou untaught! What manners is in this,To press before thy father to a grave?  ",
+            "translated": "[Seeing ROMEOs body] Oh, you rude boy! What terrible manners to die before your father."
+        },
+        {
+            "original": "   Seal up the mouth of outrage for a while,    Till we can clear these ambiguities    And know their spring, their head, their true descent,    And then will I be general of your woes,    And lead you even to death.   Meantime forbear,    And let mischance be slave to patience.    Bring forth the parties of suspicion.   ",
+            "translated": "Quiet your outrage for a time, until we can clear up the remaining uncertainties about the cause of all this. Once we do know what happened, I will lead you in expressing our pain, all the way to our deaths. In the meantime, hold on, and let your patience control your desire to act. Bring forth the men under suspicion."
+        },
+        {
+            "original": "   I am the greatest, able to do least,    Yet most suspected, as the time and place    Doth make against me, of this direful murder.    And here I stand, both to impeach and purge,    Myself condemn\u00e8d and myself excused.   ",
+            "translated": "I am the most suspected, and least able to defend myself, because I was here at the time of this terrible murder. Here I stand, to be questioned and punished. I have already condemned myself."
+        },
+        {
+            "original": "  Then say at once what thou dost know in this.  ",
+            "translated": "Then tell us immediately what you know about all this."
+        },
+        {
+            "original": "   I will be brief, for my short date of breath    Is not so long as is a tedious tale.    Romeo, there dead, was husband to that Juliet,    And she, there dead, that Romeos faithful wife.    I married them, and their stoln marriage day    Was Tybalts doomsday, whose untimely death    Banished the new-made bridegroom from the city    For whom, and not for Tybalt, Juliet pined.    You, to remove that siege of grief from her,    Betrothed and would have married her perforce    To County Paris. Then comes she to me,    And with wild looks bid me devise some mean    To rid her from this second marriage,    Or in my cell there would she kill herself.    Then gave I her, so tutored by my art,    A sleeping potion, which so took effect    As I intended, for it wrought on her    The form of death.    Meantime I writ to Romeo,    That he should hither come as this dire night,    To help to take her from her borrowed grave,    Being the time the potions force should cease.    But he which bore my letter, Friar John,    Was stayed by accident, and yesternight    Returned my letter back. Then all alone    At the prefix\u00e8d hour of her waking    Came I to take her from her kindreds vault,    Meaning to keep her closely at my cell    Till I conveniently could send to Romeo,    But when I came, some minute ere the time    Of her awakening, here untimely lay    The noble Paris and true Romeo dead.    She wakes, and I entreated her come forth,    And bear this work of heaven with patience.    But then a noise did scare me from the tomb,    And she, too desperate, would not go with me,    But, as it seems, did violence on herself.    All this I know, and to the marriage    Her Nurse is privy.   And if aught in this    Miscarried by my fault, let my old life    Be sacrificed some hour before his time    Unto the rigor of severest law.   ",
+            "translated": "Ill be brief, because the time I have left to live is not long enough to tell a long story. Romeo, who lies there dead, was Juliets husband. And she, who lies there dead, was Romeos faithful wife. I married them. Their secret wedding day was the same day Tybalt died. His untimely death led to the banishment of the bridegroom. Juliet was distraught not over Tybalts death, but rather over Romeos banishment. To end her grief, you arranged for her to marry Count Paris. At that point she came to me, and, looking wild, threatened to kill herself unless I came up with a plan to help her escape this second marriage. Then I gave her a special sleeping potion that, as I had planned, made it seem as if she had died. Meanwhile, I wrote to Romeo to tell him to come here tonight, this awful night, to help get her out of her temporary grave when the sleeping potion wore off. But the man who carried my letter, Friar John, was stopped by an accident, and returned my letter to me last night. So at the time when Juliet was scheduled to wake up, I came here alone to take her out of her familys tomb. My plan was to hide her in my cell until I could get word to Romeo. But when I arrived, just a few minutes before Juliet awoke, Paris and Romeo were already here, lying dead. She woke up, and I begged her to come out of the tomb with me and bear this work of God with patience. But then a noise frightened me, and I ran from the tomb. She was too desperate to leave with me, and, it seems, she killed herself. I know all of this. And her Nurse knows about the marriage. If any of this misfortune is my fault, let me be sacrificed and punished under the strictest law."
+        },
+        {
+            "original": "  We still have known thee for a holy man. Wheres Romeos man? What can he say in this?  ",
+            "translated": "We have always known you to be a holy man. Where is Romeos servant? What does he say about all this?"
+        },
+        {
+            "original": "   I brought my master news of Juliets death,    And then in post he came from Mantua    To this same place, to this same monument.    [Shows a letter]   This letter he early bid me give his father,    And threatened me with death, going in the vault,    If I departed not and left him there.   ",
+            "translated": "I brought my master news of Juliets death. And then with great haste he rode from Mantua to this tomb. [He shows a letter] Early this morning he told me to give this letter to his father. Then he threatened to kill me if I did not leave when he went into the tomb."
+        },
+        {
+            "original": "  Give me the letter. I will look on it.  [Takes letter from BALTHASAR]  Where is the countys page, that raised the watch?Sirrah, what made your master in this place?  ",
+            "translated": "Give me the letter. Ill read it. [He takes the letter from BALTHASAR] Where is the counts page, who called the watch? Boy, what was your master doing here?"
+        },
+        {
+            "original": "   He came with flowers to strew his ladys grave,    And bid me stand aloof, and so I did.    Anon comes one with light to ope the tomb,    And by and by my master drew on him,    And then I ran away to call the watch.   ",
+            "translated": "He came with flowers to put on his ladys grave. He asked me to stand apart from him, and so I did. Soon after someone with a torch came to open the tomb. One thing led to another, and my master drew his sword to fight him. Thats when I ran away to call the watch."
+        },
+        {
+            "original": "   [Skims the letter]   This letter doth make good the friars words,    Their course of love, the tidings of her death.    And here he writes that he did buy a poison    Of a poor pothecary, and therewithal    Came to this vault to die and lie with Juliet.    Where be these enemies?Capulet! Montague!    See what a scourge is laid upon your hate,    That heaven finds means to kill your joys with love!    And I, for winking at your discords, too    Have lost a brace of kinsmen. All are punished.   ",
+            "translated": "[He skims the letter] This letter corroborates the friars story. It describes the course of their love and how he heard of her death. Then he writes that he bought poison from a poor pharmacist and came to this tomb to die and lie with Juliet. Where are these enemies? Capulet! Montague! Do you see how your hate has cursed you? Heaven has in response conspired to kill your joys with love. And because I did not take a firm hand against your feud, Ive lost two of my family members as well. Everyone is punished."
+        },
+        {
+            "original": "  O brother Montague, give me thy hand.This is my daughters jointure, for no moreCan I demand.  ",
+            "translated": "Oh, brother Montague, give me your hand. This handshake is my daughters dowry. I can ask you for nothing more."
+        },
+        {
+            "original": "   But I can give thee more,    For I will raise her statue in pure gold,    That whiles Verona by that name is known,    There shall no figure at such rate be set    As that of true and faithful Juliet.   ",
+            "translated": "But I can give you more. Ill raise a golden statue of her. So long as this city is called Verona, there will be no figure praised more than that of true and faithful Juliet."
+        },
+        {
+            "original": "  As rich shall Romeos by his ladys lie,Poor sacrifices of our enmity.  ",
+            "translated": "The statue of Romeo Ill make to lie beside Juliet will be just as rich. Our hate was not worth their sacrifice."
+        },
+        {
+            "original": "   A glooming peace this morning with it brings.    The sun for sorrow will not show his head.    Go hence, to have more talk of these sad things;    Some shall be pardoned, and some punish\u00e8d;    For never was a story of more woe    Than this of Juliet and her Romeo.   ",
+            "translated": "This morning brings a gloomy peace with it. The sun won't shine because of his sadness. Go forward, to talk more about these sad things. Some will be pardoned, and some will be punished. For there was never a sadder story than this one of Juliet and her Romeo."
+        }
+    ]
+}

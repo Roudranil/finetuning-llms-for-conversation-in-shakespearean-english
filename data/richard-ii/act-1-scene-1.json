@@ -1,0 +1,120 @@
+{
+    "dialogs": [
+        {
+            "original": "   Old John of Gaunt, time-honour'd Lancaster,    Hast thou, according to thy oath and band,    Brought hither Henry Hereford thy bold son,    Here to make good the boisterous late appeal,    Which then our leisure would not let us hear,    Against the Duke of Norfolk, Thomas Mowbray?   ",
+            "translated": "OId John of Gaunt, well-respected Lancaster\u00a0: have you, according to your promise and duty, brought here your presumptuous son Henry Hereford to explain his case against the Duke of Norfolk, Thomas Mowbray, which at the time we didn't have time to hear?"
+        },
+        {
+            "original": "  I have, my liege.  ",
+            "translated": "I have, my liege."
+        },
+        {
+            "original": "   Tell me, moreover, hast thou sounded him,    If he appeal the duke on ancient malice;    Or worthily, as a good subject should,    On some known ground of treachery in him?   ",
+            "translated": "Tell me, furthermore: have you asked him whether he accuses the duke because he has a grudge against him, or becauselike a good subjecthe has reason to suspect him of disloyalty?"
+        },
+        {
+            "original": "   As near as I could sift him on that argument,    On some apparent danger seen in him    Aim'd at your highness,     no inveterate malice.   ",
+            "translated": "As much as I could gather, he accuses the duke because he thinks he poses a threat to your highness, not for personal reasons.\u00a0"
+        },
+        {
+            "original": "   Then call them to our presence;     face to face,    And frowning brow to brow, ourselves will hear    The accuser and the accused freely speak   :    High-stomach'd are they both, and full of ire,    In rage deaf as the sea, hasty as fire.   ",
+            "translated": "Then bring them before us: we will hear the accuser and the accused make their case, face to face. They're both proud men, full of anger, and their rage makes them too hasty and quick to take offense.\u00a0"
+        },
+        {
+            "original": "  Many years of happy days befalMy gracious sovereign, my most loving liege!  ",
+            "translated": "May you reign many years in happiness, my gracious King, my most loving lord!\u00a0"
+        },
+        {
+            "original": "   Each day still better other's happiness   ;    Until the heavens, envying earth's good hap,    Add an immortal title to your crown!   ",
+            "translated": "May each day be happier than the one that came before, until heaven, jealous of earth's good fortune in having such a king, gives you an immortal crown after death.\u00a0"
+        },
+        {
+            "original": "   We thank you both: yet one but flatters us,    As well appeareth by the cause you come;    Namely to appeal each other of high treason.    Cousin of Hereford, what dost thou object    Against the Duke of Norfolk, Thomas Mowbray?   ",
+            "translated": "We thank you both: yet one merely flatters us, since you come to accuse one another of high treason. Cousin of Hereford, what is your accusation against the Duke of Norfolk, Thomas Mowbray?"
+        },
+        {
+            "original": "   First, heaven be the record to my speech!    In the devotion of a subject's love,    Tendering the precious safety of my prince,    And free from other misbegotten hate,    Come I appellant to this princely presence.    Now, Thomas Mowbray, do I turn to thee,    And mark my greeting well; for what I speak    My body shall make good upon this earth,    Or my divine soul answer it in heaven.    Thou art a traitor and a miscreant,    Too good to be so and too bad to live,    Since the more fair and crystal is the sky,    The uglier seem the clouds that in it fly.    Once more, the more to aggravate the note,    With a foul traitor's name stuff I thy throat;    And wish, so please my sovereign, ere I move,    What my tongue speaks my right drawn sword may prove.   ",
+            "translated": "First, let heaven witness my speech! I swear that I make this accusation as a devoted subject, concerned for the precious safety of my prince, and free from any other grudge or personal motive. Now, Thomas Mowbray, I turn to you, and listen closely; for what I speak, I'll prove true while I live, or my soul will answer for it in heaven. You are a traitor and a villain, too good to be so and too bad to live, since the brighter and clearer the sky, the uglier it looks when clouds fill it. Once more (the more to make my point), I throw the name of \"foul traitor\" back down your throat; and wishif it pleased my sovereignthat before I go, I might prove what I say with my sword.\u00a0"
+        },
+        {
+            "original": "   Let not my cold words here accuse my zeal:    'Tis not the trial of a woman's war,    The bitter clamour of two eager tongues,    Can arbitrate this cause betwixt us twain;    The blood is hot that must be cool'd for this:    Yet can I not of such tame patience boast    As to be hush'd and nought at all to say:    First, the fair reverence of your highness curbs me    From giving reins and spurs to my free speech;    Which else would post until it had return'd    These terms of treason doubled down his throat.    Setting aside his high blood's royalty,    And let him be no kinsman to my liege,    I do defy him, and I spit at him;    Call him a slanderous coward and a villain:    Which to maintain I would allow him odds,    And meet him, were I tied to run afoot    Even to the frozen ridges of the Alps,    Or any other ground inhabitable,    Where ever Englishman durst set his foot.    Mean time let this defend my loyalty,    By all my hopes, most falsely doth he lie.   ",
+            "translated": "Don't let my cool response make me seem less passionate. A war of words, like the chatter of two gossipy women, won't resolve this dispute; blood must be spilled before this is over.\u00a0But I am not so patient that I can listen to these insults and say nothing in return. First, respect for your highness stops me from speaking freelyif I could, I wouldn't stop until I'd shoved those terms of treason back down his throat. Leaving aside his royal blood and pretending he's not your cousin\u00a0I defy him, spit at him, and call him a lying coward and a villain: which to prove I would give him time to run, and then follow him even to the frozen mountains of the Alps, or any other inhabitable ground where an Englishman has ever set foot. In the meantime, let this prove my loyalty: by everything I hold dear, he's a false liar.\u00a0"
+        },
+        {
+            "original": "   Pale trembling coward, there I throw my gage,    Disclaiming here the kindred of the king,    And lay aside my high blood's royalty,    Which fear, not reverence, makes thee to except.    If guilty dread have left thee so much strength    As to take up mine honour's pawn, then stoop:    By that and all the rites of knighthood else,    Will I make good against thee, arm to arm,    What I have spoke, or thou canst worse devise.   ",
+            "translated": "Pale trembling coward, there I throw my gage\u00a0[throws glove on the ground], abandoning here my royal bloodit's fear, not respect, \u00a0that makes you refuse to challenge me because I'm the king's cousin. If guilty fear has left you enough strength, pick it up: by that and all the code of knighthood, I'll take up arms to prove that you're guilty of all I've accused you of, or worse.\u00a0"
+        },
+        {
+            "original": "   I take it up; and by that sword I swear    Which gently laid my knighthood on my shoulder,    I'll answer thee in any fair degree,    Or chivalrous design of knightly trial:    And when I mount, alive may I not light,    If I be traitor or unjustly fight!   ",
+            "translated": "I take it up; and by the sword that knighted me, I'll answer you in any fair fight: and when I mount my horse, may I not get down again alive, if I'm a traitor or fight unjustly!\u00a0"
+        },
+        {
+            "original": "   What doth our cousin lay to Mowbray's charge?    It must be great that can inherit us    So much as of a thought of ill in him.   ",
+            "translated": "What crime do you accuse Mowbray of, cousin? It must be very bad, if it can cause us to think any ill of him."
+        },
+        {
+            "original": "   Look, what I speak, my life shall prove it true;    That Mowbray hath received eight thousand nobles    In name of lendings for your highness' soldiers,    The which he hath detain'd for lewd employments,    Like a false traitor and injurious villain.    Besides I say and will in battle prove,    Or here or elsewhere to the furthest verge    That ever was survey'd by English eye,    That all the treasons for these eighteen years    Complotted and contrived in this land    Fetch from false Mowbray their first head and spring.    Further I say and further will maintain    Upon his bad life to make all this good,    That he did plot the Duke of Gloucester's death,    Suggest his soon-believing adversaries,    And consequently, like a traitor coward,    Sluiced out his innocent soul through streams of blood:    Which blood, like sacrificing Abel's, cries,    Even from the tongueless caverns of the earth,    To me for justice and rough chastisement;    And, by the glorious worth of my descent,    This arm shall do it, or this life be spent.   ",
+            "translated": "Whatever I speak, I'll risk my life to prove it true. Mowbray has received eight thousand gold coins as a loan to pay your highness' soldiers, which he's embezzled for his own ill ends, like a false traitor and a con man. Besides I say and will in battle proveeither here or elsewhere, in the farthest place that an Englishman ever sawthat Mowbray is responsible for all the treasonous plots devised in this land for the past eighteen years. Furthermore, I say (and further will prove by challenging him in combat) that he plotted the Duke of Gloucester's death by putting his easily-persuaded enemies up to it, and consequently, like a traitorous coward, parted the innocent soul from its resting place as the blood flowed out of his body. His blood, like Abel's, cries out to me for justice and vengeance even from the silent depths of the earth; and, by all my ancestors, I'll do it with my two hands, or I'll die instead."
+        },
+        {
+            "original": "  How high a pitch his resolution soars!Thomas of Norfolk, what say'st thou to this?  ",
+            "translated": "His determination soars to such heights! Thomas of Norfolk, how do you respond to this?"
+        },
+        {
+            "original": "   O, let my sovereign turn away his face    And bid his ears a little while be deaf,    Till I have told this slander of his blood,    How God and good men hate so foul a liar.   ",
+            "translated": "Oh, I wish that my sovereign might turn away his face and be deaf for a little while, until I have told this villain how God and good men hate foul liars like him."
+        },
+        {
+            "original": "   Mowbray, impartial are our eyes and ears:    Were he my brother, nay, my kingdom's heir,    As he is but my father's brother's son,    Now, by my sceptre's awe, I make a vow,    Such neighbour nearness to our sacred blood    Should nothing privilege him, nor partialize    The unstooping firmness of my upright soul:    He is our subject, Mowbray; so art thou:    Free speech and fearless I to thee allow.   ",
+            "translated": "Mowbray, our eyes and ears are impartial. If he were my brotherno, even my son and my kingdom's heirrather than merely my father's brother's son, I vow by the power of my sword that such nearness to our sacred family's blood would not make me more likely to favor him, or compromise my judgment. He is our subject, Mowbray, and so are you. So I allow you to speak freely and fearlessly as well.\u00a0"
+        },
+        {
+            "original": "   Then, Bolingbroke, as low as to thy heart,    Through the false passage of thy throat, thou liest.    Three parts of that receipt I had for Calais    Disbursed I duly to his highness' soldiers;    The other part reserved I by consent,    For that my sovereign liege was in my debt    Upon remainder of a dear account,    Since last I went to France to fetch his queen:    Now swallow down that lie.     For Gloucester's death,    I slew him not; but to my own disgrace    Neglected my sworn duty in that case.    For you, my noble Lord of Lancaster,    The honourable father to my foe    Once did I lay an ambush for your life,    A trespass that doth vex my grieved soul    But ere I last received the sacrament    I did confess it, and exactly begg'd    Your grace's pardon, and I hope I had it.    This is my fault: as for the rest appeall'd,    It issues from the rancour of a villain,    A recreant and most degenerate traitor    Which in myself I boldly will defend;    And interchangeably hurl down my gage    Upon this overweening traitor's foot,    To prove myself a loyal gentleman    Even in the best blood chamber'd in his bosom.    In haste whereof, most heartily I pray    Your highness to assign our trial day.   ",
+            "translated": "Then, Bolingbroke, I say that you lie from your heart through your throat. I paid three-fourths of the money I had for Calais to his highness' soldiers; the rest was given to me by prior agreement, since the king owed me money for my expenses when I last went to France to fetch his queen: so take back that lie. As for Gloucester's death, I didn't kill him; although I admit I let down my sworn duty in that case. \u00a0As for you, my noble Lord of Lancaster, the honorable father to my enemy, I once tried to kill you, an offense that now grieves my soul greatly. But before I last received the sacrament, I confessed it and begged your grace's pardon, and I hope I had it. These are my crimes: as for the rest accused against me, it comes from the malice of a villain, a cowardly and violent traitorwhich I'll prove with my own strength, and throw down my gage upon this proud traitor's foot, to prove myself a loyal gentleman, even in the chamber of his body where all his \"noble\" blood flows. So I eagerly beg your highness to set a day for our duel.\u00a0"
+        },
+        {
+            "original": "   Wrath-kindled gentlemen, be ruled by me;    Let's purge this choler without letting blood:    This we prescribe, though no physician;    Deep malice makes too deep incision;    Forget, forgive; conclude and be agreed;    Our doctors say this is no month to bleed.    Good uncle, let this end where it begun;    We'll calm the Duke of Norfolk, you your son.   ",
+            "translated": "Angry gentlemen, obey my commands: let's purge this anger from your bodies without letting blood. This we prescribe, though we're no doctor; your deep rage will cut too deeply. Forget, forgive, find a way to get along. Our doctors say this is no time to bleed.\u00a0[To John of Gaunt]\u00a0Good uncle, let this end where it began; we'll calm the Duke of Norfolk, and you will calm your son."
+        },
+        {
+            "original": "  To be a make-peace shall become my age:Throw down, my son, the Duke of Norfolk's gage.  ",
+            "translated": "To be a peacemaker is a fitting role for me, at my age: my son, throw down the Duke of Norfolk's gage.\u00a0"
+        },
+        {
+            "original": "  And, Norfolk, throw down his.  ",
+            "translated": "And, Norfolk, throw down his."
+        },
+        {
+            "original": "  When, Harry, when?Obedience bids I should not bid again.  ",
+            "translated": "Harry, when will you do what I command? If you were an obedient son, I wouldn't need to ask again.\u00a0"
+        },
+        {
+            "original": "  Norfolk, throw down, we bid; there is no boot.  ",
+            "translated": "Norfolk, throw down, we command you; there's no point refusing.\u00a0"
+        },
+        {
+            "original": "   Myself I throw, dread sovereign, at thy foot.    My life thou shalt command, but not my shame:    The one my duty owes; but my fair name,    Despite of death that lives upon my grave,    To dark dishonour's use thou shalt not have.    I am disgraced, impeach'd and baffled here,    Pierced to the soul with slander's venom'd spear,    The which no balm can cure but his heart-blood    Which breathed this poison.   ",
+            "translated": "My king, I throw myself at your feet. You have power over my life, but not my honor: it's my duty to obey you, but my good name, even if you take my life, will not be dishonored by you in death. I am disgraced, insulted, and slandered here, my soul pierced with the venomous spear of lies, which no medicine can cure except the blood of the man who has poisoned me.\u00a0"
+        },
+        {
+            "original": "  Rage must be withstood:Give me his gage: lions make leopards tame.  ",
+            "translated": "Control your rage; give me his gage. Lions can tame leopards after all."
+        },
+        {
+            "original": "   Yea, but not change his spots: take but my shame.    And I resign my gage.   My dear dear lord,    The purest treasure mortal times afford    Is spotless reputation: that away,    Men are but gilded loam or painted clay.    A jewel in a ten-times-barr'd-up chest    Is a bold spirit in a loyal breast.    Mine honour is my life; both grow in one:    Take honour from me, and my life is done:    Then, dear my liege, mine honour let me try;    In that I live and for that will I die.   ",
+            "translated": "Yes, but the leopard won't change its spots: to take that gage from me is to take my honor. My dear dear lord, the purest treasure of our lives is spotless reputation: without that, men are just painted clay and gilded dust. A brave spirit in a loyal person is like a jewel in a chest protected by ten locks. My honor is my life; both grow together. If you take my honor from me, my life is done. Then, my dear liege, let me prove my integrity in combat: I live for my honor and will die for it."
+        },
+        {
+            "original": "  Cousin, throw up your gage; do you begin.  ",
+            "translated": "Cousin, put down your gage. Don't you start as well"
+        },
+        {
+            "original": "   O, God defend my soul from such deep sin!    Shall I seem crest-fall'n in my father's sight?    Or with pale beggar-fear impeach my height    Before this out-dared dastard?   Ere my tongue    Shall wound my honour with such feeble wrong,    Or sound so base a parle, my teeth shall tear    The slavish motive of recanting fear,    And spit it bleeding in his high disgrace,    Where shame doth harbour, even in Mowbray's face.   ",
+            "translated": "Oh god, defend my soul from such deep sin! Shall I seem humbled in my father's sight? Or disgrace my high rank and look like a fearful beggar before this coward? Before I lose my honor by saying those shameful words, I would bite out my tongue and spit it in Mowbray's face."
+        },
+        {
+            "original": "   We were not born to sue, but to command;    Which since we cannot do to make you friends,    Be ready, as your lives shall answer it,    At Coventry, upon Saint Lambert's day:    There shall your swords and lances arbitrate    The swelling difference of your settled hate:    Since we can not atone you, we shall see    Justice design the victor's chivalry.    Lord marshal, command our officers at arms    Be ready to direct these home alarms.   ",
+            "translated": "We were not born to beg, but to command: but since we can't force you to make peace, be ready to die for it, at Coventry, upon Saint Lambert's day. There, you can settle this dispute with swords and lances. Since we can't find out who's in the wrong, let the battle determine which one of you is telling the truth. Lord marshal, command our armed officers to prepare for the duel.\u00a0"
+        }
+    ]
+}

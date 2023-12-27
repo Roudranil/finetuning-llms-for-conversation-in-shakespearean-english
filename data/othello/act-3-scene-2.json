@@ -1,0 +1,20 @@
+{
+    "dialogs": [
+        {
+            "original": "   These letters give, Iago, to the pilot,    And by him do my duties to the senate.    That done, I will be walking on the works,    Repair there to me.   ",
+            "translated": "Iago, give these letters to the captain of my ship, and tell him to extend my greetings to the senate back in Venice. Once that is done, come find me where I will be walking atop the walls."
+        },
+        {
+            "original": "  Well, my good lord, Ill do t.  ",
+            "translated": "Very well, my good lord. I'll do it."
+        },
+        {
+            "original": "  This fortification, gentlemen, shall we see t?  ",
+            "translated": "Well then, gentlemen, shall we go see the walls of this fort?"
+        },
+        {
+            "original": "  Well wait upon your lordship.  ",
+            "translated": "After you, my lord."
+        }
+    ]
+}

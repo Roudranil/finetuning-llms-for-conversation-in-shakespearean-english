@@ -1,0 +1,44 @@
+{
+    "dialogs": [
+        {
+            "original": "   So, this is Tyre, and this the court. Here must I    kill King Pericles; and if I do it not, I am sure to    be hanged at home: 'tis dangerous.   Well, I perceive    he was a wise fellow, and had good discretion, that,    being bid to ask what he would of the king, desired    he might know none of his secrets:     now do I see he    had some reason for't; for if a king bid a man be a    villain,   he's bound by the indenture of his oath to    be one! Hush! here come the lords of Tyre.   ",
+            "translated": "So, this is Tyre, and this is the court. I'm supposed to kill King Pericles here and, if I don't do it, I'll be hanged back home. It's dangerous. Well, now I see that a man would be wise if, being told to ask for whatever he wanted from the king, said he didn't want to know any of the king's secrets. Now I see his reason for it: I mean, if a king tells you to be a villain, you're bound by your promise to him to be one. Quiet! Here come the lords of Tyre."
+        },
+        {
+            "original": "   You shall not need, my fellow peers of Tyre,    Further to question me of your king's departure:    His seal'd commission, left in trust with me,    Doth speak sufficiently he's gone to travel.   ",
+            "translated": "Fellow lords of Tyre, there's no need to question me anymore about the king's departure. He left his sealed letter of approval with me; that's enough proof for my role while he's traveling.\u00a0"
+        },
+        {
+            "original": "   [Aside]  How! the king gone!  ",
+            "translated": "[To himself]\u00a0What? The king's gone?"
+        },
+        {
+            "original": "  If further yet you will be satisfied,Why, as it were unlicensed of your loves,He would depart, I'll give some light unto you.Being at Antioch  ",
+            "translated": "If you're still not satisfiedsince he didn't go with your permissionI'll tell you why he left. When he was at Antioch"
+        },
+        {
+            "original": "   [Aside]  What from Antioch?  ",
+            "translated": "[To himself] What about Antioch?"
+        },
+        {
+            "original": "   Royal Antiochuson what cause I know not    Took some displeasure at him; at least he judged so:    And doubting lest that he had err'd or sinn'd,    To show his sorrow, he'ld correct himself;    So puts himself unto the shipman's toil,    With whom each minute threatens life or death.   ",
+            "translated": "For reasons unknown to me, King Antiochus got angry at him (or at least Pericles thought so). Pericles, worried that he had offended the king, to show his remorse until he could rectify the situation, decided to sail away, despite it being dangerous on the seas."
+        },
+        {
+            "original": "   [Aside]   Well, I perceive    I shall not be hang'd now, although I would;    But since he's gone, the king's seas must please:    He 'scaped the land, to perish at the sea.    I'll present myself. Peace to the lords of Tyre!   ",
+            "translated": "[To himself] Well, I guess I won't be hanged now (though I almost was). He's gone, but the king should be happy anyway, since Pericles will probably die at sea. I'll come out of hiding.[To HELICANUS and the LORDS] Greetings, lords of Tyre!"
+        },
+        {
+            "original": "  Lord Thaliard from Antiochus is welcome.  ",
+            "translated": "Welcome, Lord Thaliard of Antioch."
+        },
+        {
+            "original": "   From him I come    With message unto princely Pericles;    But since my landing I have understood    Your lord has betook himself to unknown travels,    My message must return from whence it came.   ",
+            "translated": "I have a message from Antiochus for Prince Pericles but, since I got here I've heard that the prince is out on some unknown travels. I guess I'll have to take my message back to where it came from."
+        },
+        {
+            "original": "   We have no reason to desire it,    Commended to our master, not to us:    Yet, ere you shall depart, this we desire,    As friends to Antioch, we may feast in Tyre.   ",
+            "translated": "We certainly wouldn't ask you to read it to us if it's addressed to Pericles. But please, before you leave, let's celebrate our friendship with a feast here in Tyre."
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "dialogs": [
+        {
+            "original": "   Knights,    To say you're welcome were superfluous.    To place upon the volume of your deeds,    As in a title-page, your worth in arms,    Were more than you expect, or more than's fit,    Since every worth in show commends itself.    Prepare for mirth, for mirth becomes a feast:    You are princes and my guests.   ",
+            "translated": "Knights, I hardly need to say how welcome you are. To write an endorsement of the book of your good deeds, like on a title page, would be more than is needed, since you've already showed your worth by doing the deeds themselves. So, get ready to laugh, since feasts are best enjoyed with laughter. All of you princes are my guests."
+        },
+        {
+            "original": "  But you, my knight and guest;To whom this wreath of victory I give,And crown you king of this day's happiness.  ",
+            "translated": "[To PERICLES] Except for you; you're my guest. Here's a victory crown so everyone know's you're the king of the feast."
+        },
+        {
+            "original": "  'Tis more by fortune, lady, than by merit.  ",
+            "translated": "It was more by good luck, ma'am, than by skill."
+        },
+        {
+            "original": "   Call it by what you will, the day is yours;    And here, I hope, is none that envies it.    In framing an artist, art hath thus decreed,    To make some good, but others to exceed;    And you are her labour'd scholar.   Come, queen o'    the feast,    For, daughter, so you are,   here take your place:    Marshal the rest, as they deserve their grace.   ",
+            "translated": "Call it whatever you want; the day is yours. And I hope no one here is jealous of you. Some artists are good, but according to the standards of art, some are excellent; you're clearly the best that art has to offer.\u00a0[To THAISA] Come, daughter, queen of the feast (since that's what you are), take your place. Direct everyone to do what they're supposed to. [He seats THAISA at the high table]"
+        },
+        {
+            "original": "  We are honour'd much by good Simonides.  ",
+            "translated": "You've honored us with this feast, \u00a0Simonides."
+        },
+        {
+            "original": "  Your presence glads our days: honour we love;For who hates honour hates the gods above.  ",
+            "translated": "I'm glad you're all here. I love honor; anyone who hates honor hates the gods above."
+        },
+        {
+            "original": "  Sir, yonder is your place.  ",
+            "translated": "[Gesturing toward the high table] Sir, there's your place.\u00a0"
+        },
+        {
+            "original": "  Some other is more fit.  ",
+            "translated": "Some other place would be better."
+        },
+        {
+            "original": "  Contend not, sir; for we are gentlemenThat neither in our hearts nor outward eyesEnvy the great nor do the low despise.  ",
+            "translated": "Don't argue, sir. We gentlemen don't get jealous of others with our eyes or our hearts. We neither envy the powerful nor hate the weak."
+        },
+        {
+            "original": "  You are right courteous knights.  ",
+            "translated": "You're all very kind, polite knights."
+        },
+        {
+            "original": "  Sit, sir, sit.  ",
+            "translated": "Sit, sir, sit."
+        },
+        {
+            "original": "  By Jove, I wonder, that is king of thoughts,These cates resist me, she but thought upon.  ",
+            "translated": "[To himself] By Jove, king of thoughts: I can hardly eat this delicious food; I can't stop thinking about a certain girl."
+        },
+        {
+            "original": "  By Juno, that is queen of marriage,All viands that I eat do seem unsavoury.Wishing him my meat. Sure, he's a gallant gentleman.  ",
+            "translated": "[To herself] By Juno, queen of marriage: everything I eat tastes bland; I only want to taste him. [To SIMONIDES] He's definitely an rich gentleman."
+        },
+        {
+            "original": "  He's but a country gentleman;Has done no more than other knights have done;Has broken a staff or so; so let it pass.  ",
+            "translated": "He's just a country gentleman. He's done no more than any other knight would do, he's broken a lance or two, so let it go."
+        },
+        {
+            "original": "  To me he seems like diamond to glass.  ",
+            "translated": "To me he's one in a million."
+        },
+        {
+            "original": "   Yon king's to me like to my father's picture,    Which tells me in that glory once he was;    Had princes sit, like stars, about his throne,    And he the sun, for them to reverence;    None that beheld him, but, like lesser lights,    Did vail their crowns to his supremacy:    Where now his son's like a glow-worm in the night,    The which hath fire in darkness, none in light:    Whereby I see that Time's the king of men,    He's both their parent, and he is their grave,    And gives them what he will, not what they crave.   ",
+            "translated": "That king is like a picture of my own father; looking at him reminds me of how glorious he once was. He used to have princes sit around his throne like stars, looking up to him like the sun. No one who saw him could hold a candle to his greatness; those smaller lights were outshone by his supremacy. I, his, son, am just a little firefly. You can see me at night, but I'm invisible in the day. From this, I can say that Time rules men. He raises men up and he puts them in their graves, and doesn't always give them what they want."
+        },
+        {
+            "original": "  What, are you merry, knights?  ",
+            "translated": "What are you all laughing at?"
+        },
+        {
+            "original": "  Who can be other in this royal presence?  ",
+            "translated": "How could we do anything else in your royal presence?"
+        },
+        {
+            "original": "   Here, with a cup that's stored unto the brim,    As you do love, fill to your mistress' lips,    We drink this health to you.   ",
+            "translated": "Here, fill your cup up to the brim. Here's a toast to your love for Thaisa and to all your health."
+        },
+        {
+            "original": "  We thank your grace.  ",
+            "translated": "We thank you, sir."
+        },
+        {
+            "original": "   Yet pause awhile:    Yon knight doth sit too melancholy,    As if the entertainment in our court    Had not a show might countervail his worth.    Note it not you, Thaisa?   ",
+            "translated": "[Pointing to PERICLES] But wait: that knight looks sad, like our party isn't good enough for him. Haven't you noticed, Thaisa?"
+        },
+        {
+            "original": "  What is itTo me, my father?  ",
+            "translated": "What is it to me, father?"
+        },
+        {
+            "original": "   O, attend, my daughter:    Princes in this should live like gods above,    Who freely give to every one that comes    To honour them:    And princes not doing so are like to gnats,    Which make a sound, but kill'd are wonder'd at.    Therefore to make his entrance more sweet,    Here, say we drink this standing-bowl of wine to him.   ",
+            "translated": "Listen, daughter: princes, like the gods, should be generous to anyone who comes before them. Stingy princes are like gnats; they buzz around and everyone's glad when they're killed. So, to make Pericles's stay more enjoyable, what do you say we drink a toast of this wine to him to help cheer him up?"
+        },
+        {
+            "original": "   Alas, my father, it befits not me    Unto a stranger knight to be so bold:    He may my proffer take for an offence,    Since men take women's gifts for impudence.   ",
+            "translated": "Father, I can't be that forward with a strange knight. He might be offended by the offer, since some men take women's gifts as disrespect."
+        },
+        {
+            "original": "  How!Do as I bid you, or you'll move me else.  ",
+            "translated": "What? Do what I say, or else."
+        },
+        {
+            "original": "   [Aside]  Now, by the gods, he could not please me better.  ",
+            "translated": "[To herself] \u00a0Now, by the gods, there's nothing that would make me happier."
+        },
+        {
+            "original": "  And furthermore tell him, we desire to know of him,Of whence he is, his name and parentage.  ",
+            "translated": "And also tell him we want to know where he came from and who his parents are."
+        },
+        {
+            "original": "  The king my father, sir, has drunk to you.  ",
+            "translated": "[To PERICLES] Sir, the king, my father, just drank a toast to you."
+        },
+        {
+            "original": "  I thank him.  ",
+            "translated": "Tell him I said thanks."
+        },
+        {
+            "original": "  Wishing it so much blood unto your life.  ",
+            "translated": "He wished you good health."
+        },
+        {
+            "original": "  I thank both him and you, and pledge him freely.  ",
+            "translated": "Thanks to him and to you. I'm honored."
+        },
+        {
+            "original": "  And further he desires to know of you,Of whence you are, your name and parentage.  ",
+            "translated": "And he also wants to know where you came from, what your name is, and who your parents are."
+        },
+        {
+            "original": "   A gentleman of Tyre; my name, Pericles;    My education been in arts and arms;    Who, looking for adventures in the world,    Was by the rough seas reft of ships and men,    And after shipwreck driven upon this shore.   ",
+            "translated": "I'm from Tyre. My name is Pericles. I've been schooled in arts and in arms. I was looking for adventure in the world when I was shipwrecked by storms, lost my men, and landed on your shore."
+        },
+        {
+            "original": "   He thanks your grace; names himself Pericles,    A gentleman of Tyre,    Who only by misfortune of the seas    Bereft of ships and men, cast on this shore.   ",
+            "translated": "[Returning to SIMONIDES] He said thank you, and that his name is Pericles, that he's from Tyre, and was only shipwrecked here by chance."
+        },
+        {
+            "original": "   Now, by the gods, I pity his misfortune,    And will awake him from his melancholy.    Come, gentlemen, we sit too long on trifles,    And waste the time, which looks for other revels.    Even in your armours, as you are address'd,    Will very well become a soldier's dance.    I will not have excuse, with saying this    Loud music is too harsh for ladies' heads,    Since they love men in arms as well as beds.   ",
+            "translated": "Now, by the gods, I feel sorry for him and will cheer him up. Come on, gentlemen, we're spending too much time on little things. Let's not waste time any longer; let's find another pastime. Even in your armor, as you're dressed, you'll look great dancing a soldier's dance. No excuses; no one say the music is too loud for the ladies. We all know that ladies love to dance with soldiers as much as they like to get in bed with them!"
+        },
+        {
+            "original": "   So, this was well ask'd,'twas so well perform'd.    Come, sir;    Here is a lady that wants breathing too:    And I have heard, you knights of Tyre    Are excellent in making ladies trip;    And that their measures are as excellent.   ",
+            "translated": "Well, I'm glad I asked; that was a good dance.\u00a0[To PERICLES]\u00a0Here, sir, this lady needs a partner, too. I've heard you knights of Tyre are excellent dancers, and that you have a way of dancing with women, and that your rhythm is excellent."
+        },
+        {
+            "original": "  In those that practise them they are, my lord.  ",
+            "translated": "Those that dance might, sir."
+        },
+        {
+            "original": "  O, that's as much as you would be deniedOf your fair courtesy.  ",
+            "translated": "Well, you might miss your chance if you keep talking."
+        },
+        {
+            "original": "   Unclasp, unclasp:    Thanks, gentlemen, to all; all have done well.    [  To PERICLES]     But you the best.   Pages and lights, to conduct    These knights unto their several lodgings!    Yours, sir,    We have given order to be next our own.   ",
+            "translated": "All right, break it up. Thanks, gentleman, and everyone. You all did well. [To PERICLES]\u00a0But you were the best.[To ALL]\u00a0Servants, bring lamps and take these knights to their rooms![To PERICLES]\u00a0We've asked for you to have the best room, right next to mine."
+        },
+        {
+            "original": "  I am at your grace's pleasure.  ",
+            "translated": "Thank you, sir."
+        },
+        {
+            "original": "   Princes, it is too late to talk of love;    And that's the mark I know you level at:    Therefore each one betake him to his rest;    To-morrow all for speeding do their best.   ",
+            "translated": "It's too late now to talk about love (though I know that's what you're all aiming for). Everyone go to bed; we'll get to it tomorrow."
+        }
+    ]
+}

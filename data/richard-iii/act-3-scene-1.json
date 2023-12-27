@@ -1,0 +1,344 @@
+{
+    "dialogs": [
+        {
+            "original": "  Welcome, sweet prince, to London, to your chamber.  ",
+            "translated": "Welcome to your room here in London, sweet prince."
+        },
+        {
+            "original": "   [to PRINCE]  Welcome, dear cousin, my thoughts' sovereign.The weary way hath made you melancholy.  ",
+            "translated": "Welcome, dear nephew, ruler of my thoughts. It seems that the tiring journey has made you sad."
+        },
+        {
+            "original": "  No, uncle, but our crosses on the way Have made it tedious, wearisome, and heavy.I want more uncles here to welcome me.  ",
+            "translated": "No, uncle, but the annoyances on the way made the journey tedious, tiring, and dull. I wish more uncles were here to welcome me."
+        },
+        {
+            "original": "   Sweet prince, the untainted virtue of your years    Hath not yet dived into the worlds deceit;    Nor more can you distinguish of a man    Than of his outward show, which, God He knows,    Seldom or never jumpeth with the heart.    Those uncles which you want were dangerous.    Your Grace attended to their sugared words    But looked not on the poison of their hearts.    God keep you from them, and from such false friends.   ",
+            "translated": "Sweet prince, you are young and innocent, and haven't experienced the deceitfulness of the world yet. You can't perceive the truth about a man except for what he shows on the outsidewhich, God knows, hardly ever corresponds with his heart. Those uncles you wish for were dangerous. You heard their sugary words, but you couldn't see the poison in their hearts, your Grace. May God protect you from them, and from all such false friends!"
+        },
+        {
+            "original": "  God keep me from false friends, but they were none.  ",
+            "translated": "May God protect me from false friendsbut my uncles weren't false."
+        },
+        {
+            "original": "  My lord, the mayor of London comes to greet you.  ",
+            "translated": "My lord, the mayor of London is here to greet you."
+        },
+        {
+            "original": "  God bless your Grace with health and happy days.  ",
+            "translated": "May God bless your Grace with health and happy days."
+        },
+        {
+            "original": "   I thank you, good my lord, and thank you all.    I thought my mother and my brother York    Would long ere this have met us on the way.    Fie, what a slug is Hastings that he comes not    To tell us whether they will come or no!   ",
+            "translated": "I thank you, my good lord, and thank you all. But I thought my mother and my brother York would have met us on our way long before now. And it's shameful what a slug Hastings is, that he hasn't even come to tell us whether or not they're coming!"
+        },
+        {
+            "original": "  And in good time here comes the sweating lord.  ",
+            "translated": "And just in time, here comes the sweating lord."
+        },
+        {
+            "original": "  Welcome, my lord. What, will our mother come?  ",
+            "translated": "Welcome, my lord. Well, is my mother coming?"
+        },
+        {
+            "original": "   On what occasion God He knows, not I,    The Queen your mother and your brother York    Have taken sanctuary.   The tender prince    Would fain have come with me to meet your Grace,    But by his mother was perforce withheld.   ",
+            "translated": "Only God knows why, but the queen your mother and your brother York have taken sanctuary in Westminster Abbey. The tender prince wanted to come with me to meet your Grace, but his mother forced him to stay."
+        },
+        {
+            "original": "   Fie, what an indirect and peevish course    Is this of hers!   Lord Cardinal, will your Grace    Persuade the queen to send the duke of York    Unto his princely brother presently?    If she deny, Lord Hastings, go with him,    And from her jealous arms pluck him perforce.   ",
+            "translated": "For shame, what a devious and perverse course the queen is taking!"
+        },
+        {
+            "original": "   My Lord of Buckingham, if my weak oratory    Can from his mother win the duke of York,    Anon expect him here;   but if she be obdurate    To mild entreaties, God in heaven forbid    We should infringe the holy privilege    Of bless\u00e8d sanctuary!   Not for all this land    Would I be guilty of so deep a sin.   ",
+            "translated": "My Lord of Buckingham, if my weak words can persuade his mother to give up the Duke of York, then you can expect him here soon. But if she resists my mild requests, then God forbid that we should break the holy laws of sanctuary! I would not commit such a terrible sin even in exchange for a kingdom."
+        },
+        {
+            "original": "   You are too senseless obstinate, my lord,    Too ceremonious and traditional.    Weigh it but with the grossness of this age,    You break not sanctuary in seizing him.    The benefit thereof is always granted    To those whose dealings have deserved the place    And those who have the wit to claim the place.    This prince hath neither claimed it nor deserved it    And therefore, in mine opinion, cannot have it.    Then taking him from thence that is not there,    You break no privilege nor charter there.    Oft have I heard of sanctuary men,    But sanctuary children, ne'er till now.   ",
+            "translated": "My lord, you are foolishly stubborn, and too tied to formalities and traditions. Consider the moral roughness of these times, and you'll see that you're not really breaking sanctuary in seizing him. The benefit of sanctuary is always given to those who really deserve protection, or those who are smart enough to claim it. This prince has neither claimed it nor does he deserve it. Therefore, in my opinion, he cannot have it. If you seize him from sanctuary when he was never really taking sanctuary in the first place, then you aren't breaking any laws or traditions. I've often heard of \"sanctuary men,\" but until now I've never heard of \"sanctuary children.\""
+        },
+        {
+            "original": "  My lord, you shall o'errule my mind for once.Come on, Lord Hastings, will you go with me?  ",
+            "translated": "My lord, I'll let you convince me this once."
+        },
+        {
+            "original": "  I go, my lord.  ",
+            "translated": "I will, my lord."
+        },
+        {
+            "original": "  Good lords, make all the speedy haste you may.  ",
+            "translated": "Good lords, go as quickly as you can."
+        },
+        {
+            "original": "  Say, uncle Gloucester, if our brother come,Where shall we sojourn till our coronation?  ",
+            "translated": "Tell me, Uncle Richard: if my brother comes, where will we stay until my coronation ceremony?"
+        },
+        {
+            "original": "   Where it seems best unto your royal self.    If I may counsel you, some day or two    Your Highness shall repose you at the Tower;    Then where you please and shall be thought most fit    For your best health and recreation.   ",
+            "translated": "Wherever seems best for your royal self. If I can advise you, though, you should stay a day or two in the Tower. After that you can stay wherever you like, and wherever seems best for your health and pleasure."
+        },
+        {
+            "original": "  I do not like the Tower, of any place.Did Julius Caesar build that place, my lord?  ",
+            "translated": "Of all places, I don't like the Tower at all. Didn't Julius Caesar build it, my lord?"
+        },
+        {
+            "original": "  He did, my gracious lord, begin that place,Which, since, succeeding ages have re-edified.  ",
+            "translated": "He began it, my gracious lord. And since then succeeding generations have added on to it."
+        },
+        {
+            "original": "  Is it upon record, or else reportedSuccessively from age to age, he built it?  ",
+            "translated": "Is it on record that he built the Tower, or is it just reported by word of mouth from generation to generation?"
+        },
+        {
+            "original": "  Upon record, my gracious lord.  ",
+            "translated": "On record, my gracious lord."
+        },
+        {
+            "original": "   But say, my lord, it were not registered,    Methinks the truth should live from age to age,    As twere retailed to all posterity,    Even to the general all-ending day.   ",
+            "translated": "But even if it weren't recorded, I think that the truth would live on from generation to generationbeing told as part of legend and historyall the way until Judgment Day."
+        },
+        {
+            "original": "   [aside]  So wise so young, they say, do never live long.  ",
+            "translated": "[To himself]\u00a0They say that those who are so wise when so young never live long."
+        },
+        {
+            "original": "  What say you, uncle?  ",
+            "translated": "What did you say, uncle?"
+        },
+        {
+            "original": "  I say, without characters fame lives long.  [aside]  Thus, like the formal Vice, Iniquity,I moralize two meanings in one word.  ",
+            "translated": "I said that without written records, fame lives long.\u00a0"
+        },
+        {
+            "original": "   That Julius Caesar was a famous man.    With what his valor did enrich his wit,    His wit set down to make his valor live.    Death makes no conquest of this conqueror,    For now he lives in fame, though not in life.    Ill tell you what, my cousin Buckingham   ",
+            "translated": "That Julius Caesar was a famous man. His courage aided his intelligence, and his intelligence helped him make sure that his reputation for courage outlived him. Death didn't conquer that conqueror. Now he lives on in fame, though not in life. I'll tell you what, my cousin Buckingham"
+        },
+        {
+            "original": "  What, my gracious lord?  ",
+            "translated": "What, my gracious lord?"
+        },
+        {
+            "original": "  An if I live until I be a man,Ill win our ancient right in France againOr die a soldier, as I lived a king.  ",
+            "translated": "If I live to be a man, I'll conquer France and win back our claim to the throne there. Otherwise I'll die as a soldier, though I lived as a king."
+        },
+        {
+            "original": "   [aside]  Short summers lightly have a forward spring.  ",
+            "translated": "[To himself] Short summers often have an early spring, as they say. Those who die young are usually precocious."
+        },
+        {
+            "original": "  Now in good time here comes the duke of York.  ",
+            "translated": "Now here comes the Duke of York, right on time."
+        },
+        {
+            "original": "  Richard of York, how fares our loving brother?  ",
+            "translated": "Richard of York, how are you, my loving brother?"
+        },
+        {
+            "original": "  Well, my dread lordso must I call you now.  ",
+            "translated": "I'm well, my sovereign lordfor that's what I must call you now."
+        },
+        {
+            "original": "  Ay, brother, to our grief, as it is yours.Too late he died that might have kept that title, Which by his death hath lost much majesty.  ",
+            "translated": "Yes, Brother, and it's a sad occasion for both of us. Our fatherthe man who should have kept that titledied too recently. And the sadness of his death makes the title seem much less majestic."
+        },
+        {
+            "original": "  How fares our cousin, noble Lord of York?  ",
+            "translated": "How are you, my nephew, noble Lord of York?"
+        },
+        {
+            "original": "  I thank you, gentle uncle. O, my lord,You said that idle weeds are fast in growth.The prince my brother hath outgrown me far.  ",
+            "translated": "I thank you for asking, noble uncle. Oh, my lord, you once said that lazy weeds grow quickly. The prince my brother has far outgrown me."
+        },
+        {
+            "original": "  He hath, my lord.  ",
+            "translated": "He has, my lord."
+        },
+        {
+            "original": "  And therefore is he idle?  ",
+            "translated": "So is he lazy then?"
+        },
+        {
+            "original": "  O, my fair cousin, I must not say so.  ",
+            "translated": "Oh, my fair nephew, I can't say that."
+        },
+        {
+            "original": "  Then is he more beholding to you than I.  ",
+            "translated": "Then he has more power over you than I do."
+        },
+        {
+            "original": "  He may command me as my sovereign,But you have power in me as in a kinsman.  ",
+            "translated": "He may command me as my king, but you still have power over me as my relative."
+        },
+        {
+            "original": "  I pray you, uncle, give me this dagger.  ",
+            "translated": "Please give me your dagger, uncle."
+        },
+        {
+            "original": "  My dagger, little cousin? With all my heart.  ",
+            "translated": "My dagger, little Nephew? With all my heart."
+        },
+        {
+            "original": "  A beggar, brother?  ",
+            "translated": "Are you begging, Brother?"
+        },
+        {
+            "original": "  Of my kind uncle, that I know will give,And being but a toy, which is no grief to give.  ",
+            "translated": "Only from my kind uncle. I know he'll give it to me, and it's not valuable, so it shouldn't make him sad to lose it."
+        },
+        {
+            "original": "  A greater gift than that Ill give my cousin.  ",
+            "translated": "I'll give my nephew a greater gift than that."
+        },
+        {
+            "original": "  A greater gift? O, thats the sword to it.  ",
+            "translated": "A greater gift? Oh, that must mean a sword."
+        },
+        {
+            "original": "  Ay, gentle cousin, were it light enough.  ",
+            "translated": "Yes, noble nephew. That is, if it's light enough for you to hold."
+        },
+        {
+            "original": "  O, then I see you will part but with light gifts.In weightier things youll say a beggar nay.  ",
+            "translated": "Oh, then I see that you'll only part with light, trivial gifts. You'll refuse a beggar's request in heavier, more valuable things."
+        },
+        {
+            "original": "  It is too heavy for your Grace to wear.  ",
+            "translated": "A sword is too heavy for your Grace to wear."
+        },
+        {
+            "original": "  I weigh it lightly, were it heavier.  ",
+            "translated": "I'd consider it light and trivial even if it were heavier."
+        },
+        {
+            "original": "  What, would you have my weapon, little lord?  ",
+            "translated": "What, do you want my weapon, little lord?"
+        },
+        {
+            "original": "  I would, that I might thank you as you call me.  ",
+            "translated": "I do, so I can thank you for what you called me."
+        },
+        {
+            "original": "  How?  ",
+            "translated": "What do you mean?"
+        },
+        {
+            "original": "  Little.  ",
+            "translated": "You called me \"little.\""
+        },
+        {
+            "original": "  My lord of York will still be cross in talk.Uncle, your Grace knows how to bear with him.  ",
+            "translated": "The Lord of York is always argumentative. Uncle, you know how to bear with him."
+        },
+        {
+            "original": "   You mean, to bear me, not to bear with me.    Uncle, my brother mocks both you and me.    Because that I am little, like an ape,    He thinks that you should bear me on your shoulders.   ",
+            "translated": "You mean to bear me, not to bear with me."
+        },
+        {
+            "original": "    [aside]    With what a sharp-provided wit he reasons!    To mitigate the scorn he gives his uncle,    He prettily and aptly taunts himself.    So cunning and so young is wonderful.   ",
+            "translated": "[To himself] What a sharp and thoughtful mind he has! To smooth over his mockery of his uncle, he cleverly and politely mocks himself. It's amazing that he's so cunning while so young."
+        },
+        {
+            "original": "    [to PRINCE]    My lord, will t please you pass along?    Myself and my good cousin Buckingham    Will to your mother, to entreat of her    To meet you at the Tower and welcome you.   ",
+            "translated": "[To the PRINCE] My lord, would you like to continue on? My good cousin Buckingham and I will go to your mother and ask her to meet you at the Tower."
+        },
+        {
+            "original": "   [to PRINCE]  What, will you go unto the Tower, my lord?  ",
+            "translated": "[To the PRINCE] What, are you going to the Tower, my lord?"
+        },
+        {
+            "original": "  My lord protector needs will have it so.  ",
+            "translated": "My Lord Protector Richard insists on it."
+        },
+        {
+            "original": "  I shall not sleep in quiet at the Tower.  ",
+            "translated": "I won't sleep peacefully at the Tower."
+        },
+        {
+            "original": "  Why, what should you fear?  ",
+            "translated": "Why, what do you have to be afraid of?"
+        },
+        {
+            "original": "  Marry, my uncle Clarence' angry ghost. My grandam told me he was murdered there.  ",
+            "translated": "Well, my uncle Clarence's angry ghost. My grandmother told me he was murdered there."
+        },
+        {
+            "original": "  I fear no uncles dead.  ",
+            "translated": "I'm not afraid of any dead uncle."
+        },
+        {
+            "original": "  Nor none that live, I hope.  ",
+            "translated": "Nor living ones, I hope."
+        },
+        {
+            "original": "  An if they live, I hope I need not fear.  [to YORK]  But come, my lord. With a heavy heart,Thinking on them, go I unto the Tower.  ",
+            "translated": "If they're still alive, I should hope that I don't need to fear\u00a0them.\u00a0"
+        },
+        {
+            "original": "  Think you, my lord, this little prating YorkWas not incens\u00e8d by his subtle motherTo taunt and scorn you thus opprobriously?  ",
+            "translated": "My lord, don't you think that this talkative little York was encouraged by his deceitful mother to taunt and scorn you in that outrageous manner?"
+        },
+        {
+            "original": "  No doubt, no doubt. O, tis a parlous boy,Bold, quick, ingenious, forward, capable. He is all the mothers, from the top to toe.  ",
+            "translated": "No doubt, no doubt. Oh, he's a dangerous and cunning boybold, lively, ingenious, outspoken, and capable. He takes after his mother, from head to toe."
+        },
+        {
+            "original": "   Well, let them rest.   Come hither, Catesby.    Thou art sworn as deeply to effect what we intend    As closely to conceal what we impart.    Thou knowest our reasons, urged upon the way.    What thinkest thou?   Is it not an easy matter    To make William Lord Hastings of our mind    For the installment of this noble duke    In the seat royal of this famous isle?   ",
+            "translated": "Well, let's leave them for the moment."
+        },
+        {
+            "original": "  He, for his fathers sake, so loves the prince That he will not be won to aught against him.  ",
+            "translated": "Hastings loves the Prince because of his great love for his father, the late King Edward. We won't be able to convince him."
+        },
+        {
+            "original": "  What thinkst thou then of Stanley? Will not he?  ",
+            "translated": "What do you think about Stanley then? Won't he join us?"
+        },
+        {
+            "original": "  He will do all in all as Hastings doth.  ",
+            "translated": "He'll do whatever Hastings does."
+        },
+        {
+            "original": "   Well then, no more but this: go, gentle Catesby,    And, as it were far off, sound thou Lord Hastings    How he doth stand affected to our purpose    And summon him tomorrow to the Tower    To sit about the coronation.    If thou dost find him tractable to us,    Encourage him and show him all our reasons.    If he be leaden, icy, cold, unwilling,    Be thou so too, and so break off the talk,    And give us notice of his inclination;    For we tomorrow hold divided councils,    Wherein thyself shalt highly be employed.   ",
+            "translated": "Well then, just do this, noble Catesby: go and sound out Lord Hastings regarding our cause. But make it seem like a vague plan for the distant future. Find out how he feels, and summon him to the Tower tomorrow for the coronation. If he seems like he could be convinced to join us, then encourage him and explain all our reasons to him. If he's surly, cold, or unwilling, then you should act like that too, and break off the conversation. Let us know how he responds, for tomorrow we will hold two separate council meetingsone public, and one in secret, only for our supportersand you'll have lots of work to do at them."
+        },
+        {
+            "original": "   Commend me to Lord William. Tell him, Catesby,    His ancient knot of dangerous adversaries    Tomorrow are let blood at Pomfret castle,    And bid my lord, for joy of this good news,    Give mistress Shore one gentle kiss the more.   ",
+            "translated": "Give my regards to Lord Hastings. Tell him, Catesby, that the dangerous enemies who have plagued him for years will be executed tomorrow at Pomfret Castle. And to celebrate this good news, tell him to give Miss Shore an extra kiss."
+        },
+        {
+            "original": "  Good Catesby, go effect this business soundly.  ",
+            "translated": "Good Catesby, go do your work well."
+        },
+        {
+            "original": "  My good lords both, with all the heed I can.  ",
+            "translated": "My good lords, I'll do the best I can."
+        },
+        {
+            "original": "  Shall we hear from you, Catesby, ere we sleep?  ",
+            "translated": "Will we hear from you before we go to sleep, Catesby?"
+        },
+        {
+            "original": "  You shall, my lord.  ",
+            "translated": "You will, my lord."
+        },
+        {
+            "original": "  At Crosby Place, there shall you find us both.  ",
+            "translated": "You'll find us both at Crosby Place."
+        },
+        {
+            "original": "  Now, my lord, what shall we do, if we perceiveLord Hastings will not yield to our complots?  ",
+            "translated": "Now, my lord, what will we do if Lord Hastings won't go along with our conspiracy?"
+        },
+        {
+            "original": "   Chop off his head. Something we will determine.    And look when I am king,   claim thou of me    The earldom of Hereford,   and all the moveables    Whereof the king my brother was possessed.   ",
+            "translated": "Chop off his head. We'll come up with something. And when I am king, you will have the earldom of Herefordand all the wealth and possessions that go with itwhich my brother, King Edward, used to own."
+        },
+        {
+            "original": "  Ill claim that promise at your Graces hands.  ",
+            "translated": "I'll take you up on that promise, your Grace."
+        },
+        {
+            "original": "  And look to have it yielded with all kindness.Come, let us sup betimes, that afterwardsWe may digest our complots in some form.  ",
+            "translated": "And you'll see that I'll give it gladly. Come, let's eat early, so that afterwards we can think about our plot further."
+        }
+    ]
+}

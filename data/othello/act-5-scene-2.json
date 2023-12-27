@@ -1,0 +1,724 @@
+{
+    "dialogs": [
+        {
+            "original": "   It is the cause, it is the cause, my soul.    Let me not name it to you, you chaste stars,    It is the cause.   Yet Ill not shed her blood,    Nor scar that whiter skin of hers than snow    And smooth as monumental alabaster.    Yet she must die, else shell betray more men.    Put out the light, and then put out the light.    If I quench thee, thou flaming minister,    I can again thy former light restore    Should I repent me.   But once put out thy light,    Thou cunningst pattern of excelling nature,    I know not where is that Promethean heat    That can thy light relume.   When I have plucked thy rose    I cannot give it vital growth again,    It must needs wither. Ill smell thee on the tree.    Oh, balmy breath, that dost almost persuade    Justice to break her sword! One more, one more.    Be thus when thou art dead and I will kill thee    And love thee after.    (kissing her)    One more, and thatsthe last.    So sweet was ne'er so fatal. I must weep,    But they are cruel tears.   This sorrows heavenly,    It strikes where it doth love. She wakes.   ",
+            "translated": "That's the reason for this, that's the reason, my soul. I won't say the reason to the chaste stars in the sky, but it is the reason. But I won't shed her blood, or scar that skin of hers that is whiter than snow and as smooth as alabaster. Still, she must die or else she'll betray more men. Extinguish the light, and then extinguish her light. If I extinguish you, flame, I can light you again if I have second thoughts. But as for youyou most artfully, excellently fashioned womanonce I put out your light,\u00a0I don't know of any magical fire that can bring your life back. When I have plucked the rose of your life, I can't re-plant it againit must wither. I'll smell you while you're still alive. Oh, your gentle breath almost persuades Justice herself to put away her sword! One more, one more kiss. If you look like this when you are dead, I will kill you and love you after. [He kisses DESDEMONA] One more, and that's the last. There was never anything so sweet and yet so deadly as you. I can't help but weep, but that is not a sign of pity. This sorrow is like that of God, who must strike down the creatures he loves. She's waking up."
+        },
+        {
+            "original": "  Whos there? Othello?  ",
+            "translated": "Who's there? Othello?"
+        },
+        {
+            "original": "  Ay, Desdemona.  ",
+            "translated": "Yes, Desdemona."
+        },
+        {
+            "original": "  Will you come to bed, my lord?  ",
+            "translated": "Will you come to bed, my lord?"
+        },
+        {
+            "original": "  Have you prayed tonight, Desdemon?  ",
+            "translated": "Have you prayed tonight, Desdemona?"
+        },
+        {
+            "original": "  Ay, my lord.  ",
+            "translated": "Yes, my lord."
+        },
+        {
+            "original": "  If you bethink yourself of any crimeUnreconciled as yet to heaven and grace, Solicit for it straight.  ",
+            "translated": "If you can think of any crime you haven't atoned for, make amends with God right now."
+        },
+        {
+            "original": "  Alack, my lord, what do you mean by that?  ",
+            "translated": "My lord, what do you mean by that?"
+        },
+        {
+            "original": "   Well, do it, and be brief. I will walk by.    I would not kill thy unprepar\u00e8d spirit.    No, heavens forfend, I would not kill thy soul!   ",
+            "translated": "Just do it. And quickly. I will walk around. I would not want to kill you when you haven't prepared your soul by confessing and repenting. No, heaven forbid it, I would not send your soul to hell."
+        },
+        {
+            "original": "  Talk you of killing?  ",
+            "translated": "You're talking about killing?"
+        },
+        {
+            "original": "  Ay, I do.  ",
+            "translated": "Yes, I am."
+        },
+        {
+            "original": "  Then heavenHave mercy on me!  ",
+            "translated": "Then heaven have mercy on me!"
+        },
+        {
+            "original": "  Amen, with all my heart.  ",
+            "translated": "Amen, I wholeheartedly agree."
+        },
+        {
+            "original": "  If you say, I hope you will not kill me.  ",
+            "translated": "Then I hope you will not kill me."
+        },
+        {
+            "original": "  Humh!  ",
+            "translated": "Hmph!"
+        },
+        {
+            "original": "   And yet I fear you, for youre fatal then    When your eyes roll so.   Why I should fear I know not,    Since guiltiness I know not. But yet I feel I fear.   ",
+            "translated": "And yet I fear you, because when your eyes roll like that I know you're in a deadly mood. I don't know why I should be afraid, since I am not guilty of anything. But I am afraid nonetheless."
+        },
+        {
+            "original": "  Think on thy sins.  ",
+            "translated": "Think about your sins."
+        },
+        {
+            "original": "  They are loves I bear to you.  ",
+            "translated": "My only sin is my love for you."
+        },
+        {
+            "original": "  Ay, and for that thou diest.  ",
+            "translated": "Yes, and that's why you're going to die."
+        },
+        {
+            "original": "   That deaths unnatural that kills for loving.    Alas, why gnaw you so your nether lip?    Some bloody passion shakes your very frame.    These are portents, but yet I hope, I hope    They do not point on me.   ",
+            "translated": "It's not a natural thing to kill someone for loving. Alas, why are you biting your lower lip? Some bloodthirsty passion is shaking your whole body. These are bad signs, but I hope they do not point to something that is going to happen to me."
+        },
+        {
+            "original": "  Peace, and be still.  ",
+            "translated": "Be quiet, and stay still."
+        },
+        {
+            "original": "  I will so. Whats the matter?  ",
+            "translated": "I will. What's the matter?"
+        },
+        {
+            "original": "  That handkerchiefWhich I so loved and gave thee, thou gavstTo Cassio.  ",
+            "translated": "That handkerchief that I loved so much and gave to you, you gave to Cassio."
+        },
+        {
+            "original": "  No, by my life and soul!Send for the man and ask him.  ",
+            "translated": "No, I swear on my life and soul! Send for him and ask him."
+        },
+        {
+            "original": "  Sweet soul, take heed, take heed of perjury. Thou art on thy deathbed.  ",
+            "translated": "You sweet soul, careful now, be careful about lying. You are on your deathbed."
+        },
+        {
+            "original": "  Aybut not yet to die!  ",
+            "translated": "Yes, but it's not yet time for me to die!"
+        },
+        {
+            "original": "   Presently.    Therefore confess thee freely of thy sin,    For to deny each article with oath    Cannot remove nor choke the strong conception    That I do groan withal. Thou art to die.   ",
+            "translated": "It will be soon. Therefore confess your sin openly. Your denial of every part of it can do nothing to remove the horrible idea that I have in my head. You are about to die."
+        },
+        {
+            "original": "  Oh, heaven have mercy on me!  ",
+            "translated": "Oh, heaven have mercy on me!"
+        },
+        {
+            "original": "  I say amen.  ",
+            "translated": "I say amen to that."
+        },
+        {
+            "original": "   And have you mercy too! I never did    Offend you in my life,   never loved Cassio    But with such general warranty of heaven    As I might love. I never gave him token.   ",
+            "translated": "And you have mercy, too! I never did anything to offend you in my life. I never loved Cassio except in a general way, as a friend. I never gave him a token of my affection."
+        },
+        {
+            "original": "   By heaven, I saw my handkerchief in s hand.    O perjured woman, thou dost stone my heart,    And makst me call what I intend to do    A murder, which I thought a sacrifice!    I saw the handkerchief.   ",
+            "translated": "By heaven, I saw my handkerchief in his hand. Oh, you lying woman! You turn my heart to stone and make me call what I intend to do a murder, instead of a sacrifice! I saw the handkerchief."
+        },
+        {
+            "original": "  He found it then,I never gave it him. Send for him hither,Let him confess a truth.  ",
+            "translated": "Then he must have found it. I never gave it to him. Send for him to come here, and let him tell you the truth."
+        },
+        {
+            "original": "  He hath confessed.  ",
+            "translated": "He has confessed."
+        },
+        {
+            "original": "  What, my lord?  ",
+            "translated": "What, my lord?"
+        },
+        {
+            "original": "  That he hath us\u00e8d thee.  ",
+            "translated": "He has confessed that he has had sex with you."
+        },
+        {
+            "original": "  How? Unlawfully?  ",
+            "translated": "What? Adulterous sex with me?"
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  He will not say so.  ",
+            "translated": "He would not say that."
+        },
+        {
+            "original": "  No, his mouth is stopped. Honest IagoHath ta'en order for t.  ",
+            "translated": "No, he cannot speak. Honest Iago has taken care of that."
+        },
+        {
+            "original": "  Oh! My fear interprets. What, is he dead?  ",
+            "translated": "Oh! I am afraid I know what you mean by that. What, is he dead?"
+        },
+        {
+            "original": "  Had all his hairs been livesMy great revenge had stomach for them all.  ",
+            "translated": "If he had had as many lives as hairs on his head, I would have had enough revenge for each one of them."
+        },
+        {
+            "original": "  Alas, he is betrayed and I undone.  ",
+            "translated": "Alas, he has been betrayed, and now I am ruined."
+        },
+        {
+            "original": "  Out, strumpet! weepst thou for him to my face?  ",
+            "translated": "Enough, whore! Do you dare to weep for him in front of me?"
+        },
+        {
+            "original": "  Oh, banish me, my lord, but kill me not!  ",
+            "translated": "Oh, my lord, banish me, but do not kill me."
+        },
+        {
+            "original": "  Down, strumpet!  ",
+            "translated": "Get down, whore!"
+        },
+        {
+            "original": "  Kill me tomorrowlet me live tonight!  ",
+            "translated": "Kill me tomorrowlet me live tonight!"
+        },
+        {
+            "original": "  Nay, if you strive  ",
+            "translated": "No, if you struggle"
+        },
+        {
+            "original": "  But half an hour!  ",
+            "translated": "Just half an hour!"
+        },
+        {
+            "original": "  Being done, there is no pause.  ",
+            "translated": "Once I've started this, I cannot stop."
+        },
+        {
+            "original": "  But while I say one prayer!  ",
+            "translated": "Let me say just one prayer!"
+        },
+        {
+            "original": "  It is too late.  [he smothers her]   ",
+            "translated": "It is too late. [OTHELLO smothers DESDEMONA]"
+        },
+        {
+            "original": "   [within]  My lord , my lord! What, ho! My lord, my lord!  ",
+            "translated": "[Offstage] My lord, my lord! What is going on? My lord, my lord!"
+        },
+        {
+            "original": "   What noise is this?Not dead? Not yet quite dead?    I that am cruel am yet merciful,    I would not have thee linger in thy pain.    So, so.   ",
+            "translated": "What is this noise? Is she not dead? Not quite dead yet? I may be cruel, but I am merciful too: I don't want you to die slowly and painfully. So here."
+        },
+        {
+            "original": "   [within]  What, ho! My lord, my lord!  ",
+            "translated": "[Offstage]\u00a0Hey! My lord, my lord!"
+        },
+        {
+            "original": "  Whos there?  ",
+            "translated": "Who's there?"
+        },
+        {
+            "original": "   [within]  O good my lord, I would speak a word with you!  ",
+            "translated": "[Offstage]\u00a0Oh, my good lord, I want to have a word with you!"
+        },
+        {
+            "original": "   Yes, tis Emilia.    (to EMILIA)    By and by.   Shes dead.    'Tis like she comes to speak of Cassios death,    The noise was high. Ha!   No more moving?    Still as the grave. Shall she come in? Were t good?    I think she stirs againNo. Whats best to do?    If she come in, shell sure speak to my wife    My wife! my wife! what wife? I have no wife.    Oh, insupportable! Oh, heavy hour!    Methinks it should be now a huge eclipse    Of sun and moon, and that th' affrighted globe    Should yawn at alteration.   ",
+            "translated": "Yes, it is Emilia.\u00a0[To EMILIA]\u00a0\u00a0One minute.\u00a0[To himself]\u00a0She's dead. Emilia is likely coming to tell me about Cassio's death. \u00a0There was a lot of noise outside. Ha! Not moving anymore, Desdemona? Still as the grave. Should Emilia come in here? Would that be good? Is Desdemona moving again? No. What should I do? If she comes in, she'll definitely want to speak to my wife. My wife! My wife! What wife? I have no wife. Oh, this is unbearable! Oh, what a terrible time! I think there should be a huge eclipse now of both the sun and the moon, and the ground itself should break open at what has happened."
+        },
+        {
+            "original": "   [within]   I do beseech youThat I may speak with you, O good my lord!  ",
+            "translated": "[Offstage]\u00a0I beg you to let me speak with you, my good lord!"
+        },
+        {
+            "original": "  I had forgot theeOh, come in, Emilia.Soft, by and by. Let me the curtains draw.Where art thou?  ",
+            "translated": "I forgot you were out there. Come in, Emilia. Quietly, now. Let me draw the bed curtains. Where are you?"
+        },
+        {
+            "original": "  Whats the matter with thee now?  ",
+            "translated": "What's the matter with you now?"
+        },
+        {
+            "original": "  O my good lord, yonders foul murders done!  ",
+            "translated": "Oh, my good lord, foul murders have been committed outside!"
+        },
+        {
+            "original": "  What, now?  ",
+            "translated": "What? Just now?"
+        },
+        {
+            "original": "  But now, my lord.  ",
+            "translated": "Just now, my lord."
+        },
+        {
+            "original": "  It is the very error of the moon,She comes more nearer earth than she was wont And makes men mad.  ",
+            "translated": "This has something to do with the odd path of the moon. It is closer to the earth than normal, and this makes men crazy."
+        },
+        {
+            "original": "  Cassio, my lord, hath killed a young VenetianCalled Roderigo.  ",
+            "translated": "My lord, Cassio has killed a young Venetian named Roderigo."
+        },
+        {
+            "original": "  Roderigo killed? And Cassio killed!  ",
+            "translated": "Roderigo killed? And Cassio killed!"
+        },
+        {
+            "original": "  No, Cassio is not killed.  ",
+            "translated": "No, Cassio is not killed."
+        },
+        {
+            "original": "  Not Cassio killed! Then murders out of tune, And sweet revenge grows harsh.  ",
+            "translated": "Cassio isn't killed? Then the murder was botched, and sweet revenge hasn't gone as planned."
+        },
+        {
+            "original": "  Oh, falsely, falsely murdered!  ",
+            "translated": "Oh, I have been unjustly murdered!"
+        },
+        {
+            "original": "  Alas, what cry is that?  ",
+            "translated": "Alas, what is that cry?"
+        },
+        {
+            "original": "  That? What?  ",
+            "translated": "That? What?"
+        },
+        {
+            "original": "  Out and alas, that was my ladys voice.  ",
+            "translated": "Oh no, that was my lady's voice."
+        },
+        {
+            "original": "  Help! Help, ho, help! O lady, speak again!Sweet Desdemona! O sweet mistress, speak!  ",
+            "translated": "Help! Hey, help, help! Oh, my lady, say something! Sweet Desdemona! Oh, sweet mistress, say something!"
+        },
+        {
+            "original": "  A guiltless death I die.  ",
+            "translated": "I die as an innocent."
+        },
+        {
+            "original": "  Oh, who hath done this deed?  ",
+            "translated": "Oh, who has done this to you?"
+        },
+        {
+            "original": "  Nobody. I myself. Farewell.Commend me to my kind lord. Oh, farewell!  ",
+            "translated": "Nobody. I did it to myself. Farewell. Send my love to my kind lord. Oh, farewell!"
+        },
+        {
+            "original": "  Why, how should she be murdered?  ",
+            "translated": "Why, how could she have been murdered?"
+        },
+        {
+            "original": "  Alas, who knows?  ",
+            "translated": "Alas, who knows?"
+        },
+        {
+            "original": "  You heard her say herself it was not I.  ",
+            "translated": "You heard her say herself that it wasn't me."
+        },
+        {
+            "original": "  She said so. I must needs report the truth.  ",
+            "translated": "She said so. I must tell the truth."
+        },
+        {
+            "original": "  Shes like a liar gone to burning hell.'Twas I that killed her.  ",
+            "translated": "Then she's gone to hell as a liar. I'm the one who killed her."
+        },
+        {
+            "original": "  Oh, the more angel she,And you the blacker devil!  ",
+            "translated": "Oh, this makes her even more of an angel, and you more of a devil!"
+        },
+        {
+            "original": "  She turned to folly, and she was a whore.  ",
+            "translated": "She strayed, and she was a whore."
+        },
+        {
+            "original": "  Thou dost belie her, and thou art a devil.  ",
+            "translated": "You slander her, and you are a devil."
+        },
+        {
+            "original": "  She was false as water.  ",
+            "translated": "She was as unfaithful as water is inconstant."
+        },
+        {
+            "original": "  Thou art rash as fire,To say that she was false. Oh, she was heavenly true!  ",
+            "translated": "You are as impetuous as fire to say that she was unfaithful. She was heavenly faithful and honest!"
+        },
+        {
+            "original": "   Cassio did top her, ask thy husband else.    Oh, I were damned beneath all depth in hell,    But that I did proceed upon just grounds    To this extremity. Thy husband knew it all.   ",
+            "translated": "Cassio slept with her; you can ask your husband. I would be damned to hell if I didn't seek out just punishment to this end. Your husband knew all about this."
+        },
+        {
+            "original": "  My husband!  ",
+            "translated": "My husband!"
+        },
+        {
+            "original": "  Thy husband.  ",
+            "translated": "Yes, your husband."
+        },
+        {
+            "original": "  That she was false to wedlock?  ",
+            "translated": "He knew that she was unfaithful in her marriage?"
+        },
+        {
+            "original": "   Ay, with Cassio. Had she been true,    If heaven would make me such another world    Of one entire and perfect chrysolite,    Id not have sold her for it.   ",
+            "translated": "Yes, with Cassio. If she had been faithful, I wouldn't have traded her for an entire world made entirely of gemstones."
+        },
+        {
+            "original": "  My husband?  ",
+            "translated": "My husband?"
+        },
+        {
+            "original": "  Ay, twas he that told me on her first. An honest man he is, and hates the slimeThat sticks on filthy deeds.  ",
+            "translated": "Yes, he was the one who told me about her first. He is an honest man, and hates the slime of filthy bad deeds."
+        },
+        {
+            "original": "  My husband!  ",
+            "translated": "My husband!"
+        },
+        {
+            "original": "  What needs this iterance, woman? I say thy husband.  ",
+            "translated": "Why are you repeating yourself, woman? I said your husband."
+        },
+        {
+            "original": "  O mistress, villainy hath made mocks with love!My husband say that she was false!  ",
+            "translated": "Oh, my mistressa villain has played tricks with love. My husband said she was unfaithful!"
+        },
+        {
+            "original": "  He, woman. I say thy husbanddost understand the word?My friend, thy husband, honest, honest Iago.  ",
+            "translated": "Yes, him, woman. I said \"your husband\"do you understand the words? My friend, your husband, the honest, honest Iago."
+        },
+        {
+            "original": "   If he say so, may his pernicious soul    Rot half a grain a day! He lies to th' heart.    She was too fond of her most filthy bargain.   ",
+            "translated": "If Iago said this, then let his malicious soul rot slowly day after day! He lies down to his heart. She was too attached to her filthy marriage to you to be unfaithful."
+        },
+        {
+            "original": "  Ha!  ",
+            "translated": "Ha!"
+        },
+        {
+            "original": "  Do thy worst.This deed of thine is no more worthy heavenThan thou wast worthy her.  ",
+            "translated": "Do your worst. This deed you have done is not justified. It is no more worthy of heaven than you were worthy of her."
+        },
+        {
+            "original": "  Peace, you were best.  ",
+            "translated": "You'd better be quiet."
+        },
+        {
+            "original": "   Thou hast not half that power to do me harm    As I have to be hurt. O gull! O dolt!    As ignorant as dirt! Thou hast done a deed    I care not for thy sword, Ill make thee known    Though I lost twenty lives.   Help! Help, ho! Help!    The Moor hath killed my mistress! Murder, murder!   ",
+            "translated": "You don't have enough strength to do me half as much harm as I can endure. Oh, you fool! You idiot! You are as ignorant as dirt! You've dome something so awful . . . I don't care about your sword. I'd spread the news of this even if I was killed twenty times. Help! Hey, help! The Moor has killed my mistress! Murder! Murder!"
+        },
+        {
+            "original": "  What is the matter? How now, general?  ",
+            "translated": "What is the matter? What is going on, general?"
+        },
+        {
+            "original": "  Oh, are you come, Iago? You have done well,That men must lay their murders on your neck.  ",
+            "translated": "Oh, you've come, Iago? You've done really well, since other men credit you for their murders ."
+        },
+        {
+            "original": "  What is the matter?  ",
+            "translated": "What is the matter?"
+        },
+        {
+            "original": "    (to IAGO)    Disprove this villain, if thou best a man.    He says thou toldst him that his wife was false.    I know thou didst not, thou'rt not such a villain.    Speak, for my heart is full.   ",
+            "translated": "[To IAGO] Refute what this villain has said, if you are a man. He says that you told him his wife was unfaithful. I know you did not; you aren't that much of a villain. Speak, for my heart can't bear your silence any longer."
+        },
+        {
+            "original": "  I told him what I thought, and told no moreThan what he found himself was apt and true.  ",
+            "translated": "I told him what I thought, and said no more than that which he himself found out to be true."
+        },
+        {
+            "original": "  But did you ever tell him she was false?  ",
+            "translated": "But did you ever tell him that she was unfaithful?"
+        },
+        {
+            "original": "  I did.  ",
+            "translated": "I did."
+        },
+        {
+            "original": "   You told a lie, an odious, damn\u00e8d lie.    Upon my soul, a lie, a wicked lie.    She false with Cassio! Did you say with Cassio?   ",
+            "translated": "You told a liea horrible, damned lie. I swear by my soul, it was a lie, a wicked lie. Desdemona, unfaithful with Cassio! Did you say with Cassio?"
+        },
+        {
+            "original": "  With Cassio, mistress. Go to, charm your tongue.  ",
+            "translated": "Yes, with Cassio, mistress. Now come on, hold your tongue."
+        },
+        {
+            "original": "  I will not charm my tongue, I am bound to speak.My mistress here lies murdered in her bed  ",
+            "translated": "I will not hold my tongue. I must speak. My mistress lies here murdered in her bed"
+        },
+        {
+            "original": "  Oh, heavens forfend!  ",
+            "translated": "Heaven forbid!"
+        },
+        {
+            "original": "  And your reports have set the murder on.  ",
+            "translated": "And the news you spread led to the murder."
+        },
+        {
+            "original": "  Nay, stare not, masters, it is true, indeed.  ",
+            "translated": "Don't look so amazed, gentlemen. It is really true."
+        },
+        {
+            "original": "  'Tis a strange truth.  ",
+            "translated": "It's a strange truth."
+        },
+        {
+            "original": "  Oh, monstrous act!  ",
+            "translated": "What a monstrous act!"
+        },
+        {
+            "original": "   Villainy, villainy, villainy!    I think upon t, I think I smell t, Oh, villainy!    I thought so then, Ill kill myself for grief.    Oh, villainy, villainy!   ",
+            "translated": "Wickedness, wickedness, wickedness! I think about it, and I think I can smell it, oh wickedness! I suspected it earlier. I could kill myself out of grief. Oh, wickedness, wickedness!"
+        },
+        {
+            "original": "  What, are you mad? I charge you, get you home.  ",
+            "translated": "What, are you crazy? I order you to go back home."
+        },
+        {
+            "original": "   Good gentlemen, let me have leave to speak.    'Tis proper I obey him, but not now.    Perchance, Iago, I will ne'er go home.   ",
+            "translated": "Good gentlemen, give me permission to speak. It is proper for me to obey my husband, but not in this case. Maybe I will never go home, Iago."
+        },
+        {
+            "original": "  Oh! Oh! Oh!  ",
+            "translated": "Oh! Oh! Oh!"
+        },
+        {
+            "original": "  Nay, lay thee down and roar,For thou hast killed the sweetest innocentThat e'er did lift up eye.  ",
+            "translated": "Yes, lie down and roar with grief, since you have killed the sweetest innocent girl that ever lived."
+        },
+        {
+            "original": "   Oh, she was foul!    I scarce did know you, uncle.   There lies your niece,    Whose breath, indeed, these hands have newly stopped.    I know this act shows horrible and grim.   ",
+            "translated": "Oh, she was foul! I barely knew you, Uncle Gratiano, but there lies your niece, whose life I have just recently stopped with these very hands. I know this act seems horrible and grim."
+        },
+        {
+            "original": "   Poor Desdemon! I am glad thy fathers dead,    Thy match was mortal to him, and pure grief    Shore his old thread in twain.   Did he live now,    This sight would make him do a desperate turn,    Yea, curse his better angel from his side    And fall to reprobation.   ",
+            "translated": "Poor Desdemona! I am glad your father is dead. Your marriage was painful to him, and his grief cut his life short. If he were alive now, this sight would put him in a downward spiral. Yes, he would curse his good conscience and stoop to damnation."
+        },
+        {
+            "original": "   'Tis pitiful, but yet Iago knows    That she with Cassio hath the act of shame    A thousand times committed.   Cassio confessed it,    And she did gratify his amorous works    With that recognizance and pledge of love    Which I first gave her.   I saw it in his hand,    It was a handkerchief, an antique token    My father gave my mother.   ",
+            "translated": "It is pitiful, but Iago knows that Desdemona had shamefully cheated on me with Cassio a thousand times. Cassio confessed it, and she repaid his love with a token, the pledge of love that I first gave her. I saw it in his hand. It was a handkerchief, an antique my father gave to my mother."
+        },
+        {
+            "original": "  Oh, heaven! Oh, heavenly powers!  ",
+            "translated": "Oh God! Oh heavenly powers!"
+        },
+        {
+            "original": "  Zounds, hold your peace.  ",
+            "translated": "Christ, keep quiet."
+        },
+        {
+            "original": "   '   Twill out, twill out.I peace?    No, I will speak as liberal as the north.    Let heaven and men and devils, let them all,    All, all cry shame against me, yet Ill speak.   ",
+            "translated": "The truth will come out, the truth will come out. Me, be quiet? No, I will speak as freely as the north wind blows. I don't care if all angels and devils and humans cry out that I am shameful for disobeying my husband, I will still speak out."
+        },
+        {
+            "original": "  Be wise, and get you home.  ",
+            "translated": "Be smart and go back home."
+        },
+        {
+            "original": "  I will not.  ",
+            "translated": "I will not go."
+        },
+        {
+            "original": "  Fie! Your sword upon a woman?  ",
+            "translated": "Shame! You draw your sword against a woman?"
+        },
+        {
+            "original": "   O thou dull Moor! That handkerchief thou speakst of    I found by fortune and did give my husband.    For often, with a solemn earnestness    More than indeed belonged to such a trifle    He begged of me to steal it.   ",
+            "translated": "Oh, you stupid Moor! \u00a0I found the handkerchief you speak of\u00a0by chance, and gave it to my husband. For he often eagerly and earnestly begged me to steal it. He was more concerned about it than one would expect for such a little thing."
+        },
+        {
+            "original": "  Villainous whore!  ",
+            "translated": "Evil whore!"
+        },
+        {
+            "original": "  She give it Cassio? No, alas, I found itAnd I did give t my husband.  ",
+            "translated": "Did Desdemona give it to Cassio? No. I found it and gave it to my husband."
+        },
+        {
+            "original": "  Filth, thou liest!  ",
+            "translated": "Filth, you are lying!"
+        },
+        {
+            "original": "   By heaven, I do not, I do not, gentlemen.     (to OTHELLO)     O murderous coxcomb! What should such a fool    Do with so good a wife?   ",
+            "translated": "I swear by heaven, I do not lie, I do not, gentlemen.\u00a0[To\u00a0OTHELLO]\u00a0Oh, you murdering fool! How did such a fool as you get such a good wife?"
+        },
+        {
+            "original": "  Are there no stones in heavenBut what serve for the thunder?Precious villain!  ",
+            "translated": "Doesn't Jove have any thunderbolts he can use to strike down this complete villain?"
+        },
+        {
+            "original": "  The woman falls! Sure he hath killed his wife.  ",
+            "translated": "The woman has fallen down! He's surely killed his own wife."
+        },
+        {
+            "original": "  Ay, ay. Oh, lay me by my mistress' side.  ",
+            "translated": "Yes, yes. Oh, lay me down next to Desdemona."
+        },
+        {
+            "original": "  Hes gone, but his wifes killed.  ",
+            "translated": "He's run off, and his wife has been killed."
+        },
+        {
+            "original": "   'Tis a notorious villain. Take you this weapon,    Which I have recovered from the Moor.    Come, guard the door without. Let him not pass,    But kill him rather. Ill after that same villain,    For tis a damn\u00e8d slave.   ",
+            "translated": "He is a terrible villain. Take this weapon that I have obtained from the Moor. Go, guard the outer door. Don't let Iago get out. Kill him instead. I'll chase after the same villain, for he is a damned scoundrel."
+        },
+        {
+            "original": "   I am not valiant neither,    But ever puny whipster gets my sword.    But why should honor outlive honesty?    Let it go all.   ",
+            "translated": "I'm not very strong if some puny little man can take my sword from me. But then again, why should my honor live on after my honesty is dead? I'll let it all go."
+        },
+        {
+            "original": "   What did thy song bode, lady?    Hark, canst thou hear me? I will play the swan.    And die in music.    (  singing)       Willow, willow, willow        Moor, she was chaste, she loved thee, cruel Moor.    So come my soul to bliss, as I speak true.    So speaking as I think, alas, I die.   ",
+            "translated": "What did your song foretell, my lady? Listen, can you \u00a0hear me? I will be like a swan and die while singing. [Singing]\u00a0Willow, willow, willow Moor, she was chaste and she loved you, cruel Moor. I speak the truth, so my soul will go to heaven. And so, alas, I diespeaking my honest thoughts."
+        },
+        {
+            "original": "   I have another weapon in this chamber,    It was a sword of Spain, the ice-brooks temper.    Oh, here it is. Uncle, I must come forth.   ",
+            "translated": "I have another weapon in this room. It is a sword from Spain, hardened in an icy stream. Oh, here it is. Uncle, I must come out of the room."
+        },
+        {
+            "original": "   [within]  If thou attempt it, it will cost thee dear.Thou hast no weapon, and perforce must suffer.  ",
+            "translated": "[Offstage] If you try to get by, you'll pay for it. You have no weapon, and so you'll surely get hurt."
+        },
+        {
+            "original": "  Look in upon me then and speak with me, Or, naked as I am, I will assault thee.  ",
+            "translated": "Then come in here and speak with me. Or, unarmed as I am, I will attack you."
+        },
+        {
+            "original": "  What is the matter?  ",
+            "translated": "What is the matter?"
+        },
+        {
+            "original": "   Behold, I have a weapon.    A better never did itself sustain    Upon a soldiers thigh.   I have seen the day    That with this little arm and this good sword    I have made my way through more impediments    Than twenty times your stop.   But, oh, vain boast!    Who can control his fate? tis not so now.    Be not afraid, though you do see me weaponed.    Here is my journeys end, here is my butt,    And very sea-mark of my utmost sail.    Do you go back dismayed? tis a lost fear.    Man but a rush against Othellos breast,    And he retires. Where should Othello go?    Now, how dost thou look now?   O ill-starred wench,    Pale as thy smock! When we shall meet at compt    This look of thine will hurl my soul from heaven    And fiends will snatch at it.   Cold, cold, my girl,    Even like thy chastity. O cursed, cursed slave!    Whip me, ye devils,    From the possession of this heavenly sight!    Blow me about in winds, roast me in sulfur,    Wash me in steep-down gulfs of liquid fire!    Oh, Desdemona! Desdemona! dead! Oh! Oh!   ",
+            "translated": "Look, I have a weapon. A better sword has never graced a soldier's scabbard. I remember times when, with this little arm and good sword of mine, I made my way through obstacles more than twenty times as tough as you. But what a pointless boast that is! Who can control his fate? I can't now. Don't worry, even though I am carrying a weapon. This is the end of my journey, the end of the rope, and my final destination. Are you backing off, frightened? You have nothing to fear. You could strike at me with nothing more than a reed, and I'd draw back. Where could Othello run to? Do you see how you look now? Oh, you woman with an unlucky fate, as pale as your white nightgown! When we meet on Judgment Day, this look of yours will throw my soul out of heaven and into hell, where devils will snatch it. You are cold, my girl, cold like your chastity, which never gave in to the heat of desire. Oh cursed, cursed villain! Devils, whip me until I no longer see this horrible sight! Blow me around in winds, burn me in sulfur flames, wash me in gulfs of liquid fire! Oh, Desdemona! Desdemona! Dead! Oh! Oh!"
+        },
+        {
+            "original": "  Where is this rash and most unfortunate man?  ",
+            "translated": "Where is this impulsive and most unfortunate man?"
+        },
+        {
+            "original": "  Thats he that was Othello. Here I am.  ",
+            "translated": "You speak of Othello. Here I am."
+        },
+        {
+            "original": "  Where is that viper? Bring the villain forth.  ",
+            "translated": "And where is that poisonous snake? Bring the villain forward."
+        },
+        {
+            "original": "  I look down towards his feet, but thats a fable.If that thou best a devil, I cannot kill thee.  ",
+            "translated": "I see his feet, so it must just be a fairy tale that the devil has hooves. If you are a devil, then I cannot kill you."
+        },
+        {
+            "original": "  Wrench his sword from him.  ",
+            "translated": "Take his sword away from him."
+        },
+        {
+            "original": "  I bleed, sir, but not killed.  ",
+            "translated": "I am bleeding, but I haven't been killed, sir."
+        },
+        {
+            "original": "  I am not sorry neither. Id have thee live,For in my sense tis happiness to die.  ",
+            "translated": "Good. I want you to live, because for me death is sweet now."
+        },
+        {
+            "original": "  O thou Othello, thou was once so good,Fall'n in the practice of a curs\u00e8d slave,What shall be said to thee?  ",
+            "translated": "Oh, Othello, you used to be so good, and now you've fallen under the control of a cursed villain. What can I say to you?"
+        },
+        {
+            "original": "  Why, anything. An honorable murderer, if you will,For naught I did in hate, but all in honor.  ",
+            "translated": "Anything. Call me an honorable murderer, if you wish, since I didn't do anything out of hate but instead out of a sense of honor."
+        },
+        {
+            "original": "  This wretch hath part confessed his villainy.Did you and he consent in Cassios death?  ",
+            "translated": "This wretched man has confessed to some of his evil doings. Did you and he conspire to kill Cassio?"
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Dear general, I never gave you cause.  ",
+            "translated": "Dear general, I gave you no reason to kill me."
+        },
+        {
+            "original": "   I do believe it, and I ask your pardon.    Will you, I pray, demand that demi-devil    Why he hath thus ensnared my soul and body?   ",
+            "translated": "I believe you, and I ask for your forgiveness. Will you please ask that half-devil why he has tricked me and ruined my soul and body?"
+        },
+        {
+            "original": "  Demand me nothing. What you know, you know. From this time forth I never will speak word.  ",
+            "translated": "Ask me nothing. You know what you know. From now on I will never speak again."
+        },
+        {
+            "original": "  What, not to pray?  ",
+            "translated": "Not even to pray?"
+        },
+        {
+            "original": "  Torments will ope your lips.  ",
+            "translated": "We can make you speak with torture."
+        },
+        {
+            "original": "  Well, thou dost best.  ",
+            "translated": "Do your best, then."
+        },
+        {
+            "original": "   Sir, you shall understand what hath befall'n,    Which, as I think, you know not. Here is a letter    Found in the pocket of the slain Roderigo,    And here another. The one of them imports    The death of Cassio to be undertook    By Roderigo.   ",
+            "translated": "Sir, let me explain what has happened, which I don't think you know. Here is a letter that was found in dead Roderigo's pocket. And here is another. One of them says that Roderigo should kill Cassio."
+        },
+        {
+            "original": "  Oh, villain!  ",
+            "translated": "Oh, you villain!"
+        },
+        {
+            "original": "  Most heathenish and most gross!  ",
+            "translated": "Filthiest heathen!"
+        },
+        {
+            "original": "   Now heres another discontented paper    Found in his pocket too, and this,   it seems,    Roderigo meant to have sent this damn\u00e8d villain    But that, belike, Iago in the interim    Came in and satisfied him.   ",
+            "translated": "And now here's the other paper from his pocket, an angry letter. It seems Roderigo meant to send it to Iago, but the damned villain likely killed him before he had the chance."
+        },
+        {
+            "original": "  O thou pernicious caitiff!How came you, Cassio, by that handkerchiefThat was my wifes?  ",
+            "translated": "Oh, you malicious wretch! Cassio, how did you come across my wife's handkerchief?"
+        },
+        {
+            "original": "   I found it in my chamber,    And he himself confessed but even now    That there he dropped it for a special purpose    Which wrought to his desire.   ",
+            "translated": "I found it in my room, and Iago himself just confessed that he left it there on purpose as part of his plan."
+        },
+        {
+            "original": "  O fool! fool! fool!  ",
+            "translated": "I'm a fool! A fool! A fool!"
+        },
+        {
+            "original": "   There is besides in Roderigos letter    How he upbraids Iago, that he made him    Brave me upon the watch, whereon it came    That I was cast.   And even but now he spake,    After long seeming deadIago hurt him,    Iago set him on.   ",
+            "translated": "Moreover, Roderigo's letter describes how Iago told him to offend me while I was on guard duty, the thing that made me lose my title of lieutenant. And just now, even though he seemed to be dead, Roderigo spoke and said that Iago tricked him and urged him to on."
+        },
+        {
+            "original": "    (to OTHELLO)    You must forsake this room and go with us.    Your power and your command is taken off    And Cassio rules in Cyprus.   For this slave,    If there be any cunning cruelty    That can torment him much and hold him long,    It shall be his.   You shall close prisoner rest    Till that the nature of your fault be known    To the Venetian state.Come, bring him away.   ",
+            "translated": "[To OTHELLO]\u00a0You must leave this room and come with us. You have been stripped of your power and command, and Cassio now rules over Cyprus. As for this scoundrel, he will get whatever clever, cruel torture we can devise to cause him a lot of pain for a long time. You will stay a prisoner until the Venetian government hears of your crime. Come on, bring him away."
+        },
+        {
+            "original": "   Soft you, a word or two before you go.    I have done the state some service, and they know t.    No more of that.   I pray you, in your letters,    When you shall these unlucky deeds relate,    Speak of me as I am. Nothing extenuate,    Nor set down aught in malice.   Then must you speak    Of one that loved not wisely, but too well.    Of one not easily jealous, but being wrought,    Perplexed in the extreme.   Of one whose hand,    Like the base Indian, threw a pearl away    Richer than all his tribe.   Of one whose subdued eyes,    Albeit unused to the melting mood,    Drop tears as fast as the Arabian trees    Their medicinal gum.   Set you down this,    And say besides that in Aleppo once,    Where a malignant and a turbaned Turk    Beat a Venetian and traduced the state,    I took by the throat the circumcis\u00e8d dog,    And smote him, thus.   ",
+            "translated": "Wait, let me say a word or two before you go. I have served the government of Venice well, and they know it. But nothing more about that. I beg you, in your letters, when you relate the story of these unfortunate deeds, speak of me as I am. Don't downplay my crime, but don't exaggerate it maliciously. Speak of me as a man who loved not wisely, but too much; a man who was not easily made jealous, but was manipulated and tricked into extreme jealously; a man who behaved like a vile Indian that throws away a pearl worth more than his whole tribe. Speak of me as a man who is not used to crying, but whose eyes now drop tears like the Arabian trees that drip with medicinal sap. Write this, and also say that one time in Aleppo a malicious Turk wearing a turban beat a Venetian, flouting the Venetian state, and so I grabbed the circumcised Turkish dog by his throat and struck him down like this."
+        },
+        {
+            "original": "  Oh, bloody period!  ",
+            "translated": "What a bloody conclusion!"
+        },
+        {
+            "original": "  All that is spoke is marred.  ",
+            "translated": "Everything he said is tarnished by what he's done."
+        },
+        {
+            "original": "   [To DESDEMONA]  I kissed thee ere I killed thee. No way but this,Killing myself, to die upon a kiss.  ",
+            "translated": "[To DESDEMONA] I kissed you before I killed you. Now that I am killing myself, I must die with a kiss."
+        },
+        {
+            "original": "  This did I fear, but thought he had no weapon,For he was great of heart.  ",
+            "translated": "I feared this would happen because he was a brave man, but I didn't think he had a weapon."
+        },
+        {
+            "original": "    (to IAGO)     O Spartan dog,    More fell than anguish, hunger, or the sea,    Look on the tragic loading of this bed.    This is thy work. The object poisons sight,    Let it be hid.   Gratiano, keep the house    And seize upon the fortunes of the Moor,    For they succeed on you.   T   o you, lord governor,    Remains the censure of this hellish villain:    The time, the place, the torture. Oh, enforce it!    Myself will straight aboard, and to the state    This heavy act with heavy heart relate.   ",
+            "translated": "[To IAGO] You cruel dog, look at the tragic contents of this bedworse than pain, starvation, or the tempestuous sea. This is your doing. It hurts to look at this. Cover the bodies.\u00a0[To GRATIANO] Gratiano, guard the house and take the Moor's possessions, for you inherit them all.\u00a0[To CASSIO]\u00a0And you, my lord governor, will decide how to punish this hellish villain. You can pick the time, the place, and the kind of torture. And then enforce the punishment! I will go to a ship immediately, and tell the Venetian government about these tragic events with a heavy heart."
+        }
+    ]
+}

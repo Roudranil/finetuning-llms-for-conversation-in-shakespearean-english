@@ -1,0 +1,388 @@
+{
+    "dialogs": [
+        {
+            "original": "   At last, though long, our jarring notes agree,    And time it is when raging war is done    To smile at scapes and perils overblown.    My fair Bianca, bid my father welcome,    While I with selfsame kindness welcome thine.    Brother Petruchio, sister Katherina,    And thou, Hortensio, with thy loving widow,    Feast with the best, and welcome to my house.    My banquet is to close our stomachs up,    After our great good cheer. Pray you, sit down,    For now we sit to chat as well as eat.   ",
+            "translated": "It's taken a long time, but at last we've all been reconciled. Now that the raging war is over, it's time to smile at our past dangers and adventures. My fair Bianca, welcome my father, while I with equal kindness welcome yours. Brother Petruchio, Sister Katherina, and you, Hortensio, with your loving widow, feast with the best of them, and welcome to my house. This dessert is to close up our stomachsand any hard feelingsafter our great feast. Please, sit down, for now we sit to chat as well as to eat."
+        },
+        {
+            "original": "  Nothing but sit and sit, and eat and eat!  ",
+            "translated": "Nothing but sit and sit, and eat and eat!"
+        },
+        {
+            "original": "  Padua affords this kindness, son Petruchio.  ",
+            "translated": "Padua can afford this pleasant lifestyle, my son Petruchio."
+        },
+        {
+            "original": "  Padua affords nothing but what is kind.  ",
+            "translated": "Padua contains nothing that isn't pleasant.\u00a0"
+        },
+        {
+            "original": "  For both our sakes, I would that word were true.  ",
+            "translated": "For both our sakes, I hope that's true."
+        },
+        {
+            "original": "  Now, for my life, Hortensio fears his widow.  ",
+            "translated": "Now, I swear! Hortensio fears his widow."
+        },
+        {
+            "original": "  Then never trust me if I be afeard.  ",
+            "translated": "Don't worry, I'm not afraid of him."
+        },
+        {
+            "original": "  You are very sensible, and yet you miss my sense:I mean, Hortensio is afeard of you.  ",
+            "translated": "You are very sensible, but you mistook my meaning: I meant that Hortensio is afraid of you."
+        },
+        {
+            "original": "  He that is giddy thinks the world turns round.  ",
+            "translated": "He who is dizzy thinks the world spins round."
+        },
+        {
+            "original": "  Roundly replied.  ",
+            "translated": "Well said."
+        },
+        {
+            "original": "  Mistress, how mean you that?  ",
+            "translated": "Mistress, what do you mean by that?"
+        },
+        {
+            "original": "  Thus I conceive by him.  ",
+            "translated": "That's what I conceive of Petruchio."
+        },
+        {
+            "original": "  Conceives by me? How likes Hortensio that?  ",
+            "translated": "She conceives by me? And what does Hortensio think of that?"
+        },
+        {
+            "original": "  My widow says, thus she conceives her tale.  ",
+            "translated": "My widow means that that's how she understands you."
+        },
+        {
+            "original": "  Very well mended. Kiss him for that, good widow.  ",
+            "translated": "Good job fixing that. Kiss him for that, good widow."
+        },
+        {
+            "original": "  He that is giddy thinks the world turns roundI pray you, tell me what you meant by that.  ",
+            "translated": "\"He who is dizzy thinks the world spins round\"Please, tell me what you meant by that."
+        },
+        {
+            "original": "  Your husband being troubled with a shrew Measures my husbands sorrow by his woe.And now you know my meaning.  ",
+            "translated": "Your husband, who has to live with a shrew, projects his own troubles onto my husband. And now you know my meaning."
+        },
+        {
+            "original": "  A very mean meaning.  ",
+            "translated": "A very mean meaning."
+        },
+        {
+            "original": "  Right, I mean you.  ",
+            "translated": "Right, because I mean you."
+        },
+        {
+            "original": "  And I am mean indeed, respecting you.  ",
+            "translated": "And I demean myself by paying you any attention.\u00a0"
+        },
+        {
+            "original": "  To her, Kate!  ",
+            "translated": "Get her, Kate!"
+        },
+        {
+            "original": "  To her, widow!  ",
+            "translated": "Get her, widow!"
+        },
+        {
+            "original": "  A hundred marks, my Kate does put her down.  ",
+            "translated": "I'll bet you a hundred marks, my Kate will have her on her back."
+        },
+        {
+            "original": "  Thats my office.  ",
+            "translated": "That's my job."
+        },
+        {
+            "original": "  Spoke like an officer! Ha' to thee, lad!  ",
+            "translated": "Spoken like a good worker! Here's to you, boy!"
+        },
+        {
+            "original": "  How likes Gremio these quick-witted folks?  ",
+            "translated": "How does Gremio like these quick-witted folks?"
+        },
+        {
+            "original": "  Believe me, sir, they butt together well.  ",
+            "translated": "Believe me, sir, they butt heads well."
+        },
+        {
+            "original": "  Head and butt! An hasty-witted bodyWould say your head and butt were head and horn.  ",
+            "translated": "Head and butt! A clever person would say your butting head had horns."
+        },
+        {
+            "original": "  Ay, mistress bride, hath that awakened you?  ",
+            "translated": "Ah, mistress bride, have we woken you up?"
+        },
+        {
+            "original": "  Ay, but not frighted me. Therefore Ill sleep again.  ",
+            "translated": "Yes, but it hasn't frightened me. So I'll go back to sleep."
+        },
+        {
+            "original": "  Nay, that you shall not. Since you have begun,Have at you for a bitter jest or two!  ",
+            "translated": "No, you certainly won't. Now that you've gotten started, be ready for a sharp joke or two!"
+        },
+        {
+            "original": "  Am I your bird? I mean to shift my bush,And then pursue me as you draw your bow.You are welcome all.  ",
+            "translated": "Am I the bird you're shooting at now? I'll fly to a different tree, so you must follow me with your bow. You are all welcome here. Ladies, let me lead you out."
+        },
+        {
+            "original": "  She hath prevented me. Here, Signior Tranio,This bird you aimed at, though you hit her not.Therefore a health to all that shot and missed.  ",
+            "translated": "Well, she's escaped me. Sir Tranio, you also aimed at that bird, though you didn't hit her.So here's a toast to all who have shot and missed."
+        },
+        {
+            "original": "  Oh, sir, Lucentio slipped me like his greyhound,Which runs himself and catches for his master.  ",
+            "translated": "Oh, sir, Lucentio just let me off his leash like a greyhound. I did the running, but the catch was for my master."
+        },
+        {
+            "original": "  A good swift simile, but something currish.  ",
+            "translated": "A good and fast answer, but also one for the dogs."
+        },
+        {
+            "original": "  'Tis well, sir, that you hunted for yourself.'Tis thought your deer does hold you at a bay.  ",
+            "translated": "It's good, sir, that you hunted for yourself. There's a rumor that your deer has faced you down and cornered you."
+        },
+        {
+            "original": "  Oh, Oh, Petruchio! Tranio hits you now.  ",
+            "translated": "Oh, oh, Petruchio! Now Tranio hits you with a good one."
+        },
+        {
+            "original": "  I thank thee for that gird, good Tranio.  ",
+            "translated": "I thank you for that taunt, good Tranio."
+        },
+        {
+            "original": "  Confess, confess, hath he not hit you here?  ",
+            "translated": "Admit it, admit, didn't that one hit close to home?"
+        },
+        {
+            "original": "  He has a little galled me, I confess.And, as the jest did glance away from me,'Tis ten to one it maimed you two outright.  ",
+            "translated": "He has wounded me a little, I confess. But since the taunt grazed me and kept flying, it's ten to one that it hit you two straight on."
+        },
+        {
+            "original": "  Now, in good sadness, son Petruchio, I think thou hast the veriest shrew of all.  ",
+            "translated": "In all seriousness though, my son Petruchio, I think you have the biggest shrew of all."
+        },
+        {
+            "original": "   Well, I say no. And therefore, for assurance,    Lets each one send unto his wife;    And he whose wife is most obedient    To come at first when he doth send for her,    Shall win the wager which we will propose.   ",
+            "translated": "Well, I have to disagree. But let's have some proof. Each one of us should send for his wife, and whoever's wife is most obedient, and comes immediately when he sends for her, that man will win the bet we make."
+        },
+        {
+            "original": "  Content. Whats the wager?  ",
+            "translated": "Sounds good. What's the bet?"
+        },
+        {
+            "original": "  Twenty crowns.  ",
+            "translated": "Twenty crowns."
+        },
+        {
+            "original": "  Twenty crowns?Ill venture so much of my hawk or hound, But twenty times so much upon my wife.  ",
+            "translated": "Twenty crowns? I'd bet that much on my hawk or my hound, but I'd bet twenty times that on my wife."
+        },
+        {
+            "original": "  A hundred then.  ",
+            "translated": "A hundred then."
+        },
+        {
+            "original": "  Content.  ",
+            "translated": "Agreed."
+        },
+        {
+            "original": "  A match! 'Tis done.  ",
+            "translated": "It's a bet! Let's do it."
+        },
+        {
+            "original": "  Who shall begin?  ",
+            "translated": "Who should begin?"
+        },
+        {
+            "original": "  That will I.Go, Biondello, bid your mistress come to me.  ",
+            "translated": "I will. Go, Biondello, and tell your mistress to come to me."
+        },
+        {
+            "original": "  I go.  ",
+            "translated": "I go."
+        },
+        {
+            "original": "  Son, Ill be your half Bianca comes.  ",
+            "translated": "Son, I'll take half your bet that Bianca comes."
+        },
+        {
+            "original": "  Ill have no halves. Ill bear it all myself.  ",
+            "translated": "I don't want any halves. I'll bear it all myself."
+        },
+        {
+            "original": "  How now, what news?  ",
+            "translated": "Well, what's the news?"
+        },
+        {
+            "original": "  Sir, my mistress sends you wordThat she is busy, and she cannot come.  ",
+            "translated": "Sir, my mistress says to tell you that she's busy, and she cannot come."
+        },
+        {
+            "original": "  How! Shes busy, and she cannot come!Is that an answer?  ",
+            "translated": "What! \"She's busy, and she cannot come!\" Is that her answer?"
+        },
+        {
+            "original": "  Ay, and a kind one too.Pray God, sir, your wife send you not a worse.  ",
+            "translated": "Yes, and a kind one at that. Pray to God, sir, that your wife doesn't send you a worse one."
+        },
+        {
+            "original": "  I hope better.  ",
+            "translated": "I expect something better."
+        },
+        {
+            "original": "  Sirrah Biondello, go and entreat my wifeTo come to me forthwith.  ",
+            "translated": "Biondello, boy, go and ask my wife to come to me right away."
+        },
+        {
+            "original": "  O, ho, entreat her!Nay, then she must needs come.  ",
+            "translated": "Oh ho, ask her! Well, then she has to come."
+        },
+        {
+            "original": "  I am afraid, sir,Do what you can, yours will not be entreated.  ",
+            "translated": "I'm afraid that no matter what you do, sir, your wife won't let herself be asked for anything."
+        },
+        {
+            "original": "  Now, wheres my wife?  ",
+            "translated": "Now, where's my wife?"
+        },
+        {
+            "original": "  She says you have some goodly jest in hand.She will not come. She bids you come to her.  ",
+            "translated": "She says you must be playing some kind of joke. She will not come. She tells you to come to her."
+        },
+        {
+            "original": "   Worse and worse. She will not come!    O vile, intolerable, not to be endured!    Sirrah Grumio, go to your mistress,    Say I command her to come to me.   ",
+            "translated": "Worse and worse. She will not come! Oh, it's vile, intolerable, not to be endured!Grumio, go to your mistress. Say that I command her to come to me."
+        },
+        {
+            "original": "  I know her answer.  ",
+            "translated": "I know what her answer will be."
+        },
+        {
+            "original": "  What?  ",
+            "translated": "What?"
+        },
+        {
+            "original": "  She will not.  ",
+            "translated": "She will not."
+        },
+        {
+            "original": "  The fouler fortune mine, and there an end.  ",
+            "translated": "That'll be the worse for me, and an end to the matter."
+        },
+        {
+            "original": "  Now, by my holidam, here comes Katherina!  ",
+            "translated": "Now, by all that's holy, here comes Katherina!"
+        },
+        {
+            "original": "  What is your will, sir, that you send for me?  ",
+            "translated": "What is your will, sir, that you sent for me?"
+        },
+        {
+            "original": "  Where is your sister, and Hortensios wife?  ",
+            "translated": "Where are your sister and Hortensio's wife?"
+        },
+        {
+            "original": "  They sit conferring by the parlor fire.  ",
+            "translated": "They sit talking by the fire in the parlor.\u00a0"
+        },
+        {
+            "original": "  Go fetch them hither. If they deny to come,Swinge me them soundly forth unto their husbands.Away, I say, and bring them hither straight.  ",
+            "translated": "Go bring them here. If they refuse to come, give them a beating on my behalf to get them out here to their husbands. Go on, I say, and bring them here right away."
+        },
+        {
+            "original": "  Here is a wonder, if you talk of a wonder.  ",
+            "translated": "Here is a miracle, if we're speaking of miracles."
+        },
+        {
+            "original": "  And so it is. I wonder what it bodes.  ",
+            "translated": "So it is. I wonder what it means."
+        },
+        {
+            "original": "  Marry, peace it bodes, and love, and quiet life,And awful rule, and right supremacy,And, to be short, what not thats sweet and happy?  ",
+            "translated": "Well, it means peace, and love, and a quiet life, and authority commanding respect, and proper hierarchy, and, in brief, everything sweet and happy."
+        },
+        {
+            "original": "   Now, fair befall thee, good Petruchio!    The wager thou hast won, and I will add    Unto their losses twenty thousand crowns,  Another dowry to another daughter,For she is changed as she had never been.  ",
+            "translated": "Well, may you have good fortune, good Petruchio! You've won the bet, and I'll add twenty thousand crowns to these two men's losses. It will be a new dowry for a new daughter, for indeed she is so changed that she's like a whole new woman."
+        },
+        {
+            "original": "  Nay, I will win my wager better yet,And show more sign of her obedience,Her new-built virtue and obedience.  ",
+            "translated": "Wait, I'll win the bet even more completely, and show more signs of her obedience, her newly-created virtue and obedience."
+        },
+        {
+            "original": "   See where she comes and brings your froward wives    As prisoners to her womanly persuasion.    Katherine, that cap of yours becomes you not.    Off with that bauble, throw it underfoot.   ",
+            "translated": "See, here she comes, bringing your willful wives with her as prisoners of her womanly duty. Katherine, that cap of yours doesn't look good. Take off the silly thing and stomp on it.\u00a0"
+        },
+        {
+            "original": "  Lord, let me never have a cause to sigh,Till I be brought to such a silly pass!  ",
+            "translated": "Lord, don't let me ever be brought to such a silly state of affairs where someone could treat me like that!"
+        },
+        {
+            "original": "  Fie! What a foolish duty call you this?  ",
+            "translated": "For shame! What kind of foolish \"obedience\" do you call this?"
+        },
+        {
+            "original": "  I would your duty were as foolish too.The wisdom of your duty, fair Bianca,Hath cost me an hundred crowns since suppertime.  ",
+            "translated": "I wish your obedience was just as foolish. The wisdom of your obedience, fair Bianca, has cost me a hundred crowns since dinnertime.\u00a0"
+        },
+        {
+            "original": "  The more fool you for laying on my duty.  ",
+            "translated": "Then you're the bigger fool for betting money on my obedience."
+        },
+        {
+            "original": "  Katherine, I charge thee, tell these headstrong women What duty they do owe their lords and husbands.  ",
+            "translated": "Katherine, I want you to tell these headstrong women what kind of obedience they owe to their lords and husbands."
+        },
+        {
+            "original": "  Come, come, youre mocking. We will have no telling.  ",
+            "translated": "Come on, you're joking. She won't tell us anything."
+        },
+        {
+            "original": "  Come on, I say, and first begin with her.  ",
+            "translated": "Do it, I say, and begin with her."
+        },
+        {
+            "original": "  She shall not.  ",
+            "translated": "She won't."
+        },
+        {
+            "original": "  I say she shall.And first begin with her.  ",
+            "translated": "I say she will.And first begin with her."
+        },
+        {
+            "original": "   Fie, fie! Unknit that threat'ning unkind brow    And dart not scornful glances from those eyes    To wound thy lord, thy king, thy governor.    It blots thy beauty as frosts do bite the meads,    Confounds thy fame as whirlwinds shake fair buds,    And in no sense is meet or amiable.    A woman moved is like a fountain troubled,    Muddy, ill-seeming, thick, bereft of beauty,    And while it is so, none so dry or thirsty    Will deign to sip or touch one drop of it.    Thy husband is thy lord, thy life, thy keeper,    Thy head, thy sovereign, one that cares for thee,    And for thy maintenance commits his body    To painful labor both by sea and land,    To watch the night in storms, the day in cold,    Whilst thou liest warm at home, secure and safe,    And craves no other tribute at thy hands    But love, fair looks and true obedience    Too little payment for so great a debt.    Such duty as the subject owes the prince,    Even such a woman oweth to her husband.    And when she is froward, peevish, sullen, sour,    And not obedient to his honest will,    What is she but a foul contending rebel    And graceless traitor to her loving lord?    I am ashamed that women are so simple    To offer war where they should kneel for peace;    Or seek for rule, supremacy and sway    When they are bound to serve, love, and obey.    Why are our bodies soft and weak and smooth,    Unapt to toil and trouble in the world,    But that our soft conditions and our hearts    Should well agree with our external parts?    Come, come, you froward and unable worms!    My mind hath been as big as one of yours,    My heart as great, my reason haply more,    To bandy word for word and frown for frown.    But now I see our lances are but straws,    Our strength as weak, our weakness past compare,    That seeming to be most which we indeed least are.    Then vail your stomachs, for it is no boot,    And place your hands below your husbands foot:    In token of which duty, if he please,    My hand is ready, may it do him ease.   ",
+            "translated": "For shame, for shame! Don't furrow your brow and glare so scornfully to try to wound the man who is your lord, your king, and your governor. It tarnishes your beauty like frost blights the meadows, and ruins your reputation like a strong wind shaking a flower bud. In no sense whatsoever is it appropriate or pleasant. An angry woman is like a stirred-up fountainmuddy, ugly, thick, lacking beautyand while it's in this condition, no one, not even a dry or thirsty man, will stoop to sip or touch one drop of it. Your husband is your lord, your life, your keeper, your head, your ruler, and one who cares for you. To keep you safe and comfortable he commits his body to painful labor on both sea and land, to staying awake on stormy nights and cold days at sea, while you stay at home, warm and secure. And in exchange all he asks for is love, beauty, and true obediencetoo little payment for so great a debt. A woman owes her husband the same obedience that a subject owes to his prince. And when she is stubborn, peevish, sullen, sour, and not obedient to his honest will, then what is she but a foul, vicious rebel, and a cursed traitor to her loving lord? I am ashamed that women are so foolish as to declare war when they should kneel and plead for peace. I'm ashamed that they should seek rulership, supremacy, and power when they are obligated to serve, love and obey. Why else are our bodies so soft and weak and smooth, unfit for labor and trouble in the world, if not so that our soft qualities and our hearts should agree with our external parts? Come, come, you weak, willful worms! My mind was once just as arrogant as yours, my courage just as great, and my wit perhaps even better when it came to tossing words back and forth and exchanging frowns for frowns. But now I see that our swords are only straws, our strength is just as weak, and our weakness is beyond compare, so that we seem to be exactly the thing we are not. So humble your pride, for it's useless. Place your hands beneath your husband's boot as a gesture of obedience. My hand is always ready to comfort and pleasure my husband, if he wants me to."
+        },
+        {
+            "original": "  Why, theres a wench! Come on and kiss me, Kate.  ",
+            "translated": "Why, there's a good girl! Come on and kiss me, Kate."
+        },
+        {
+            "original": "  Well, go thy ways, old lad, for thou shalt ha t.  ",
+            "translated": "Well, what do you know, old boy, you've done it."
+        },
+        {
+            "original": "  'Tis a good hearing when children are toward.  ",
+            "translated": "It's good to hear children being obedient."
+        },
+        {
+            "original": "  But a harsh hearing when women are froward.  ",
+            "translated": "But it's unpleasant to hear women being willful."
+        },
+        {
+            "original": "   [To LUCENTIO]    Come, Kate, well to bed.    We three are married, but you two are sped.    'Twas I won the wager, though you hit the white,    And, being a winner, God give you good night!   ",
+            "translated": "Come, Kate, we'll go to bed. We three are all married, but you two are done foryour wives are too disobedient.\u00a0"
+        },
+        {
+            "original": "  Now, go thy ways, thou hast tamed a curst shrew.  ",
+            "translated": "Well, go on. You've tamed a terrible shrew."
+        },
+        {
+            "original": "  'Tis a wonder, by your leave, she will be tamed so.  ",
+            "translated": "And it's a miracle, if I may say so, that she could be tamed like that."
+        }
+    ]
+}

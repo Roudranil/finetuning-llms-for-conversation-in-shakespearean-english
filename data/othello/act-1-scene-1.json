@@ -1,0 +1,184 @@
+{
+    "dialogs": [
+        {
+            "original": "  Tush! Never tell me. I take it much unkindlyThat thou, Iago, who hast had my purseAs if the strings were thine, shouldst know of this.  ",
+            "translated": "Psh! Don't say that. Iago, I am not pleased that you've known about this, especially since I've given you access to my wallet as if it were your own."
+        },
+        {
+            "original": "  'Sblood, but youll not hear me!  If ever I did dream of such a matter, abhor me.  ",
+            "translated": "Christ, you're not listening to me! I never even dreamed of such a thing. If I did, you'd have every right to hate me."
+        },
+        {
+            "original": "  Thou toldst meThou didst hold him in thy hate.  ",
+            "translated": "You told me that you hated him."
+        },
+        {
+            "original": "   Despise me    If I do not. Three great ones of the city    (In personal suit to make me his lieutenant)    Off-capped to him, and by the faith of man    I know my price, I am worth no worse a place.    But he (as loving his own pride and purposes)    Evades them with a bombast circumstance    Horribly stuffed with epithets of war,    And in conclusion    Nonsuits my mediators.   For Certes, says he,    I have already chose my officer.    And what was he?    Forsooth, a great arithmetician,    One Michael Cassio, a Florentine    A fellow almost damned in a fair wife    That never set a squadron in the field,    Nor the division of a battle knows    More than a spinsterunless the bookish theoric,    Wherein the toged consuls can propose    As masterly as he.   Mere prattle without practice    Is all his soldiership. But he, sir, had th' election    And I, of whom his eyes had seen the proof    At Rhodes, at Cyprus, and on other grounds    Christian and heathen,   must be beleed and calmed    By debitor and creditor. This counter-caster    He (in good time) must his lieutenant be    And I, bless the mark, his Moorships ancient.   ",
+            "translated": "If I don't hate him, you can hate me. Three noblemen of the city tipped their hats to him, making a personal plea for him to make me his lieutenant. And, truly, I know my value, and I'm worthy of that position. But of course Othello is too proud to listen and wants to do things his own way, so he speaks in circles with empty talk about war-related titles. And in the end he declines their proposal and says, \"Certainly, I have already chosen my lieutenant.\" And who did he choose? A guy who's basically a mathematician, some Michael Cassio, from Florence. A man practically cursed with a wife too beautiful (whom he can't control). A man who has never commanded a squadron on the battlefield, who knows no more about battle than an old lady. He knows only theory from books, full of the talk of old geezers in togas. His military experience is all ideas, with no real action! But, sir, Othello chose this Cassio for lieutenant, not meeven though he's seen proof of my military prowess with his own eyes at Rhodes, at Cyprus, and on all sorts of battlefields in Christian and Pagan lands. Now, my career's stalled and I'm overtaken by some number cruncheran accountant! That bean-counter will be his lieutenant before too long, and meanwhile I'll be carrying around his Moorship's flag, thank you very much."
+        },
+        {
+            "original": "  By heaven, I rather would have been his hangman.  ",
+            "translated": "God, I'd rather be his executioner than his flag-bearer."
+        },
+        {
+            "original": "   Why, theres no remedy. 'Tis the curse of service.    Preferment goes by letter and affection,    And not by old gradation, where each second    Stood heir to th' first.   Now sir, be judge yourself,    Whether I in any just term am affined    To love the Moor.   ",
+            "translated": "Well, there's nothing I can do. That's the price of military service. Promotions are a matter of favoritismbased on whoever the leader likesnot based on rank, with a second officer stepping up to become a first officer, and so on. So now , sir, you be the judge and tell me: do I have any reason at all to love that Moor?"
+        },
+        {
+            "original": "  I would not follow him then.  ",
+            "translated": "If I were your position I wouldn't follow him. So why do you?"
+        },
+        {
+            "original": "   O sir, content you.    I follow him to serve my turn upon him.    We cannot all be masters, nor all masters    Cannot be truly followed.   You shall mark    Many a duteous and knee-crooking knave    That (doting on his own obsequious bondage)    Wears out his time much like his masters ass    For naught but provender, and when hes old, cashiered.    Whip me such honest knaves.   Others there are    Who, trimmed in forms and visages of duty,    Keep yet their hearts attending on themselves    And, throwing but shows of service on their lords,    Do well thrive by them.   And when they have lined their coats,    Do themselves homage. These fellows have some soul,    And such a one do I profess myself. For, sir,    It is as sure as you are Roderigo,    Were I the Moor, I would not be Iago.    In following him, I follow but myself.    Heaven is my judge, not I for love and duty,    But seeming so, for my peculiar end.    For when my outward action doth demonstrate    The native act and figure of my heart    In compliment extern, tis not long after    But I will wear my heart upon my sleeve    For daws to peck at. I am not what I am.   ",
+            "translated": "Oh, sir, calm yourself. I'm following him only so I can turn on him later. Maybe we can't all be leaders, but not all leaders can have loyal followers. All the time you see dutiful servants kneeling to their masters and working like mules for nothing but food. And when they get old, they're fired. These honest fools deserve to be whipped! There are others who take the appearance of duty and loyalty, but stay focused on their own interests. They put on a good show of serving their lords, and thrive in their subservient positions. But once they get enough money, they serve only themselves. These are the guys who really have some soul. That's the kind of servant I am. Believe me, as sure as your name is Roderigo: if I were the Moor, I would not want Iago as my servant. In following him, I'm really just following myself. God may judge me. I swear I'm not serving Othello out of love and duty, but merely appearing to, for my own purposes. If my outward appearance showed what my real intentions are, It would be like wearing my heart on my sleeve for birds to peck at. I am not what I seem to be."
+        },
+        {
+            "original": "  What a full fortune does the Thick-lips oweIf he can carryt thus!  ",
+            "translated": "What luck \u00a0Thick-lips has, if he can pull off what he's trying to do."
+        },
+        {
+            "original": "   Call up her father.    Rouse him. Make after him, Poison his delight,    Proclaim him in the streets. Incense her kinsmen,    And, though he in a fertile climate dwell,    Plague him with flies.   Though that his joy be joy    Yet throw such changes of vexation ont,    As it may lose some color.   ",
+            "translated": "Call up Desdemona's father. \u00a0Wake him up. We'll slander Othello in the streets, and ruin his happiness by getting his wife's family all riled up. And even if he's in a paradise right now, we'll fill it with flies. He may still be happy, but we'll douse him in so much irritation that his happiness will lose some of its luster."
+        },
+        {
+            "original": "  Here is her fathers house, Ill call aloud.  ",
+            "translated": "Here's Desdemona's father's house. I'll call out."
+        },
+        {
+            "original": "  Do, with like timorous accent and dire yellAs when, by night and negligence, the fireIs spied in populous cities.  ",
+            "translated": "Do it! Shout as loud and as seriously as when someone cries \"Fire!\" in a crowded city at night."
+        },
+        {
+            "original": "  What, ho, Brabantio! Signior Brabantio, ho!  ",
+            "translated": "Hey, Brabantio! Sir Brabantio, hey!"
+        },
+        {
+            "original": "  Awake! What, ho, Brabantio! Thieves! Thieves! Look to your house, your daughter, and your bags!Thieves! thieves!  ",
+            "translated": "Brabantio, wake up! Thieves! Thieves! Check on your house, check on your daughter, check on your money bags! Thieves! Thieves!"
+        },
+        {
+            "original": "  What is the reason of this terrible summons?What is the matter there?  ",
+            "translated": "What's the reason for your awful shouting? What's the matter out there?"
+        },
+        {
+            "original": "  Signior, is all your family within?  ",
+            "translated": "Sir, is all of your family safely inside?"
+        },
+        {
+            "original": "  Are your doors locked?  ",
+            "translated": "Are your doors locked?"
+        },
+        {
+            "original": "  Why, wherefore ask you this?  ",
+            "translated": "Why? \u00a0Why on earth are you asking me this?"
+        },
+        {
+            "original": "   Zounds, sir, youre robbed! For shame, put on your gown.    Your heart is burst, you have lost half your soul.    Even now, now, very now, an old black ram    Is tupping your white ewe.   Arise, arise,    Awake the snorting citizens with the bell    Or else the devil will make a grandsire of you.    Arise, I say!   ",
+            "translated": "Good lord, you're being robbed! You should be ashamed. Get dressed! It's like your heart is burst open and you're bleeding away your very soul. At this very momentright nowan old black ram is having his way with your white lamb. Get up, get up! Ring the bell and wake up all the snoring citizens, or else that devil will make you a grandfather. Get up!"
+        },
+        {
+            "original": "  What, have you lost your wits?  ",
+            "translated": "What are you saying? Have you lost your mind?"
+        },
+        {
+            "original": "  Most reverend signior, do you know my voice?  ",
+            "translated": "Most noble sir, do you recognize my voice?"
+        },
+        {
+            "original": "  Not I. What are you?  ",
+            "translated": "I do not. Who are you?"
+        },
+        {
+            "original": "  My name is Roderigo.  ",
+            "translated": "My name is Roderigo."
+        },
+        {
+            "original": "   The worser welcome.    I have charged thee not to haunt about my doors.    In honest plainness thou hast heard me say    My daughter is not for thee.   And now in madness,    Being full of supper and distempering drafts,    Upon malicious knavery dost thou come    To start my quiet?   ",
+            "translated": "Then you're not welcome here. I've already told you not to come by my house. I told you bluntly and honestly: my daughter is not for you. And now you come here in some kind of madness brought on by feasting and too many drinks, just to make trouble and ruin my good sleep?"
+        },
+        {
+            "original": "  Sir, sir, sir  ",
+            "translated": "Sir, sir, sir"
+        },
+        {
+            "original": "  But thou must needs be sure My spirits and my place have in their powerTo make this bitter to thee.  ",
+            "translated": "Make sure you understand: I have the willand the powerto make you regret this."
+        },
+        {
+            "original": "  Patience, good sir.  ",
+            "translated": "Good sir, hold on."
+        },
+        {
+            "original": "  What tellst thou me of robbing? This is Venice,My house is not a grange.  ",
+            "translated": "What are you talking to me about with \"robbing?\" \u00a0This is the city of Venice. My house isn't some unprotected barn."
+        },
+        {
+            "original": "  Most grave Brabantio,In simple and pure soul I come to you  ",
+            "translated": "Honorable Brabantio, I come to you in all honesty and good will"
+        },
+        {
+            "original": "   Zounds, sir, you are one of those that will not serve God, if the devil bid you. Because we come to do you service and you think we are ruffians, youll have your daughter covered with a Barbary horse.   Youll have your nephews neigh to you. Youll have coursers for cousins and gennets for germans.   ",
+            "translated": "Christ, sir, you're the type of man who would refuse to serve God if the devil told you to! We've come here to do you a favor, and you're ignoring us just because you think we're no good. You're letting your daughter mate with a Barbary horse. Your grandchildren will neigh to you. You'll have ponies and colts for descendants."
+        },
+        {
+            "original": "  What profane wretch art thou?  ",
+            "translated": "What kind of foul-mouthed jerk are you?"
+        },
+        {
+            "original": "  I am one, sir, that comes to tell you your daughter andthe Moor are now making the beast with two backs.  ",
+            "translated": "Sir, I am one that comes to tell you that your daughter and the Moor are doing the deed at this very moment."
+        },
+        {
+            "original": "  Thou art a villain!  ",
+            "translated": "You're a villain!"
+        },
+        {
+            "original": "  You are a senator!  ",
+            "translated": "And you're a senator!"
+        },
+        {
+            "original": "  This thou shalt answer. I know thee, Roderigo.  ",
+            "translated": "You will pay for this, Roderigo. I know what kind of man you are."
+        },
+        {
+            "original": "   Sir, I will answer any thing. But, I beseech you,    Ift be your pleasure and most wise consent    (As partly I find it is) that your fair daughter    At this odd-even and dull watch o' th' night    Transported with no worse nor better guard    But with a knave of common hire, a gondolier,    To the gross clasps of a lascivious Moor,    If this be known to you and your allowance,    We then have done you bold and saucy wrongs.    But if you know not this my manners tell me    We have your wrong rebuke.   Do not believe    That, from the sense of all civility,    I thus would play and trifle with your reverence.    Your daughter (if you have not given her leave)    I say again, hath made a gross revolt,    Tying her duty, beauty, wit, and fortunes    In an extravagant and wheeling stranger    Of here and everywhere.   Straight satisfy yourself.    If she be in her chamber or your house,    Let loose on me the justice of the state    For thus deluding you.   ",
+            "translated": "Sir, I'll answer for anything I've done. But, I beg you. if you're okay with the fact that your fair daughter, at this late hour of the night, is handed over  to the gross hands of a lustful Moor with no guard but a common servant for hire, a gondolier evenif you know all this,\u00a0and you allow it (which I think is the case), well then I admit we have insolently done you wrong. But if you're not aware of all this, then my own good manners suggest that you're wrong to scold us. Don't think that I would just play around with such a serious matter, contrary to any good manners. I repeat: if you haven't given your daughter permission, then she has seriously rebelled against your authority. She's giving all her obedience, beauty, wit, and wealth to some extravagant, wandering foreigner, who seems to have roots just about everywhere. Go now and see for yourself. If she's in her room, or even in your house, sue me and let the government punish me for lying to you like this."
+        },
+        {
+            "original": "   Strike on the tinder, ho!    Give me a taper, call up all my people!    This accident is not unlike my dream,    Belief of it oppresses me already.    Light, I say, light!   ",
+            "translated": "Hey, strike a match! Light me a torch! Wake everyone up! This whole situation is not unlike a dream I had. And I'm worried it's coming true. Lightgive me light!"
+        },
+        {
+            "original": "    [to RODERIGO]     Farewell, for I must leave you.    It seems not meet, nor wholesome to my place,    To be producted (as, if I stay, I shall)    Against the Moor.   For I do know the state    (However this may gall him with some check)    Cannot with safety cast him,   for hes embarked    With such loud reason to the Cyprus wars    (Which even now stand in act) that, for their souls,    Another of his fathom they have none    To lead their business.   In which regard,    Though I do hate him as I do hell pains,    Yet for necessity of present life    I must show out a flag and sign of love,    (Which is indeed but sign).   That you shall surely find him,    Lead to the Sagittary the rais\u00e8d search,    And there will I be with him. So farewell.   ",
+            "translated": "[To RODERIGO] Goodbye. I must leave you now. It seems to me neither wise nor appropriate given my position in Othello's service to be brought forward against the Moorand it seems like I will be, if I stay here. Besides, I know that the government cannot get rid of him (even if this whole thing may annoy Brabantio), since he's needed so greatly to fight in the wars with Cyprus that are going on right now. And the government has no one else of his capability to lead their forces, not even if they should trade their own souls for someone. Although I do hate Othello as much as I hate the tortures of Hell, for the time being I must show signs of lovewhich, I assure you, are nothing more than empty signs. You go lead the search party to the Sagittary Inn, where you will surely find him. I'll be there with him. So goodbye."
+        },
+        {
+            "original": "   It is too true an evil. Gone she is.    And whats to come of my despis\u00e8d time    Is naught but bitterness. Now, Roderigo,    Where didst thou see her?   Oh, unhappy girl!    With the Moor, sayst thou?Who would be a father?    How didst thou know twas she?   Oh, she deceives me    Past thought!What said she to you?Get more tapers,    Raise all my kindred. Are they married, think you?   ",
+            "translated": "The evil thing you warned me of is all too true. She is gone. And all that's left of my life, which I now hate, is bitterness. Now, Roderigo, where did you see her? Oh, unhappy girl! Did you say she was with the Moor? Who would want to be a father in such a situation as this? How did you know it was her? Oh, she has tricked me beyond anything I could have thought possible. What did she say to you? Get more torches, and wake up my whole family. Do you think they've gotten married?"
+        },
+        {
+            "original": "  Truly, I think they are.  ",
+            "translated": "Truly, I think they have."
+        },
+        {
+            "original": "   Oh, heaven, how got she out? Oh, treason of the blood!    Fathers, from hence trust not your daughters' minds    By what you see them act.   Is there not charms    By which the property of youth and maidhood    May be abused? Have you not read, Roderigo,    Of some such thing?   ",
+            "translated": "Oh, heaven, how did she get out of the house? Oh, she has committed treason against her own blood! All you fathers, from now on do not trust your daughters' minds based on how you see them act. Aren't there magic charms out there that can trick and violate young maidens? Roderigo, have you read about such things?"
+        },
+        {
+            "original": "  Yes, sir, I have indeed.  ",
+            "translated": "Yes, sir. \u00a0I have indeed."
+        },
+        {
+            "original": "  Call up my brotherOh, would you had had her!Some one way, some another. Do you knowWhere we may apprehend her and the Moor?  ",
+            "translated": "Call up my brotheroh, if only you had married her!\u00a0[To members of the search party] Some of you go one way, some go another way.\u00a0[To RODERIGO]\u00a0Do you know where we might find her and the Moor?"
+        },
+        {
+            "original": "  I think I can discover him, if you please To get good guard and go along with me.  ",
+            "translated": "I think I can find him, if you want to get some strong, armed men together and come along with me."
+        },
+        {
+            "original": "   Pray you lead on. At every house Ill call.    I may command at most.Get weapons, ho!    And raise some special officers of might.    On, good Roderigo. I will deserve your pains.   ",
+            "translated": "Please, lead the way. I'll call on every house. I know most of them well enough to tell them, \"Hey, get your weapons!\" I'll raise up a force of especially strong officers. Go on, good Roderigo. I will reward you for your efforts."
+        }
+    ]
+}

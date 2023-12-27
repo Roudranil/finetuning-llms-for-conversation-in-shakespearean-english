@@ -1,0 +1,668 @@
+{
+    "dialogs": [
+        {
+            "original": "   O blessed breeding sun, draw from the earth    Rotten humidity; below thy sister's orb    Infect the air!   Twinn'd brothers of one womb,    Whose procreation, residence, and birth,    Scarce is dividant, touch them with several fortunes;    The greater scorns the lesser:   not nature,    To whom all sores lay siege, can bear great fortune,    But by contempt of nature.    Raise me this beggar, and deny 't that lord;    The senator shall bear contempt hereditary,    The beggar native honour.    It is the pasture lards the rother's sides,    The want that makes him lean.   Who dares, who dares,    In purity of manhood stand upright,    And say 'This man's a flatterer?' if one be,    So are they all; for every grise of fortune    Is smooth'd by that below:   the learned pate    Ducks to the golden fool: all is oblique;    There's nothing level in our cursed natures,    But direct villany.   Therefore, be abhorr'd    All feasts, societies, and throngs of men!    His semblable, yea, himself, Timon disdains:    Destruction fang mankind! Earth, yield me roots!   ",
+            "translated": "Oh generous sun, suck all of this rotten dampness from the ground into the air below the moon! In the case of twin brothers, who were identically conceived, housed, and born out of the same womb into a world with different fortunes, it is the one with more who scorns the one with less. Human nature is subject to many evils, and cannot bear great riches without reserving contempt for those without such luxuries. I will become a beggar and restrain the lord within me, for the senator will be scorned, the beggar honored. Whether or not one is wealthy is only a matter of luck: if an ox is born into abundant pastures, he will grow fat, whereas if he is born into scarcity, he will grow thin. Who? Who will dare to stand up for what's right and call a man a flatterer? After all, if one man is a flatterer, so is everyone, because every level in a hierarchy is flattered by the one below it. Smart men bow to rich fools. Everything is ridiculous, because we have nothing rational within our nature, just straight villainy. Thus I hate all feasts, society, and groups of people! Timon hates anything that resemblesor ishimself. All men go to hell! Earth, where are your roots?"
+        },
+        {
+            "original": "   Who seeks for better of thee, sauce his palate    With thy most operant poison! What is here?    Gold? yellow, glittering, precious gold? No, gods,    I am no idle votarist:   roots, you clear heavens!    Thus much of this will make black white, foul fair,    Wrong right, base noble, old young, coward valiant.    Ha, you gods! why this?   what this, you gods? Why, this    Will lug your priests and servants from your sides,    Pluck stout men's pillows from below their heads:    This yellow slave    Will knit and break religions, bless the accursed,    Make the hoar leprosy adored, place thieves    And give them title, knee and approbation    With senators on the bench:   this is it    That makes the wappen'd widow wed again;    She, whom the spital-house and ulcerous sores    Would cast the gorge at, this embalms and spices    To the April day again.   Come, damned earth,    Thou common whore of mankind, that put'st odds    Among the route of nations, I will make thee    Do thy right nature.   ",
+            "translated": "Whoever works to rise in the world ought to poison himself! What do we have here? Gold? Shiny yellow gold? No, I am not a false man[He keeps digging]\u00a0Where are you, roots?![Looking at the gold] Just this much gold will turn the world upside down, making black white, foul fair, wrong right, low high, old young, cowardice valor. Ha, gods! Why this little thing? What is it, even? Why does this steal from you your loyal priests and servants, and steal the pillow from beneath a man's head? This yellow fiend will make and break religions, bless the lowly, and even make the leper liked, the thief as great as a senator! This little thing makes a widow get married a second time, and rejuvenates a woman so ugly that even the grossest men plagued with sores would have rejected her.[Still digging] Come on, stupid earth, whoring around beneath the feet of different nations, I will lower myself to your level and take my revenge."
+        },
+        {
+            "original": "   Ha! a drum ? Thou'rt quick,    But yet I'll bury thee: thou'lt go, strong thief,    When gouty keepers of thee cannot stand.    Nay, stay thou out for earnest.   ",
+            "translated": "What, a drum? So soon?\u00a0[Talking to some of the gold] I'll bury you: you will walk about again when your keeper cannot stand because of his gout. Actually, no, stay out here for leverage.\u00a0"
+        },
+        {
+            "original": "  What art thou there? speak.  ",
+            "translated": "What are you doing there? Speak up."
+        },
+        {
+            "original": "  A beast, as thou art. The canker gnaw thy heart,For showing me again the eyes of man!  ",
+            "translated": "An animal, the same as you! Damn you for showing me again the eyes of a human!"
+        },
+        {
+            "original": "  What is thy name? Is man so hateful to thee,That art thyself a man?  ",
+            "translated": "What is your name? Has mankind been so awful to you? You are a man, after all."
+        },
+        {
+            "original": "  I am Misanthropos, and hate mankind.For thy part, I do wish thou wert a dog,That I might love thee something.  ",
+            "translated": "I am a man-hater, who hates mankind. I wish you were a dog, for your good as well as mine. Then I could love you at least a little."
+        },
+        {
+            "original": "  I know thee well;But in thy fortunes am unlearn'd and strange.  ",
+            "translated": "I understand what you are saying, but do not know how you have arrived at these conclusions."
+        },
+        {
+            "original": "   I know thee too; and more than that I know thee,    I not desire to know. Follow thy drum;    With man's blood paint the ground, gules, gules:    Religious canons, civil laws are cruel;    Then what should war be?   This fell whore of thine    Hath in her more destruction than thy sword,    For all her cherubim look.   ",
+            "translated": "I know you as well, more than I'd like to know. Go follow your drum and paint the ground with the red, red, red blood of men. Religious and civil laws are cruelwhy shouldn't war be cruel too?"
+        },
+        {
+            "original": "  Thy lips rot off!  ",
+            "translated": "Shut your filthy mouth!"
+        },
+        {
+            "original": "  I will not kiss thee; then the rot returnsTo thine own lips again.  ",
+            "translated": "Then I will not kiss you, so as not to dirty your mouth too."
+        },
+        {
+            "original": "  How came the noble Timon to this change?  ",
+            "translated": "How has the noble Timon fallen to this place?"
+        },
+        {
+            "original": "  As the moon does, by wanting light to give:But then renew I could not, like the moon;There were no suns to borrow of.  ",
+            "translated": "Like the moon, which falls as it loses its light to give. But I cannot renew myself and start again like the moon. There are no suns out there to borrow light from."
+        },
+        {
+            "original": "  Noble Timon,What friendship may I do thee?  ",
+            "translated": "Timon, what can I do for you?"
+        },
+        {
+            "original": "  None, but toMaintain my opinion.  ",
+            "translated": "Nothing, except follow my demands."
+        },
+        {
+            "original": "  What is it, Timon?  ",
+            "translated": "What is it you want, Timon?\u00a0"
+        },
+        {
+            "original": "   Promise me friendship, but perform none:   if thou    wilt not promise, the gods plague thee, for thou art    a man! if thou dost perform, confound thee, for    thou art a man!   ",
+            "translated": "Promise me your friendship, but don't do anything that would make you seem like my friend. That way, whether you refuse or keep this promise, and whether you follow through or not, the gods may damn you, because you are like all these other men!"
+        },
+        {
+            "original": "  I have heard in some sort of thy miseries.  ",
+            "translated": "I have heard a bit about your bad luck."
+        },
+        {
+            "original": "  Thou saw'st them, when I had prosperity.  ",
+            "translated": "You saw my bad luck even when I had my wealth."
+        },
+        {
+            "original": "  I see them now; then was a blessed time.  ",
+            "translated": "No, I see your bad luck now. Those were great times when you had your wealth."
+        },
+        {
+            "original": "  As thine is now, held with a brace of harlots.  ",
+            "translated": "[Referring to TIMANDRA and PHRYNIA] Like your good times now with these whores."
+        },
+        {
+            "original": "  Is this the Athenian minion, whom the worldVoiced so regardfully?  ",
+            "translated": "Is this the darling of Athens everyone spoke so well of?"
+        },
+        {
+            "original": "  Art thou Timandra?  ",
+            "translated": "You are Timandra?"
+        },
+        {
+            "original": "  Yes.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "   Be a whore still: they love thee not that use thee;    Give them diseases, leaving with thee their lust.    Make use of thy salt hours: season the slaves    For tubs and baths; bring down rose-cheeked youth    To the tub-fast and the diet.   ",
+            "translated": "Keep whoring around. Those who use you don't love you, so you might as well give them diseases, because they give you their lust. Use these dirty hours well and prepare these villains for tubs and baths. Bring those bright youths down to their rightful place, trying to cure their venereal diseases with diets and salt-baths."
+        },
+        {
+            "original": "  Hang thee, monster!  ",
+            "translated": "Go kill yourself you monster!"
+        },
+        {
+            "original": "   Pardon him, sweet Timandra; for his wits    Are drown'd and lost in his calamities.    I have but little gold of late, brave Timon,    The want whereof doth daily make revolt    In my penurious band:   I have heard, and grieved,    How cursed Athens, mindless of thy worth,    Forgetting thy great deeds, when neighbour states,    But for thy sword and fortune, trod upon them,   ",
+            "translated": "Forgive him, Timandra. His mind has been muddled and lost in his troubles.[To TIMON] I have only a little money left, Timon, and the lack of it makes the possibility of revolt greater and greater each day in my poor band of soldiers. I have heard and felt sorry for how Athens left you high and dry, completely forgetting you and your great deeds when neighboring states would have defeated the city had you not protected it with your sword and your wealth."
+        },
+        {
+            "original": "  I prithee, beat thy drum, and get thee gone.  ",
+            "translated": "Please, play yourself out."
+        },
+        {
+            "original": "  I am thy friend, and pity thee, dear Timon.  ",
+            "translated": "I'm your friend Timon. I feel for you."
+        },
+        {
+            "original": "  How dost thou pity him whom thou dost trouble?I had rather be alone.  ",
+            "translated": "Do you feel for the person whom you hurt? I'd rather be alone."
+        },
+        {
+            "original": "  Why, fare thee well:Here is some gold for thee.  ",
+            "translated": "Well goodbye. Here is some gold."
+        },
+        {
+            "original": "  Keep it, I cannot eat it.  ",
+            "translated": "Keep it. It won't feed me."
+        },
+        {
+            "original": "  When I have laid proud Athens on a heap,  ",
+            "translated": "When I destroy Athens in war"
+        },
+        {
+            "original": "  Warr'st thou 'gainst Athens?  ",
+            "translated": "You're waging war on Athens?"
+        },
+        {
+            "original": "  Ay, Timon, and have cause.  ",
+            "translated": "Yes, Timon, and for a good reason."
+        },
+        {
+            "original": "  The gods confound them all in thy conquest;And thee after, when thou hast conquer'd!  ",
+            "translated": "May the gods strike those you war against, and after you win, you as well!"
+        },
+        {
+            "original": "  Why me, Timon?  ",
+            "translated": "Why me too, Timon?"
+        },
+        {
+            "original": "   That, by killing of villains,    Thou wast born to conquer my country.    Put up thy gold: go on,here's gold,go on;    Be as a planetary plague, when Jove    Will o'er some high-viced city hang his poison    In the sick air:   let not thy sword skip one:    Pity not honour'd age for his white beard;    He is an usurer: strike me the counterfeit matron;    It is her habit only that is honest,    Herself's a bawd:   let not the virgin's cheek    Make soft thy trenchant sword; for those milk-paps,    That through the window-bars bore at men's eyes,    Are not within the leaf of pity writ,    But set them down horrible traitors:   spare not the babe,    Whose dimpled smiles from fools exhaust their mercy;    Think it a bastard, whom the oracle    Hath doubtfully pronounced thy throat shall cut,    And mince it sans remorse:     swear against objects;    Put armour on thine ears and on thine eyes;    Whose proof, nor yells of mothers, maids, nor babes,    Nor sight of priests in holy vestments bleeding,    Shall pierce a jot.   There's gold to pay soldiers:    Make large confusion; and, thy fury spent,    Confounded be thyself! Speak not, be gone.   ",
+            "translated": "Because you were born to conquer my country by killing villains. Keep your gold and go, take it. Be like a plague that ravages the entire world, or like Zeus throwing poison over some wicked city. Do not spare any with your sword, and give no mercy to the elderly man, as he is a money-lender. Give no mercy to false women, because they only look honest and are all whores. Give no mercy to young virgins, because those breasts that break through the lines of her bodies and into men's eyes are horrible traitors and do not deserve pity. Do not spare any babies, whose smiling only earns the mercy of fools. Think of them as bastards, whom an oracle has foreseen will cut your throat, and crush it without any guilt. Swear not to listen to any objections, and arm your ears and your eyes so they shall not yield to the yells of mothers, maids, or babies, or the sight of priests bleeding in their holy clothes. Here's some gold to pay your soldiers. Make a riot, and after all your rage is gone, damn you! Don't speak to me. Just go."
+        },
+        {
+            "original": "  Hast thou gold yet? I'll take the gold thougivest me,Not all thy counsel.  ",
+            "translated": "You still have gold? I'll take that, but not your advice."
+        },
+        {
+            "original": "  Dost thou, or dost thou not, heaven's curseupon thee!  ",
+            "translated": "Do or don't, damn you."
+        },
+        {
+            "original": "  Give us some gold, good Timon: hast thou more?  ",
+            "translated": "Give us some gold, too, Timon. Do you have any more?"
+        },
+        {
+            "original": "   Enough to make a whore forswear her trade,    And to make whores, a bawd. Hold up, you sluts,    Your aprons mountant:   you are not oathable,    Although, I know, you 'll swear, terribly swear    Into strong shudders and to heavenly agues    The immortal gods that hear you,   spare your oaths,    I'll trust to your conditions: be whores still;    And he whose pious breath seeks to convert you,    Be strong in whore, allure him, burn him up;    Let your close fire predominate his smoke,    And be no turncoats: yet may your pains, six months,    Be quite contrary:   and thatch your poor thin roofs    With burthens of the dead;some that were hang'd,    No matter:wear them, betray with them: whore still;    Paint till a horse may mire upon your face,    A pox of wrinkles!   ",
+            "translated": "Enough to get a whore to retire, as well as enough to turn women into whores too. Stop bothering me and holding your skirts up, you sluts. You are not trustworthy, though I do know you will swear shaking with supposed divinity onto the immortal gods. Spare your prayers, and I'll trust your characters. Keep whoring, and the man that tries to tell you to do otherwise, be sure to stay true to your profession, seduce him, and infect him with your venereal diseases. Let that hidden fire overpower his piety, and do not betray your craft so that you may keep laboring. Cover your heads with wigs plucked from the hairs of the deadeven if they were hanged. Wear them and sin with them. Keep whoring around, with that thick makeup hiding all your wrinkles!\u00a0"
+        },
+        {
+            "original": "  Well, more gold: what then?Believe't, that we'll do any thing for gold.  ",
+            "translated": "Tell us more with more gold. We'll do anything for gold!"
+        },
+        {
+            "original": "   Consumptions sow    In hollow bones of man; strike their sharp shins,    And mar men's spurring.   Crack the lawyer's voice,    That he may never more false title plead,    Nor sound his quillets shrilly: hoar the flamen,    That scolds against the quality of flesh,    And not believes himself:   down with the nose,    Down with it flat; take the bridge quite away    Of him that, his particular to foresee,    Smells from the general weal: make curl'd-pate    ruffians bald;    And let the unscarr'd braggarts of the war    Derive some pain from you:   plague all;    That your activity may defeat and quell    The source of all erection. There's more gold:    Do you damn others, and let this damn you,    And ditches grave you all!   ",
+            "translated": "Plant syphilis into the hollow bones of men. Kick their shins and cripple them. Steal the voice of the lawyer, so he will never ever defend a false case or voice his small disagreements. Give diseases to the priest who scolds against carnal pleasures, but doesn't behave himself. Make it so his nose rots off, so that for his private pleasures he loses the scent of public welfare. Make curly-haired scoundrels bald, and have the silly macho men in the army finally feel some pain from you. Give diseases to everyone, so that in your profession you defeat all of men's power. Here's some more gold, so that you damn even more. But let it damn you, too, and send you to your graves!"
+        },
+        {
+            "original": "  More counsel with more money, bounteous Timon.  ",
+            "translated": "We'll keep listening to you if you keep giving us money, Timon."
+        },
+        {
+            "original": "  More whore, more mischief first; I have given you earnest.  ",
+            "translated": "With more whoring, and more mischief first. This payment is just a token."
+        },
+        {
+            "original": "  Strike up the drum towards Athens! Farewell, Timon:If I thrive well, I'll visit thee again.  ",
+            "translated": "Drum up the march to Athens! Bye, Timon. If I am successful, I'll come back for you."
+        },
+        {
+            "original": "  If I hope well, I'll never see thee more.  ",
+            "translated": "And I hope I never see you again."
+        },
+        {
+            "original": "  I never did thee harm.  ",
+            "translated": "I never did you any harm."
+        },
+        {
+            "original": "  Yes, thou spokest well of me.  ",
+            "translated": "Yes, you spoke well of me."
+        },
+        {
+            "original": "  Call'st thou that harm?  ",
+            "translated": "And that's harm?"
+        },
+        {
+            "original": "  Men daily find it. Get thee away, and takeThy beagles with thee.  ",
+            "translated": "Some men think so. Go now and take your dogs with you."
+        },
+        {
+            "original": "  We but offend him. Strike!  ",
+            "translated": "We're just making him more angry. Let's go!"
+        },
+        {
+            "original": "  That nature, being sick of man's unkindness,Should yet be hungry! Common mother, thou,  ",
+            "translated": "I cannot believe that those outraged at wicked men should still ask for money!\u00a0"
+        },
+        {
+            "original": "   Whose womb unmeasurable, and infinite breast,    Teems, and feeds all;   whose self-same mettle,    Whereof thy proud child, arrogant man, is puff'd,    Engenders the black toad and adder blue,    The gilded newt and eyeless venom'd worm,    With all the abhorred births below crisp heaven    Whereon Hyperion's quickening fire doth shine;    Yield him, who all thy human sons doth hate,    From forth thy plenteous bosom, one poor root!    Ensear thy fertile and conceptious womb,    Let it no more bring out ingrateful man!    Go great with tigers, dragons, wolves, and bears;    Teem with new monsters, whom thy upward face    Hath to the marbled mansion all above    Never presented!   O, a root,dear thanks!    Dry up thy marrows, vines, and plough-torn leas;    Whereof ungrateful man, with liquorish draughts    And morsels unctuous, greases his pure mind,    That from it all consideration slips!   ",
+            "translated": "You, earth, your fertile ground births and feeds everything. You are made of the same hard stuff that puffs out the chests of proud men, though is also the same stuff that produces disgusting critters like the black toad, the blue snake, the golden newt, and the blind, poisonous worm. The sun shines its life-giving fire equally on all of these horrid births. Earth, give me just one poor root, which all men hate! Dry up your fertile womb so that it never gives life to another man! Bring forth tigers, dragons, wolves, and bears. Produce new monsters, never before presented to the world from your face which looks up into the heavens![He finds a root] Finally! A root! Dry up your marrow, vines, and grassy lands, which yield the sweet drinks and tasty food that grease the sides of ungrateful mens' minds, so that all that was considerate within them slips out!"
+        },
+        {
+            "original": "  More man? plague, plague!  ",
+            "translated": "Another man? The plague, the plague!"
+        },
+        {
+            "original": "  I was directed hither: men reportThou dost affect my manners, and dost use them.  ",
+            "translated": "I was directed here by men who tell me you have gone crazy and insult them."
+        },
+        {
+            "original": "  'Tis, then, because thou dost not keep a dog,Whom I would imitate: consumption catch thee!  ",
+            "translated": "It is true, and because you do not have a dog which I could imitate so as to flatter you, I hope you catch a disease!"
+        },
+        {
+            "original": "   This is in thee a nature but infected;    A poor unmanly melancholy sprung    From change of fortune.   Why this spade? this place?    This slave-like habit? and these looks of care?    Thy flatterers yet wear silk, drink wine, lie soft;    Hug their diseased perfumes, and have forgot    That ever Timon was. Shame not these woods,    By putting on the cunning of a carper.    Be thou a flatterer now, and seek to thrive    By that which has undone thee: hinge thy knee,    And let his very breath, whom thou'lt observe,    Blow off thy cap; praise his most vicious strain,    And call it excellent:   thou wast told thus;    Thou gavest thine ears like tapsters that bid welcome    To knaves and all approachers: 'tis most just    That thou turn rascal; hadst thou wealth again,    Rascals should have 't. Do not assume my likeness.   ",
+            "translated": "This behavior is a symptom of your infected nature, which has caught an unmanly melancholy due to bad luck. Why this shovel? In this place? In these tattered clothes? With these sad looks? Those who flattered you still wear silk, drink wine, and lie down on soft beds. They hug their perfumed, diseased women, and have totally forgotten that Timon even existed. Do not curse these woods by becoming a cynic. Be a flatterer and look to live off what once undid you. Bow your knee and heed every word of the men you would flatter as genius. Praise the worst parts of a man and call them excellent. That is what you used to be told. You once gave your ears to men like bartenders give their ears to the worst villains and rascals. It is only fair that you become a rascal. If you had your money again, rascals would have it. Do not act as I did to you, act like them!"
+        },
+        {
+            "original": "  Were I like thee, I'ld throw away myself.  ",
+            "translated": "If I were like you I'd throw myself away."
+        },
+        {
+            "original": "   Thou hast cast away thyself, being like thyself;    A madman so long, now a fool. What, think'st    That the bleak air, thy boisterous chamberlain,    Will put thy shirt on warm?   will these moss'd trees,    That have outlived the eagle, page thy heels,    And skip where thou point'st out? will the    cold brook,    Candied with ice, caudle thy morning taste,    To cure thy o'er-night's surfeit?   Call the creatures    Whose naked natures live in an the spite    Of wreakful heaven, whose bare unhoused trunks,    To the conflicting elements exposed,    Answer mere nature; bid them flatter thee;    O, thou shalt find   ",
+            "translated": "You already have thrown yourself away, being the madman you were, and now an idiot. Do you really think that this cold air will act like a manservant and put on a warm shirt for you? Do you really think that these mossy trees, which have outlived eagles, will follow your every step? That the cold brook crusted in ice will give you a warm drink to cure a hangover? Call out to the animals who live naked despite the fall of man, who expose their bodies to the harsh elements and contend with nature. Call them to flatter you and, oh, you will find"
+        },
+        {
+            "original": "  A fool of thee: depart.  ",
+            "translated": "You're an idiot. Go away."
+        },
+        {
+            "original": "  I love thee better now than e'er I did.  ",
+            "translated": "I love you more than I ever did."
+        },
+        {
+            "original": "  I hate thee worse.  ",
+            "translated": "I hate you worse."
+        },
+        {
+            "original": "  Why?  ",
+            "translated": "Why?"
+        },
+        {
+            "original": "  Thou flatter'st misery.  ",
+            "translated": "You flatter my misery."
+        },
+        {
+            "original": "  I flatter not; but say thou art a caitiff.  ",
+            "translated": "I am not flattering you. I am calling you a wretch."
+        },
+        {
+            "original": "  Why dost thou seek me out?  ",
+            "translated": "Why did you look for me?"
+        },
+        {
+            "original": "  To vex thee.  ",
+            "translated": "To anger you."
+        },
+        {
+            "original": "  Always a villain's office or a fool's.Dost please thyself in't?  ",
+            "translated": "That was always the job of a villain or a fool. Do you like it?"
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Sure."
+        },
+        {
+            "original": "  What! a knave too?  ",
+            "translated": "Ah! So you're scoundrel too!"
+        },
+        {
+            "original": "   If thou didst put this sour-cold habit on    To castigate thy pride, 'twere well: but thou    Dost it enforcedly; thou'ldst courtier be again,    Wert thou not beggar.   Willing misery    Outlives encertain pomp, is crown'd before:    The one is filling still, never complete;    The other, at high wish: best state, contentless,    Hath a distracted and most wretched being,    Worse than the worst, content.    Thou shouldst desire to die, being miserable.   ",
+            "translated": "If you assumed this disposition to punish yourself for our pride, that was a good idea. But you are forcing it! If you weren't a beggar, you could be a courtier again. Willful poverty is safer than uncertain luxury, and achieves what it wants sooner. One is always seeking more and never fulfilled. The other will accept no better situation, but has a crazy and miserable existence and is happy with the worst of the worst. You should kill yourself, as miserable as you are."
+        },
+        {
+            "original": "   Not by his breath that is more miserable.    Thou art a slave, whom Fortune's tender arm    With favour never clasp'd; but bred a dog.    Hadst thou, like us from our first swath, proceeded    The sweet degrees that this brief world affords    To such as may the passive drugs of it    Freely command, thou wouldst have plunged thyself    In general riot; melted down thy youth    In different beds of lust;   and never learn'd    The icy precepts of respect, but follow'd    The sugar'd game before thee.   But myself,    Who had the world as my confectionary,    The mouths, the tongues, the eyes and hearts of men    At duty, more than I could frame employment,    That numberless upon me stuck as leaves    Do on the oak, hive with one winter's brush    Fell from their boughs and left me open, bare    For every storm that blows:   I, to bear this,    That never knew but better, is some burden:    Thy nature did commence in sufferance, time    Hath made thee hard in't. Why shouldst thou hate men?    They never flatter'd thee: what hast thou given?    If thou wilt curse, thy father, that poor rag,    Must be thy subject, who in spite put stuff    To some she beggar and compounded thee    Poor rogue hereditary.   Hence, be gone!    If thou hadst not been born the worst of men,    Thou hadst been a knave and flatterer.   ",
+            "translated": "Not under the advice of a man even more miserable. You are a slave, a dog, who was always unlucky. If you were born like I was into a sweet life this world gives to whoever it likes, you would have gone crazy and wasted your youth in lusty beds. You would never have learned hard reason, but instead followed all temptations before you. But I, who was born right in the place where all sweet things are made, and where countless mouths, tongues, eyes, and hearts of men waited at my command, stuck to me like leaves stick to an oak, I was abandoned by all them, as if those leaves had all dropped at the first sight of winter and left me bare to feel every storm. Trust me, you who never knew any better, bearing this tragedy is a great burden. Your life began in suffering, and you have grown used to it. Why should you hate men? They never flattered you? What did you give them? If you will curse anyone it should be your father, because he had sex with some poor woman out of spite and conceived you. So just go away! If you had not been born in the worst position, you would have been a false flatterer."
+        },
+        {
+            "original": "  Art thou proud yet?  ",
+            "translated": "Ha! You are still proud?"
+        },
+        {
+            "original": "  Ay, that I am not thee.  ",
+            "translated": "Yes, proud of the fact that I'm not you."
+        },
+        {
+            "original": "  I, that I wasNo prodigal.  ",
+            "translated": "And I'm proud of the fact that I was never a wasteful man like you."
+        },
+        {
+            "original": "   I, that I am one now:    Were all the wealth I have shut up in thee,    I'ld give thee leave to hang it. Get thee gone.    That the whole life of Athens were in this!    Thus would I eat it.   ",
+            "translated": "Yes and I'm still proud that I am a wasteful man still. I would still give all the wealth I havenothingto you. Get away from me.[Gesturing to a root] I wish all of Athens were in this! I would eat it!"
+        },
+        {
+            "original": "  Here; I will mend thy feast.  ",
+            "translated": "Here, improve your feast."
+        },
+        {
+            "original": "  First mend my company, take away thyself.  ",
+            "translated": "First improve my company and get away from me."
+        },
+        {
+            "original": "  So I shall mend mine own, by the lack of thine.  ",
+            "translated": "That way I would improve my own company for the lack of yours."
+        },
+        {
+            "original": "  'Tis not well mended so, it is but botch'd;if not, I would it were.  ",
+            "translated": "It would not be better that way, because you'd still be with yourself."
+        },
+        {
+            "original": "  What wouldst thou have to Athens?  ",
+            "translated": "What report would you like me to bring Athens for you?"
+        },
+        {
+            "original": "  Thee thither in a whirlwind. If thou wilt,Tell them there I have gold; look, so I have.  ",
+            "translated": "A tornado, if you could, and tell them that I have more gold here. Look, right here."
+        },
+        {
+            "original": "  Here is no use for gold.  ",
+            "translated": "Gold is useless here."
+        },
+        {
+            "original": "  The best and truest;For here it sleeps, and does no hired harm.  ",
+            "translated": "And so it is here the best, where it sleeps and doesn't do any harm."
+        },
+        {
+            "original": "  Where liest o' nights, Timon?  ",
+            "translated": "Where do you sleep here Timon?"
+        },
+        {
+            "original": "  Under that's above me.Where feed'st thou o' days, Apemantus?  ",
+            "translated": "Under what's above me. Where do you eat these days, Apemantus?"
+        },
+        {
+            "original": "  Where my stomach finds meat; or, rather, where I eatit.  ",
+            "translated": "Wherever I can find meat, or rather, where I eat meat."
+        },
+        {
+            "original": "  Would poison were obedient and knew my mind!  ",
+            "translated": "I wish poison would go wherever my mind sent it!"
+        },
+        {
+            "original": "  Where wouldst thou send it?  ",
+            "translated": "Where would you send it?"
+        },
+        {
+            "original": "  To sauce thy dishes.  ",
+            "translated": "To your plates."
+        },
+        {
+            "original": "   The middle of humanity thou never knewest, but the    extremity of both ends:   when thou wast in thy gilt    and thy perfume, they mocked thee for too much    curiosity;   in thy rags thou knowest none, but art    despised for the contrary. There's a medlar for    thee, eat it.   ",
+            "translated": "You never inhabited the middle ranks of humanity, only the very rich and the very poor. When you were basking in gold in perfume, they all mocked you for your meticulousness. In your tattered rags you don't have any of that left, but are despised for being messy and dirty. Here's a little fruit for you, eat it."
+        },
+        {
+            "original": "  On what I hate I feed not.  ",
+            "translated": "I don't eat what I hate."
+        },
+        {
+            "original": "  Dost hate a medlar?  ",
+            "translated": "You hate medlar?"
+        },
+        {
+            "original": "  Ay, though it look like thee.  ",
+            "translated": "Yes. It looks rotten like you."
+        },
+        {
+            "original": "  An thou hadst hated meddlers sooner, thou shouldsthave loved thyself better now. What man didst thouever know unthrift that was beloved after his means?  ",
+            "translated": "If you had hated meddlers sooner, you would have loved your station better now. What wasteful man did you ever meet that was well-liked after his money was gone?"
+        },
+        {
+            "original": "  Who, without those means thou talkest of, didst thouever know beloved?  ",
+            "translated": "Who have you ever known that was well-liked without any means at all?"
+        },
+        {
+            "original": "  Myself.  ",
+            "translated": "Me."
+        },
+        {
+            "original": "  I understand thee; thou hadst some means to keep adog.  ",
+            "translated": "True. The dogs love you because you only have enough means to keep a dog."
+        },
+        {
+            "original": "  What things in the world canst thou nearest compareto thy flatterers?  ",
+            "translated": "What would you compare your flatterers to?"
+        },
+        {
+            "original": "  Women nearest; but men, men are the thingsthemselves. What wouldst thou do with the world,Apemantus, if it lay in thy power?  ",
+            "translated": "Women, probably. But men too, because they are men themselves. What would you do with the world if you were all-powerful, Apemantus?"
+        },
+        {
+            "original": "  Give it the beasts, to be rid of the men.  ",
+            "translated": "Give it to the animals and get rid of all men."
+        },
+        {
+            "original": "  Wouldst thou have thyself fall in the confusion ofmen, and remain a beast with the beasts?  ",
+            "translated": "Would you fall with the rest of the men and remain an animal?"
+        },
+        {
+            "original": "  Ay, Timon.  ",
+            "translated": "Yes, Timon."
+        },
+        {
+            "original": "   A beastly ambition, which the gods grant thee t'    attain to! If thou wert the lion, the fox would    beguile thee; if thou wert the lamb, the fox would    eat three:   if thou wert the fox, the lion would    suspect thee, when peradventure thou wert accused by    the ass: if thou wert the ass, thy dulness would    torment thee, and still thou livedst but as a    breakfast to the wolf:     if thou wert the wolf, thy    greediness would afflict thee, and oft thou shouldst    hazard thy life for thy dinner: wert thou the    unicorn, pride and wrath would confound thee and    make thine own self the conquest of thy fury:   wert    thou a bear, thou wouldst be killed by the horse:    wert thou a horse, thou wouldst be seized by the    leopard: wert thou a leopard, thou wert german to    the lion and the spots of thy kindred were jurors on    thy life:   all thy safety were remotion and thy    defence absence. What beast couldst thou be, that    were not subject to a beast? and what a beast art    thou already, that seest not thy loss in    transformation!   ",
+            "translated": "What a beastly thing for the gods to have you wish! If you were a lion, the fox would trick you; if you were a lamb, the fox would deceive three of you; if you were a fox, the lion would be suspicious of you when you were accused by the donkey; if you were a donkey, your stupidity would torment you, and you would only be the breakfast of the wolf; if you were a wolf, your greed would plague you, and you would have to risk your life just for dinner; if you were a unicorn, pride and anger would end you and when in your anger you rammed your horn and got stuck in a tree; if you were a bear, you would be killed by the horse; if you were a horse; you would be attacked by the leopard; if you were a leopard, you would be related to the lion and the crimes of your relatives would condemn you to death. Your only safety would lie in leaving one place for another, so what beast could you be that you would not fall prey to some other beast? What kind of animal are you already that you cannot see what you would lose in changing into an animal!?"
+        },
+        {
+            "original": "  If thou couldst please me with speaking to me, thoumightst have hit upon it here: the commonwealth ofAthens is become a forest of beasts.  ",
+            "translated": "If your speech could ever please me, it would be these observations. The state of Athens has become a forest of beasts."
+        },
+        {
+            "original": "  How has the ass broke the wall, that thou art out of the city?  ",
+            "translated": "How? Has a donkey broken down the wall, so you find yourself outside the city?"
+        },
+        {
+            "original": "   Yonder comes a poet and a painter: the plague of    company light upon thee!   I will fear to catch it    and give way: when I know not what else to do, I'll    see thee again.   ",
+            "translated": "Look, here comes a poet and a painter. I hope you catch the plague of their company! For fear of catching it I'll leave now. I'll see you again when I have nothing better to do."
+        },
+        {
+            "original": "  When there is nothing living but thee, thou shalt bewelcome. I had rather be a beggar's dog than Apemantus.  ",
+            "translated": "When you're the last man on earth, you'll be welcome here. I would rather be a beggar's dog than you."
+        },
+        {
+            "original": "  Thou art the cap of all the fools alive.  ",
+            "translated": "You are the captain of all fools."
+        },
+        {
+            "original": "  Would thou wert clean enough to spit upon!  ",
+            "translated": "I wish you were clean enough to spit on."
+        },
+        {
+            "original": "  A plague on thee! thou art too bad to curse.  ",
+            "translated": "Get bit! You aren't even good enough to curse."
+        },
+        {
+            "original": "  All villains that do stand by thee are pure.  ",
+            "translated": "Villains look good in your company."
+        },
+        {
+            "original": "  There is no leprosy but what thou speak'st.  ",
+            "translated": "Your speech is worse than leprosy."
+        },
+        {
+            "original": "  If I name thee.I'll beat thee, but I should infect my hands.  ",
+            "translated": "When I say your name. I'll beat you up, if only touching you wouldn't infect my hands!"
+        },
+        {
+            "original": "  I would my tongue could rot them off!  ",
+            "translated": "I wish my tongue could rot them off!"
+        },
+        {
+            "original": "  Away, thou issue of a mangy dog!Choler does kill me that thou art alive;I swound to see thee.  ",
+            "translated": "Get away, you son of a bitch! Your life makes me angry enough to die. I swoon just looking at you!"
+        },
+        {
+            "original": "  Would thou wouldst burst!  ",
+            "translated": "Maybe you'll explode!"
+        },
+        {
+            "original": "  Away,Thou tedious rogue! I am sorry I shall loseA stone by thee.  ",
+            "translated": "Get away you dumb peasant! It's sad I have to waste a stone on you."
+        },
+        {
+            "original": "  Beast!  ",
+            "translated": "Beast!"
+        },
+        {
+            "original": "  Slave!  ",
+            "translated": "Slave!"
+        },
+        {
+            "original": "  Toad!  ",
+            "translated": "Toad!"
+        },
+        {
+            "original": "   Rogue, rogue, rogue!    I am sick of this false world, and will love nought    But even the mere necessities upon 't.    Then, Timon, presently prepare thy grave;    Lie where the light foam the sea may beat    Thy grave-stone daily:   make thine epitaph,    That death in me at others' lives may laugh.   ",
+            "translated": "You worthless, worthless man! I am sick of this lying world and will not love anything but the most basic necessities. So, Timon, prepare your own grave, lie down here where the light foam of the sea might lap against your grave stone every single day. Make your own epitaph, so my death will laugh at the lives of others."
+        },
+        {
+            "original": "   O thou sweet king-killer, and dear divorce    'Twixt natural son and sire! thou bright defiler    Of Hymen's purest bed! thou valiant Mars!    Thou ever young, fresh, loved and delicate wooer,    Whose blush doth thaw the consecrated snow    That lies on Dian's lap!   thou visible god,    That solder'st close impossibilities,    And makest them kiss! that speak'st with    every tongue,    To every purpose!   O thou touch of hearts!    Think, thy slave man rebels, and by thy virtue    Set them into confounding odds, that beasts    May have the world in empire!   ",
+            "translated": "Oh you sweet little king-killer, which can set even a son and father at odds! You that can defile the bed of Hymen like Mars! You forever young, fresh, beloved, and delicate wooer, that can ruin the chastity of Diana with just a blush! You beautiful god, which can sew together impossible events and make them kiss! That can speak in every language and for any purpose! You tester of hearts, that think your slave man rebels against you and, with your power, set him at odds with himself so that beasts may rule the world!"
+        },
+        {
+            "original": "  Would 'twere so!But not till I am dead. I'll say thou'st gold:Thou wilt be throng'd to shortly.  ",
+            "translated": "If only it were so! But not until I am dead. I'll say to gold that it will be rushed to before long."
+        },
+        {
+            "original": "  Throng'd to!  ",
+            "translated": "Rushed to!?"
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Yes."
+        },
+        {
+            "original": "  Thy back, I prithee.  ",
+            "translated": "Show me your back and leave."
+        },
+        {
+            "original": "  Live, and love thy misery.  ",
+            "translated": "May you live in misery and love it too."
+        },
+        {
+            "original": "  Long live so, and so die.  ",
+            "translated": "May you live long and miserable too, then die."
+        },
+        {
+            "original": "  I am quit.Moe things like men! Eat, Timon, and abhor them.  ",
+            "translated": "I am rid of him, and yet more men! Hate them, Timon, and eat your food."
+        },
+        {
+            "original": "   Where should he have this gold? It is some poor    fragment, some slender sort of his remainder:   the    mere want of gold, and the falling-from of his    friends, drove him into this melancholy.   ",
+            "translated": "Where could his gold be? It is the last scrap of his life of wealth. It was the mere desire for gold and the betrayal of his friends which drove him to this depression."
+        },
+        {
+            "original": "  It is noised he hath a mass of treasure.  ",
+            "translated": "I have heard he has a huge treasure."
+        },
+        {
+            "original": "  Let us make the assay upon him: if he care notfor't, he will supply us easily; if he covetouslyreserve it, how shall's get it?  ",
+            "translated": "Let's test that. If he doesn't care about it, he'll give it to us without a care. If he covets it, how will we get it?"
+        },
+        {
+            "original": "  True; for he bears it not about him, 'tis hid.  ",
+            "translated": "That's a good question, because he doesn't have it with him. It's hidden."
+        },
+        {
+            "original": "  Is not this he?  ",
+            "translated": "Is that not him?"
+        },
+        {
+            "original": "  Where?  ",
+            "translated": "Where?"
+        },
+        {
+            "original": "  'Tis his description.  ",
+            "translated": "That's what he's supposed to look like."
+        },
+        {
+            "original": "  He; I know him.  ",
+            "translated": "Him? I recognize him."
+        },
+        {
+            "original": "  Save thee, Timon.  ",
+            "translated": "God bless you, Timon?"
+        },
+        {
+            "original": "  Now, thieves?  ",
+            "translated": "What do you want, thieves?"
+        },
+        {
+            "original": "  Soldiers, not thieves.  ",
+            "translated": "We're soldiers, not thieves."
+        },
+        {
+            "original": "  Both too; and women's sons.  ",
+            "translated": "Both, and women's sons too."
+        },
+        {
+            "original": "  We are not thieves, but men that much do want.  ",
+            "translated": "We are not thieves, just poor men."
+        },
+        {
+            "original": "   Your greatest want is, you want much of meat.    Why should you want?   Behold, the earth hath roots;    Within this mile break forth a hundred springs;    The oaks bear mast, the briers scarlet hips;    The bounteous housewife, nature, on each bush    Lays her full mess before you. Want! why want?   ",
+            "translated": "The greatest thing you lack is brought about by your great desire to eat a lotwhy else would you feel poor? Look here, the earth has roots, and within a mile are a hundred springs. The oaks have nuts, the briers red berries. Nature is a generous housewife, who gives a great meal on each bush. Poor! How could you feel poor?"
+        },
+        {
+            "original": "  We cannot live on grass, on berries, water,As beasts and birds and fishes.  ",
+            "translated": "We are not animals, birds, nor fish. We cannot live on just grass, berries, and water."
+        },
+        {
+            "original": "   Nor on the beasts themselves, the birds, and fishes;    You must eat men.   Yet thanks I must you con    That you are thieves profess'd, that you work not    In holier shapes: for there is boundless theft    In limited professions.   Rascal thieves,    Here's gold. Go, suck the subtle blood o' the grape,    Till the high fever seethe your blood to froth,    And so 'scape hanging: trust not the physician;    His antidotes are poison, and he slays    Moe than you rob:   take wealth and lives together;    Do villany, do, since you protest to do't,    Like workmen. I'll example you with thievery.    The sun's a thief, and with his great attraction    Robs the vast sea: the moon's an arrant thief,    And her pale fire she snatches from the sun:    The sea's a thief, whose liquid surge resolves    The moon into salt tears: the earth's a thief,    That feeds and breeds by a composture stolen    From general excrement   :   each thing's a thief:    The laws, your curb and whip, in their rough power    Have uncheque'd theft. Love not yourselves: away,    Rob one another. There's more gold.   Cut throats:    All that you meet are thieves: to Athens go,    Break open shops; nothing can you steal,    But thieves do lose it: steal no less for this    I give you; and gold confound you howsoe'er! Amen.   ",
+            "translated": "No you cannot even live on animals like birds and fish yourselves. You must eat men. Though I ought to thank you for at least being honest thieves who do not hide behind some more respectable disguise, for there is thievery in other professions as well. Here's some gold, you dirty thieves. Go now and drink all the wine you can until you catch a deadly fever that makes your blood foam. Do not trust the doctor, though, because his cures are poisonous and he kills men even more often than you rob them, taking both money and lives. Wreak havoc as your occupation dictates, \u00a0and like one being instructed in his occupation, I'll give you good examples of thieves. The sun is a thief for robbing water from the vast sea; the moon is a thief for snatching light off the sun; the sea is a thief as its tides surge forth, dissolve the moon into salty tears; the earth is a thief as it steals and feeds off the manure of animals. Everything is a thief, from the laws to its enforcement, which use their unlimited power to steal. And do not make yourselves the exception, go away and rob one another. Here's some more gold. Go cut some throats, because everyone you meet is a thief. Go to Athens, pillage shops, because nothing you steal will not come from a thief's pocket. Do not steal any less because I'm giving you this, more gold, which I hope may curse you! Amen."
+        },
+        {
+            "original": "  Has almost charmed me from my profession, bypersuading me to it.  ",
+            "translated": "He almost makes me want to give up my profession by talking me into it."
+        },
+        {
+            "original": "  'Tis in the malice of mankind that he thus advisesus; not to have us thrive in our mystery.  ",
+            "translated": "His hatred of mankind is what gives us advice, not his concern for our craft."
+        },
+        {
+            "original": "  I'll believe him as an enemy, and give over my trade.  ",
+            "translated": "I'd trust him about as much as my enemy and just give up thieving altogether."
+        },
+        {
+            "original": "  Let us first see peace in Athens: there is no timeso miserable but a man may be true.  ",
+            "translated": "Let's at least wait until the war is over. There is no worse time to be honest than a war."
+        },
+        {
+            "original": "   O you gods!    Is yond despised and ruinous man my lord?    Full of decay and failing? O monument    And wonder of good deeds evilly bestow'd!    What an alteration of honour    Has desperate want made!    What viler thing upon the earth than friends    Who can bring noblest minds to basest ends!    How rarely does it meet with this time's guise,    When man was wish'd to love his enemies!    Grant I may ever love, and rather woo    Those that would mischief me than those that do!    Has caught me in his eye: I will present    My honest grief unto him; and, as my lord,    Still serve him with my life. My dearest master!   ",
+            "translated": "Good god! Is that hateful man in tatters, looking so down and out, really my lord? Oh he is a memorial of what happens when good deeds are received ungratefully! Poverty has made such a remarkable change to his honorable appearance! How vile his friends were to bring down such a great man! It really shows the accuracy of that saying, \"Love your enemies!\" I would indeed much rather love those who wish me harm to my face than those who pretend to be my friends and stab me in the back.[Noticing TIMON] He has seen me, and I will show him how much I grieve for him, and how I promise still to serve him. My fine master!"
+        },
+        {
+            "original": "  Away! what art thou?  ",
+            "translated": "Go away! Who are you?"
+        },
+        {
+            "original": "  Have you forgot me, sir?  ",
+            "translated": "Have you forgotten who I am?"
+        },
+        {
+            "original": "  Why dost ask that? I have forgot all men;Then, if thou grant'st thou'rt a man, I have forgot thee.  ",
+            "translated": "Why bother asking that? I have forgotten all men. If you agree that you are indeed a man, then I have forgotten you too."
+        },
+        {
+            "original": "  An honest poor servant of yours.  ",
+            "translated": "I was your poor and loyal servant."
+        },
+        {
+            "original": "  Then I know thee not:I never had honest man about me, I; allI kept were knaves, to serve in meat to villains.  ",
+            "translated": "Then I definitely do not know you, because I never had an honest man around me. All those I kept around me were liars, because I wanted to serve meat to villains."
+        },
+        {
+            "original": "  The gods are witness,Ne'er did poor steward wear a truer griefFor his undone lord than mine eyes for you.  ",
+            "translated": "The gods know that there has never been an assistant racked with sadness for his lord the way I am looking at you."
+        },
+        {
+            "original": "   What, dost thou weep? Come nearer. Then I    love thee,    Because thou art a woman,   and disclaim'st    Flinty mankind; whose eyes do never give    But thorough lust and laughter.   Pity's sleeping:    Strange times, that weep with laughing, not with weeping!   ",
+            "translated": "What, are you crying? Come closer. I do love you, now, because these tears show you to be a woman. You give up your manhood, because no man's eyes ever did tear up, except for lust or laughter. Pity may as well be asleep, for these are strange times, in which people weep for laughter and not in sadness."
+        },
+        {
+            "original": "  I beg of you to know me, good my lord,To accept my grief and whilst this poor wealth lastsTo entertain me as your steward still.  ",
+            "translated": "I beg you, please recognize me, my good lord. That way you can accept my sadness and let me serve as your assistant while this bad luck continues."
+        },
+        {
+            "original": "   Had I a steward    So true, so just, and now so comfortable?    It almost turns my dangerous nature mild.    Let me behold thy face. Surely, this man    Was born of woman.    Forgive my general and exceptless rashness,    You perpetual-sober gods! I do proclaim    One honest manmistake me notbut one;    No more, I pray,and he's a steward.    How fain would I have hated all mankind!    And thou redeem'st thyself: but all, save thee,    I fell with curses.    Methinks thou art more honest now than wise;    For, by oppressing and betraying me,    Thou mightst have sooner got another service:    For many so arrive at second masters,    Upon their first lord's neck.   But tell me true    For I must ever doubt, though ne'er so sure    Is not thy kindness subtle, covetous,    If not a usuring kindness, and, as rich men deal gifts,    Expecting in return twenty for one?   ",
+            "translated": "Did I really have an assistant so honest, fair, and comforting? It almost cures me of my dangerous and violent thoughts. Let me see your face: you are definitely a man born of a woman. Forgive me gods, for assuming the worst of all men. I admit now that there is one honest man, only one. No more, I swearand he's just an assistant. How I dared to hate all of mankind![To FLAVIUS] You do redeem yourself, but the rest I did lay flat with insults. I think you are more honest than wise, because you might have been better off betraying me. Many do have second masters at the expense of their first. But tell me, please, is your kindness not a subtle, greedy, and self-serving kind of kindness, which hopes to get what it gives twenty-to-one?"
+        },
+        {
+            "original": "   No, my most worthy master; in whose breast    Doubt and suspect, alas, are placed too late:    You should have fear'd false times when you did feast:    Suspect still comes where an estate is least.    That which I show, heaven knows, is merely love,    Duty and zeal to your unmatched mind,    Care of your food and living;   and, believe it,    My most honour'd lord,    For any benefit that points to me,    Either in hope or present, I'ld exchange    For this one wish, that you had power and wealth    To requite me, by making rich yourself.   ",
+            "translated": "No, master, in whom doubt and suspicion have taken hold too late. You should have feared lies when you threw feasts with your wealth, but your suspicion comes when you are most poor. What I show you is true love, duty, and enthusiasm for your outstanding mind, along with care for your wellbeing. Believe me, my lord, that any advantage I could gain now I would exchange for one wish: that you had the power and wealth to make yourself rich. That would be the return for my admiration."
+        },
+        {
+            "original": "   Look thee, 'tis so! Thou singly honest man,    Here, take: the gods out of my misery    Have sent thee treasure.   Go, live rich and happy;    But thus condition'd: thou shalt build from men;    Hate all, curse all, show charity to none,    But let the famish'd flesh slide from the bone,    Ere thou relieve the beggar; give to dogs    What thou deny'st to men; let prisons swallow 'em,    Debts wither 'em to nothing;   be men like    blasted woods,    And may diseases lick up their false bloods!    And so farewell and thrive.   ",
+            "translated": "Look here, it is true! You uniquely honest man, take this. The gods have given you a gift out of my misery.\u00a0[Offering FLAVIUS gold] Go be rich and happy, but under one condition: you take advantage of other men, hate all of them, curse all of them, and show charity to none of them. Let the starving flesh slide off the bones of a beggar before you give him any money. Give to dogs what you do not give to men, whom you should let go to prison in debt. Let men be like dying woods, with diseases eating at their lying blood. Live this way, and goodbye.\u00a0"
+        },
+        {
+            "original": "  O, let me stay,And comfort you, my master.  ",
+            "translated": "Let me stay and comfort you, master."
+        },
+        {
+            "original": "  If thou hatest curses,Stay not; fly, whilst thou art blest and free:Ne'er see thou man, and let me ne'er see thee.  ",
+            "translated": "If you hate to be insulted, do not stay. Go away, and while you are blessed and free, never meet with another man, and never let me see you here again."
+        }
+    ]
+}

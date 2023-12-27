@@ -1,0 +1,128 @@
+{
+    "dialogs": [
+        {
+            "original": "   [as CAMBIO]  Fiddler, forbear. You grow too forward, sir.Have you so soon forgot the entertainmentHer sister Katherina welcomed you withal?  ",
+            "translated": "[As CAMBIO]\u00a0Enough, fiddler! You grow too forward, sir. Have you already forgotten how her sister Katherina thanked you for your insistence?"
+        },
+        {
+            "original": "   [as LITIO]   But, wrangling pedant, this is    The patroness of heavenly harmony.    Then give me leave to have prerogative,    And when in music we have spent an hour,    Your lecture shall have leisure for as much.   ",
+            "translated": "[As LITIO]\u00a0But this is not Katherine, that quarrelsome know-it-allthis is the goddess of heavenly harmony. So let me go first, and after we've spent an hour on music, you can have the same amount of time for your lesson."
+        },
+        {
+            "original": "   [as CAMBIO]   Preposterous ass, that never read so far    To know the cause why music was ordained.    Was it not to refresh the mind of man    After his studies or his usual pain?    Then give me leave to read philosophy    And, while I pause, serve in your harmony.   ",
+            "translated": "[As CAMBIO]\u00a0Ridiculous ass! You are not even educated enough to know why music was created in the first place. Wasn't it to refresh the mind of man after his studies and daily labor? So let me read philosophy with her, and when I take a break, you can come in with your harmony."
+        },
+        {
+            "original": "   [as LITIO]  Sirrah, I will not bear these braves of thine.  ",
+            "translated": "[As LITIO]\u00a0Boy, I won't stand for these insults!"
+        },
+        {
+            "original": "   Why, gentlemen, you do me double wrong    To strive for that which resteth in my choice.    I am no breeching scholar in the schools.    Ill not be tied to hours nor 'pointed times    But learn my lessons as I please myself.    And, to cut off all strife, here sit we down.    [To HORTENSIO]    Take you your instrument, play you the whiles.    His lecture will be done ere you have tuned.   ",
+            "translated": "Why, gentlemen, you both do me wrong in arguing over something that is really my decision. I am no schoolboy to be whipped and disciplined. I won't be ordered about with hours and appointed schedulesI will learn my lessons as it pleases me. So to cut off all this arguing, let's sit down and figure this out."
+        },
+        {
+            "original": "   [as LITIO]  Youll leave his lecture when I am in tune?  ",
+            "translated": "[As LITIO]\u00a0And you'll stop his lesson once I am in tune?"
+        },
+        {
+            "original": "   [aside]  That will be never.  [To HORTENSIO]  Tune your instrument.  ",
+            "translated": "[To himself]\u00a0That will be never."
+        },
+        {
+            "original": "  Where left we last?  ",
+            "translated": "Where did we leave off?"
+        },
+        {
+            "original": "  Here, madam:  Hic ibat Simois, hic est Sigeia tellus,    Hic steterat Priami regia celsa senis.   ",
+            "translated": "Here, madam:\u00a0"
+        },
+        {
+            "original": "  Construe them.  ",
+            "translated": "Translate them."
+        },
+        {
+            "original": "    Hic ibat    , as I told you before,    Simois    , I am Lucentio,    hic est    , son unto Vincentio of Pisa,      Sigeia tellus    , disguised thus to get your love,    Hic steterat    , and that Lucentio that comes a-wooing,    Priami    is my man Tranio,    regia    , bearing my port,    celsa senis,    that we might beguile the old pantaloon.   ",
+            "translated": "Hic ibat, as I told you before, Simois, I am Lucentio, hic est, son of Vincentio of Pisa, Sigeia tellus, disguised like this to win your love. Hic steterat, and the other \"Lucentio\" who comes to woo you, Priami, is my servant Tranio, regia, pretending to be me, celsa senis, so we can trick the foolish old Gremio."
+        },
+        {
+            "original": "   [as LITIO]  Madam, my instruments in tune.  ",
+            "translated": "[As LITIO]\u00a0Madam, my instrument's in tune."
+        },
+        {
+            "original": "  Lets hear.  [he plays]  O fie! The treble jars.  ",
+            "translated": "Let's hear it."
+        },
+        {
+            "original": "   [as CAMBIO]  Spit in the hole, man, and tune again.  ",
+            "translated": "[As CAMBIO]\u00a0Start over, man, and tune again."
+        },
+        {
+            "original": "  Now let me see if I can construe it.  Hic ibat Simois  , I know you not,  hic est Sigeia tellus  , I trust you not,  Hic steterat Priami  , take heed he hear us not,  regia  , presume not,  celsa   senis,  despair not.  ",
+            "translated": "Now let me see if I can translate it. Hic ibat Simois, I don't know you, hic est Sigeia tellus, I don't trust you, Hic steterat Priami, make sure he doesn't hear us, regia, don't presume anything, celsa senis, don't give up."
+        },
+        {
+            "original": "   [as LITIO]  Madam, tis now in tune.  ",
+            "translated": "[As LITIO]\u00a0Madam, now it's in tune."
+        },
+        {
+            "original": "   [as CAMBIO]  All but the base.  ",
+            "translated": "[As CAMBIO]\u00a0All but the bass string."
+        },
+        {
+            "original": "   [as LITIO]   The base is right; tis the base knave that jars.    [aside]   How fiery and forward our pedant is!    Now, for my life, the knave doth court my love.     Pedascule    , Ill watch you better yet.   ",
+            "translated": "[As LITIO]\u00a0The bass string is fineit's this base villain that's out of tune.\u00a0"
+        },
+        {
+            "original": "   [To LUCENTIO]  In time I may believe, yet I mistrust.  ",
+            "translated": "[To LUCENTIO]\u00a0In time I may believe you, but I'm still doubtful."
+        },
+        {
+            "original": "  Mistrust it not, for sure AeacidesWas Ajax, called so from his grandfather.  ",
+            "translated": "Don't doubt me, for"
+        },
+        {
+            "original": "   I must believe my master; else, I promise you,    I should be arguing still upon that doubt.    But let it rest.Now, Litio, to you.    Good master, take it not unkindly, pray,    That I have been thus pleasant with you both.   ",
+            "translated": "I must believe you because you're my teacher, or else, I promise you, I would keep arguing. But let it go.Now, Litio, it's your turn. Good teacher, I hope you're not offended that I've been equally friendly to both of you."
+        },
+        {
+            "original": "   [as LITIO  , to  LUCENTIO]  You may go walk, and give me leave awhile.My lessons make no music in three parts.  ",
+            "translated": "[As LITIO, to LUCENTIO]\u00a0You can go take a walk, and leave us alone for a while. I don't teach music for three people."
+        },
+        {
+            "original": "   [as CAMBIO]  Are you so formal, sir? Well, I must wait.  [aside]  And watch withal, for, but I be deceived,Our fine musician groweth amorous.  ",
+            "translated": "[As CAMBIO]\u00a0Are you so strict, sir? Well, I guess I have to wait then."
+        },
+        {
+            "original": "   [as LITIO]   Madam, before you touch the instrument,    To learn the order of my fingering    I must begin with rudiments of art,    To teach you gamut in a briefer sort,    More pleasant, pithy, and effectual    Than hath been taught by any of my trade.    And there it is in writing, fairly drawn.   ",
+            "translated": "[As LITIO]\u00a0Madam, before you touch the instrument or learn the fingering, I must begin by teaching you the fundamentals of music. To teach you the scales, I have a method that's more pleasant and effective than what any other teachers use. And here it is written out."
+        },
+        {
+            "original": "  Why, I am past my gamut long ago.  ",
+            "translated": "Why, I learned my scales long ago."
+        },
+        {
+            "original": "  Yet read the gamut of Hortensio.  ",
+            "translated": "But still, read Hortensio's scale."
+        },
+        {
+            "original": "   [reads]        Gamut    I am, the ground of all accord:     A re,    to plead Hortensios passion;     B mi,    Bianca, take him for thy lord,     C fa ut,    that loves with all affection;     D sol re,    one clef, two notes have I;     E la mi,    show pity, or I die.    Call you this gamut? Tut, I like it not.    Old fashions please me best.   I am not so nice    To change true rules for old inventions.   ",
+            "translated": "[Reading]\u00a0\"I am the scale, the foundation of all harmony:A re, to declare Hortensio's passion;B mi, Bianca, take him for your husband,C fa ut, he loves you with all affection;D sol re, I have one key but only two notes;E la mi, show me pity, or I'll die.\"You call this a scale? I don't like it. I prefer the old-fashioned way. I'm not so foolish as to want to replace the old, true methods."
+        },
+        {
+            "original": "  Mistress, your father prays you leave your booksAnd help to dress your sisters chamber up.You know tomorrow is the wedding day.  ",
+            "translated": "Mistress, your father asks that you leave your books and help decorate your sister's room. You know tomorrow is the wedding day."
+        },
+        {
+            "original": "  Farewell, sweet masters both. I must be gone.  ",
+            "translated": "Farewell, sweet teachers. I must go."
+        },
+        {
+            "original": "   [as CAMBIO]  Faith, mistress, then I have no cause to stay.  ",
+            "translated": "[As CAMBIO]\u00a0Well, mistress, then I have no reason to stay any longer."
+        },
+        {
+            "original": "   But I have cause to pry into this pedant.    Methinks he looks as though he were in love.    Yet if thy thoughts, Bianca, be so humble    To cast thy wand'ring eyes on every stale,    Seize thee that list!   If once I find thee ranging,    Hortensio will be quit with thee by changing.   ",
+            "translated": "But I have a reason to examine this know-it-all teacher more closely. I think he looks like he's in love. But if Bianca is so vulgar as to fall for every false man she sees, then let him have her! If I ever catch her being unfaithful, I'll get even with her by loving someone else."
+        }
+    ]
+}

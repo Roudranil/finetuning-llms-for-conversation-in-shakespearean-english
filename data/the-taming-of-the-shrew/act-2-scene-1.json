@@ -1,0 +1,576 @@
+{
+    "dialogs": [
+        {
+            "original": "   Good sister, wrong me not nor wrong yourself,    To make a bondmaid and a slave of me.    That I disdain.   But for these other goods    Unbind my hands, Ill pull them off myself,    Yea, all my raiment to my petticoat,    Or what you will command me will I do,    So well I know my duty to my elders.   ",
+            "translated": "Good sister, don't wrong both me and yourself by turning me into a slave. I won't stand for that. But if it's my jewelry and clothes you wantuntie my hands and I'll pull them off myself, yes, everything down to my underwear. Or I'll do anything else you command me to do, for I know that it is my duty is to obey my elders."
+        },
+        {
+            "original": "  Of all thy suitors here I charge thee tellWhom thou lovest best. See thou dissemble not.  ",
+            "translated": "I order you to tell me which of your suitors you like best. And make sure you don't lie."
+        },
+        {
+            "original": "  Believe me, sister, of all the men aliveI never yet beheld that special faceWhich I could fancy more than any other.  ",
+            "translated": "Believe me, sister, out of all the men alive I've never yet seen that special face that I could love more than any other."
+        },
+        {
+            "original": "  Minion, thou liest. Is t not Hortensio?  ",
+            "translated": "You're lying, you hussy. It's Hortensio, isn't it?"
+        },
+        {
+            "original": "  If you affect him, sister, here I swear Ill plead for you myself, but you shall have him.  ",
+            "translated": "If you love him, sister, you can have him. I swear I'll even plead with him on your behalf."
+        },
+        {
+            "original": "  Oh, then belike you fancy riches more.You will have Gremio to keep you fair.  ",
+            "translated": "Oh, then you probably prefer money. You'll choose Gremio who will keep you dressed up in fine clothes and jewelry."
+        },
+        {
+            "original": "   Is it for him you do envy me so?    Nay, then you jest, and now I well perceive    You have but jested with me all this while.    I prithee, sister Kate, untie my hands.   ",
+            "translated": "Are you really jealous of me because of him? You must be jokingand now I can see that you've been joking with me this whole time. Please, sister Kate, untie my hands."
+        },
+        {
+            "original": "  If that be jest, then all the rest was so.  ",
+            "translated": "If you consider that a joke, then the rest was too."
+        },
+        {
+            "original": "   Why, how now, dame! whence grows this insolence?    Bianca, stand aside.Poor girl, she weeps!    [To BIANCA]   Go ply thy needle; meddle not with her.    [To KATHERINE]   For shame, thou hilding of a devilish spirit!    Why dost thou wrong her that did ne'er wrong thee?    When did she cross thee with a bitter word?   ",
+            "translated": "What's going on, woman? How dare you!Bianca, step away from her.The poor girl, she's weeping!\u00a0[To BIANCA]\u00a0Go do some sewing, and don't talk to her.[To KATHERINE]\u00a0For shame, you vicious creature, you devil! Why would you hurt her when she's never done you any harm? When did she ever speak a single cruel word to you?"
+        },
+        {
+            "original": "  Her silence flouts me, and Ill be revenged.  ",
+            "translated": "Her silence mocks me, and I'll get my revenge on her."
+        },
+        {
+            "original": "  What, in my sight?Bianca, get thee in.  ",
+            "translated": "What, right in front of me?Bianca, go inside."
+        },
+        {
+            "original": "   What, will you not suffer me?   Nay, now I see    She is your treasure, she must have a husband,    I must dance barefoot on her wedding day    And, for your love to her, lead apes in hell.    Talk not to me. I will go sit and weep    Till I can find occasion of revenge.   ",
+            "translated": "What, you can't even stand my presence? Now I see that she is your treasure. She must have a husband, while I must dance barefoot on her wedding day and lead apes in hell, all because you love her most. Don't speak to me, I will go cry and wait until I can get my revenge.\u00a0"
+        },
+        {
+            "original": "  Was ever gentleman thus grieved as I?But who comes here?  ",
+            "translated": "Was there ever a man who suffered like I do? But who's this coming?"
+        },
+        {
+            "original": "  Good morrow, neighbor Baptista.  ",
+            "translated": "Good morning, neighbor Baptista."
+        },
+        {
+            "original": "  Good morrow, neighbor Gremio.God save you, gentlemen!  ",
+            "translated": "Good morning, neighbor Gremio.Hello and God bless you, gentlemen!"
+        },
+        {
+            "original": "  And you, good sir. Pray, have you not a daughterCalled Katherina, fair and virtuous?  ",
+            "translated": "And you, good sir. Please tell me, don't you have a daughter named Katherina, who is fair and virtuous?"
+        },
+        {
+            "original": "  I have a daughter, sir, called Katherina.  ",
+            "translated": "I do have a daughter named Katherina, sir."
+        },
+        {
+            "original": "   [To PETRUCHIO]  You are too blunt. Go to it orderly.  ",
+            "translated": "[To PETRUCHIO]\u00a0You're being too blunt. Go about it with more ceremony."
+        },
+        {
+            "original": "   You wrong me, Signior Gremio. Give me leave.    I am a gentleman of Verona, sir,    That hearing of her beauty and her wit,    Her affability and bashful modesty,    Her wondrous qualities and mild behavior,    Am bold to show myself a forward guest    Within your house, to make mine eye the witness    Of that report which I so oft have heard.    And, for an entrance to my entertainment,    I do present you with a man of mine,    [presenting  HORTENSIO  , disguised as  LITIO  ]    Cunning in music and the mathematics,    To instruct her fully in those sciences,    Whereof I know she is not ignorant.    Accept of him, or else you do me wrong.    His name is Litio, born in Mantua.   ",
+            "translated": "You do me wrong, Sir Gremio. Let me continue.I am a gentleman of Verona, sir, who has heard of your daughter's beauty and wit, her friendliness and bashful modesty, her wondrous talents and mild behavior. I have now boldly come as a guest to your house to try and see for myself all the things I've heard reported. And, to pay the price of my admission to your hospitality, I here present you with a servant of mine.\u00a0"
+        },
+        {
+            "original": "  Youre welcome, sir, and he for your good sake.But for my daughter Katherine, this I know,She is not for your turn, the more my grief.  ",
+            "translated": "You're welcome here, sir, and he is too, for your sake. But as for my daughter Katherine, this much I know: she won't meet your expectationsand that's a pity for me."
+        },
+        {
+            "original": "  I see you do not mean to part with her, Or else you like not of my company.  ",
+            "translated": "I see that you don't intend to part with her, or else you don't like my company."
+        },
+        {
+            "original": "  Mistake me not. I speak but as I find.Whence are you, sir? What may I call your name?  ",
+            "translated": "No, don't misunderstand meI'm just stating the facts. Where are you from, sir? What name should I call you?"
+        },
+        {
+            "original": "  Petruchio is my name, Antonios son,A man well known throughout all Italy.  ",
+            "translated": "Petruchio is my name. My father was Antonio, a man well known throughout Italy."
+        },
+        {
+            "original": "  I know him well. You are welcome for his sake.  ",
+            "translated": "He's well known to me. You are welcome for his sake."
+        },
+        {
+            "original": "  Saving your tale, Petruchio, I prayLet us that are poor petitioners speak too.  Bacare,  you are marvelous forward.  ",
+            "translated": "With all due respect, Petruchio, please let us poor petitioners get a word in too. Stand backyou're too forward."
+        },
+        {
+            "original": "  Oh, pardon me, Signior Gremio, I would fain be doing.  ",
+            "translated": "Oh, pardon me, Sir Gremio. I'm just eager to get down to business."
+        },
+        {
+            "original": "   I doubt it not, sir, but you will curse your wooing.    [To  BAPTISTA  ]   Neighbor, this is a gift very grateful, I am sure of it.   To express the like kindness, myself, that have been more kindly beholding to you than any, freely give unto you this young scholar   [presenting   LUCENTIO  , disguised as  CAMBIO  ]   that hath been long studying at Rheims, as cunning in Greek, Latin, and other languages as the other in music and mathematics.    His name is Cambio. Pray accept his service.   ",
+            "translated": "I don't doubt it, sir, but you'll regret your wooing if it's successful."
+        },
+        {
+            "original": "  A thousand thanks, Signior Gremio. Welcome, good Cambio.  [To  TRANIO  as  LUCENTIO  ]  But, gentle sir, methinks you walk like a stranger. May I be so bold to know the cause of your coming?  ",
+            "translated": "A thousand thanks, Sir Gremio. Welcome, good Cambio."
+        },
+        {
+            "original": "   [as LUCENTIO]   Pardon me, sir, the boldness is mine own,    That being a stranger in this city here    Do make myself a suitor to your daughter,    Unto Bianca, fair and virtuous.    Nor is your firm resolve unknown to me,    In the preferment of the eldest sister.    This liberty is all that I request,    That, upon knowledge of my parentage,    I may have welcome mongst the rest that woo    And free access and favor as the rest.    And toward the education of your daughters,    I here bestow a simple instrument    And this small packet of Greek and Latin books.    [BIONDELLO  b    rings the gifts forward]    If you accept them, then their worth is great.   ",
+            "translated": "[As LUCENTIO]\u00a0Pardon me sir, for the boldness is all my own. I am a foreigner in this city, but I have come to make myself a suitor to your daughter, the fair and virtuous Bianca. I'm also aware of your firm decision that your eldest daughter must marry first. All I ask is that, once you know who my parents are, you make me as welcome as Bianca's other suitors, and give me the same freedom and permission as the rest. And as for the education of your daughters, I here contribute a simple instrument and this small pack of Greek and Latin books."
+        },
+        {
+            "original": "  Lucentio is your name. Of whence, I pray?  ",
+            "translated": "I see that your name is Lucentio. Where are you from?"
+        },
+        {
+            "original": "   [as LUCENTIO]  Of Pisa, sir, son to Vincentio.  ",
+            "translated": "[As LUCENTIO]\u00a0From Pisa, sir. My father is Vincentio."
+        },
+        {
+            "original": "   A mighty man of Pisa. By report    I know him well. You are very welcome, sir.    [To  HORTENSIO  as  LITIO  ]   Take you the lute,    [To  LUCENTIO  as  CAMBIO  ]   and you the set of books.    You shall go see your pupils presently.    Holla, within!   ",
+            "translated": "A mighty man of Pisa. I know him well by reputation. You are very welcome, sir.\u00a0"
+        },
+        {
+            "original": "  Sirrah, lead these gentlemenTo my daughters, and tell them bothThese are their tutors. Bid them use them well.  ",
+            "translated": "Boy, lead these gentlemen to my daughters, and tell them that these are their tutors, so make sure to treat them well."
+        },
+        {
+            "original": "  We will go walk a little in the orchard, And then to dinner. You are passing welcome,And so I pray you all to think yourselves.  ",
+            "translated": "We'll go for a little walk in the garden, and then to dinner. Please, know that you are all very welcome here and make yourselves at home."
+        },
+        {
+            "original": "   Signior Baptista, my business asketh haste,    And every day I cannot come to woo.    You knew my father well, and in him me,    Left solely heir to all his lands and goods,    Which I have bettered rather than decreased.    Then tell me, if I get your daughters love,    What dowry shall I have with her to wife?   ",
+            "translated": "Sir Baptista, I'm in a bit of a hurry with this business, and I can't come wooing every day. You knew my father well, and through him, me, the only heir to all his lands and wealth, which I have increased rather than depleted. So tell me, if I can win your daughter's love, what dowry will I get when I marry her?"
+        },
+        {
+            "original": "  After my death, the one half of my lands, And, in possession, twenty thousand crowns.  ",
+            "translated": "Twenty thousand crowns right away, and one half of my lands after my death."
+        },
+        {
+            "original": "   And, for that dowry, Ill assure her of    Her widowhood, be it that she survive me,    In all my lands and leases whatsoever.    Let specialties be therefore drawn between us,    That covenants may be kept on either hand.   ",
+            "translated": "And on my side, if I die before she does, as her widow's inheritance she'll get all my lands and the rent from my property. Let's have contracts drawn up between us, so both of us will be sure to keep up our end of the agreement."
+        },
+        {
+            "original": "  Ay, when the special thing is well obtained,That is, her love, for that is all in all.  ",
+            "translated": "Of course, once the most important thing has been obtainedher love, that is. That is everything."
+        },
+        {
+            "original": "   Why, that is nothing.   For I tell you, father,    I am as peremptory as she proud-minded;    And where two raging fires meet together,    They do consume the thing that feeds their fury.    Though little fire grows great with little wind,    Yet extreme gusts will blow out fire and all.    So I to her and so she yields to me,    For I am rough and woo not like a babe.   ",
+            "translated": "Why, that is nothing. I tell you, father, I am as domineering as she is proud-minded, and when two raging fires come together, they cancel each other out. A little wind will make a little fire great, but a great gust will blow the fire out. I'll be the great gust to her fire, and she will yield to me, for I am rough and don't woo like a child."
+        },
+        {
+            "original": "  Well mayst thou woo, and happy be thy speed.But be thou armed for some unhappy words.  ",
+            "translated": "Good luck with your wooing. May you be successful. But be ready for some unpleasant words."
+        },
+        {
+            "original": "  Ay, to the proof, as mountains are for winds,That shakes not, though they blow perpetually.  ",
+            "translated": "I'll be well-armed against them, like a mountain in the wind. Even if it keeps blowing forever, the mountain never shakes."
+        },
+        {
+            "original": "  How now, my friend, why dost thou look so pale?  ",
+            "translated": "What's going on, my friend? Why do you look so pale?"
+        },
+        {
+            "original": "   [as LITIO]  For fear, I promise you, if I look pale.  ",
+            "translated": "[As LITIO]\u00a0If I look pale, it must be from fear."
+        },
+        {
+            "original": "  What, will my daughter prove a good musician?  ",
+            "translated": "What, will my daughter turn out to be a good musician?"
+        },
+        {
+            "original": "  I think shell sooner prove a soldier.Iron may hold with her, but never lutes.  ",
+            "translated": "I think she'd do better as a soldier. Swords might withstand her, but never lutes."
+        },
+        {
+            "original": "  Why, then thou canst not break her to the lute?  ",
+            "translated": "What, you don't think you can break her to the lute?"
+        },
+        {
+            "original": "   Why, no, for she hath broke the lute to me.    I did but tell her she mistook her frets,    And bowed her hand to teach her fingering,    When, with a most impatient devilish spirit,    'Frets' call you these? quoth she. Ill fume with them!    And with that word she struck me on the head,    And through the instrument my pate made way,    And there I stood amaz\u00e8d for a while    As on a pillory, looking through the lute,    While she did call me rascal fiddler    And twangling Jack; with twenty such vile terms,    As had she studied to misuse me so.   ",
+            "translated": "Why noshe's broken the lute on me. All I told her was that she was using the wrong frets, and I bent her hand to teach her the right fingering. Then she jumped up with impatience and said, \"'Frets,' is that what you call them? Let me fret you then!\" And with that she struck me on the head, so that my head went right through the lute. I stood there confused for a while, looking through the strings of the lute as if they were prison bars, while she called me a \"rascal fiddler,\" \"twangling fool,\" and twenty other hateful names like that. It was as if she'd been practicing and planning to abuse me like this."
+        },
+        {
+            "original": "  Now, by the world, it is a lusty wench.I love her ten times more than e'er I did. O, how I long to have some chat with her!  ",
+            "translated": "By God, that's a lively girl! Now I like her ten times more than I did before. Oh, I can't wait to talk to her!"
+        },
+        {
+            "original": "   [To HORTENSIO as LITIO]    Well, go with me and be not so discomfited.    Proceed in practice with my younger daughter.    Shes apt to learn and thankful for good turns.    Signior Petruchio, will you go with us,    Or shall I send my daughter Kate to you?   ",
+            "translated": "[To HORTENSIO as LITIO]\u00a0Well, come with me, and don't be discouraged. Proceed in your lessons with my younger daughter. She's a quick learner and will be grateful for your help. Sir Petruchio, will you come with us, or should I send my daughter Kate to you?"
+        },
+        {
+            "original": "  I pray you do.  ",
+            "translated": "Please send her in."
+        },
+        {
+            "original": "   Ill attend her here    And woo her with some spirit when she comes.    Say that she rail; why then Ill tell her plain    She sings as sweetly as a nightingale.    Say that she frown; Ill say she looks as clear    As morning roses newly washed with dew.    Say she be mute and will not speak a word;    Then Ill commend her volubility,    And say she uttereth piercing eloquence.    If she do bid me pack, Ill give her thanks,    As though she bid me stay by her a week.    If she deny to wed, Ill crave the day    When I shall ask the banns and when be marri\u00e8d.    But here she comesand now, Petruchio, speak.   ",
+            "translated": "I'll wait for her here and woo her forcefully when she comes. If she rants and scolds, I'll tell her that she sings as sweetly as a nightingale. If she frowns, I'll say that she looks as cheerful as morning roses newly washed with dew. If she is silent and won't say a word, then I'll praise her for being talkative, and say that she speaks with piercing eloquence. If she tells me to get out, then I'll thank her as if she'd asked me to stay with her for a week. If she refuses to marry me, then I'll ask about the date for the announcement and the wedding. But here she comesand now, Petruchio, speak."
+        },
+        {
+            "original": "  Good morrow, Katefor thats your name, I hear.  ",
+            "translated": "Hello, Katefor that's your name, I hear."
+        },
+        {
+            "original": "  Well have you heard, but something hard of hearing.They call me Katherine that do talk of me.  ",
+            "translated": "You may have heard that, but you must be somewhat hard of hearing then. Those who talk about me call me Katherine."
+        },
+        {
+            "original": "   You lie, in faith, for you are called plain Kate,    And bonny Kate, and sometimes Kate the curst,    But Kate,   the prettiest Kate in Christendom,    Kate of Kate Hall, my super-dainty Kate    For dainties are all Kates   and therefore, Kate,    Take this of me, Kate of my consolation:    Hearing thy mildness praised in every town,    Thy virtues spoke of, and thy beauty sounded    Yet not so deeply as to thee belongs    Myself am moved to woo thee for my wife.   ",
+            "translated": "You lie, I swear, for you are called Kate, plain Kate, and pretty Kate, and sometimes Kate the shrew, but always Kate, the prettiest Kate in God's kingdom, Kate from Kate Hall, my delicious Katefor all delicacies are Katesand so, Kate, listen to me: having heard your modesty, virtue, and beauty praised in every town, though not as highly as you deserve, I have been moved to court you for my wife."
+        },
+        {
+            "original": "  Moved, in good time. Let him that moved you hitherRemove you hence. I knew you at the firstYou were a moveable.  ",
+            "translated": "\"Moved,\" indeed. Then let whoever moved you here come and remove you. I could tell at once that you were a moveable."
+        },
+        {
+            "original": "  Why, whats a moveable?  ",
+            "translated": "Why, what do you mean by \"moveable?\""
+        },
+        {
+            "original": "  A joint stool.  ",
+            "translated": "A stool."
+        },
+        {
+            "original": "  Thou hast hit it. Come, sit on me.  ",
+            "translated": "Exactly. Come sit on me."
+        },
+        {
+            "original": "  Asses are made to bear, and so are you.  ",
+            "translated": "Asses are meant for bearing, and so are you."
+        },
+        {
+            "original": "  Women are made to bear, and so are you.  ",
+            "translated": "Women are meant for bearing, and so are you."
+        },
+        {
+            "original": "  No such jade as you, if me you mean.  ",
+            "translated": "Not for bearing the likes of you, if you're talking about me."
+        },
+        {
+            "original": "  Alas, good Kate, I will not burden thee,For knowing thee to be but young and light  ",
+            "translated": "Alas, good Kate, I would never burden you, for I know you're young and light"
+        },
+        {
+            "original": "  Too light for such a swain as you to catch,And yet as heavy as my weight should be.  ",
+            "translated": "Too light for a bumpkin like you to catchand yet just as heavy as I should be."
+        },
+        {
+            "original": "  Should beshould buzz!  ",
+            "translated": "\"Should be?\" Keep on buzzing, bee!"
+        },
+        {
+            "original": "  Well ta'en, and like a buzzard.  ",
+            "translated": "Spoken like a true buzzard."
+        },
+        {
+            "original": "  O slow-winged turtle, shall a buzzard take thee?  ",
+            "translated": "Oh slow-winged turtledove, will you let a buzzard catch you?"
+        },
+        {
+            "original": "  Ay, for a turtle, as he takes a buzzard.  ",
+            "translated": "No, this turtledove will catch a buzzard."
+        },
+        {
+            "original": "  Come, come, you wasp. I' faith, you are too angry.  ",
+            "translated": "Come, come, my little wasp. Really, you're too angry."
+        },
+        {
+            "original": "  If I be waspish, best beware my sting.  ",
+            "translated": "If I'm a wasp, then you'd better beware my stinger."
+        },
+        {
+            "original": "  My remedy is then to pluck it out.  ",
+            "translated": "I'll have to pluck it out."
+        },
+        {
+            "original": "  Ay, if the fool could find it where it lies.  ",
+            "translated": "If a fool like you could find it."
+        },
+        {
+            "original": "  Who knows not where a wasp does wear his sting?In his tail.  ",
+            "translated": "Who doesn't know where a wasp wears its stinger? In its tail."
+        },
+        {
+            "original": "  In his tongue.  ",
+            "translated": "No, in its tongue."
+        },
+        {
+            "original": "  Whose tongue?  ",
+            "translated": "Whose tongue?"
+        },
+        {
+            "original": "  Yours, if you talk of tales. And so farewell.  ",
+            "translated": "Yours, if we're telling tall tales of tails. Farewell then."
+        },
+        {
+            "original": "  What, with my tongue in your tail? Nay, come again,Good Kate. I am a gentleman.  ",
+            "translated": "What, you'll leave with my tongue in your tail? No, come back, good Kate. I am a gentleman."
+        },
+        {
+            "original": "  That Ill try.  ",
+            "translated": "I'll test that out."
+        },
+        {
+            "original": "  I swear Ill cuff you if you strike again.  ",
+            "translated": "I swear I'll hit you if you strike me again."
+        },
+        {
+            "original": "  So may you lose your arms.If you strike me, you are no gentleman;And if no gentleman, why then no arms.  ",
+            "translated": "Then you'll lose your arms. If you strike me, then you're no gentleman, and if you're not a gentleman, then you have no arms."
+        },
+        {
+            "original": "  A herald, Kate? Oh, put me in thy books!  ",
+            "translated": "Are you a register for gentlemen, Kate? Oh, put me in your good books!"
+        },
+        {
+            "original": "  What is your crest? A coxcomb?  ",
+            "translated": "What's your family crest? A coxcomb?"
+        },
+        {
+            "original": "  A combless cock, so Kate will be my hen.  ",
+            "translated": "I'd be a cock without a comb, if Kate will be my hen."
+        },
+        {
+            "original": "  No cock of mine. You crow too like a craven.  ",
+            "translated": "Then you'd be no cock of mine. You won't fight."
+        },
+        {
+            "original": "  Nay, come, Kate, come. You must not look so sour.  ",
+            "translated": "Come, Kate, come. Don't look so sour."
+        },
+        {
+            "original": "  It is my fashion, when I see a crab.  ",
+            "translated": "That's just what I do, when I see a crab apple."
+        },
+        {
+            "original": "  Why, heres no crab, and therefore look not sour.  ",
+            "translated": "Why, there's no crab apple here, so don't look sour."
+        },
+        {
+            "original": "  There is, there is.  ",
+            "translated": "But there is, there is."
+        },
+        {
+            "original": "  Then show it me.  ",
+            "translated": "Then show it to me."
+        },
+        {
+            "original": "  Had I a glass, I would.  ",
+            "translated": "If I had a mirror, I would."
+        },
+        {
+            "original": "  What, you mean my face?  ",
+            "translated": "What, you mean my face?"
+        },
+        {
+            "original": "  Well aimed of such a young one.  ",
+            "translated": "What a good guess for such a boy!"
+        },
+        {
+            "original": "  Now, by Saint George, I am too young for you.  ",
+            "translated": "By Saint George, I probably am too young for you."
+        },
+        {
+            "original": "  Yet you are withered.  ",
+            "translated": "But you're also wrinkled."
+        },
+        {
+            "original": "  'Tis with cares.  ",
+            "translated": "That's from worries and cares."
+        },
+        {
+            "original": "  I care not.  ",
+            "translated": "I don't care."
+        },
+        {
+            "original": "  Nay, hear you, Kate: in sooth you scape not so.  ",
+            "translated": "Now listen, Kate: you won't escape like that."
+        },
+        {
+            "original": "  I chafe you, if I tarry. Let me go.  ",
+            "translated": "I'll only irritate you if I stay. Let me go."
+        },
+        {
+            "original": "   No, not a whit. I find you passing gentle.    'Twas told me you were rough and coy and sullen,    And now I find report a very liar.    For thou are pleasant, gamesome, passing courteous,    But slow in speech, yet sweet as springtime flowers.    Thou canst not frown, thou canst not look askance,    Nor bite the lip as angry wenches will,    Nor hast thou pleasure to be cross in talk.    But thou with mildness entertainst thy wooers,    With gentle conference, soft and affable.    Why does the world report that Kate doth limp?    O slanderous world!   Kate like the hazel-twig     As hazel nuts, and sweeter than the kernels.    Oh, let me see thee walk! Thou dost not halt.    ",
+            "translated": "No, not a bit. I find you exceedingly gentle. I was told that you were rough, scornful, and sullen, but now I see that those rumors are lies. You are pleasant, amusing, polite, not sharp-tongued, and as sweet as springtime flowers. Even if you tried, you couldn't frown, glare scornfully, or bite your lip as angry women do, and you take no pleasure in arguments. Instead you entertain your suitors with mild and gentle conversation, and are quiet and friendly. So why does the world report that Kate limps along? What a slanderous world! Kate is like a hazel-twig, straight and slender, her hair is as brown as hazelnuts, and she herself is sweeter than the hazelnut kernels. Oh, let me see you walk, Kate! You don't limp at all!"
+        },
+        {
+            "original": "  Go, fool, and whom thou keepst command.  ",
+            "translated": "Go, fool. Order your servants aroundnot me."
+        },
+        {
+            "original": "   Did ever Dian so become a grove    As Kate this chamber with her princely gait?    Oh, be thou Dian, and let her be Kate,    And then let Kate be chaste and Dian sportful.   ",
+            "translated": "Did the goddess Diana ever grace a forest like Kate now graces this room with her queenly walk? Oh, you be Diana, then, and let Diana be Kate. Then let Kate be the chaste one, while Diana is my love."
+        },
+        {
+            "original": "  Where did you study all this goodly speech?  ",
+            "translated": "Where did you memorize all this witty talk?"
+        },
+        {
+            "original": "  It is extempore, from my mother wit.  ",
+            "translated": "It's off-the-cuff. It comes from my natural intelligence."
+        },
+        {
+            "original": "  A witty mother! Witless else her son.  ",
+            "translated": "What a witty mother! Too bad her son is witless."
+        },
+        {
+            "original": "  Am I not wise?  ",
+            "translated": "Am I not wise?"
+        },
+        {
+            "original": "  Yes, keep you warm.  ",
+            "translated": "Hardly wise enough to keep yourself warm."
+        },
+        {
+            "original": "   Marry, so I mean, sweet Katherine, in thy bed.    And therefore, setting all this chat aside,    Thus in plain terms:   your father hath consented    That you shall be my wife, your dowry 'greed on,    And, will you, nill you, I will marry you.    Now, Kate, I am a husband for your turn,    For, by this light, whereby I see thy beauty,    Thy beauty that doth make me like thee well,    Thou must be married to no man but me.    For I am he am born to tame you, Kate,    And bring you from a wild Kate to a Kate    Conformable as other household Kates.   ",
+            "translated": "Indeed, I do mean to keep myself warm, sweet Katherine, in your bed. But enough chatter. Let's speak plainly: your father has consented that you will be my wife. Your dowry is agreed upon, and whether you want it or not, I will marry you. Now, Kate, I'm the only husband for you. I swear by this light, which lets me see your beautyyour beauty that makes me love youthat you must be married to no man but me. I was born to tame you, Kate, and change you from a wildcat Kate into a Kate as obedient as other domesticated Kates."
+        },
+        {
+            "original": "  Here comes your father. Never make denial.I must and will have Katherine to my wife.  ",
+            "translated": "Here comes your father. Don't refuse my proposal. I must and will have Katherine for my wife."
+        },
+        {
+            "original": "  Now, Signior Petruchio, how speed you with my daughter?  ",
+            "translated": "Now, Sir Petruchio, how's it going with my daughter?"
+        },
+        {
+            "original": "  How but well, sir? How but well? It were impossible I should speed amiss.  ",
+            "translated": "How but well, sir? How but well? It would be impossible to go any other way."
+        },
+        {
+            "original": "  Why, how now, daughter Katherine? In your dumps?  ",
+            "translated": "And how are you, daughter Katherine? Are you sad?"
+        },
+        {
+            "original": "   Call you me daughter?   Now, I promise you    You have showed a tender fatherly regard    To wish me wed to one half lunatic,    A madcup ruffian and a swearing Jack,    That thinks with oaths to face the matter out.   ",
+            "translated": "You'd dare to call me daughter? I swear, you've certainly shown a father's tender care in trying to marry me off to a lunatic, a crazed villain and a swearing fool, who thinks that he can force his way through with enough cursing!"
+        },
+        {
+            "original": "   Father, tis thus: yourself and all the world    That talked of her have talked amiss of her.    If she be curst, it is for policy,    For shes not froward, but modest as the dove.    She is not hot, but temperate as the morn.    For patience she will prove a second Grissel,    And Roman Lucrece for her chastity.    And to conclude, we have 'greed so well together,    That upon Sunday is the wedding day.   ",
+            "translated": "Father, it's like this: you and everyone else who've talked about her have all been wrong. If she's a shrew, then it's for some crafty purpose, for she's not naturally willful, but is in fact as modest as a dove. She's not fierce, but as mild as the morning. She has the patience of Griselda and the chastity of Rome's Lucrece. To conclude, we've gotten along so well together that Sunday will be our wedding day."
+        },
+        {
+            "original": "  Ill see thee hanged on Sunday first.  ",
+            "translated": "I'll see you hanged on Sunday first!"
+        },
+        {
+            "original": "  Hark, Petruchio: she says shell see thee hanged first.  ",
+            "translated": "Did you hear that, Petruchio? She says she'll see you hanged first."
+        },
+        {
+            "original": "  Is this your speeding? Nay, then, good night our part.  ",
+            "translated": "Is this what you call success? So much for our hopes of freeing Bianca."
+        },
+        {
+            "original": "   Be patient, gentlemen. I choose her for myself.    If she and I be pleased, whats that to you?    'Tis bargained twixt us twain, being alone,    That she shall still be curst in company.    I tell you, tis incredible to believe    How much she loves me. O, the kindest Kate!    She hung about my neck, and kiss on kiss    She vied so fast, protesting oath on oath,    That in a twink she won me to her love.    O, you are novices! 'Tis a world to see,    How tame, when men and women are alone,    A meacock wretch can make the curstest shrew.    Give me thy hand, Kate. I will unto Venice    To buy apparel 'gainst the wedding day.    Provide the feast, father, and bid the guests.    I will be sure my Katherine shall be fine.   ",
+            "translated": "Be patient, gentlemen. I choose her for myself. If she and I are happy, then what's it to you? When we were alone, we agreed that she would go on being a shrew in public. I tell you, it's incredible how much she loves me, though. Oh, the kindest Kate! She threw her arms around my neck, giving me kiss after kiss and swearing vows of love, and in an instant she had won my heart. Oh, you are all just beginners! It's amazing to seeeven a cowardly wretch can tame the fiercest shrew when a man and a woman are left alone together.Give me your hand, Kate. I'll now go to Venice to buy clothes for the wedding. You plan the feast, father, and invite the guests. I'll make sure my Katherine will be beautifully dressed."
+        },
+        {
+            "original": "  I know not what to say, but give me your hands.God send you joy, Petruchio. 'Tis a match.  ",
+            "translated": "I don't know what to say. Give me your hands. May God give you joy, Petruchio. It's a match."
+        },
+        {
+            "original": "  Amen, say we. We will be witnesses.  ",
+            "translated": "We say Amen to that! We will be witnesses."
+        },
+        {
+            "original": "   Father, and wife, and gentlemen, adieu.    I will to Venice.   Sunday comes apace.    We will have rings, and things, and fine array,    And kiss me, Kate.   We will be married o' Sunday.   ",
+            "translated": "Father, and wife, and gentlemenfarewell. I'm off to Venice. Sunday is coming soon. We will have rings, and things, and fine clothes, and kiss me, Kate. We will be married on Sunday."
+        },
+        {
+            "original": "  Was ever match clapped up so suddenly?  ",
+            "translated": "Was ever a match agreed upon so suddenly?"
+        },
+        {
+            "original": "  Faith, gentlemen, now I play a merchants part,And venture madly on a desperate mart.  ",
+            "translated": "Truly, gentlemen, I'm now playing the part of the merchant, and I've made a desperate bargain."
+        },
+        {
+            "original": "   [as LUCENTIO]  'Twas a commodity lay fretting by you.'Twill bring you gain or perish on the seas.  ",
+            "translated": "[As LUCENTIO]\u00a0Yes, but your goods were just gathering dust and annoying you. Now they'll either bring you a profit or be lost at sea."
+        },
+        {
+            "original": "  The gain I seek is quiet in the match.  ",
+            "translated": "The only profit I seek is a quiet, peaceful match."
+        },
+        {
+            "original": "   No doubt but he hath got a quiet catch.    But now, Baptista, to your younger daughter.    Now is the day we long have look\u00e8d for.    I am your neighbor, and was suitor first.   ",
+            "translated": "And no doubt Petruchio will have a quiet catchno one's going to fight him for her. But now, Baptista, let's think about your younger daughter. This is the day we've been waiting for. I am your neighbor, and I was her first suitor."
+        },
+        {
+            "original": "   [as LUCENTIO]  And I am one that love Bianca moreThan words can witness or your thoughts can guess.  ",
+            "translated": "[As LUCENTIO]\u00a0And I am a man that loves Bianca more than words can express, or your thoughts can guess."
+        },
+        {
+            "original": "  Youngling, thou canst not love so dear as I.  ",
+            "translated": "Boy, you don't know how to love like I do."
+        },
+        {
+            "original": "   [as LUCENTIO]  Graybeard, thy love doth freeze.  ",
+            "translated": "[As LUCENTIO]\u00a0Old graybeard, your love has frozen over."
+        },
+        {
+            "original": "  But thine doth fry.Skipper, stand back. 'Tis age that nourisheth.  ",
+            "translated": "But yours will burn out. Stand back, fickle boy. Age is what nourishes."
+        },
+        {
+            "original": "   [as LUCENTIO]  But youth in ladies' eyes that flourisheth.  ",
+            "translated": "[As LUCENTIO]\u00a0But in ladies' eyes, it's youth that flourishes."
+        },
+        {
+            "original": "   Content you, gentlemen. I will compound this strife.    'Tis deeds must win the prize, and he of both    That can assure my daughter greatest dower    Shall have my Biancas love.    Say, Signior Gremio, what can you assure her?   ",
+            "translated": "Calm down, gentlemen. I will settle this quarrel. Only deeds can determine the winner here. Whoever can offer my daughter the most wealth and property as her widow's inheritance will have Bianca's love. So tell me, Sir Gremio, what can you offer her?"
+        },
+        {
+            "original": "   First, as you know, my house within the city    Is richly furnish\u00e8d with plate and gold,    Basins and ewers to lave her dainty hands;    My hangings all of Tyrian tapestry,    In ivory coffers I have stuffed my crowns,    In cypress chests my arras counterpoints,    Costly apparel, tents, and canopies,    Fine linen, Turkey cushions bossed with pearl,    Valance of Venice gold in needlework,    Pewter and brass, and all things that belong    To house or housekeeping.   Then, at my farm    I have a hundred milch-kine to the pail,    Six score fat oxen standing in my stalls,    And all things answerable to this portion.    Myself am struck in years, I must confess,    And if I die tomorrow this is hers,    If whilst I live she will be only mine.   ",
+            "translated": "First, as you know, my house in the city, which is richly furnished with gold and china, and basins and jugs for her to wash her dainty hands. My wall hangings are of purple tapestry, my ivory chests are stuffed with gold, and my cypress-wood chests are filled with quilted bedspreads, expensive clothes, bed curtains and canopies, fine linen, Turkish cushions embossed with pearl, gold Venetian draperies, pewter and brass, and everything else you could want for a house or housekeeping. Then, at my farm I have a hundred milk cows and a hundred and twenty fat oxen in my stables. Everything else I own is of a similar high value. I myself am getting on in years, I must confess, and if I should die tomorrow, all this will belong to Biancaso long as while I live she will be only mine."
+        },
+        {
+            "original": "   (as  LUCENTIO]   That only came well in.   [To BAPTISTA]   Sir, list to me:    I am my fathers heir and only son.    If I may have your daughter to my wife,    Ill leave her houses three or four as good,    Within rich Pisa walls, as any one    Old Signior Gremio has in Padua,    Besides two thousand ducats by the year    Of fruitful land, all which shall be her jointure.    What, have I pinched you, Signior Gremio?   ",
+            "translated": "[As LUCENTIO]\u00a0That \"only\" came just in time."
+        },
+        {
+            "original": "   Two thousand ducats by the year of land!    [aside]   My land amounts not to so much in all.    That she shall have, besides an argosy    That now is lying in Marcellus' road.    [To TRANIO]   What, have I choked you with an argosy?   ",
+            "translated": "Two thousand gold coins a year from his land!"
+        },
+        {
+            "original": "   [as LUCENTIO]   Gremio, tis known my father hath no less    Than three great argosies, besides two galliasses,    And twelve tight galleys.   These I will assure her,    And twice as much whate'er thou offerst next.   ",
+            "translated": "[As LUCENTIO]\u00a0Gremio, it's well known that my father has no fewer than three great merchant ships, along with two large galleys and twelve smaller ones. I'll offer all these to Bianca, and I'll double whatever you might offer next."
+        },
+        {
+            "original": "  Nay, I have offered all, I have no more,And she can have no more than all I have.  [To BAPTISTA]  If you like me, she shall have me and mine.  ",
+            "translated": "No, I've offered everything I own. I have nothing left. She can't have more than all I have."
+        },
+        {
+            "original": "   [as LUCENTIO]  Why, then the maid is mine from all the world,By your firm promise. Gremio is outvied.  ",
+            "translated": "[As LUCENTIO]\u00a0Why, then she's mine alone, of all the men in the world, by your firm promise. Gremio has been outbid."
+        },
+        {
+            "original": "   I must confess your offer is the best,    And, let your father make her the assurance,    She is your own;   else, you must pardon me.    If you should die before him, wheres her dower?   ",
+            "translated": "I must confess that your offer is the best. If your father will second your guarantees, then she's yours. Otherwise, you must pardon meif you should die before your father does, then what would become of all the wealth Bianca is supposed to inherit from you?"
+        },
+        {
+            "original": "   [as LUCENTIO]  Thats but a cavil: he is old, I young.  ",
+            "translated": "[As LUCENTIO]\u00a0That's a trivial objection: he is old, and I am young."
+        },
+        {
+            "original": "  And may not young men die as well as old?  ",
+            "translated": "And can't young men die as well as old men?"
+        },
+        {
+            "original": "   Well, gentlemen,    I am thus resolved. On Sunday next, you know    My daughter Katherina is to be married.    [To  TRANIO  as  LUCENTIO  ]    Now, on the Sunday following, shall Bianca    Be bride to you, if you make this assurance.    If not, to Signior Gremio.    And so I take my leave, and thank you both.   ",
+            "translated": "Well, gentlemen, I have decided. Next Sunday my daughter Katherina is to be married, you know."
+        },
+        {
+            "original": "  Adieu, good neighbor.  ",
+            "translated": "Farewell, good neighbor."
+        },
+        {
+            "original": "   Now I fear thee not.    Sirrah young gamester, your father were a fool    To give thee all and in his waning age    Set foot under thy table.   Tut, a toy!    An old Italian fox is not so kind, my boy.   ",
+            "translated": "Now I'm not afraid of you anymore, boy. You young gambler, your father would be a fool to give you everything and spend his declining years as a dependent in your house. Ha, it's nonsense! An old Italian fox is never that kind, my boy."
+        },
+        {
+            "original": "   A vengeance on your crafty withered hide!    Yet I have faced it with a card of ten.    'Tis in my head to do my master good.    I see no reason but supposed Lucentio    Must get a father, called supposed Vincentio    And thats a wonder.   Fathers commonly    Do get their children. But in this case of wooing,    A child shall get a sire, if I fail not of my cunning.   ",
+            "translated": "A curse on your crafty withered hide! But I've bluffed successfully without even a face card. I think I'll be able to do my master good. I see no reason why the pretend Lucentio shouldn't produce a father, called \"pretend Vincentio\"and that'll be a miracle. Fathers usually father their children, not the other way around. But in this case of wooing, a child will father a father, if my wits don't fail me."
+        }
+    ]
+}

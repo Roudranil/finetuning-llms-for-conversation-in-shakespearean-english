@@ -1,0 +1,372 @@
+{
+    "dialogs": [
+        {
+            "original": "    [To the Sailor of Mytilene]    Where is lord Helicanus?    he can resolve you.    O, here he is.    Sir, there's a barge put off from Mytilene,    And in it is Lysimachus the governor,    Who craves to come aboard. What is your will?   ",
+            "translated": "[To the Mytilene Sailor] Where is Lord Helicanus? He can answer your questions. Oh, here he is. [To HELICANUS] Sir, there's a boat that just came from Mytilene and Lysimachus, the governor, is in it, asking to come onboard. What should we do?"
+        },
+        {
+            "original": "  That he have his. Call up some gentlemen.  ",
+            "translated": "Bring him aboard. And bring some gentlemen with you."
+        },
+        {
+            "original": "  Ho, gentlemen! my lord calls.  ",
+            "translated": "Hey, gentlemen! Helicanus is calling."
+        },
+        {
+            "original": "  Doth your lordship call?  ",
+            "translated": "Did you call, sir?"
+        },
+        {
+            "original": "  Gentlemen, there's some of worth would come aboard;I pray ye, greet them fairly.  ",
+            "translated": "Gentlemen, there's some powerful people who want to come aboard. Please greet them warmly."
+        },
+        {
+            "original": "  Sir,This is the man that can, in aught you would,Resolve you.  ",
+            "translated": "Sir, this is the man who can answer whatever questions you may have."
+        },
+        {
+            "original": "  Hail, reverend sir! the gods preserve you!  ",
+            "translated": "Greetings, sir! May the gods bless you!"
+        },
+        {
+            "original": "  And you, sir, to outlive the age I am,And die as I would do.  ",
+            "translated": "And you, sir. May you live longer than me and die an old man."
+        },
+        {
+            "original": "   You wish me well.    Being on shore, honouring of Neptune's triumphs,    Seeing this goodly vessel ride before us,    I made to it, to know of whence you are.   ",
+            "translated": "Thanks. I was on the shore, admiring Neptune's domain, when I saw your impressive ship sail toward us. I came out in my ship to find out where you've come from."
+        },
+        {
+            "original": "  First, what is your place?  ",
+            "translated": "First, who are you?"
+        },
+        {
+            "original": "  I am the governor of this place you lie before.  ",
+            "translated": "I am the governor of the country you are now in."
+        },
+        {
+            "original": "   Sir,    Our vessel is of Tyre, in it the king;    A man who for this three months hath not spoken    To any one, nor taken sustenance    But to prorogue his grief.   ",
+            "translated": "Sir, our ship has come from Tyre, and the king is onboard. For the past three months he hasn't spoken to anyone and he's refused to eat anything more than what he needs to prolong his grieving."
+        },
+        {
+            "original": "  Upon what ground is his distemperature?  ",
+            "translated": "How did he get this way?"
+        },
+        {
+            "original": "  'Twould be too tedious to repeat;But the main grief springs from the lossOf a beloved daughter and a wife.  ",
+            "translated": "The story is too long to repeat, but the short version is that he lost his beloved daughter and his wife."
+        },
+        {
+            "original": "  May we not see him?  ",
+            "translated": "Can we see him?"
+        },
+        {
+            "original": "  You may;But bootless is your sight: he will not speak To any.  ",
+            "translated": "You may, but it won't help. He won't speak to anyone."
+        },
+        {
+            "original": "  Yet let me obtain my wish.  ",
+            "translated": "Let me see him anyway."
+        },
+        {
+            "original": "  Behold him.  ",
+            "translated": "Here he is."
+        },
+        {
+            "original": "  This was a goodly person,Till the disaster that, one mortal night,Drove him to this.  ",
+            "translated": "He was a good man until the disaster that destroyed him in a single night."
+        },
+        {
+            "original": "  Sir king, all hail! the gods preserve you!Hail, royal sir!  ",
+            "translated": "Greetings, king! May the gods protect you. Greetings, sir!"
+        },
+        {
+            "original": "  It is in vain; he will not speak to you.  ",
+            "translated": "It's no use; he won't speak to you."
+        },
+        {
+            "original": "  Sir,We have a maid in Mytilene, I durst wager,Would win some words of him.  ",
+            "translated": "Sir, there's a girl in Mytilene who could probably make him speak."
+        },
+        {
+            "original": "   'Tis well bethought.    She questionless with her sweet harmony    And other chosen attractions, would allure,    And make a battery through his deafen'd parts,    Which now are midway stopp'd:    She is all happy as the fairest of all,    And, with her fellow maids is now upon    The leafy shelter that abuts against    The island's side.   ",
+            "translated": "That's a good idea. Most likely, her beautiful voice and many other attractive qualities will allure him and get through to his deaf ears, though they're stopped up now. She's the most beautiful girl there is. She's with her students now in the building surrounded by trees on the other side of the island."
+        },
+        {
+            "original": "   Sure, all's effectless; yet nothing we'll omit    That bears recovery's name.   But, since your kindness    We have stretch'd thus far, let us beseech you    That for our gold we may provision have,    Wherein we are not destitute for want,    But weary for the staleness.   ",
+            "translated": "It's probably useless, but we won't overlook anything that might help. And since we've taken advantage of your kindness so far, can I ask you if we could exchange our gold for food? We have some, but it's gone stale."
+        },
+        {
+            "original": "   O, sir, a courtesy    Which if we should deny, the most just gods    For every graff would send a caterpillar,    And so afflict our province.   Yet once more    Let me entreat to know at large the cause    Of your king's sorrow.   ",
+            "translated": "Oh, sir, if I were to deny you that service, the most just gods would send a plague of caterpillars, one for every grain we didn't give, to afflict our country. But let me ask again: can I hear the story of how your king came to be so sad?"
+        },
+        {
+            "original": "  Sit, sir, I will recount it to you:But, see, I am prevented.  ",
+            "translated": "Sit, sir, and I'll tell you. But, as you can see, I'll be interrupted..."
+        },
+        {
+            "original": "  O, here isThe lady that I sent for. Welcome, fair one!Is't not a goodly presence?  ",
+            "translated": "Oh, here's the lady that I sent for. Hello, beautiful! Isn't she pretty?"
+        },
+        {
+            "original": "  She's a gallant lady.  ",
+            "translated": "She's a noble lady."
+        },
+        {
+            "original": "   She's such a one, that, were I well assured    Came of a gentle kind and noble stock,    I'ld wish no better choice, and think me rarely wed.    Fair one, all goodness that consists in bounty    Expect even here, where is a kingly patient:    If that thy prosperous and artificial feat    Can draw him but to answer thee in aught,    Thy sacred physic shall receive such pay    As thy desires can wish.   ",
+            "translated": "She's so beautiful that, if I could only be assured she came from an aristocratic family and noble blood, I couldn't find a better choice, and would marry her. Beautiful girl, you can expect to be rewarded generously for helping the sick king here. If your artistic talents are successful in getting him to respond to you in anything, we'll pay you anything you want for the healing."
+        },
+        {
+            "original": "   Sir, I will use    My utmost skill in his recovery,   provided    That none but I and my companion maid    Be suffer'd to come near him.   ",
+            "translated": "Sir, I'll use all the skills I have to help him, as long as no one but me and my maid are allowed to come near him."
+        },
+        {
+            "original": "  Come, let us leave her;And the gods make her prosperous!  ",
+            "translated": "Come, let's leave her. May the gods help her!"
+        },
+        {
+            "original": "  Mark'd he your music?  ",
+            "translated": "Did he listen to your music?"
+        },
+        {
+            "original": "  No, nor look'd on us.  ",
+            "translated": "No, and he didn't look at us."
+        },
+        {
+            "original": "  See, she will speak to him.  ",
+            "translated": "See, she's going to speak to him."
+        },
+        {
+            "original": "  Hail, sir! my lord, lend ear.  ",
+            "translated": "Hello, sir! Sir, will you listen to me?"
+        },
+        {
+            "original": "  Hum, ha!  ",
+            "translated": "Hmm, ha!\u00a0[PERICLES hits MARINA]"
+        },
+        {
+            "original": "   I am a maid,    My lord, that ne'er before invited eyes,    But have been gazed on like a comet:   she speaks,    My lord, that, may be, hath endured a grief    Might equal yours, if both were justly weigh'd.    Though wayward fortune did malign my state,    My derivation was from ancestors    Who stood equivalent with mighty kings:    But time hath rooted out my parentage,    And to the world and awkward casualties    Bound me in servitude.     [Aside]     I will desist;    But there is something glows upon my cheek,    And whispers in mine ear, 'Go not till he speak.'   ",
+            "translated": "I'm a virgin, sir, and though I've never asked for anyone's attention, I've had a lot of people stare at me (as though I were a shooting star)! I'm speaking to you, sir, because I think I may have experienced grief that, if we compared, might equal yours.\u00a0Though I've been unlucky to end up where I am now, I'm descended from ancestors who were the equivalent of powerful kings. I've been robbed of my inheritance from my parents, and over the course of time have been forced to serve the world and its uncomfortable institutions. [To herself] I should stop. But there's something that warms my cheek, a little voice inside me telling me, \"Keep going until he says something.\""
+        },
+        {
+            "original": "  My fortunesparentagegood parentageTo equal mine!was it not thus? what say you?  ",
+            "translated": "My luck . . . parents . . . good parents . . . like me! Was it really? What did you say?"
+        },
+        {
+            "original": "  I said, my lord, if you did know my parentage,You would not do me violence.  ",
+            "translated": "I said, sir, that if you knew who my parents were, you wouldn't hurt me."
+        },
+        {
+            "original": "  I do think so. Pray you, turn your eyes upon me.You are like something thatWhat country-woman?Here of these shores?  ",
+            "translated": "I believe you. Please, look at me. You remind me of someone . . . where are you from? From this country?"
+        },
+        {
+            "original": "  No, nor of any shores:Yet I was mortally brought forth, and amNo other than I appear.  ",
+            "translated": "No, I wasn't born in any country. And yet I was born, and am exactly what I seem."
+        },
+        {
+            "original": "   I am great with woe, and shall deliver weeping.    My dearest wife was like this maid, and such a one    My daughter might have been:   my queen's square brows;    Her stature to an inch; as wand-like straight;    As silver-voiced; her eyes as jewel-like    And cased as richly; in pace another Juno;    Who starves the ears she feeds, and makes them hungry,    The more she gives them speech. Where do you live?   ",
+            "translated": "I'm so upset;\u00a0I'm about to start crying. My wife looked just like this girl, and my daughter might have looked like her if she had survived: she has my wife's thick eyebrows, her exact height, her straight posture, her beautiful voice, her sparkling eyes framed in rich eyelashes, with a walk as graceful as Juno's, and a voice that makes people hungry to hear her speak. Where do you live?"
+        },
+        {
+            "original": "  Where I am but a stranger: from the deckYou may discern the place.  ",
+            "translated": "I'm just a stranger here: you can see where I live from the deck of this boat."
+        },
+        {
+            "original": "  Where were you bred?And how achieved you these endowments, whichYou make more rich to owe?  ",
+            "translated": "Where were you born? And how did you achieve all these accomplishments?"
+        },
+        {
+            "original": "  If I should tell my history, it would seemLike lies disdain'd in the reporting.  ",
+            "translated": "If I told you my story, you would think I was lying."
+        },
+        {
+            "original": "   Prithee, speak:    Falseness cannot come from thee; for thou look'st    Modest as Justice, and thou seem'st a palace    For the crown'd Truth to dwell in:   I will    believe thee,    And make my senses credit thy relation    To points that seem impossible; for thou look'st    Like one I loved indeed.   What were thy friends?    Didst thou not say, when I did push thee back    Which was when I perceived thee   that thou camest    From good descending?   ",
+            "translated": "Please, speak. You can't tell a lie; you look like the embodiment of Justice, like the queen of Truth. I will believe you, even if you say things that seem impossible, because you look like someone I used to love. Who was your family? Didn't you say, when I pushed you back, when I first looked at you, that you came from a good family?"
+        },
+        {
+            "original": "  So indeed I did.  ",
+            "translated": "Yes, I did."
+        },
+        {
+            "original": "   Report thy parentage.   I think thou said'st    Thou hadst been toss'd from wrong to injury,    And that thou thought'st thy griefs might equal mine,    If both were open'd.   ",
+            "translated": "Tell me who your parents were. I think you said you'd been wronged and hurt in the past, and that you thought you had suffered as much as I had (if the stories were both told)."
+        },
+        {
+            "original": "  Some such thingI said, and said no more but what my thoughtsDid warrant me was likely.  ",
+            "translated": "I said something like that, but I only said what I thought might be true."
+        },
+        {
+            "original": "   Tell thy story;    If thine consider'd prove the thousandth part    Of my endurance, thou art a man, and I    Have suffer'd like a girl:   yet thou dost look    Like Patience gazing on kings' graves, and smiling    Extremity out of act. What were thy friends?    How lost thou them? Thy name, my most kind virgin?    Recount, I do beseech thee: come, sit by me.   ",
+            "translated": "Tell your story; if you've experienced one thousandth of what I have, you're a man and I've suffered like a girl. You look patient in the face of death; you're smiling as if nothing had happened! Who was your family? How did you lose them? What is your name, friendly virgin? Please, tell me, I'm begging you. Come sit by me."
+        },
+        {
+            "original": "  My name is Marina.  ",
+            "translated": "My name is Marina."
+        },
+        {
+            "original": "  O, I am mock'd,And thou by some incensed god sent hitherTo make the world to laugh at me.  ",
+            "translated": "This is a joke. Some angry god has sent you here to make the world laugh at me."
+        },
+        {
+            "original": "  Patience, good sir,Or here I'll cease.  ",
+            "translated": "Sir, please listen, or I'll stop here."
+        },
+        {
+            "original": "  Nay, I'll be patient.Thou little know'st how thou dost startle me,To call thyself Marina.  ",
+            "translated": "I'll listen. You have no idea how much you've startled me by calling yourself \"Marina.\""
+        },
+        {
+            "original": "  The nameWas given me by one that had some power,My father, and a king.  ",
+            "translated": "The name was given to me by a powerful person: my father, who was a king."
+        },
+        {
+            "original": "  How! a king's daughter?And call'd Marina?  ",
+            "translated": "What? You're a king's daughter named Marina?"
+        },
+        {
+            "original": "  You said you would believe me;But, not to be a troubler of your peace,I will end here.  ",
+            "translated": "You said you would believe me. I won't bother you anymore; I'll stop there.\u00a0"
+        },
+        {
+            "original": "   But are you flesh and blood?    Have you a working pulse? and are no fairy?    Motion! Well; speak on. Where were you born?    And wherefore call'd Marina?   ",
+            "translated": "Are you flesh and blood? Is your heart beating? You're not a ghost? You're alive! Well, keep talking. Where were you born? And why were you called Marina?"
+        },
+        {
+            "original": "  Call'd MarinaFor I was born at sea.  ",
+            "translated": "I was called Marina because I was born at sea."
+        },
+        {
+            "original": "  At sea! what mother?  ",
+            "translated": "At sea! Who was your mother?"
+        },
+        {
+            "original": "   My mother was the daughter of a king;    Who died the minute I was born,    As my good nurse Lychorida hath oft    Deliver'd weeping.   ",
+            "translated": "My mother was the daughter of a king, and she died as soon as I was born. My nurse, Lychorida, told me the story many times, crying."
+        },
+        {
+            "original": "   O, stop there a little!     [Aside]     This is the rarest dream that e'er dull sleep    Did mock sad fools withal: this cannot be:    My daughter's buried.   Well: where were you bred?    I'll hear you more, to the bottom of your story,    And never interrupt you.   ",
+            "translated": "Oh, wait a minute![To himself]\u00a0This is the strangest dream that a poor idiot ever had. This can't be true; my daughter is dead. [To MARINA]\u00a0Well, where were you born? I'll listen to you again, to the whole story, and won't interrupt you anymore."
+        },
+        {
+            "original": "  You scorn: believe me, 'twere best I did give o'er.  ",
+            "translated": "You're making fun of me. Believe me; it's best if I stop."
+        },
+        {
+            "original": "  I will believe you by the syllableOf what you shall deliver. Yet, give me leave:How came you in these parts? where were you bred?  ",
+            "translated": "I'll believe every word you say. But let me ask: how did you get here? Where were you born?"
+        },
+        {
+            "original": "   The king my father did in Tarsus leave me;    Till cruel Cleon, with his wicked wife,    Did seek to murder me:   and having woo'd    A villain to attempt it, who having drawn to do't,    A crew of pirates came and rescued me;    Brought me to Mytilene.   But, good sir,    Whither will you have me? Why do you weep?    It may be,    You think me an impostor: no, good faith;    I am the daughter to King Pericles,    If good King Pericles be.   ",
+            "translated": "My father, the king, left me in Tarsus until the king, Cleon, and his evil wife tried to murder me. They had even hired a criminal to do it, but right as he was about to, a group of pirates came and rescued me and brought me to Mytilene. [PERICLES begins to cry]\u00a0Sir, did I say something wrong? Why are you crying? Maybe you think I'm a fake, but I'm not: I'm good King Pericles's daughter, if good King Pericles is still alive."
+        },
+        {
+            "original": "  Ho, Helicanus!  ",
+            "translated": "Hey, Helicanus!"
+        },
+        {
+            "original": "  Calls my lord?  ",
+            "translated": "Did you call, sir?"
+        },
+        {
+            "original": "   Thou art a grave and noble counsellor,    Most wise in general:   tell me, if thou canst,    What this maid is, or what is like to be,    That thus hath made me weep?   ",
+            "translated": "You're a serious, noble advisor, and wise about many different things: tell me, if you can, what this girl is, or is supposed to be, that she's made me cry so much?"
+        },
+        {
+            "original": "  I know not; butHere is the regent, sir, of MytileneSpeaks nobly of her.  ",
+            "translated": "I don't know, but here's the governor of Mytilene, sir, and he speaks highly of her."
+        },
+        {
+            "original": "  She would never tellHer parentage; being demanded that,She would sit still and weep.  ",
+            "translated": "She would never tell me who her parents were. Whenever I asked, she would sit still and weep."
+        },
+        {
+            "original": "   O Helicanus, strike me, honour'd sir;    Give me a gash, put me to present pain;    Lest this great sea of joys rushing upon me    O'erbear the shores of my mortality,    And drown me with their sweetness   .   O, come hither,    Thou that beget'st him that did thee beget;    Thou that wast born at sea, buried at Tarsus,    And found at sea again!   O Helicanus,    Down on thy knees, thank the holy gods as loud    As thunder threatens us: this is Marina.    What was thy mother's name? tell me but that,    For truth can never be confirm'd enough,    Though doubts did ever sleep.   ",
+            "translated": "Oh, Helicanus, pinch me! Hit me, make me feel some pain, or this great sea of happiness will overwhelm me and kill me! [To MARINA] Oh come here; I gave birth to you, but finding you makes me feel like I'm reborn. You were born at sea, buried in Tarsus, and found at sea again!\u00a0[To HELICANUS] Oh, Helicanus, kneel and thank the gods in a voice louder than the storm: this is Marina.\u00a0[To MARINA] What was your mother's name? Tell me that. The truth can never be confirmed enough, even if I have no doubts."
+        },
+        {
+            "original": "  First, sir, I pray,What is your title?  ",
+            "translated": "First, sir, please: who are you?"
+        },
+        {
+            "original": "   I am Pericles of Tyre: but tell me now    My drown'd queen's name, as in the rest you said    Thou hast been godlike perfect,    The heir of kingdoms and another like    To Pericles thy father.   ",
+            "translated": "I am Pericles of Tyre, but tell me my drowned wife's name. Everything you've said has been completely perfect. If you get this right, you're the heir to two kingdoms and to me, your father, Pericles.\u00a0"
+        },
+        {
+            "original": "   Is it no more to be your daughter than    To say my mother's name was Thaisa?    Thaisa was my mother, who did end    The minute I began.   ",
+            "translated": "Will it prove I'm your daughter if I say my mother's name was Thaisa? Thaisa was my mother, and she died as soon as I was born."
+        },
+        {
+            "original": "   Now, blessing on thee! rise; thou art my child.    Give me fresh garments. Mine own, Helicanus;    She is not dead at Tarsus, as she should have been,    By savage Cleon:   she shall tell thee all;    When thou shalt kneel, and justify in knowledge    She is thy very princess. Who is this?   ",
+            "translated": "Now bless you! Get up; you are my child. Bring me fresh clothes. She's my daughter, Helicanus. She's wasn't killed by Cleon back in Tarsus like she should have been. She can tell you everything, but first kneel and acknowledge her as your princess. Who is this?"
+        },
+        {
+            "original": "  Sir, 'tis the governor of Mytilene,Who, hearing of your melancholy state,Did come to see you.  ",
+            "translated": "Sir, it's the governor of Mytilene. He heard how melancholy you were and came to see you."
+        },
+        {
+            "original": "   I embrace you.    Give me my robes. I am wild in my beholding.    O heavens bless my girl!   But, hark, what music?    Tell Helicanus, my Marina, tell him    O'er, point by point, for yet he seems to doubt,    How sure you are my daughter.   But, what music?   ",
+            "translated": "I'll give you a hug. Give me my clothes. I'm overwhelmed with what I've seen. May the heavens bless my girl! But listen: what's that music? Tell Helicanus, my Marina, tell him the whole thing, point by point, because he still seems unsuretell him that you're my daughter. But what's that music?"
+        },
+        {
+            "original": "  My lord, I hear none.  ",
+            "translated": "Sir, I can't hear anything."
+        },
+        {
+            "original": "  None!The music of the spheres! List, my Marina.  ",
+            "translated": "Nothing? It's the music of the spheres! Listen, my Marina."
+        },
+        {
+            "original": "  It is not good to cross him; give him way.  ",
+            "translated": "It's not good to contradict him; let him go on."
+        },
+        {
+            "original": "  Rarest sounds! Do ye not hear?  ",
+            "translated": "Strange sounds! Can't you hear?"
+        },
+        {
+            "original": "  My lord, I hear.  ",
+            "translated": "Sir, I hear."
+        },
+        {
+            "original": "  Most heavenly music!It nips me unto listening, and thick slumberHangs upon mine eyes: let me rest.  ",
+            "translated": "The most heavenly music! I can't stop listening; and it's making me sleepy. Let me rest."
+        },
+        {
+            "original": "   A pillow for his head:    So, leave him all.   Well, my companion friends,    If this but answer to my just belief,    I'll well remember you.   ",
+            "translated": "Get a pillow for his head. Let's all leave him.Well, friends, if all this is true, I'll never forget you."
+        },
+        {
+            "original": "   My temple stands in Ephesus: hie thee thither,    And do upon mine altar sacrifice.    There, when my maiden priests are met together,    Before the people all,    Reveal how thou at sea didst lose thy wife:    To mourn thy crosses, with thy daughter's, call    And give them repetition to the life.    Or perform my bidding, or thou livest in woe;    Do it, and happy; by my silver bow!    Awake, and tell thy dream.   ",
+            "translated": "My temple is in Ephesus. Go there and make a sacrifice at my altar. In front of the virgin nuns and people there, reveal the story of how you lost your wife at sea. Weep for your grief, and your daughter's. Bring the stories to life by repeating them. Do what I say, or you'll live a cursed life. If you do it, you'll be happy, I'll make sure of it! Now wake up and tell about your dream."
+        },
+        {
+            "original": "  Celestial Dian, goddess argentine,I will obey thee. Helicanus!  ",
+            "translated": "Heavenly Diana, silver goddess, I will obey you. Helicanus!"
+        },
+        {
+            "original": "  Sir?  ",
+            "translated": "Sir?"
+        },
+        {
+            "original": "   My purpose was for Tarsus, there to strike    The inhospitable Cleon; but I am    For other service first:   toward Ephesus    Turn our blown sails; eftsoons I'll tell thee why.      [To LYSIMACHUS]     Shall we refresh us, sir, upon your shore,    And give you gold for such provision    As our intents will need?   ",
+            "translated": "I had planned to go to Tarsus and wage war on Cleon, but I have to do something else first. Turn the sails toward Ephesus. I'll tell you why soon.[To LYSIMACHUS] Can we rest and get provisions, sir, in Mytilene? We can pay you in gold for everything that we need."
+        },
+        {
+            "original": "  Sir,With all my heart; and, when you come ashore,I have another suit.  ",
+            "translated": "Sir, with all my heart. And when you come on shore, I have another request."
+        },
+        {
+            "original": "  You shall prevail,Were it to woo my daughter; for it seemsYou have been noble towards her.  ",
+            "translated": "The answer is \"yes\" if you're asking to marry my daughter. It seems you've been kind to her."
+        },
+        {
+            "original": "  Sir, lend me your arm.  ",
+            "translated": "Sir, give me your arm."
+        },
+        {
+            "original": "  Come, my Marina.  ",
+            "translated": "Come, my Marina."
+        }
+    ]
+}

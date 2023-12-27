@@ -1,0 +1,648 @@
+{
+    "dialogs": [
+        {
+            "original": "    [to ALONSO]     Beseech you, sir, be merry. You have cause,    So have we all, of joy, for our escape    Is much beyond our loss.   Our hint of woe    Is common. Every day some sailors wife,    The masters of some merchant, and the merchant    Have just our theme of woe.   But for the miracle    I mean our preservationfew in millions    Can speak like us.   Then wisely, good sir, weigh    Our sorrow with our comfort.   ",
+            "translated": "[To ALONSO] I beg you sir, be happy. You, like all of us, have good reasons to be joyful. The fact that we escaped the shipwreck with our lives far outweighs what we lost. Many people have also experienced what we have to feel sad about. Every day some sailors wife, the owner of some merchant ship, and the merchant who owns the cargo on that ship all experience the same sort of loss. But the miraclethe fact that we survivedhas only been experienced by a few people out of millions. So, good sir, be wise, and weigh our sorrow against what should bring us happiness."
+        },
+        {
+            "original": "  Prithee, peace.  ",
+            "translated": "Please, be quiet."
+        },
+        {
+            "original": "   [to ANTONIO]  He receives comfort like cold porridge.  ",
+            "translated": "[To ANTONIO] Alonso enjoys these comforting words about as much as he enjoys cold soup."
+        },
+        {
+            "original": "   [to SEBASTIAN]  The visitor will not give him o'er so.  ",
+            "translated": "[To SEBASTIAN] But the visitor trying to bring comfort to the sick wont give up on him."
+        },
+        {
+            "original": "  Look hes winding up the watch of his wit. By and by itwill strike.  ",
+            "translated": "[To ANTONIO] Look. Hes trying to come up with some new idea for how to help Alonso, winding his brain up like some kind of clock. Soon it will strike..."
+        },
+        {
+            "original": "   [to ALONSO]  Sir  ",
+            "translated": "[To ALONSO] Sir"
+        },
+        {
+            "original": "   [to ANTONIO]  One. Tell.  ",
+            "translated": "[To ANTONIO] The clock strikes one. Count it."
+        },
+        {
+            "original": "  When every grief is entertained thats offered,Comes to th' entertainer  ",
+            "translated": "If we allowed ourselves to think about, or entertain, every sad thing that happens, then the entertainer will end up with"
+        },
+        {
+            "original": "  A dollar.  ",
+            "translated": "A dollar."
+        },
+        {
+            "original": "  Dolor comes to him, indeed. You have spoken truer than you purposed.  ",
+            "translated": "Yes, dolor comes to him. Though you did not mean to, you have said the truth."
+        },
+        {
+            "original": "  You have taken it wiselier than I meant you should.  ",
+            "translated": "You took what I said more seriously than I meant it."
+        },
+        {
+            "original": "   [to ALONSO]  Therefore, my lord  ",
+            "translated": "[To ALONSO] Therefore, my lord"
+        },
+        {
+            "original": "   [to SEBASTIAN]  Fie, what a spendthrift is he of his tongue!  ",
+            "translated": "[To SEBASTIAN] Goodness, he just talks and talks and talks! "
+        },
+        {
+            "original": "   [to GONZALO]  I prithee, spare.  ",
+            "translated": "[To GONZALO] Please, stop."
+        },
+        {
+            "original": "  Well, I have done. But yet  ",
+            "translated": "Well, Im basically finished. But still"
+        },
+        {
+            "original": "   [to ANTONIO]  He will be talking.  ",
+            "translated": "[To ANTONIO] He insists on talking."
+        },
+        {
+            "original": "  Which, of he or Adrian, for a good wager, first begins to crow?  ",
+            "translated": "Heres a good bet. Which of the two, Gonzalo or Adrian, will speak first?"
+        },
+        {
+            "original": "  The old cock.  ",
+            "translated": "The old rooster, Gonzalo."
+        },
+        {
+            "original": "  The cockerel.  ",
+            "translated": "Ill take the young rooster, Adrian."
+        },
+        {
+            "original": "  Done. The wager?  ",
+            "translated": "Youre on. What does the winner get?"
+        },
+        {
+            "original": "  A laughter.  ",
+            "translated": "A good laugh."
+        },
+        {
+            "original": "  A match!  ",
+            "translated": "Its a deal!"
+        },
+        {
+            "original": "  Though this island seem to be desert  ",
+            "translated": "Though this island seems to deserted"
+        },
+        {
+            "original": "   [to SEBASTIAN]  Ha, ha, ha!  ",
+            "translated": "[To SEBASTIAN] Ha, ha, ha!"
+        },
+        {
+            "original": "  So youre paid.  ",
+            "translated": "You got your prize."
+        },
+        {
+            "original": "  Uninhabitable and almost inaccessible  ",
+            "translated": "Uninhabited, and almost inaccessible"
+        },
+        {
+            "original": "  Yet  ",
+            "translated": "Next hell say but"
+        },
+        {
+            "original": "  Yet  ",
+            "translated": "But"
+        },
+        {
+            "original": "  He could not miss t.  ",
+            "translated": "He couldnt not say it."
+        },
+        {
+            "original": "  It must needs be of subtle, tender, and delicate temperance.  ",
+            "translated": "It seems to be mild and gentle, and to have a temperate climate."
+        },
+        {
+            "original": "  Temperance was a delicate wench.  ",
+            "translated": "Ah, Temperanceshe was quite an alluring girl."
+        },
+        {
+            "original": "  Ay, and a subtle, as he most learnedly delivered.  ",
+            "translated": "Yes, and, as Adrian described so smartly, she was a subtle one in bed, too."
+        },
+        {
+            "original": "  The air breathes upon us here most sweetly.  ",
+            "translated": "The air here is like a fresh, sweet breath."
+        },
+        {
+            "original": "  As if it had lungs, and rotten ones.  ",
+            "translated": "As if the island had lungsrotten lungs."
+        },
+        {
+            "original": "  Or as twere perfumed by a fen.  ",
+            "translated": "As if the air was perfumed by a swamp."
+        },
+        {
+            "original": "  Here is everything advantageous to life.  ",
+            "translated": "This island contains everything that is good for life."
+        },
+        {
+            "original": "  True. Save means to live.  ",
+            "translated": "True. Except anything you could actually use to live."
+        },
+        {
+            "original": "  Of that theres none, or little.  ",
+            "translated": "Theres none of that, or just a little."
+        },
+        {
+            "original": "  How lush and lusty the grass looks! How green!  ",
+            "translated": "The grass looks so rich and healthy! It is so green!"
+        },
+        {
+            "original": "  The ground indeed is tawny.  ",
+            "translated": "The ground is actually brown."
+        },
+        {
+            "original": "  With an eye of green in t.  ",
+            "translated": "With a tinge of green in it."
+        },
+        {
+            "original": "  He misses not much.  ",
+            "translated": "He doesnt miss a thing."
+        },
+        {
+            "original": "  No, he doth but mistake the truth totally.  ",
+            "translated": "No, he just misses the actual truth entirely."
+        },
+        {
+            "original": "  But the rarity of it iswhich is indeed almost beyond credit  ",
+            "translated": "But the unbelievable thing isand this is really almost hard to imagine"
+        },
+        {
+            "original": "  As many vouched rarities are.  ",
+            "translated": "As by definition most unbelievable things are."
+        },
+        {
+            "original": "  That our garments, being, as they were, drenched in thesea, hold notwithstanding their freshness and glosses, being rather new-dyed than stained with salt water.  ",
+            "translated": "That our clotheswhich were drenched in sea watercontinue to be fresh and clean, and in fact seem almost new rather than stained by the salt water."
+        },
+        {
+            "original": "  If but one of his pockets could speak, would it not sayhe lies?  ",
+            "translated": "If just one of the pockets on his clothes could speak, wouldnt it say that hes a liar?"
+        },
+        {
+            "original": "  Ay, or very falsely pocket up his report.  ",
+            "translated": "Yes, or just try to hide and suppress the lie."
+        },
+        {
+            "original": "  Methinks our garments are now as fresh as when we put them on first in Afric, at the marriage of the kings fair daughter Claribel to the King of Tunis.  ",
+            "translated": "I think our clothes are as fresh now as they were when we put them on in Africa to attend the marriage of the kings beautiful daughter Claribel to the King of Tunis."
+        },
+        {
+            "original": "  'Twas a sweet marriage, and we prosper well in our return.  ",
+            "translated": "The wedding was wonderful, and were doing just great on our journey back home."
+        },
+        {
+            "original": "  Tunis was never graced before with such a paragon to their queen.  ",
+            "translated": "Tunis has never before had such a perfect beauty for a queen."
+        },
+        {
+            "original": "  Not since widow Didos time.  ",
+            "translated": "Not since the time of the widow Dido."
+        },
+        {
+            "original": "  Widow! A pox o' that! How came that widow in? Widow Dido!  ",
+            "translated": "Widow! To hell with that! Why is he calling her a widow? Widow Didoha!"
+        },
+        {
+            "original": "  What if he had said widower Aeneas too? Good Lord, how you take it!  ",
+            "translated": "Next thing you know, hell be saying widower Aeneas. Good Lord, how can he interpret the story in that way?"
+        },
+        {
+            "original": "  Widow Dido said you? You make me study of that. She was of Carthage, not of Tunis.  ",
+            "translated": "Widow Dido, did you say? I'd have to look into that. Dido was from Carthage, not Tunis."
+        },
+        {
+            "original": "  This Tunis, sir, was Carthage.  ",
+            "translated": "Tunis used to be Carthage, sir."
+        },
+        {
+            "original": "  Carthage?  ",
+            "translated": "Carthage?"
+        },
+        {
+            "original": "  I assure you, Carthage.  ",
+            "translated": "I promise you, it was Carthage."
+        },
+        {
+            "original": "  His word is more than the miraculous harp. He hath raised the wall and houses too.  ",
+            "translated": "Gonzalo's word is like the legendary harp of Amphion, which, when played, caused the walls of Thebes to rise. Now Gonzalojust by saying sohas created a whole new city."
+        },
+        {
+            "original": "  What impossible matter will he make easy next?  ",
+            "translated": "What incredible thing will he do next as if it was nothing?"
+        },
+        {
+            "original": "  I think he will carry this island home in his pocket and give it his son for an apple.  ",
+            "translated": "I think hell carry this island home in his pocket and give it to his son as an apple."
+        },
+        {
+            "original": "  And sowing the kernels of it in the sea, bring forth more islands.  ",
+            "translated": "And throw its seeds in the sea to make more islands grow."
+        },
+        {
+            "original": "  Ay.  ",
+            "translated": "Yes, that's exactly what I would do."
+        },
+        {
+            "original": "  Why, in good time.  ",
+            "translated": "Well, sure it is."
+        },
+        {
+            "original": "   [to ALONSO]  Sir, we were talking that our garments seemnow as fresh as when we were at Tunis at the marriage of your daughter, who is now queen.  ",
+            "translated": "[To ALONSO] Sir, we were discussing that our clothes seem just as clean as they did when we were in Tunis at the wedding of your daughter, whos now queen."
+        },
+        {
+            "original": "  And the rarest that e'er came there.  ",
+            "translated": "The most remarkable queen that's ever been there."
+        },
+        {
+            "original": "  Bate, I beseech you, widow Dido.  ",
+            "translated": "Except for the widow Dido, if I may say so."
+        },
+        {
+            "original": "  Oh, widow Dido? Ay, widow Dido.  ",
+            "translated": "Oh, the widow Dido? Of course, the widow Dido."
+        },
+        {
+            "original": "  Is not, sir, my doublet as fresh as the first day I wore it? I mean, in a sort.  ",
+            "translated": "Sir, isnt my jacket as clean as the first time I wore it? I mean, in a way."
+        },
+        {
+            "original": "  That sort was well fished for.  ",
+            "translated": "He did a good job of sticking that \"in a way\" in there."
+        },
+        {
+            "original": "  When I wore it at your daughters marriage?  ",
+            "translated": "When I wore it at your daughters wedding."
+        },
+        {
+            "original": "   You cram these words into mine ears against    The stomach of my sense. Would I had never    Married my daughter there!   For, coming thence,    My son is lost and, in my rate, she too,    Who is so far from Italy removed    I ne'er again shall see her.   O thou mine heir    Of Naples and of Milan, what strange fish    Hath made his meal on thee?   ",
+            "translated": "You keep pushing these words into my ears that I dont have any desire to hear. If only I had never sent my daughter to Tunis to be married! I lost my son because of it. And, as far as I'm concerned, I lost my daughter too, since she is now living so far from Italy that I'll never see her again. Oh, my dear son and heir of Naples and Milan, what strange fish has eaten your dead body?"
+        },
+        {
+            "original": "   Sir, he may live.    I saw him beat the surges under him,    And ride upon their backs.   He trod the water,    Whose enmity he flung aside, and breasted    The surge most swoll'n that met him.     His bold head    'Bove the contentious waves he kept, and oared    Himself with his good arms in lusty stroke    To th' shore,   that o'er his wave-worn basis bowed,    As stooping to relieve him. I not doubt    He came alive to land.   ",
+            "translated": "Sir, he may still live. I saw him swim over the waves and ride upon their backs. He treaded water, withstanding all their rage, and fought through even the biggest waves that came at him. He bravely kept his head above the rough waves. And with his powerful arms and strong strokes he swam toward the shore, which seemed almost to lean forward to help him from the water. I have no doubt that he got to the shore alive."
+        },
+        {
+            "original": "  No, no, hes gone.  ",
+            "translated": "No, no, hes dead."
+        },
+        {
+            "original": "   Sir, you may thank yourself for this great loss,    That would not bless our Europe with your daughter,    But rather loose her to an African,    Where she at least is banished from your eye,    Who hath cause to wet the grief on t.   ",
+            "translated": "Sir, you can thank yourself for this great loss, because rather than give your daughter to a husband in Europe you instead threw her to some African. It's a good thing you'll never see her again, since then she won't be around to remind you of this awful thing you've done to her."
+        },
+        {
+            "original": "  Prithee, peace.  ",
+            "translated": "Please, be quiet."
+        },
+        {
+            "original": "   You were kneeled to and importuned otherwise    By all of us, and the fair soul herself    Weighed between loathness and obedience, at    Which end o' th' beam should bow.   We have lost your son,    I fear, forever. Milan and Naples have    More widows in them of this business' making    Than we bring men to comfort them.    The faults your own.   ",
+            "translated": "All of us kneeled down in front of you and begged you not to do this, and the beautiful girl herself was forced to choose whether to follow her own disgust at the marriage or her duty to obey you. Now weve lost your son forever too, I fear. This marriage and subsequent shipwreck has created more widows in Milan and Naples than we have survivors to bring home to comfort them. All of this is your fault."
+        },
+        {
+            "original": "  So is the dearest o' th' loss.  ",
+            "translated": "The heaviest loss is mine as well."
+        },
+        {
+            "original": "   My lord Sebastian,    The truth you speak doth lack some gentleness    And time to speak it in.   You rub the sore    When you should bring the plaster.   ",
+            "translated": "My lord Sebastian, despite the truth in your words, what you're saying is unkind and inappropriate at this time. Youre rubbing salt in his wounds when you should be bringing him bandages."
+        },
+        {
+            "original": "  Very well.  ",
+            "translated": "All right."
+        },
+        {
+            "original": "  And most chirurgeonly.  ",
+            "translated": "That Gonzalo is quite the doctor, isn't he?"
+        },
+        {
+            "original": "   [to ALONSO]  It is foul weather in us all, good sir,When you are cloudy.  ",
+            "translated": "[To ALONSO]\u00a0Noble sir, we all feel under the weather when youre feeling gloomy."
+        },
+        {
+            "original": "  Foul weather?  ",
+            "translated": "Under the weather?"
+        },
+        {
+            "original": "  Very foul.  ",
+            "translated": "Far under."
+        },
+        {
+            "original": "  Had I plantation of this isle, my lord  ",
+            "translated": "If I colonized this island, my lord"
+        },
+        {
+            "original": "  Hed sow t with nettle seed.  ",
+            "translated": "Hed grow useless, stinging nettle plants all over it."
+        },
+        {
+            "original": "  Or docks, or mallows.  ",
+            "translated": "Or weeds."
+        },
+        {
+            "original": "  And were the king on t, what would I do?  ",
+            "translated": "And if I were the king of the colony, would you like to know what Id do?"
+        },
+        {
+            "original": "  'Scape being drunk for want of wine.  ",
+            "translated": "He wouldnt get drunk because there isn't any wine."
+        },
+        {
+            "original": "   I' th' commonwealth I would by contraries    Execute all things. For no kind of traffic    Would I admit. No name of magistrate.    Letters should not be known. Riches, poverty,    And use of servicenone. Contract, succession,    Bourn, bound of land, tilth, vineyardnone.    No use of metal, corn, or wine, or oil.    No occupation. All men idle, all.    And women too, but innocent and pure.    No sovereignty   ",
+            "translated": "In my commonwealth Id do everything in the opposite way from what's normal. I wouldnt allow any business. There would be no judges. There would be no school or learning. No riches, poverty, or servants. None of that. No contracts, inheritance, privately owned land, farming, or vineyards. None of that. Thered be no metal-work, no grinding of corn, no wine-making, or making of olive oil. There'd be no work. Men would do nothing at all. Women too, except those things that are innocent and pure. Thered be no kingship"
+        },
+        {
+            "original": "  Yet he would be king on t.  ",
+            "translated": "Though he'd be the king of this land with no kingship."
+        },
+        {
+            "original": "  The latter end of his commonwealth forgets the beginning.  ",
+            "translated": "His colony is ending up a long way from where it began."
+        },
+        {
+            "original": "   All things in common nature should produce    Without sweat or endeavor.   Treason, felony,    Sword, pike, knife, gun, or need of any engine,    Would I not have.   But nature should bring forth    Of its own kind all foison, all abundance,    To feed my innocent people.   ",
+            "translated": "Nature would produce everything people needed, and all of it would be shared equally by all. Thered be no treason, crimes, swords, spears, knives, guns, or need for any other weapon. Without any human help, nature would grow bountiful harvests to feed my innocent people."
+        },
+        {
+            "original": "  No marrying mong his subjects?  ",
+            "translated": "Would there be no marriage among those he ruled?"
+        },
+        {
+            "original": "  None, man. All idle. Whores and knaves.  ",
+            "translated": "None, my man. They'd do nothing. Theyd all be whores and scoundrels."
+        },
+        {
+            "original": "  I would with such perfection govern, sir,T' excel the Golden Age.  ",
+            "translated": "My leadership would be so perfect that my colony would be even better than the mythical ancient Golden Age."
+        },
+        {
+            "original": "  'Save his majesty!  ",
+            "translated": "May God protect his Majesty!"
+        },
+        {
+            "original": "  Long live Gonzalo!  ",
+            "translated": "Long live Gonzalo!"
+        },
+        {
+            "original": "   [to ALONSO]  Anddo you mark me, sir?  ",
+            "translated": "[To ALONSO] Andare you listening to me, sir?"
+        },
+        {
+            "original": "  Prithee, no more. Thou dost talk nothing to me.  ",
+            "translated": "Please, no more. What you're saying to me is meaningless."
+        },
+        {
+            "original": "  I do well believe your highness, and did it to ministeroccasion to these gentlemen, who are of such sensible and nimble lungs that they always use to laugh at nothing.  ",
+            "translated": "I agree with you completely, your Highness. I said those things to give these gentlemen a good time, since they have such strong lungs that they so often use to laugh at meaningless trivialities."
+        },
+        {
+            "original": "  'Twas you we laughed at.  ",
+            "translated": "We were laughing at you."
+        },
+        {
+            "original": "  Who in this kind of merry fooling am nothing to you. Soyou may continue and laugh at nothing still.  ",
+            "translated": "But in all of your silly little jokes, you see me as nothing. So go on, laugh at nothing."
+        },
+        {
+            "original": "  What a blow was there given!  ",
+            "translated": "What an insult he just made!"
+        },
+        {
+            "original": "  An it had not fallen flat-long.  ",
+            "translated": "Too bad it fell so flat."
+        },
+        {
+            "original": "  You are gentlemen of brave mettle. You would lift the moon out of her sphere if she would continue in it five weeks without changing.  ",
+            "translated": "You are courageous gentlemen. Youd give the moon a helpful push if it got stuck in the same spot of its orbit for five weeks."
+        },
+        {
+            "original": "  We would so, and then go a-batfowling.  ",
+            "translated": "We certainly would, then wed go hunting birds at night by luring them to us with a lantern and smacking them out of the sky with a stick."
+        },
+        {
+            "original": "   [to GONZALO]  Nay, good my lord, be not angry.  ",
+            "translated": "[To GONZALO] My good lord, please dont be angry."
+        },
+        {
+            "original": "  No, I warrant you. I will not adventure my discretion so weakly. Will you laugh me asleep, for I am very heavy?  ",
+            "translated": "I promise you, Im not. I wouldn't risk my reputation for self-control for such a tiny thing. Will you laugh me to sleep? For Im feeling very tired."
+        },
+        {
+            "original": "  Go sleep, and hear us.  ",
+            "translated": "Go to sleep, and we'll laugh."
+        },
+        {
+            "original": "  What, all so soon asleep? I wish mine eyesWould with themselves shut up my thoughts. I findThey are inclined to do so.  ",
+            "translated": "What, is everyone asleep so quickly? I wish my eyes would close and I could sleep, so that I could stop thinking. In fact, my eyes are starting to close."
+        },
+        {
+            "original": "   Please you, sir,    Do not omit the heavy offer of it.    It seldom visits sorrow. When it doth,    It is a comforter.   ",
+            "translated": "Please, sir, don't refuse the opportunity to sleep. Sleep rarely comes to people who are grieving. When it does come, it gives comfort."
+        },
+        {
+            "original": "  We two, my lord,Will guard your person while you take your restAnd watch your safety.  ",
+            "translated": "The two of us, my lord, will guard you while you rest and make sure that you're safe."
+        },
+        {
+            "original": "  Thank you. Wondrous heavy.  [falls asleep]   ",
+            "translated": "Thank you. Im extremely tired. [He falls asleep]"
+        },
+        {
+            "original": "  What a strange drowsiness possesses them!  ",
+            "translated": "It's so strange how all of them suddenly got so tired!"
+        },
+        {
+            "original": "  It is the quality o' th' climate.  ",
+            "translated": "There's something in the climate here."
+        },
+        {
+            "original": "  WhyDoth it not then our eyelids sink? I find notMyself disposed to sleep.  ",
+            "translated": "Then why arent our eyelids closing? Im not feeling tired at all."
+        },
+        {
+            "original": "   Nor I. My spirits are nimble.    They fell together all, as by consent.    They dropped, as by a thunderstroke.   What might,    Worthy Sebastian, O, what might? No more.    And yet methinks I see it in thy face,    What thou shouldst be.   Th' occasion speaks thee, and    My strong imagination sees a crown    Dropping upon thy head.   ",
+            "translated": "Me neither. Im full of energy. They all fell asleep together, as if theyd all agreed on it earlier. They fell asleep as if theyd all been struck by lightning. What might happen, noble Sebastian, what might happen if? No, I shouldn't say any more. And yet, I think I can see in your face what you have the potential to be. Opportunity is knocking on your door, and my imagination sees a crown coming to rest on your head."
+        },
+        {
+            "original": "  What, art thou waking?  ",
+            "translated": "What, are you awake or asleep?"
+        },
+        {
+            "original": "  Do you not hear me speak?  ",
+            "translated": "Dont you hear me speaking?"
+        },
+        {
+            "original": "   I do, and surely    It is a sleepy language, and thou speakst    Out of thy sleep. What is it thou didst say?    This is a strange repose, to be asleep    With eyes wide open, standing, speaking, moving,    And yet so fast asleep.   ",
+            "translated": "I do, and it certainly sounds like the language of dreams, like you're talking in your sleep. What is it that you said? This is a very strange sleep. How can you be standing, speaking, and moving, with your eyes wide open, and yet be fast asleep?"
+        },
+        {
+            "original": "  Noble Sebastian,Thou letst thy fortune sleepdie, ratherwinkstWhiles thou art waking.  ",
+            "translated": "Noble Sebastian, by not seizing this opportunity youre letting this chance sleepno, dieeven while you are wide awake."
+        },
+        {
+            "original": "  Thou dost snore distinctly.Theres meaning in thy snores.  ",
+            "translated": "You have a strange way of snoring. It sounds like you're speaking actual words."
+        },
+        {
+            "original": "   I am more serious than my custom.   You    Must be so too if heed me, which to do    Trebles thee o'er.   ",
+            "translated": "I'm more serious right now than I usually am. You should be too, if you listen to me. If you follow my advice you will become three times as powerful as you are now."
+        },
+        {
+            "original": "  Well, I am standing water.  ",
+            "translated": "Like standing water, I'm not moving at all."
+        },
+        {
+            "original": "  Ill teach you how to flow.  ",
+            "translated": "I'll teach you how to move, to act."
+        },
+        {
+            "original": "  Do so. To ebbHereditary sloth instructs me.  ",
+            "translated": "Do that. As a younger brother who cannot inherit the throne, Im naturally lazy."
+        },
+        {
+            "original": "   Oh,    If you but knew how you the purpose cherish    Whiles thus you mock it! How, in stripping it,    You more invest it!   Ebbing men indeed    Most often do so near the bottom run    By their own fear or sloth.   ",
+            "translated": "Oh, if you only knew how ambitious you truly are, even while you mock ambition! The more you make fun of it, the more obvious it is how much you care! Men who do nothing usually wind up at the bottom, controlled by their own fear and laziness."
+        },
+        {
+            "original": "   Prithee, say on.    The setting of thine eye and cheek proclaim    A matter from thee,   and a birth indeed    Which throes thee much to yield.   ",
+            "translated": "Please, continue. Theres something in your face and eyes that indicates you're talking about something serious, and thatlike giving birthyou're finding it hard to actually get it out."
+        },
+        {
+            "original": "   Thus, sir:    Although this lord of weak remembrancethis,    Who shall be of as little memory    When he is earthed   hath here almost persuade    (For hes a spirit of persuasion only,    Professes to persuade) the king his sons alive,    'Tis as impossible that hes undrowned    And he that sleeps here swims.   ",
+            "translated": "Here it is, sir: [Points at GONZALO] Although this lord with the bad memoryand who won't be remembered by anyone when hes dead and buriedalmost persuaded the king (because his entire mind is focused only on persuading people) that the king's son is alive, its impossible that he didn't drown. Saying he survived is like saying that this man sleeping over here is actually swimming."
+        },
+        {
+            "original": "  I have no hopeThat hes undrowned.  ",
+            "translated": "I also hold no hope that he survived. "
+        },
+        {
+            "original": "   Oh, out of that no hope    What great hope have you!   No hope that way is    Another way so high a hope that even    Ambition cannot pierce a wink beyond,    But doubt discovery there.   Will you grant with me    That Ferdinand is drowned?   ",
+            "translated": "Oh, but from that no hope arise amazing hopes for you! No hope for Ferdinand's survival is, for you, so high a hope that not even ambition for greatness could imagine anything higheror even entirely believe that this possibility exists. Do you agree with me that Ferdinand has drowned?"
+        },
+        {
+            "original": "  Hes gone.  ",
+            "translated": "Hes dead."
+        },
+        {
+            "original": "  Then, tell me,Whos the next heir of Naples?  ",
+            "translated": "Then, tell me, who is now the heir to the throne of Naples?"
+        },
+        {
+            "original": "  Claribel.  ",
+            "translated": "Claribel, Alonso's daughter."
+        },
+        {
+            "original": "   She that is Queen of Tunis; she that dwells    Ten leagues beyond mans life; she that from Naples    Can have no note, unless the sun were post    The man i' th' moons too slow   till newborn chins    Be rough and razorable; she that from whom    We all were sea-swallowed,   though some cast again,    And by that destiny to perform an act    Whereof whats past is prologue, what to come    In yours and my discharge.   ",
+            "translated": "Claribel, who is now Queen of Tunis, and who lives thirty miles farther than a lifetime's journey from Italy. She wouldn't even receive a letter from Italy (unless it could somehow be delivered by the light of the sun; the man in the moon's too slow to deliver it) in less than the time it takes a baby to grow old enough to shave. Claribel was the cause of our ship getting swallowed by the sea, though some of us survivedand our survival suggests that it is our destiny to perform an act that, in fact, reenacts the past."
+        },
+        {
+            "original": "   What stuff is this? How say you?    'Tis true, my brothers daughters Queen of Tunis,    So is she heir of Naples, twixt which regions    There is some space.   ",
+            "translated": "What is this? What are you talking about? It's true that my brother's daughter is the Queen of Tunis as well as the heir to the throne of Naples, and that a great distance separates those two places."
+        },
+        {
+            "original": "   A space whose every cubit    Seems to cry out, How shall that Claribel    Measure us back to Naples?   Keep in Tunis,    And let Sebastian wake. Say this were death    That now hath seized them.   Why, they were no worse    Than now they are. There be that can rule Naples    As well as he that sleeps,   lords that can prate    As amply and unnecessarily    As this Gonzalo. I myself could make    A chough of as deep chat.   Oh, that you bore    The mind that I do, what a sleep were this    For your advancement! Do you understand me?   ",
+            "translated": "A distance whose every inch seems to scream, How can Claribel ever follow us back to Naples? Stay in Tunis, and let Sebastian get his good fortune.\" Imagine that instead of these men sleeping here, they were dead. Well, they'd be just as badly off as they are now. There are many who can rule Naples just as well as this man who's sleeping. And there are lots of lords who can babble as much as Gonzalo. I could teach a crow to blabber such nonsense. Oh, I wish your thoughts were the same as minethen you'd see how these sleeping men are an unparalleled opportunity for you. Do you understand what I'm saying?"
+        },
+        {
+            "original": "  Methinks I do.  ",
+            "translated": "I think I do."
+        },
+        {
+            "original": "  And how does your contentTender your own good fortune?  ",
+            "translated": "And how do your feelings about what I've just said affect your chances at good fortune?"
+        },
+        {
+            "original": "  I rememberYou did supplant your brother Prospero.  ",
+            "translated": "I remember that you overthrew and replaced your brother Prospero."
+        },
+        {
+            "original": "   True.    And look how well my garments sit upon me,    Much feater than before.   My brothers servants    Were then my fellows. Now they are my men.   ",
+            "translated": "True. And look how well that position suits mefar better than the one I had before. Back then, my brothers servants were my equals. Now they work for me."
+        },
+        {
+            "original": "  But, for your conscience?  ",
+            "translated": "But what about your guilty conscience?"
+        },
+        {
+            "original": "   Ay, sir. Where lies that? If twere a kibe,    'Twould put me to my slipper. But I feel not    This deity in my bosom.   Twenty consciences,    That stand twixt me and Milan, candied be they    And melt ere they molest!   Here lies your brother,    No better than the earth he lies upon,    If he were that which now hes like, thats dead;    Whom I, with this obedient steel, three inches of it,    Can lay to bed for ever; whiles you, doing thus,    To the perpetual wink for aye might put    This ancient morsel, this Sir Prudence, who    Should not upbraid our course.   For all the rest,    Theyll take suggestion as a cat laps milk.    Theyll tell the clock to any business that    We say befits the hour.   ",
+            "translated": "Ah, yes. Where is my conscience? If a conscience were a blister on my heel, I'd put my slippers on. But I don't feel this \"conscience\" in my chest. Even if there were twenty guilty consciences standing between me and the dukedom of Milan, I'd combine them like candies and melt them away before they'd bother me. Here lies your sleeping brother, who'd be of no more value than the ground he's lying on if he were in fact what he now looks likedead, that is. And I, with just three inches of this sword, could put him to rest forever; while you, doing the same, could give ancient Gonzalo a permanent sleep to ensure that he wouldn't stand against us. As for everyone else, they'll accept whatever we say just as easily as a cat accepts milk. They'll chime in agreement when we instruct them to, just like a clock telling time."
+        },
+        {
+            "original": "   Thy case, dear friend,    Shall be my precedent. As thou gotst Milan,    Ill come by Naples. Draw thy sword.   One stroke    Shall free thee from the tribute which thou payest.    And I the king shall love thee.   ",
+            "translated": "I'll use your experience as a model, my friend. Just as you got Milan, Ill get Naples. Take out your sword. With one thrust of your sword, you will be free from having to pay tribute money to Naples ever again. And I, as King of Naples, will be your great friend."
+        },
+        {
+            "original": "  Draw together.And when I rear my hand, do you the like,To fall it on Gonzalo.  ",
+            "translated": "We'll both draw our swords. When I raise my sword, you do the same, and bring it down to kill Gonzalo."
+        },
+        {
+            "original": "  O, but one word.  [speaks quietly to ANTONIO]   ",
+            "translated": "Oh, just one more thing. [He speaks quietly to ANTONIO]"
+        },
+        {
+            "original": "    [to GONZALO]    My master through his art foresees the danger    That you, his friend, are, and sends me forth    For else his project diesto keep them living.     [sings in GONZALOs ear]      While you here do snoring lie,    Open-eyed conspiracy    His time doth take.    If of life you keep a care,    Shake off slumber and beware.    Awake! Awake!    ",
+            "translated": "[To GONZALO] With his magic, my master could see the danger that you, his friend, are in. He sent me to keep you all aliveor else his plans would die along with you.\u00a0[Singing in GONZALOs ear]\u00a0While you lie here snoring,\u00a0Cold-blooded conspirators\u00a0Are about to seize their chance.\u00a0If you want to live,\u00a0Wake up and beware!\u00a0Wake up! Wake up!"
+        },
+        {
+            "original": "  Then let us both be sudden.  ",
+            "translated": "Now lets do this quickly."
+        },
+        {
+            "original": "   [waking and seeing them]  Now, good angels preserve the king!  ",
+            "translated": "[Waking up and seeing them] Angels above protect the king!"
+        },
+        {
+            "original": "  [waking] Why, how now? Ho, awake!  ",
+            "translated": "[Waking up] Why, whats happening? Hey, wake up!"
+        },
+        {
+            "original": "  Whats the matter?  ",
+            "translated": "Whats going on here?"
+        },
+        {
+            "original": "   Whiles we stood here securing your repose,    Even now, we heard a hollow burst of bellowing    Like bulls, or rather lions.   Did t not wake you?    It struck mine ear most terribly.   ",
+            "translated": "While we stood here on guard while you were asleep, we just now heard a tremendous thundering that sounded like bulls, or lions. Isn't that what woke you? It sounded awful to me."
+        },
+        {
+            "original": "  I heard nothing.  ",
+            "translated": "I didnt hear anything."
+        },
+        {
+            "original": "   Oh, twas a din to fright a monsters ear,    To make an earthquake!   Sure, it was the roar    Of a whole herd of lions.   ",
+            "translated": "Oh, it was loud enough to frighten a monster, or to cause an earthquake! Surely, it must have been the roar of an entire herd of lions."
+        },
+        {
+            "original": "  Heard you this, Gonzalo?  ",
+            "translated": "Did you hear it, Gonzalo?"
+        },
+        {
+            "original": "   Upon mine honor, sir, I heard a humming,    And that a strange one too, which did awake me.    I shaked you, sir, and cried.   As mine eyes opened,    I saw their weapons drawn. There was a noise,    Thats verily.   'Tis best we stand upon our guard,    Or that we quit this place. Lets draw our weapons.   ",
+            "translated": "Sir, I swear that I did hear a strange humming sound, which woke me up. I shook you, sir, and cried out. When I opened my eyes, I saw their raised swords. There was a noise, thats true. It would be best if we either set a constant guard here, or left this place entirely. Lets take out our own swords too."
+        },
+        {
+            "original": "  Lead off this ground, and lets make further searchFor my poor son.  ",
+            "translated": "Lead us away from this place, and let's go search some more for my poor son."
+        },
+        {
+            "original": "  Heavens keep him from these beasts!For he is, sure, i' th' island.  ",
+            "translated": "May God protect Ferdinand from those lions. Because Im sure hes on the island."
+        },
+        {
+            "original": "  Lead away.  ",
+            "translated": "Lead on."
+        },
+        {
+            "original": "   [aside]  Prospero my lord shall know what I have done.So, King, go safely on to seek thy son.  ",
+            "translated": "[To himself] My lord Prospero will know what Ive done. So, King, continue on in safety and search for your son."
+        }
+    ]
+}

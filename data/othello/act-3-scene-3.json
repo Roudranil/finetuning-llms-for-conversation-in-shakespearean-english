@@ -1,0 +1,668 @@
+{
+    "dialogs": [
+        {
+            "original": "  Be thou assured, good Cassio, I will doAll my abilities in thy behalf.  ",
+            "translated": "Rest assured, good Cassio, \u00a0I will do all I can for you."
+        },
+        {
+            "original": "  Good madam, do. I warrant it grieves my husbandAs if the cause were his.  ",
+            "translated": "Please do, good madam. The situation has my husband troubled as if the problem were his own."
+        },
+        {
+            "original": "  Oh, thats an honest fellow. Do not doubt, Cassio,But I will have my lord and you againAs friendly as you were.  ",
+            "translated": "Oh, your husband's an honest fellow. Cassio, do not doubt that I will soon have you and my husband as close as you were before."
+        },
+        {
+            "original": "  Bounteous madam,Whatever shall become of Michael Cassio,Hes never anything but your true servant.  ",
+            "translated": "Generous madam, whatever happens to me, I'll always be your loyal servant."
+        },
+        {
+            "original": "   I know t, I thank you. You do love my lord.    You have known him long, and be you well assured    He shall in strangeness stand no farther off    Than in a polite distance.   ",
+            "translated": "Thank you. I know you mean that. You really do love my husband. You've known him for a long time, and you can be sure that he is only keeping his distance from you for political reasons."
+        },
+        {
+            "original": "   Ay, but, lady,    That policy may either last so long,    Or feed upon such nice and waterish diet,    Or breed itself so out of circumstances,    That, I being absent and my place supplied,    My general will forget my love and service.   ",
+            "translated": "Yes, but, my lady, I worry that he may keep this distance for so longbecause it is easier to keep doing it, or because some accident or other makes it necessarythat he will forget my love and service to him while I am gone and someone else is in my place."
+        },
+        {
+            "original": "   Do not doubt that. Before Emilia here    I give thee warrant of thy place. Assure thee,    If I do vow a friendship, Ill perform it    To the last article.   My lord shall never rest,    Ill watch him tame and talk him out of patience.    His bed shall seem a school, his board a shrift,    Ill intermingle everything he does    With Cassios suit. Therefore be merry, Cassio,    For thy solicitor shall rather die    Than give thy cause away.   ",
+            "translated": "Don't worry about that. With Emilia here as my witness, I guarantee that you will have your place back as lieutenant. I assure you, when I promise to do something out of friendship, I deliver. My husband won't have a moment of rest because I'll keep him awake all night to talk his ear off about this. I'll lecture him until our bed feels like a school room and his table a confessional. I'll mention your case no matter what he's doing. So cheer up, Cassio. I'd rather die than fail on your behalf."
+        },
+        {
+            "original": "  Madam, here comes my lord.  ",
+            "translated": "Madam, here comes my husband."
+        },
+        {
+            "original": "  Madam, Ill take my leave.  ",
+            "translated": "Madam, I'll leave now."
+        },
+        {
+            "original": "  Why, stay and hear me speak.  ",
+            "translated": "Why don't you stay here and hear me speak?"
+        },
+        {
+            "original": "  Madam, not now. I am very ill at ease,Unfit for mine own purposes.  ",
+            "translated": "Madam, not now. I don't have a good feeling about this, and don't think it's the right time."
+        },
+        {
+            "original": "  Well, do your discretion.  ",
+            "translated": "Well, it's up to you."
+        },
+        {
+            "original": "  Ha! I like not that.  ",
+            "translated": "Huh. I don't like the looks of that."
+        },
+        {
+            "original": "  What dost thou say?  ",
+            "translated": "What are you talking about?"
+        },
+        {
+            "original": "  Nothing, my lord, or ifI know not what.  ",
+            "translated": "Nothing, my lord, unlessI don't know."
+        },
+        {
+            "original": "  Was not that Cassio parted from my wife?  ",
+            "translated": "Wasn't that Cassio who was just talking to my wife?"
+        },
+        {
+            "original": "  Cassio, my lord? No, sure, I cannot think itThat he would steal away so guilty-likeSeeing you coming.  ",
+            "translated": "Cassio, my lord? No, surely not. I can't imagine he would slink away looking so guilty after seeing you coming."
+        },
+        {
+            "original": "  I do believe twas he.  ",
+            "translated": "I think it was him."
+        },
+        {
+            "original": "  How now, my lord?I have been talking with a suitor here,A man that languishes in your displeasure.  ",
+            "translated": "How are you, my husband? I have been talking here with a man who, sadly, you are displeased with."
+        },
+        {
+            "original": "  Who is t you mean?  ",
+            "translated": "Who do you mean?"
+        },
+        {
+            "original": "   Why, your lieutenant, Cassio. Good my lord,    If I have any grace or power to move you    His present reconciliation take.    For if he be not one that truly loves you,    That errs in ignorance and not in cunning,    I have no judgment in an honest face.    I prithee, call him back.   ",
+            "translated": "Your lieutenant, Cassio. My good husband, if I have any grace or power to persuade you, please accept his apology. I swear he truly loves you and made a mistake on accident, not on purpose, or else I can't judge an honest face. Please, call him back here."
+        },
+        {
+            "original": "  Went he hence now?  ",
+            "translated": "Was that him who just left?"
+        },
+        {
+            "original": "  Ay, sooth, so humbledThat he hath left part of his grief with me To suffer with him. Good love, call him back.  ",
+            "translated": "Yes, that's right. And he was so humbled and troubled that now I feel sad for him. My love, call him back here."
+        },
+        {
+            "original": "  Not now, sweet Desdemona. Some other time.  ",
+            "translated": "Not now, sweet Desdemona. Some other time."
+        },
+        {
+            "original": "  The sooner, sweet, for you.  ",
+            "translated": "All the sooner because you asked, sweetheart."
+        },
+        {
+            "original": "  Shall t be tonight at supper?  ",
+            "translated": "So, will that be tonight at dinner?"
+        },
+        {
+            "original": "  No, not tonight.  ",
+            "translated": "No, not tonight."
+        },
+        {
+            "original": "  Tomorrow dinner, then?  ",
+            "translated": "Tomorrow at dinner, then?"
+        },
+        {
+            "original": "  I shall not dine at home, I meet the captains at the citadel.  ",
+            "translated": "I'm not eating dinner at home tomorrow. I'm meeting the captains at the castle."
+        },
+        {
+            "original": "   Why, then, tomorrow night, or Tuesday morn.    On Tuesday noon, or night, or Wednesday morn.    I prithee name the time, but let it not    Exceed three days.   In faith, hes penitent,    And yet his trespass, in our common reason    (Save that, they say, the wars must make example    Out of her best)   is not, almost, a fault    T' incur a private check. When shall he come?    Tell me, Othello.   I wonder in my soul    What you would ask me that I should deny    Or stand so mamm'ring on. What?   Michael Cassio    That came a-wooing with you, and so many a time,    When I have spoke of you dispraisingly,    Hath ta'en your part,   to have so much to do    To bring him in? Trust me, I could do much   ",
+            "translated": "Then do it tomorrow night, or Tuesday morning. Or Tuesday at noon, or Tuesday night, or even Wednesday morning. You name the time, but please sometime within the next three days. Truly, he regrets what he's done, and his error wasn't really that seriousexcept that, as they say, military discipline requires that you be most strict with the best soldiersand should barely have even required a private scolding . When will Cassio come back? Tell me, Othello. If you asked me for something, I wouldn't just say no, or stand there hesitating. What do you say? Michael Cassio helped you when you were courting me, and whenever I criticized you he stood up for you. Why should it be so hard for him to get to talk with you? Trust me, I could do a lot"
+        },
+        {
+            "original": "  Prithee, no more. Let him come when he will,I will deny thee nothing.  ",
+            "translated": "Please, don't talk anymore about this. Let Cassio come when he wants. I won't deny you what you want."
+        },
+        {
+            "original": "   Why, this is not a boon,    'Tis as I should entreat you wear your gloves,    Or feed on nourishing dishes, or keep you warm,    Or sue to you to do a peculiar profit    To your own person.   Nay, when I have a suit    Wherein I mean to touch your love indeed    It shall be full of poise and difficult weight    And fearful to be granted.   ",
+            "translated": "This isn't a great favor you're doing me. It's as if I'm trying to persuade you to put on gloves when it's cold out, or to eat healthy food, or to keep yourself warm, or to do anything that's good for you. No, when I have something to ask of you that will really test your love, it will be a difficult, serious thing, one that you wouldn't grant easily."
+        },
+        {
+            "original": "  I will deny thee nothing! Whereon I do beseech thee, grant me this,To leave me but a little to myself.  ",
+            "translated": "I will never say no to you! All I ask of you right now is that you leave me alone for a bit."
+        },
+        {
+            "original": "  Shall I deny you? No. Farewell, my lord.  ",
+            "translated": "And will I say no to you? No, I won't. Goodbye, my husband."
+        },
+        {
+            "original": "  Farewell, my Desdemona. Ill come to thee straight.  ",
+            "translated": "Goodbye, my Desdemona. I'll come see you soon."
+        },
+        {
+            "original": "  Emilia, come.Be as your fancies teach you. Whate'er you be, I am obedient.  ",
+            "translated": "Emilia, come with me. Act however you want, Othello. Whatever you do, I'll be obedient to you."
+        },
+        {
+            "original": "  Excellent wretch! Perdition catch my soulBut I do love thee! And when I love thee notChaos is come again.  ",
+            "translated": "Oh, that crazy girl. But I'll be damned if don't love her! The world will end before I stop loving her."
+        },
+        {
+            "original": "  My noble lord  ",
+            "translated": "My noble lord"
+        },
+        {
+            "original": "  What dost thou say, Iago?  ",
+            "translated": "What is it, Iago?"
+        },
+        {
+            "original": "  Did Michael Cassio, when you wooed my lady,Know of your love?  ",
+            "translated": "Did Michael Cassio know about your love for Desdemona when you were courting her?"
+        },
+        {
+            "original": "  He did, from first to last.Why dost thou ask?  ",
+            "translated": "He did, from the very beginning. Why do you ask?"
+        },
+        {
+            "original": "  But for a satisfaction of my thought,No further harm.  ",
+            "translated": "Oh, no reason. I was just curious."
+        },
+        {
+            "original": "  Why of thy thought, Iago?  ",
+            "translated": "Why were you curious, Iago?"
+        },
+        {
+            "original": "  I did not think he had been acquainted with her.  ",
+            "translated": "I didn't think he had met her."
+        },
+        {
+            "original": "  Oh, yes, and went between us very oft.  ",
+            "translated": "Oh, yes he knew her, and often carried messages between Desdemona and me."
+        },
+        {
+            "original": "  Indeed?  ",
+            "translated": "Really?"
+        },
+        {
+            "original": "  Indeed? Ay, indeed! Discernst thou aught in that? Is he not honest?  ",
+            "translated": "What do you mean, \"really?\" Yes, really. You think something's strange about that? Isn't Cassio honest?"
+        },
+        {
+            "original": "  Honest, my lord?  ",
+            "translated": "Honest, my lord?"
+        },
+        {
+            "original": "  Honest, ay, honest.  ",
+            "translated": "Honest, yes, honest."
+        },
+        {
+            "original": "  My lord, for aught I know.  ",
+            "translated": "My lord, for all I know."
+        },
+        {
+            "original": "  What dost thou think?  ",
+            "translated": "What do you think?"
+        },
+        {
+            "original": "  Think, my lord?  ",
+            "translated": "Think, my lord?"
+        },
+        {
+            "original": "   Think, my lord? Alas, thou echost me    As if there were some monster in thy thought    Too hideous to be shown. Thou dost mean something.    I heard thee say even now thou likst not that    When Cassio left my wife. What didst not like?    And when I told thee he was of my counsel    Of my whole course of wooing, thou criedst Indeed?    And didst contract and purse thy brow together    As if thou then hadst shut up in thy brain    Some horrible conceit. If thou dost love me    Show me thy thought.   ",
+            "translated": "\"Think, my lord?\" Come on, you're repeating everything I say like a strange monster in your mind that you're afraid is to hideous to show. You're hinting at something. You just said earlier that you didn't like how Cassio left my wife's side. What about it didn't you like? And when I told you that Cassio advised me the whole time I was courting Desdemona, you said, \"Oh really?\" And you raised your eyebrows like you had some secret thought about it. If you care about me at all, tell me what you're thinking."
+        },
+        {
+            "original": "  My lord, you know I love you.  ",
+            "translated": "My lord, you know I care about you."
+        },
+        {
+            "original": "   I think thou dost.    And for I know thou 'rt full of love and honesty    And weighst thy words before thou givst them breath,    Therefore these stops of thine fright me the more.    For such things in a false disloyal knave    Are tricks of custom, but in a man thats just    They are close dilations, working from the heart,    That passion cannot rule.   ",
+            "translated": "I think you do. And it's precisely because I know you are full of love and honesty and think carefully before you speak that I'm even more worried about the way you're hesitating. In some disloyal liar, it wouldn't mean anything, but in an honest man like you, these kinds of reactions are indications of thoughts that come from the heart which cannot be clouded by emotion."
+        },
+        {
+            "original": "  For Michael Cassio, I dare be sworn, I think, that he is honest.  ",
+            "translated": "As far as Michael Cassio goes, I think I can swear that he is honest."
+        },
+        {
+            "original": "  I think so too.  ",
+            "translated": "I think so too."
+        },
+        {
+            "original": "  Men should be what they seem,Or those that be not, would they might seem none!  ",
+            "translated": "Men should be what they seem to be. And if they aren't, I wish they wouldn't pretend to be anything that they're not!"
+        },
+        {
+            "original": "  Certain, men should be what they seem.  ",
+            "translated": "Certainly, men should be what they seem to be."
+        },
+        {
+            "original": "  Why then I think Cassios an honest man.  ",
+            "translated": "Well then, I think Cassio is an honest man."
+        },
+        {
+            "original": "   Nay, yet theres more in this.    I prithee speak to me as to thy thinkings,    As thou dost ruminate, and give thy worst of thoughts    The worst of words.   ",
+            "translated": "No, there's something more going on. Please, tell me what you're thinking to yourself, and speak even the worst thoughts you are thinking."
+        },
+        {
+            "original": "   Good my lord, pardon me,    Though I am bound to every act of duty    I am not bound to that all slaves are free to.    Utter my thoughts?   Why, say they are vile and false,    As wheres that palace whereinto foul things    Sometimes intrude not?   Who has that breast so pure    Wherein uncleanly apprehensions    Keep leets and law-days and in sessions sit    With meditations lawful?   ",
+            "translated": "My good lord, pardon me. I must obey your every order, but I don't have to do that which even slaves aren't obligated to dodivulge my thoughts. What if my thoughts are vile and untrue? After all, what palace is there that has never let a foul thing inside? Who has ever had a heart so pure that impure thoughts haven't held court with lawful thoughts?"
+        },
+        {
+            "original": "  Thou dost conspire against thy friend, Iago,If thou but thinkst him wronged and makst his earA stranger to thy thoughts.  ",
+            "translated": "Iago, if you think that a friend of yours is in trouble but you don't say anything, then you are wronging your friend."
+        },
+        {
+            "original": "   I do beseech you,    Though I perchance am vicious in my guess,    As, I confess, it is my natures plague    To spy into abuses, and oft my jealousy    Shapes faults that are not,   that your wisdom,    From one that so imperfectly conceits,    Would take no notice, nor build yourself a trouble    Out of his scattering and unsure observance.    It were not for your quiet nor your good,    Nor for my manhood, honesty, and wisdom    To let you know my thoughts.   ",
+            "translated": "Since I am maybe wrong in my guessand I admit it's my nature to look into possible misdeeds and often I imagine wrongs that aren't really thereI beg you in your wisdom not to put too much stock in what I say, since I often wrongly imagine things. Don't make a big deal out of my smattering of uncertain observations. It would not be good for you, and it wouldn't be wise, honest, or manly of me to let you know my thoughts."
+        },
+        {
+            "original": "  What dost thou mean?  ",
+            "translated": "What do you mean?"
+        },
+        {
+            "original": "   Good name in man and woman, dear my lord,    Is the immediate jewel of their souls.    Who steals my purse steals trash. 'Tis something, nothing:    'Twas mine, tis his, and has been slave to thousands.    But he that filches from me my good name    Robs me of that which not enriches him    And makes me poor indeed.   ",
+            "translated": "A good reputation is the most precious jewel of a man's or a woman's soul, my dear lord. If someone steals money from me, it's not a big deal. It was mine, now it's his, and it's been held by thousands of others. But if someone steals my good reputation from me, then he really does make me truly poor, and steals something that doesn't even make him any richer."
+        },
+        {
+            "original": "  Ill know thy thoughts.  ",
+            "translated": "I want to know your thoughts."
+        },
+        {
+            "original": "  You cannot, if my heart were in your hand,Nor shall not, whilst tis in my custody.  ",
+            "translated": "You cannot know, not even if you were squeezing my heart in your hand to make me tell you. And as long as I have my heart, I won't tell you."
+        },
+        {
+            "original": "  Ha!  ",
+            "translated": "Ha!"
+        },
+        {
+            "original": "   Oh, beware, my lord, of jealousy!    It is the green-eyed monster which doth mock    The meat it feeds on.   That cuckold lives in bliss    Who, certain of his fate, loves not his wronger,    But, oh, what damn\u00e8d minutes tells he o'er    Who dotes, yet doubts suspects, yet soundly loves!   ",
+            "translated": "Oh, my lord, beware of jealousy! It is a green-eyed monster that mocks whoever it eats away at. A man who knows for sure that his wife is cheating on him lives in bliss, since he knows not to love his wife. But, oh, what torture it is to love but doubt your wife, suspect her of something but still love her."
+        },
+        {
+            "original": "  Oh, misery!  ",
+            "translated": "Oh, what misery!"
+        },
+        {
+            "original": "   Poor and content is rich, and rich enough,    But riches fineless is as poor as winter    To him that ever fears he shall be poor.    Good heaven, the souls of all my tribe defend    From jealousy!   ",
+            "translated": "To be poor but content is actually to be quite rich. But you can have endless riches and still be as poor as anyone if you are always afraid of losing your riches. Good heaven, defend us all from jealousy!"
+        },
+        {
+            "original": "   Why, why is this?    Thinkst thou Id make a life of jealousy,    To follow still the changes of the moon    With fresh suspicions? No! To be once in doubt    Is to be resolved.   Exchange me for a goat    When I shall turn the business of my soul    To such exsufflicate and blowed surmises,    Matching thy inference.   'Tis not to make me jealous    To say my wife is fair, feeds well, loves company,    Is free of speech, sings, plays, and dances.    Where virtue is, these are more virtuous.    Nor from mine own weak merits will I draw    The smallest fear or doubt of her revolt,    For she had eyes and chose me.   No, Iago,    Ill see before I doubt, when I doubt, prove,    And on the proof there is no more but this:    Away at once with love or jealousy!   ",
+            "translated": "Why would say that? Do you think I would make jealousy my whole life, and with every change in the moon find new suspicions? No! To doubt once is to make up your mind. I'd rather turn into a goat than devote all my time to such overblown suspicions, like the sort of jealous man you're describing. It wouldn't make me jealous for you to say that my wife is pretty, eats well, enjoys the company of others, speaks her mind, sings, plays music, and dances. When a woman is virtuous, these traits are virtuous as well. And I will not worry or fear that she may be unfaithful because I am not very desirable. She knew who she was marrying. No, Iago, I won't doubt Desdemona until I see something, and if I doubt her I'll see if I can prove it. If I get proof, there's only one thing to do: get rid of either my love or my jealousy."
+        },
+        {
+            "original": "   I am glad of this, for now I shall have reason    To show the love and duty that I bear you    With franker spirit.   Therefore, as I am bound,    Receive it from me. I speak not yet of proof.    Look to your wife, observe her well with Cassio.    Wear your eyes thus, not jealous nor secure.    I would not have your free and noble nature    Out of self-bounty be abused. Look to t.    I know our country disposition well.    In Venice they do let God see the pranks    They dare not show their husbands.   Their best conscience    Is not to leave t undone, but keept unknown.   ",
+            "translated": "I'm glad to hear this, because now I can show my love for you and fulfill my duty in a more frank manner. So, hear what I must tell you. I don't have any proof yet. But keep an eye on your wife, and watch her carefully with Cassio. Look at her like this: don't be too jealous or too trusting. I wouldn't want you to get taken advantage of because of your noble, kind nature. Look out. I know the people of my country well. Women of Venice let God see the sorts of exploits they wouldn't dare let their husbands see. Their conscience doesn't stop them from doing bad things, but only keeps them from letting their bad deeds be known."
+        },
+        {
+            "original": "  Dost thou say so?  ",
+            "translated": "Do you think so?"
+        },
+        {
+            "original": "  She did deceive her father, marrying you,And when she seemed to shake and fear your looks,She loved them most.  ",
+            "translated": "Desdemona deceived her father in marrying you, and she pretended to shake in fear at your looks when she actually loved them."
+        },
+        {
+            "original": "  And so she did.  ",
+            "translated": "Yes, she did."
+        },
+        {
+            "original": "   Why, go to then.    She that, so young, could give out such a seeming,    To seel her fathers eyes up close as oak,    He thought twas witchcraft.   But I am much to blame.    I humbly do beseech you of your pardon    For too much loving you.   ",
+            "translated": "Well, there you have it, then. Even though she was a young woman, she was so good at lying that she made her father as blind as a tree to her plans. He even thought you'd used witchcraft on her. But I'm partially to blame for saying this. I beg your pardon for loving you too much."
+        },
+        {
+            "original": "  I am bound to thee forever.  ",
+            "translated": "I am forever in your debt."
+        },
+        {
+            "original": "  I see this hath a little dashed your spirits.  ",
+            "translated": "I can see this has upset you a little."
+        },
+        {
+            "original": "  Not a jot, not a jot.  ",
+            "translated": "Not at all, not at all."
+        },
+        {
+            "original": "   Trust me, I fear it has.    I hope you will consider what is spoke    Comes from my love. But I do see youre moved.    I am to pray you not to strain my speech    To grosser issues nor to larger reach    Than to suspicion.   ",
+            "translated": "Trust me, I worry it has. Please consider that what I am saying comes from my love for you. But I see you really are affected by what I've said. I only meant to warn you to be a little suspicious.\u00a0I beg you not to make more out of this than you should.\u00a0"
+        },
+        {
+            "original": "  I will not.  ",
+            "translated": "I won't."
+        },
+        {
+            "original": "   Should you do so, my lord,    My speech should fall into such vile success    Which my thoughts aimed not at.   Cassios my worthy friend    My lord, I see youre moved.   ",
+            "translated": "If you do, my speech would have the very vile effects that I didn't want it to. Cassio is my deserving friendmy Lord, I see you're troubled."
+        },
+        {
+            "original": "  No, not much moved. I do not think but Desdemonas honest.  ",
+            "translated": "No, I'm not troubled. I think Desdemona is nothing but honest."
+        },
+        {
+            "original": "  Long live she so. And long live you to think so.  ",
+            "translated": "May she be be honest for a long time. And that you will think she's honest for a long time.\u00a0"
+        },
+        {
+            "original": "  And yet how nature, erring from itself  ",
+            "translated": "And yet, one can act against one's nature"
+        },
+        {
+            "original": "   Ay, theres the point. As, to be bold with you,    Not to affect many propos\u00e8d matches    Of her own clime, complexion, and degree,    Whereto we see in all things nature tends    Foh! One may smell in such a will most rank,    Foul disproportions, thoughts unnatural.    Butpardon me   I do not in position    Distinctly speak of her, though I may fear    Her will, recoiling to her better judgment,    May fall to match you with her country forms,    And happily repent.   ",
+            "translated": "Yes, that's the point. At the risk of being too honest, it was against her nature not to like so many suitors of her own country, complexion, and social rank, since those who share such similarities are naturally drawn to each other. Ugh! You can practically smell a gross desire in excessive proportion and foul thoughts in such a person. But forgive me, I am talking generally and don't mean her in particular, although I do fear that she may return to her better judgment, prefer her own countrymen to you, and take back her love for you."
+        },
+        {
+            "original": "  Farewell, farewell.If more thou dost perceive, let me know more. Set on thy wife to observe. Leave me, Iago.  ",
+            "translated": "Goodbye, goodbye. If you notice anything more, let me know. Have your wife look out, too. Leave me, Iago."
+        },
+        {
+            "original": "  My lord, I take my leave.  [going]   ",
+            "translated": "My lord, I will leave now. [He starts to leave.]"
+        },
+        {
+            "original": "   [aside]  Why did I marry? This honest creature doubtlessSees and knows more, much more, than he unfolds.  ",
+            "translated": "[To himself] Why did I marry? Without a doubt, this honest man has seen more than he lets on, and knows moremuch morethan he is telling me."
+        },
+        {
+            "original": "    (returns)    My lord, I would I might entreat your honor    To scan this thing no farther. Leave it to time.    Although tis fit that Cassio have his place,    For sure, he fills it up with great ability,    Yet, if you please to hold him off awhile,    You shall by that perceive him and his means.    Note if your lady strain his entertainment    With any strong or vehement importunity.    Much will be seen in that.   In the meantime,    Let me be thought too busy in my fears    As worthy cause I have to fear I am    And hold her free, I do beseech your honor.   ",
+            "translated": "[Returning] My lord, I ask you not to worry about this anymore. Give it some time. It is right for Cassio to get his place as lieutenant backfor sure, he's very good at the jobbut if you wait for a while you will get a better idea of what he's up to. Take note if your wife strongly insists that you reinstate him. That would mean a lot. In the meantime, just think that I'm being overly suspicious in my fearsand I have good reason to think I may beand I beg you to consider Desdemona innocent."
+        },
+        {
+            "original": "  Fear not my government.  ",
+            "translated": "Don't worry about how I'll handle myself."
+        },
+        {
+            "original": "  I once more take my leave.  ",
+            "translated": "Once again, goodbye."
+        },
+        {
+            "original": "   This fellows of exceeding honesty    And knows all quantities, with a learn\u00e8d spirit,    Of human dealings.   If I do prove her haggard,    Though that her jesses were my dear heartstrings,    Id whistle her off and let her down the wind    To prey at fortune.   Haply, for I am black    And have not those soft parts of conversation    That chamberers have, or for I am declined    Into the vale of yearsyet thats not much    Shes gone, I am abused, and my relief    Must be to loathe her. Oh, curse of marriage    That we can call these delicate creatures ours    And not their appetites!   I had rather be a toad    And live upon the vapor of a dungeon    Than keep a corner in the thing I love    For others' uses.   Yet tis the plague to great ones,    Prerogatived are they less than the base.    'Tis destiny unshunnable, like death.    Even then this fork\u00e8d plague is fated to us    When we do quicken. Look where she comes.   ",
+            "translated": "This man is very honest and knows human interactions very well. If I find proof that Desdemona is unfaithful, I'll let her go like I'm getting rid of a pet, even if the leash is my own heartstrings. Maybe since I am black and don't have the smooth conversational skills of gallant men, or maybe since I'm getting oldbut no, none of that's important. She's gone, I am betrayed, and my only recourse must be to hate her. Oh, this is the curse of marriage, that we can have control over our delicate wives, but not their desires. I'd rather be a toad who survives off the mold in a dungeon than to share the thing I love with others. But that's what you get for being a powerful man, as this happens more often to noblemen than to commoners. It's an inescapable part of fate, like death. From the moment we're born we are fated to wear the horns. Look, here she comes."
+        },
+        {
+            "original": "  If she be false, heaven mocked itself.Ill not believe t.  ",
+            "translated": "If she is a liar, heaven has played a trick on itself. I won't believe it."
+        },
+        {
+            "original": "  How now, my dear Othello?Your dinner, and the generous islanders By you invited, do attend your presence.  ",
+            "translated": "How are you, my dear Othello? The islanders you invited to dinner are waiting for you."
+        },
+        {
+            "original": "  I am to blame.  ",
+            "translated": "My mistake."
+        },
+        {
+            "original": "  Why do you speak so faintly?Are you not well?  ",
+            "translated": "Why do you speak so faintly? Are you okay?"
+        },
+        {
+            "original": "  I have a pain upon my forehead, here.  ",
+            "translated": "I have a headache, here by my forehead."
+        },
+        {
+            "original": "  Why thats with watching, twill away again. Let me but bind it hard, within this hourIt will be well.  [pulls out a handkerchief]   ",
+            "translated": "Well, that's from staying up too late. It will go away soon. Let me just tie this handkerchief tight around your head and it will feel better within an hour. [She pulls out a handkerchief]"
+        },
+        {
+            "original": "  Your napkin is too little,Let it alone.  ",
+            "translated": "Your handkerchief is too small. Leave it alone."
+        },
+        {
+            "original": "  Come, Ill go in with you.  ",
+            "translated": "Come on, I'll go inside with you.\u00a0"
+        },
+        {
+            "original": "  I am very sorry that you are not well.  ",
+            "translated": "I am very sorry that you aren't feeling well."
+        },
+        {
+            "original": "    (picks up the handkerchief)     I am glad I have found this napkin,    This was her first remembrance from the Moor.    My wayward husband hath a hundred times    Wooed me to steal it, but she so loves the token    (For he conjured her she should ever keep it)    That she reserves it evermore about her    To kiss and talk to. Ill have the work ta'en out    And give t Iago.   What he will do with it    Heaven knows, not I.    I nothing but to please his fantasy.   ",
+            "translated": "[She picks up DESDEMONA's handkerchief] I am glad I have found this handkerchief. This was Desdemona's first gift from the Moor. My stubborn husband has asked me to steal it a hundred times, but she loves it so much (for Othello asked her never to lose it) that she always keeps it with her to kiss and talk to. I'll have the embroidered pattern copied and give it to Iago. God knows what he will do with it. God only knows. I certainly don't. I just like to make him happy."
+        },
+        {
+            "original": "  How now! What do you here alone?  ",
+            "translated": "What's going on? What are you doing here alone?"
+        },
+        {
+            "original": "  Do not you chide. I have a thing for you.  ",
+            "translated": "Don't scold me. I have something for you."
+        },
+        {
+            "original": "  A thing for me? It is a common thing  ",
+            "translated": "You have a thing for me? It is a common thing. . .\u00a0"
+        },
+        {
+            "original": "  Ha?  ",
+            "translated": "What?"
+        },
+        {
+            "original": "  To have a foolish wife.  ",
+            "translated": ". . . to have a foolish wife."
+        },
+        {
+            "original": "  Oh, is that all? What will you give me now For the same handkerchief?  ",
+            "translated": "Oh, is that it? What will you give me now for the handkerchief itself?"
+        },
+        {
+            "original": "  What handkerchief?  ",
+            "translated": "What handkerchief?"
+        },
+        {
+            "original": "  What handkerchief?Why, that the Moor first gave to Desdemona,That which so often you did bid me steal.  ",
+            "translated": "What handkerchief? The one the Moor first gave to Desdemona, the one you so often asked me to steal."
+        },
+        {
+            "original": "  Hast stolen it from her?  ",
+            "translated": "You've stolen it from her?"
+        },
+        {
+            "original": "  No, but she let it drop by negligenceAnd, to th' advantage, I being here, took t up.Look, here it is.  ",
+            "translated": "No, she let it drop carelessly. And, since I happened to be here, I took the opportunity to pick it up. Look, here it is."
+        },
+        {
+            "original": "  A good wench, give it me.  ",
+            "translated": "That's a good girl, give it to me."
+        },
+        {
+            "original": "  What will you do with t, that you have been so earnestTo have me filch it?  ",
+            "translated": "What will you do with it? Why have you been so eager for me to steal it?"
+        },
+        {
+            "original": "  Why, what is that to you?  ",
+            "translated": "Why do you care?"
+        },
+        {
+            "original": "  If it be not for some purpose of import,Give t me again. Poor lady, shell run madWhen she shall lack it.  ",
+            "translated": "If you don't have an important purpose for it, then give it back to me. Poor Desdemona, she'll be so upset when she realizes it's missing."
+        },
+        {
+            "original": "  Be not acknown on t,I have use for it. Go, leave me.  ",
+            "translated": "Don't tell her what happened to it. I have a use for it. Go on, leave me alone."
+        },
+        {
+            "original": "   I will in Cassios lodging lose this napkin    And let him find it. Trifles light as air    Are to the jealous confirmations strong    As proofs of holy writ.   This may do something.    The Moor already changes with my poison.    Dangerous conceits are in their natures poisons    Which at the first are scarce found to distaste,    But with a little act upon the blood    Burn like the mines of sulfur.   ",
+            "translated": "I will leave this handkerchief in Cassio's room, and let him find it there. Unimportant, trifling matters count as strong evidence to the jealous. This may have significant consequences. The Moor is already being changed by my poisonous advice. Dangerous suspicion are like poisons that don't even taste very bad at first, but slowly act on the blood and burn the insides before long like unquenchable sulfur."
+        },
+        {
+            "original": "   I did say so.    Look, where he comes. Not poppy nor mandragora    Nor all the drowsy syrups of the world,    Shall ever medicine thee to that sweet sleep    Which thou owedst yesterday.   ",
+            "translated": "Just as I said. Look, here he comes. No exotic plant or herb, nor any sleeping medicine in the world, will return to you that sweet restful sleep you enjoyed just yesterday."
+        },
+        {
+            "original": "  Ha! Ha! False to me?  ",
+            "translated": "Ha! Ha! Desdemona, unfaithful to me?"
+        },
+        {
+            "original": "  Why, how now, general? No more of that.  ",
+            "translated": "Why, what is going on, General? Don't talk like that."
+        },
+        {
+            "original": "  Avaunt! Be gone! Thou hast set me on the rack.I swear tis better to be much abusedThan but to know t a little.  ",
+            "translated": "Away! Get away from me! You have tortured me. I swear it's better to be horribly betrayed and not realize it than to know a bit about it."
+        },
+        {
+            "original": "  How now, my lord!  ",
+            "translated": "What is going on, my lord?\u00a0"
+        },
+        {
+            "original": "   What sense had I in her stol'n hours of lust?    I saw t not, thought it not, it harmed not me.    I slept the next night well, fed well, was free and merry.    I found not Cassios kisses on her lips.    He that is robbed, not wanting what is stol'n,    Let him not knowt, and hes not robbed at all.   ",
+            "translated": "Was I completely senseless during the hours she was cheating on me? I didn't see anything, and I didn't suspect anything. So, it didn't do me any harm. I slept well after, ate well, and was happy and carefree. I didn't see Cassio's kisses on her lips. If a man is ever robbed but doesn't realize what has been stolen, let him not know he's been robbed. And then it's as if the robbery never happened."
+        },
+        {
+            "original": "  I am sorry to hear this.  ",
+            "translated": "I am sorry to hear this."
+        },
+        {
+            "original": "   I had been happy if the general camp,    Pioneers and all, had tasted her sweet body,    So I had nothing known. Oh, now forever    Farewell the tranquil mind! Farewell content!    Farewell the plum\u00e8d troops and the big wars    That makes ambition virtue! Oh, farewell!    Farewell the neighing steed and the shrill trump,    The spirit-stirring drum, th' ear-piercing fife,    The royal banner, and all quality,    Pride, pomp, and circumstance of glorious war!    And O you mortal engines, whose rude throats    The immortal Joves dead clamors counterfeit,    Farewell! Othellos occupations gone.   ",
+            "translated": "I would have been happy if the whole camp of soldiers, trench-diggers and all, had tasted her sweet body, if only I didn't know about it. Oh, now I can say farewell to a peaceful mind! Farewell to being content! Farewell to the soldiers in uniform and the big wars that allow me to fulfill my ambitions! Oh, farewell! Farewell the neighing horses and the shrill war trumpets, the war drums that stir the spirit, the ear-piercing flute, the royal banners, pride, the pomp and circumstance, and everything else that's good about war! And you deadly cannons, whose rude blasts are as loud as Jove's thunderbolts, farewell! Othello's military career is finished."
+        },
+        {
+            "original": "  Is t possible, my lord?  ",
+            "translated": "Can this be possible, my lord?"
+        },
+        {
+            "original": "   Villain, be sure thou prove my love a whore,    Be sure of it.   Give me the ocular proof    Or by the worth of mine eternal soul    Thou hadst been better have been born a dog    Than answer my waked wrath!   ",
+            "translated": "Villain, you'd better be sure that my wife turns out to be a whore. You'd better be sure of it. Give me proof that I can see with my own eyes, or I swear on my soul that you'll wish you had been born a dog rather than have to answer to my anger."
+        },
+        {
+            "original": "  Is t come to this?  ",
+            "translated": "Has it come to this?"
+        },
+        {
+            "original": "  Make me to see t, or at the least so prove it That the probation bear no hinge nor loopTo hang a doubt on, or woe upon thy life!  ",
+            "translated": "Give me evidence, or at least prove it beyond an ounce of doubtor else you'll regret it!"
+        },
+        {
+            "original": "  My noble lord  ",
+            "translated": "My noble lord"
+        },
+        {
+            "original": "   If thou dost slander her and torture me,    Never pray more. Abandon all remorse.    On horrors head horrors accumulate,    Do deeds to make heaven weep, all earth amazed,    For nothing canst thou to damnation add    Greater than that.   ",
+            "translated": "If you are going to slander Desdemona and torture me, you can give up on praying, and showing any remorse, because it won't help you. Go ahead and pile more sins on top of the ones you've already committed, do things so horrible they'll make heaven cry and astound everyone on earth. For nothing you could do would add more to your damnation than if you should slander Desdemona more."
+        },
+        {
+            "original": "   Oh, grace! Oh, heaven forgive me!    Are you a man? Have you a soul or sense?    God buy you, take mine office. O wretched fool    That lovst to make thine honesty a vice!    O monstrous world! Take note, take note, O world,    To be direct and honest is not safe.    I thank you for this profit, and from hence    Ill love no friend, sith love breeds such offence.   ",
+            "translated": "Oh, grace! Oh, heaven forgive me! Are you human? Do you have any sense, or a soul? Goodbye, I resign as flag-bearer. Oh what a fool I am for being honest to a fault! Oh this monstrous world! Take note, take note, everyone: it is not safe to be direct and honest. Thank you for teaching me this lesson. From here on out, I'll love no friend, since showing love for your friends causes such hate."
+        },
+        {
+            "original": "  Nay, stay. Thou shouldst be honest.  ",
+            "translated": "No, stay. You should be honest.\u00a0"
+        },
+        {
+            "original": "  I should be wise, for honestys a foolAnd loses that it works for.  ",
+            "translated": "I should be wise, because being honest is foolish and causes someone to lose all that he works for."
+        },
+        {
+            "original": "   By the world,    I think my wife be honest and think she is not.    I think that thou art just and think thou art not.    Ill have some proof.   Her name, that was as fresh    As Dians visage, is now begrimed and black    As mine own face. If there be cords or knives,    Poison, or fire, or suffocating streams,    Ill not endure it. Would I were satisfied!   ",
+            "translated": "By the world, part of me thinks my wife is honest, and another part of me thinks she isn't. Part of me thinks you're trustworthy, and another part of me thinks you're not. I need some proof. Her reputation, which was as pure and fair as Diana's,\u00a0is now besmirched and black as my face. If I can find any ropes, knives, poison, fire, or streams you can drown in, I won't endure this dishonor. If only I could be satisfied in this!"
+        },
+        {
+            "original": "  I see, sir, you are eaten up with passion.I do repent me that I put it to you.You would be satisfied?  ",
+            "translated": "I see, sir, that passion is eating away at you. I regret that I told you about this. You say that you wish you could be satisfied?"
+        },
+        {
+            "original": "  Would? Nay, and I will.  ",
+            "translated": "Yes, and I will be."
+        },
+        {
+            "original": "  And may, but how? How satisfied, my lord? Would you, the supervisor, grossly gape on,Behold her topped?  ",
+            "translated": "But how? How will you be satisfied, my lord? Would you, like a voyeur, inappropriately watch and look on as she is having sex?"
+        },
+        {
+            "original": "  Death and damnation! Oh!  ",
+            "translated": "Death and damnation! Oh!"
+        },
+        {
+            "original": "   It were a tedious difficulty, I think,    To bring them to that prospect. Damn them then,    If ever mortal eyes do see them bolster    More than their own! What then? How then?    What shall I say? Wheres satisfaction?    It is impossible you should see this,    Were they as prime as goats, as hot as monkeys,    As salt as wolves in pride, and fools as gross    As ignorance made drunk.   But yet, I say,    If imputation and strong circumstances    Which lead directly to the door of truth    Will give you satisfaction, you may have t.   ",
+            "translated": "It would be very difficult, I think, to arrange it so you could watch the two of them sleep together. They'd be damned if anyone else saw them having sex. So, what now? What should we do? What should I say? How could you be satisfied that you know the truth? It is impossible that you should see them in the act, even if they were frisky as goats, monkeys, or wolves in heat, as lustful as drunk idiots. But nonetheless, I tell you, if you would be satisfied to find strong circumstantial evidence pointing to the truth, you could then find such satisfaction."
+        },
+        {
+            "original": "  Give me a living reason shes disloyal.  ",
+            "translated": "Give me some proof that Desdemona is disloyal."
+        },
+        {
+            "original": "   I do not like the office.    But, sith I am entered in this cause so far,    Pricked to t by foolish honesty and love,    I will go on.   I lay with Cassio lately    And, being troubled with a raging tooth,    I could not sleep. There are a kind of men    So loose of soul that in their sleeps will mutter    Their affairs.   One of this kind is Cassio.    In sleep I heard him say Sweet Desdemona,    Let us be wary, let us hide our loves.    And then, sir, would he gripe and wring my hand,    Cry O sweet creature! and then kiss me hard,    As if he plucked up kisses by the roots    That grew upon my lips,   lay his leg    Over my thigh, and sigh, and kiss, and then    Cry Cursed fate that gave thee to the Moor!   ",
+            "translated": "I don't like this task. But since I'm already so deeply involved in this, thanks to foolish honesty and concern for you, I will go on. I was recently spending the night in Cassio's bedroom and couldn't sleep because of a raging toothache. Now, some men have such a loose soul that they mutter things in their sleep. Cassio is one of them. I heard him say in his sleep, \"Sweet Desdemona, let's be careful and hide our love.\" And then, sir, he clutched and grabbed my hand, crying \"Oh sweet woman!\" and he kissed me hard as if with his kisses he was trying to pull up some plant by the roots that was growing on my lips. He laid his leg over my thigh and sighed, and kissed, and then cried out, \"Curse fate for giving you to the Moor!\"\u00a0"
+        },
+        {
+            "original": "  Oh, monstrous! Monstrous!  ",
+            "translated": "Oh, this is terrible! Terrible!"
+        },
+        {
+            "original": "  Nay, this was but his dream.  ",
+            "translated": "But this was only his dream."
+        },
+        {
+            "original": "  But this denoted a foregone conclusion.  ",
+            "translated": "But his actions suggests something he had already done."
+        },
+        {
+            "original": "  'Tis a shrewd doubt, though it be but a dream. And this may help to thicken other proofsThat do demonstrate thinly.  ",
+            "translated": "It's very suspicious, even though it's only a dream. And this may support and strengthen other, shakier evidence."
+        },
+        {
+            "original": "  Ill tear her all to pieces!  ",
+            "translated": "I'll tear Desdemona to pieces!"
+        },
+        {
+            "original": "   Nay, yet be wise, yet we see nothing done,    She may be honest yet.   Tell me but this,    Have you not sometimes seen a handkerchief    Spotted with strawberries in your wifes hand?   ",
+            "translated": "No, be smart. We still haven't seen anything actually happen. She may still turn out to be honest. Just tell me this: have you occasionally seen a handkerchief decorated with strawberries in your wife's hand?\u00a0"
+        },
+        {
+            "original": "  I gave her such a one, twas my first gift.  ",
+            "translated": "I gave her such a handkerchief. It was my first gift to her."
+        },
+        {
+            "original": "  I know not that, but such a handkerchiefI am sure it was your wifesdid I todaySee Cassio wipe his beard with.  ",
+            "translated": "I didn't know that, but I saw Cassio use such a handkerchiefI'm sure it was your wife'sto wipe his beard earlier today."
+        },
+        {
+            "original": "  If it be that  ",
+            "translated": "If it really was that handkerchief"
+        },
+        {
+            "original": "  If it be that, or any that was hers,It speaks against her with the other proofs.  ",
+            "translated": "If it's the same one, or any handkerchief of Desdemona's, it is another piece of evidence weighing against her."
+        },
+        {
+            "original": "   Oh, that the slave had forty thousand lives!    One is too poor, too weak for my revenge.    Now do I see tis true.   Look here, Iago,    All my fond love thus do I blow to heaven'tis gone.    Arise, black vengeance, from the hollow hell!    Yield up, O love, thy crown and hearted throne    To tyrannous hate! Swell, bosom, with thy fraught,    For tis of aspics' tongues!   ",
+            "translated": "Oh, if only that wretch Cassio had forty thousand lives, so I could kill him all those times! Once isn't enough for my revenge. Now I see that my suspicions are true. Look, Iago, I let go of all my fond love; it's all gone. Black vengeance, come to me from the depths of hell! Oh love, give way to cruel hate! May my chest swell up with hate, as deadly as the venom of poisonous snakes!"
+        },
+        {
+            "original": "  Yet be content.  ",
+            "translated": "Calm down, now."
+        },
+        {
+            "original": "  Oh, blood, blood, blood!  ",
+            "translated": "Oh, blood, blood, blood!\u00a0"
+        },
+        {
+            "original": "  Patience, I say. Your mind may change.  ",
+            "translated": "Be patient, I'm telling you. You might change your mind."
+        },
+        {
+            "original": "   Never, Iago. Like to the Pontic sea,    Whose icy current and compulsive course    Ne'er keeps retiring ebb but keeps due on    To the Propontic and the Hellespont,    Even so my bloody thoughts with violent pace    Shall ne'er look back, ne'er ebb to humble love    Till that a capable and wide revenge    Swallow them up.   Now, by yon marble heaven,    In the due reverence of a sacred vow    I here engage my words.    (he kneels)    ",
+            "translated": "I'll never change my mind, Iago. Just like how the Black Sea never ebbs back but keeps flowing on with its icy waters through the Propontic sea and onward to the Hellespont, so my bloody thoughts only move forward with a violent current and never look back. My anger is like a tide and if it ever recedes back to love it is swallowed up again by a huge wave of revenge. Now, by heaven, with all the reverence of a sacred oath, I here make a vow. [He kneels down]"
+        },
+        {
+            "original": "   Do not rise yet.    Witness, you ever-burning lights above,    You elements that clip us round about,    Witness that here Iago doth give up    The execution of his wit, hands, heart,    To wronged Othellos service.   Let him command,    And to obey shall be in me remorse,    What bloody business ever.   ",
+            "translated": "Don't get up yet. [He kneels down as well]\u00a0May the stars in the sky, and the sky itself be my witnesses: Iago hereby dedicates all of his wit, strength, and heart to helping Othello, who has been wronged. Whatever he commands, I will obey, whatever bloody task he gives me."
+        },
+        {
+            "original": "   I greet thy love    Not with vain thanks but with acceptance bounteous,    And will upon the instant put thee to t.    Within these three days let me hear thee say    That Cassios not alive.   ",
+            "translated": "Rather than just giving you empty thanks for your vow, I will take up your generous offer and give you an order right now. Within three days, let me hear you say that Cassio is dead."
+        },
+        {
+            "original": "  My friend is dead,'Tis done at your request. But let her live.  ",
+            "translated": "Your wish is my command. My friend Cassio will die. But let Desdemona live."
+        },
+        {
+            "original": "   Damn her, lewd minx! Oh, damn her, damn her!    Come, go with me apart.   I will withdraw    To furnish me with some swift means of death    For the fair devil. Now art thou my lieutenant.   ",
+            "translated": "Damn her, that lusty flirt! Oh damn her, damn her! Come on, come leave with me. I will go to figure out some quick way to kill the beautiful devil. Now you are my lieutenant."
+        },
+        {
+            "original": "  I am your own for ever.  ",
+            "translated": "I am loyal to you forever."
+        }
+    ]
+}

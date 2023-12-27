@@ -1,0 +1,136 @@
+{
+    "dialogs": [
+        {
+            "original": "  On Thursday, sir? The time is very short.  ",
+            "translated": "On Thursday, sir? Thats extremely soon."
+        },
+        {
+            "original": "  My father Capulet will have it so,And I am nothing slow to slack his haste.  ",
+            "translated": "My father-in-law Capulet wants it that way, and Im not at all interested in slowing him down."
+        },
+        {
+            "original": "  You say you do not know the ladys mind. Uneven is the course. I like it not.  ",
+            "translated": "You say you dont know what Juliet wants. Thats a treacherous road. I dont like it."
+        },
+        {
+            "original": "   Immoderately she weeps for Tybalts death,    And therefore have I little talked of love,    For Venus smiles not in a house of tears.    Now, sir, her father counts it dangerous    That she do give her sorrow so much sway,    And in his wisdom hastes our marriage    To stop the inundation of her tears    Which, too much minded by herself alone,    May be put from her by society.    Now do you know the reason of this haste.   ",
+            "translated": "Shes grieving too much over Tybalts death, so I havent talked to her about love. Romantic love cant flourish during times of mourning. Now, sir, her father thinks its dangerous that she has given herself so fully to sorrow. In his wisdom, hes rushing our marriage in order to stop her tears. She is alone all the time and thinking too much about her grief. Some company might help her to stop crying. Now you know the reason for this hurry to the wedding."
+        },
+        {
+            "original": "   [Aside]  I would I knew not why it should be slowed.Look, sir, here comes the lady toward my cell.  ",
+            "translated": "[To himself] I wish I didnt know the reason why it should be slowed down.\u00a0"
+        },
+        {
+            "original": "  Happily met, my lady and my wife.  ",
+            "translated": "Im happy to see you, my lady and my wife."
+        },
+        {
+            "original": "  That may be, sir, when I may be a wife.  ",
+            "translated": "That might be, sir, when Im married."
+        },
+        {
+            "original": "  That may be must be, love, on Thursday next.  ",
+            "translated": "That may be will be, on Thursday, my love."
+        },
+        {
+            "original": "  What must be shall be.  ",
+            "translated": "What must be will be."
+        },
+        {
+            "original": "  Thats a certain text.  ",
+            "translated": "Thats a certain truth."
+        },
+        {
+            "original": "  Come you to make confession to this Father?  ",
+            "translated": "Have you come to make confession to Father Lawrence?"
+        },
+        {
+            "original": "  To answer that, I should confess to you.  ",
+            "translated": "If I answered that, Id be confessing to you."
+        },
+        {
+            "original": "  Do not deny to him that you love me.  ",
+            "translated": "Dont deny to him that you love me."
+        },
+        {
+            "original": "  I will confess to you that I love him.  ",
+            "translated": "Ill confess to you that I love him."
+        },
+        {
+            "original": "  So will ye, I am sure, that you love me.  ",
+            "translated": "I'm sure you will also confess that you love me."
+        },
+        {
+            "original": "  If I do so, it will be of more priceBeing spoke behind your back than to your face.  ",
+            "translated": "If I do so, it will be worth more if I say it behind your back than if I say it to your face."
+        },
+        {
+            "original": "  Poor soul, thy face is much abused with tears.  ",
+            "translated": "Poor dear, your face has been abused by so many tears."
+        },
+        {
+            "original": "  The tears have got small victory by that,For it was bad enough before their spite.  ",
+            "translated": "The tears havent won much, since my face wasnt all that nice before I started to cry."
+        },
+        {
+            "original": "  Thou wrongst it more than tears with that report.  ",
+            "translated": "Now youre abusing your face to say something untrue about it like that."
+        },
+        {
+            "original": "  That is no slander, sir, which is a truth, And what I spake, I spake it to my face.  ",
+            "translated": "It is no lie, sir. Its the truth. And what I said, I said to my face."
+        },
+        {
+            "original": "  Thy face is mine, and thou hast slandered it.  ",
+            "translated": "Your face is mine, and you have slandered it."
+        },
+        {
+            "original": "  It may be so, for it is not mine own.Are you at leisure, holy Father, now,Or shall I come to you at evening mass?  ",
+            "translated": "That may be true, since my face is not my own.\u00a0"
+        },
+        {
+            "original": "  My leisure serves me, pensive daughter, now.My lord, we must entreat the time alone.  ",
+            "translated": "I have time now, my sad daughter.\u00a0"
+        },
+        {
+            "original": "  God shield I should disturb devotion!Juliet, on Thursday early will I rouse ye.  [Kisses her]  Till then, adieu, and keep this holy kiss.  ",
+            "translated": "God forbid that I should intrude on confession! Juliet, I will wake you early on Thursday. [Kissing her] Until then, goodbye, and keep this holy kiss."
+        },
+        {
+            "original": "  O, shut the door! And when thou hast done so,Come weep with me, past hope, past cure, past help.  ",
+            "translated": "Oh, shut the door! And when youve done that, come weep with me. My situation is beyond hope, beyond cure, beyond help!"
+        },
+        {
+            "original": "   O Juliet, I already know thy grief.    It strains me past the compass of my wits.    I hear thou must, and nothing may prorogue it,    On Thursday next be married to this county.   ",
+            "translated": "Oh, Juliet, I already know why youre so sad. Its too difficult a problem for me to know how to solve. Ive heard that on the coming Thursday you must marry this count, and nothing can delay it."
+        },
+        {
+            "original": "   Tell me not, Friar, that thou hearst of this,    Unless thou tell me how I may prevent it.    If in thy wisdom thou canst give no help,    Do thou but call my resolution wise,    And with this knife Ill help it presently.    [Shows him a knife]    God joined my heart and Romeos, thou our hands.    And ere this hand, by thee to Romeo sealed,    Shall be the label to another deed,    Or my true heart with treacherous revolt    Turn to another, this shall slay them both.    Therefore out of thy long-experienced time,    Give me some present counsel, or, behold,    Twixt my extremes and me this bloody knife    Shall play the umpire, arbitrating that    Which the commission of thy years and art    Could to no issue of true honor bring.    Be not so long to speak. I long to die    If what thou speakst speak not of remedy.   ",
+            "translated": "Friar, don't tell me that youve heard all this unless you can tell me how I can prevent it. If with all your wisdom even you cant help, then you must agree that my resolution to die is wise. And this knife will help me do it. [Revealing a knife] God joined my heart to Romeos, and you joined our hands. Before my hand or heartwhich are bound to Romeoare given to another man, Ill use this knife to kill myself. So either use your long experience and education to give me some advice about what to do, or watch as I use this knife like a judge to honorably resolve the extreme situation in which Im caught. Dont wait long to speak. I want to die if what you say isnt a solution."
+        },
+        {
+            "original": "   Hold, daughter. I do spy a kind of hope,    Which craves as desperate an execution    As that is desperate which we would prevent.    If, rather than to marry County Paris,    Thou hast the strength of will to slay thyself,    Then is it likely thou wilt undertake    A thing like death to chide away this shame,    That copest with death himself to scape from it.    An if thou darest, Ill give thee remedy.   ",
+            "translated": "Wait, daughter. I see a ray of hope. But it will require an act as desperate as the situation we want to avoid. If you have the willpower to kill yourself rather than marry Count Paris, then youll likely agree to experience something like death to escape this problem. You can wrestle with death itself in order to escape from death. If you dare to do it, Ill give you the solution."
+        },
+        {
+            "original": "   O, bid me leap, rather than marry Paris,    From off the battlements of yonder tower;    Or walk in thievish ways; or bid me lurk    Where serpents are; chain me with roaring bears;    Or shut me nightly in a charnel house,    Oercovered quite with dead mens rattling bones,    With reeky shanks and yellow chapless skulls;    Or bid me go into a new-made grave    And hide me with a dead man in his shroud    Things that, to hear them told, have made me tremble    And I will do it without fear or doubt,    To live an unstained wife to my sweet love.   ",
+            "translated": "To avoid marrying Paris Id jump from the top of a tower; or walk down thief-infested alleys; or sit among a nest of serpents; or be chained up with wild bears; or be shut up every night in a crypt full of rattling bones, stinking flesh, and skulls without jawbones; or climb into a freshly dug grave and hide beneath the shroud of a dead man. All those things make me tremble when I hear them said, but Ill do them without fear or dread in order to be a pure wife to my sweet love."
+        },
+        {
+            "original": "   Hold, then. Go home, be merry. Give consent    To marry Paris. Wednesday is tomorrow.    Tomorrow night look that thou lie alone.    Let not the Nurse lie with thee in thy chamber.    [Shows her a vial]    Take thou this vial, being then in bed,    And this distill\u00e8d liquor drink thou off,    When presently through all thy veins shall run    A cold and drowsy humor, for no pulse    Shall keep his native progress, but surcease.    No warmth, no breath shall testify thou livest.    The roses in thy lips and cheeks shall fade    To wanny ashes, thy eyes windows fall    Like death when he shuts up the day of life.    Each part, deprived of supple government,    Shall, stiff and stark and cold, appear like death.    And in this borrowed likeness of shrunk death    Thou shalt continue two and forty hours,    And then awake as from a pleasant sleep.    Now, when the bridegroom in the morning comes    To rouse thee from thy bed, there art thou dead.    Then, as the manner of our country is,    In thy best robes uncovered on the bier    Thou shalt be borne to that same ancient vault    Where all the kindred of the Capulets lie.    In the meantime, against thou shalt awake,    Shall Romeo by my letters know our drift,    And hither shall he come, and he and I    Will watch thy waking, and that very night    Shall Romeo bear thee hence to Mantua.    And this shall free thee from this present shame,    If no inconstant toy, nor womanish fear,    Abate thy valor in the acting it.   ",
+            "translated": "Be strong, then. Go home, be cheerful, and agree to marry Paris. Tomorrow is Wednesday. Tomorrow night make sure that you go to sleep alone. Dont let the Nurse sleep in your bedroom. [Showing her a vial] Drink this liquor when youre in bed. A cold, sleepy feeling will then run through your veins, and your pulse will cease. Your body will go cold, and youll stop breathing. The red of your lips and cheeks will fade to a pale ashen color, and your eyelids will close just as if you were dead. Your body will lose control over its own movement, and will become stiff as that of a corpse. Youll remain in this simulation of death for forty-two hours, and then youll wake as if from a pleasant sleep. So when the bridegroom comes to wake you from your bed in the morning, he will think that you are dead. Then, as is the tradition of our city, youll be dressed in your best clothes and placed on an uncovered funeral bier, and carried to the Capulet tomb that holds all of your dead relatives. Meanwhile, before you wake up, Ill send word to Romeo of our plan. Hell come here, and well keep a watch over you as you wake. That night, Romeo will take you with him to Mantua. So, as long as you dont change your mind or let your womanly fear interfere with your courage, youll be free from the current situation which threatens to force you into sin. "
+        },
+        {
+            "original": "  Give me, give me! O, tell not me of fear!  ",
+            "translated": "Give it to me! Dont talk to me about fear."
+        },
+        {
+            "original": "   [Gives her the vial]   Hold. Get you gone. Be strong and prosperousIn this resolve. Ill send a friar with speedTo Mantua with my letters to thy lord.  ",
+            "translated": "[Giving her the vial] Now go. Be strong and good luck. Ill send a friar speeding to Mantua with my letter to Romeo."
+        },
+        {
+            "original": "  Love give me strength, and strength shall help afford. Farewell, dear father.  ",
+            "translated": "Love, give me strength, and that strength will help me. Goodbye, dear father.\n"
+        }
+    ]
+}

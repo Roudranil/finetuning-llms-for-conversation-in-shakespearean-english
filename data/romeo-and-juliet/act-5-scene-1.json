@@ -1,0 +1,72 @@
+{
+    "dialogs": [
+        {
+            "original": "   News from Verona!How now, Balthasar?    Dost thou not bring me letters from the friar?    How doth my lady? Is my father well?    How fares my Juliet? That I ask again,    For nothing can be ill if she be well.   ",
+            "translated": "News from Verona! How are you, Balthasar? Have you brought me a letter from the friar? How is my wife? Is my father well? How is my Juliet? I ask that again because nothing can be bad if she is well."
+        },
+        {
+            "original": "   Then she is well, and nothing can be ill.    Her body sleeps in Capels monument,    And her immortal part with angels lives.    I saw her laid low in her kindreds vault    And presently took post to tell it you.    O, pardon me for bringing these ill news,    Since you did leave it for my office, sir.   ",
+            "translated": "Then she is well, and nothing is bad. Her body sleeps in the Capulet crypt, and her immortal soul lives with the angels. I saw her buried in her familys tomb, and rushed here to tell you the news. Oh, pardon me for bringing this bad news, but you told me it was my duty to do so, sir."
+        },
+        {
+            "original": "  Is it een so? Then I defy you, stars! Thou knowst my lodging. Get me ink and paper,And hire post horses. I will hence tonight.  ",
+            "translated": "Is it true? Then I defy you, fate! [To BALTHASAR] You know where Im staying. Go there and get me some ink and paper, and hire some horses. I will leave here tonight."
+        },
+        {
+            "original": "  I do beseech you, sir, have patience.Your looks are pale and wild, and do importSome misadventure.  ",
+            "translated": "I beg you, sir, have patience. You look pale and wild, as if youre about to do something reckless."
+        },
+        {
+            "original": "  Tush, thou art deceived.Leave me and do the thing I bid thee do.Hast thou no letters to me from the friar?  ",
+            "translated": "Come now, youre being silly. Leave me and do what I told you to do. Do you really not have a letter for me from the friar?"
+        },
+        {
+            "original": "  No, my good lord.  ",
+            "translated": "No, my good lord."
+        },
+        {
+            "original": "  No matter. Get thee gone, And hire those horses. Ill be with thee straight.  ",
+            "translated": "No matter. Get going, and hire those horses. Ill be with you soon."
+        },
+        {
+            "original": "   Well, Juliet, I will lie with thee tonight.    Lets see for means. O mischief, thou art swift    To enter in the thoughts of desperate men!    I do remember an apothecary    And hereabouts he dwellswhich late I noted    In tattered weeds, with overwhelming brows,    Culling of simples.   Meager were his looks,    Sharp misery had worn him to the bones,    And in his needy shop a tortoise hung,    An alligator stuffed, and other skins    Of ill-shaped fishes;   and about his shelves    A beggarly account of empty boxes,    Green earthen pots, bladders and musty seeds,    Remnants of packthread and old cakes of roses,    Were thinly scattered to make up a show.    Noting this penury, to myself I said,    An if a man did need a poison now    Whose sale is present death in Mantua    Here lives a caitiff wretch would sell it him.    Oh, this same thought did but forerun my need,    And this same needy man must sell it me.    As I remember, this should be the house.    Being holiday, the beggars shop is shut.    What, ho! Apothecary!   ",
+            "translated": "Well, Juliet, Ill lie with you tonight. Let me think how. Evil acts are quick to enter the thoughts of desperate men! I remember a pharmacist who lives around here, and who I recently noted wears tattered clothes and has jutting brows. He knows his medicinal herbs. He looks poor, as if misery had worn him to the bone. A tortoise shell hung in his shabby shop, along with a stuffed alligator and the skins of odd-shaped fish. A few empty boxes sat on his shelves, as well as green clay pots, empty water skins, and some musty seeds. Old strands of string and rose petals pressed into cakes were displayed all scattered around. Seeing his poverty, I said to myself, If a man needed some poisonwhich is punishable by immediate death to sell in Mantuahere is a miserable wretch whod sell it to him. Oh, this idea came before I even knew I needed the poison. But this is the poor man who will sell it to me. As I remember, this is the house. Since todays a holiday, the beggars shop is shut. Hey! Pharmacist!"
+        },
+        {
+            "original": "  Who calls so loud?  ",
+            "translated": "Whos that calling so loudly?"
+        },
+        {
+            "original": "   Come hither, man. I see that thou art poor.    Hold, there is forty ducats. Let me have    A dram of poison,   such soon-speeding gear    As will disperse itself through all the veins    That the life-weary taker may fall dead,    And that the trunk may be discharged of breath    As violently as hasty powder fired    Doth hurry from the fatal cannons womb.   ",
+            "translated": "Come here, man. I see that you are poor. Heres forty gold coins. Let me have a bit of poison, something that spreads so fast through the veins that the tired-out person who takes it will lose the breath of life as quickly as gunpowder explodes from the inside of a cannon."
+        },
+        {
+            "original": "  Such mortal drugs I have, but Mantuas lawIs death to any he that utters them.  ",
+            "translated": "I have such deadly poisons. But those who sell poison receive the death penalty in Mantua."
+        },
+        {
+            "original": "   Art thou so bare and full of wretchedness,    And fearst to die? Famine is in thy cheeks.    Need and oppression starveth in thine eyes.    Contempt and beggary hangs upon thy back.    The world is not thy friend nor the worlds law.    The world affords no law to make thee rich.    Then be not poor, but break it, and take this.    [Holds out money]   ",
+            "translated": "How can you be so poor and wretched and still be afraid to die? Your cheeks are thin from hunger. Starvation and oppression are visible in your eyes. Your poverty, and the contempt of others for your situation, is like a monkey on your back. The world is not your friend, and neither are the worlds laws. The world doesnt provide a law that will make you rich. So dont be poor. Break the law, and take this money. [He holds out money]"
+        },
+        {
+            "original": "  My poverty, but not my will, consents.  ",
+            "translated": "It is my poverty, not my morals, that forces me to agree."
+        },
+        {
+            "original": "  I pay thy poverty and not thy will.  ",
+            "translated": "I'm paying your poverty, not your morals, then."
+        },
+        {
+            "original": "   [Gives ROMEO poison]  Put this in any liquid thing youwillAnd drink it off; and, if you had the strengthOf twenty men, it would dispatch you straight.  ",
+            "translated": "[He gives ROMEO poison] Put this in any kind of liquid you want, and drink it. Even if you had the strength of twenty men, it would kill you quickly."
+        },
+        {
+            "original": "   [Giving money]   There is they goldworse poison to men'ssouls,    Doing more murder in this loathsome world,    Than these poor compounds that thou mayst not sell.    I sell thee poison; thou hast sold me none.    Farewell, buy food, and get thyself in flesh.   ",
+            "translated": "[Giving money to the APOTHECARY] There is your gold. Money is a worse poison to men's souls, and commits more murders in this awful world than these poor medicines you aren't permitted to sell. I'm selling you\u00a0poison; you haven't sold me any. Goodbye. Buy yourself some food, and put on some weight."
+        },
+        {
+            "original": "  Come, cordial and not poison, go with meTo Juliet's grave, for there must I use thee.  ",
+            "translated": "Come with me, medicineyou're no poison. We'll go to Juliet's grave, where I must use you."
+        }
+    ]
+}

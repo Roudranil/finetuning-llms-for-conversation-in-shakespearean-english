@@ -1,0 +1,384 @@
+{
+    "dialogs": [
+        {
+            "original": "  Gregory, on my word, well not carry coals.  ",
+            "translated": "Gregory, I swear we wont put up with their crap."
+        },
+        {
+            "original": "  No, for then we should be colliers.  ",
+            "translated": "No, because then wed be waste removers."
+        },
+        {
+            "original": "  I mean, an we be in choler, well draw.  ",
+            "translated": "I mean, if they make us angry, well draw our swords."
+        },
+        {
+            "original": "  Ay, while you live, draw your neck out of collar.  ",
+            "translated": "Yes, you should spend your life trying to get yourself out of any trouble that might lead to the hangmans collar."
+        },
+        {
+            "original": "  I strike quickly, being moved.  ",
+            "translated": "I hit hard, when Im motivated."
+        },
+        {
+            "original": "  But thou art not quickly moved to strike.  ",
+            "translated": "But you avoid getting motivated, so you dont ever have to hit."
+        },
+        {
+            "original": "  A dog of the house of Montague moves me.  ",
+            "translated": "One of those Montague scoundrels would motivate me."
+        },
+        {
+            "original": "  To move is to stir, and to be valiant is to stand. Therefore if thou art moved thou runnst away.  ",
+            "translated": "To be motivated is to act, while to be valiant is to face a fight. When youre motivated, you just run away."
+        },
+        {
+            "original": "  A dog of that house shall move me to stand. I will takethe wall of any man or maid of Montagues.  ",
+            "translated": "If I saw a Montague rascal, Id face him. Id walk on the side of the street closer to the wall, and so force the Montague into the gutter."
+        },
+        {
+            "original": "  That shows thee a weak slave, for the weakest goes to the wall.  ",
+            "translated": "Then you must be a weakling, because its the weak one who gets shoved up against a wall."
+        },
+        {
+            "original": "  Tis true, and therefore women, being the weaker vessels, are ever thrust to the wall. Therefore I will push Montagues men from the wall, and thrust his maids to the wall.  ",
+            "translated": "Thats true, which is why women, being the weaker sex, get thrust up against the wall. So Ill push Montagues men into the gutter, and thrust Montague women against the wall. "
+        },
+        {
+            "original": "  The quarrel is between our masters and us their men.  ",
+            "translated": "The feud is between our masters and us, their servants."
+        },
+        {
+            "original": "  Tis all one. I will show myself a tyrant. When I have fought with the men, I will be civil with the maids. I will cut off their heads.  ",
+            "translated": "Its all the same. Ill be the Montagues master. After fighting with the men, Ill be nice to the maidsIll cut off their heads."
+        },
+        {
+            "original": "  The heads of the maids?  ",
+            "translated": "Youll cut off the heads of the maids?"
+        },
+        {
+            "original": "  Ay, the heads of the maids, or their maidenheads.Take it in what sense thou wilt.  ",
+            "translated": "The heads of the maids or their maidenheads. Interpret my comment in whichever sense you prefer."
+        },
+        {
+            "original": "  They must take it in sense that feel it.  ",
+            "translated": "Its the maids you rape or kill or who will have to sense it."
+        },
+        {
+            "original": "  Me they shall feel while I am able to stand, andtis known I am a pretty piece of flesh.  ",
+            "translated": "The maids will feel me as long as I can stand upright. Everyone knows Im a stud. "
+        },
+        {
+            "original": "  Tis well thou art not fish. If thou hadst, thou hadst been poor-john.Draw thy tool! Here comes of the house of Montagues.  ",
+            "translated": "Its a good thing youre not a fish, or else youd be dried and shriveled like salted hake. Draw your sword! Here come some Montague servants."
+        },
+        {
+            "original": "  My naked weapon is out. Quarrel! I will back thee.  ",
+            "translated": "Ive drawn my sword out of its sheath. Fight them! Ill back you up."
+        },
+        {
+            "original": "  How? Turn thy back and run?  ",
+            "translated": "How? By turning your back and running?"
+        },
+        {
+            "original": "  Fear me not.  ",
+            "translated": "Dont worry about me."
+        },
+        {
+            "original": "  No, marry. I fear thee.  ",
+            "translated": "No, indeed, I do worry about you."
+        },
+        {
+            "original": "  Let us take the law of our sides. Let them begin.  ",
+            "translated": "Lets make sure the law is on our side by getting them to start the fight."
+        },
+        {
+            "original": "  I will frown as I pass by, and let them take it as they list.  ",
+            "translated": "Ill frown at them as I pass by them. How they respond is up to them."
+        },
+        {
+            "original": "  Nay, as they dare. I will bite my thumb at them, which is a disgrace to them, if they bear it.  [He bites his thumb]   ",
+            "translated": "No, Ill bite my thumb at them. Thats an insult, and theyll be disgraced if they dont react. [He bites his thumb]"
+        },
+        {
+            "original": "  Do you bite your thumb at us, sir?  ",
+            "translated": "Are you biting your thumb at us, sir?"
+        },
+        {
+            "original": "  I do bite my thumb, sir.  ",
+            "translated": "I am biting my thumb."
+        },
+        {
+            "original": "  Do you bite your thumb at us, sir?  ",
+            "translated": "But are you biting your thumb at us, sir?"
+        },
+        {
+            "original": "   [Aside to GREGORY]   Is the law of our side if I say ay?  ",
+            "translated": "[To GREGORY so that only he can hear] Will the law be on our side if I say yes? "
+        },
+        {
+            "original": "   [Aside to SAMPSON]  No.  ",
+            "translated": "[To SAMPSON so that only he can hear] No."
+        },
+        {
+            "original": "  No, sir. I do not bite my thumb at you, sir, but I bitemy thumb, sir.  ",
+            "translated": "Im not biting my thumb at you, sir. But I am biting my thumb, sir."
+        },
+        {
+            "original": "  Do you quarrel, sir?  ",
+            "translated": "Do you want to fight us, sir?"
+        },
+        {
+            "original": "  Quarrel, sir? No, sir.  ",
+            "translated": "Fight, sir? No, sir."
+        },
+        {
+            "original": "  But if you do, sir, I am for you. I serve as good a manas you.  ",
+            "translated": "If you do want to fight, sir, then Im up for it. My master is as good as yours."
+        },
+        {
+            "original": "  No better.  ",
+            "translated": "But not better than mine."
+        },
+        {
+            "original": "  Well, sir.  ",
+            "translated": "Very well then, sir."
+        },
+        {
+            "original": "   [Aside to SAMPSON]  Say better. Here comes one of my masters kinsmen.  ",
+            "translated": "[To SAMPSON so that only he can hear] Say better. One of our masters kinsmen has just arrived."
+        },
+        {
+            "original": "   [To ABRAHAM]  Yes, better, sir.  ",
+            "translated": "[To ABRAHAM] Yes, my master is better than yours, sir."
+        },
+        {
+            "original": "  You lie.  ",
+            "translated": "Youre a liar."
+        },
+        {
+            "original": "  Draw, if you be men.Gregory, remember thy washing blow.  ",
+            "translated": "Draw your swords, if youre men. Gregory, get ready to slash them."
+        },
+        {
+            "original": "   [Draws his sword]  Part, fools!Put up your swords. You know not what you do.  ",
+            "translated": "[He takes out his sword] Break it up, fools! Sheathe your swords. You dont know what youre doing."
+        },
+        {
+            "original": "  What, art thou drawn among these heartless hinds?Turn thee, Benvolio. Look upon thy death.  ",
+            "translated": "What, have you drawn your sword to fight with servants? Turn around, Benvolio, and see the man who will kill you."
+        },
+        {
+            "original": "  I do but keep the peace. Put up thy sword,Or manage it to part these men with me.  ",
+            "translated": "Im just trying to keep the peace. Put away your sword, or else use it to help me stop this fighting."
+        },
+        {
+            "original": "  What, drawn, and talk of peace? I hate the word,As I hate hell, all Montagues, and thee.Have at thee, coward!  ",
+            "translated": "You hold your sword drawn out, and say peace? I hate that word, just as I hate hell, all Montagues, and you. Now let's fight, you coward!"
+        },
+        {
+            "original": "  Clubs, bills, and partisans! Strike! Beat them down!Down with the Capulets! Down with the Montagues!  ",
+            "translated": "Beat them down with your clubs, spears, and axes. Hit them! Down with the Capulets! Down with the Montagues!"
+        },
+        {
+            "original": "  What noise is this? Give me my long sword, ho!  ",
+            "translated": "What is this noise? Give me my long sword. Now!"
+        },
+        {
+            "original": "  A crutch, a crutch! Why call you for a sword?  ",
+            "translated": "You need a crutch! Why are you calling for a sword?"
+        },
+        {
+            "original": "  My sword, I say! Old Montague is come,And flourishes his blade in spite of me.  ",
+            "translated": "Give me my sword, I said! Old Montague has arrived, and hes waving his sword just to spite me."
+        },
+        {
+            "original": "  Thou villain Capulet! Hold me not. Let me go.  ",
+            "translated": "You are a villain, Capulet! [LADY MONTAGUE grabs his arm] Let go of me. Dont stop me."
+        },
+        {
+            "original": "  Thou shalt not stir one foot to seek a foe.  ",
+            "translated": "Youre not taking one step to try to fight an enemy."
+        },
+        {
+            "original": "   Rebellious subjects, enemies to peace,    Profaners of this neighbor-stain\u00e8d steel!    Will they not hear?   What, ho! You men, you beasts,    That quench the fire of your pernicious rage    With purple fountains issuing from your veins,    On pain of torture, from those bloody hands    Throw your mistempered weapons to the ground,    And hear the sentence of your mov\u00e8d prince.    Three civil brawls, bred of an airy word,    By thee, old Capulet, and Montague,    Have thrice disturbed the quiet of our streets    And made Veronas ancient Citizens    Cast by their grave-beseeming ornaments,    To wield old partisans in hands as old,    Cankered with peace, to part your cankered hate.    If ever you disturb our streets again,    Your lives shall pay the forfeit of the peace.    For this time, all the rest depart away.    You, Capulet, shall go along with me,    And, Montague, come you this afternoon    To know our farther pleasure in this case,    To old Free-town, our common judgment-place.    Once more, on pain of death, all men depart.   ",
+            "translated": "You rebels and enemies of the peace, who curse your own weapons by turning them on your neighbors.\u00a0"
+        },
+        {
+            "original": "  Who set this ancient quarrel new abroach? Speak, nephew. Were you by when it began?  ",
+            "translated": "Who stirred this old feud up again? Tell me, nephew.\u00a0Were you around when the fight began?"
+        },
+        {
+            "original": "   Here were the servants of your adversary,    And yours, close fighting ere I did approach.    I drew to part them.   In the instant came    The fiery Tybalt, with his sword prepared,    Which, as he breathed defiance to my ears,    He swung about his head and cut the winds,    Who, nothing hurt withal, hissed him in scorn.    While we were interchanging thrusts and blows,    Came more and more and fought on part and part,    Till the Prince came, who parted either part.   ",
+            "translated": "Your servants were fighting Capulet's servants when I arrived. I drew my sword to try to stop them. Just then, the reckless Tybalt showed up with his sword drawn. He taunted me while swinging his sword through the air, which made a hissing sound. As we fought, more and more Capulets and Montagues showed up to join the battle. Finally, the Prince came and stopped the fighting."
+        },
+        {
+            "original": "  Oh, where is Romeo? Saw you him today?Right glad I am he was not at this fray.  ",
+            "translated": "Oh, wheres Romeo? Have you seen him at all today? Im happy he wasnt around for this fight."
+        },
+        {
+            "original": "   Madam, an hour before the worshipped sun    Peered forth the golden window of the east,    A troubled mind drove me to walk abroad,    Where, underneath the grove of sycamore    That westward rooteth from this city side,    So early walking did I see your son.    Towards him I made, but he was ware of me    And stole into the covert of the wood.    I, measuring his affections by my own,    Which then most sought where most might not be found,    Being one too many by my weary self,    Pursued my humor not pursuing his,    And gladly shunned who gladly fled from me.   ",
+            "translated": "Madam, my mind was troubled this morning, so an hour before dawn I went out for a walk. As I walked, I saw your son beneath the sycamore grove that grows near the western edge of the city. I walked toward him, but he noticed me and ran and hid in the woods. I assumed that he must be feeling the same way I was, and was looking for a place where he wouldn't be found. So I continued on, following my own inclination to not pursue Romeo and ask him what was on his mind. I was happy to leave Romeo alone as he fled from me. Besides, I was feeling so weary of company that even being with myself was being with one too many people."
+        },
+        {
+            "original": "   Many a morning hath he there been seen,    With tears augmenting the fresh mornings dew,    Adding to clouds more clouds with his deep sighs.    But all so soon as the all-cheering sun    Should in the farthest east begin to draw    The shady curtains from Auroras bed,    Away from light steals home my heavy son,    And private in his chamber pens himself,    Shuts up his windows, locks fair daylight out,    And makes himself an artificial night.    Black and portentous must this humor prove    Unless good counsel may the cause remove.   ",
+            "translated": "Hes been seen at that spot on many mornings, his tears adding to the morning dew and his deep sighs thickening the clouds in the sky. Then, as soon as the happy sun begins to dawn, my unhappy son comes home in order to hide from the light. He keeps to himself in his bedroom, shutting his windows to keep out the daylight so that he can sit in an artificial night. His bad mood is likely to have a bad result, unless someone can give him good advice and remove the cause of his sadness.\u00a0"
+        },
+        {
+            "original": "  My noble uncle, do you know the cause?  ",
+            "translated": "My noble uncle, do you know whats causing his mood?"
+        },
+        {
+            "original": "  I neither know it nor can learn of him.  ",
+            "translated": "I dont know. And he refuses to tell me."
+        },
+        {
+            "original": "  Have you importuned him by any means?  ",
+            "translated": "Have you done everything possible to get him to explain?"
+        },
+        {
+            "original": "   Both by myself and many other friends.    But he, his own affections counselor,    Is to himselfI will not say how true,    But to himself so secret and so close,    So far from sounding and discovery,    As is the bud bit with an envious worm,    Ere he can spread his sweet leaves to the air,    Or dedicate his beauty to the same.    Could we but learn from whence his sorrows grow.    We would as willingly give cure as know.   ",
+            "translated": "I and many of our friends have tried to speak with him. But he insists on sharing his thoughts only with himself, though I dont know how good the advice is that hes giving himself. He keeps his secrets so completely that hes like a flower bud that cant open to the air or sun, because its been poisoned from within by the bite of a worm. If we could just find out the cause of his sadness, wed try to help him as eagerly as we have tried to figure out why he feels sad."
+        },
+        {
+            "original": "  See, where he comes. So please you, step aside.Ill know his grievance or be much denied.  ",
+            "translated": "Here he comes. If you don't mind, please leave us alone. Ill make him either tell me whats wrong, or else he'll just decline to tell me over and over again."
+        },
+        {
+            "original": "  I would thou wert so happy by thy stayTo hear true shrift.Come, madam, lets away.  ",
+            "translated": "I hope you're lucky enough to hear the true story. Come on, madam, lets go."
+        },
+        {
+            "original": "  Good morrow, cousin.  ",
+            "translated": "Good morning, cousin."
+        },
+        {
+            "original": "  Is the day so young?  ",
+            "translated": "Is it still that early?"
+        },
+        {
+            "original": "  But new struck nine.  ",
+            "translated": "The clock has just barely struck nine."
+        },
+        {
+            "original": "  Ay me! Sad hours seem long.Was that my father that went hence so fast?  ",
+            "translated": "Oh, my! Time goes by slowly when youre sad. Was that my father who just rushed away?"
+        },
+        {
+            "original": "  It was. What sadness lengthens Romeos hours?  ",
+            "translated": "It was. What sadness is making Romeo's hours so long?"
+        },
+        {
+            "original": "  Not having that which, having, makes them short.  ",
+            "translated": "Lacking the thing which would make the hours short if I had it."
+        },
+        {
+            "original": "  In love?  ",
+            "translated": "Are you in love?"
+        },
+        {
+            "original": "  Out.  ",
+            "translated": "Out."
+        },
+        {
+            "original": "  Of love?  ",
+            "translated": "So youre not in love?"
+        },
+        {
+            "original": "  Out of her favor, where I am in love.  ",
+            "translated": "I am in love. But the one I love does not love me back."
+        },
+        {
+            "original": "  Alas, that love, so gentle in his view,Should be so tyrannous and rough in proof!  ",
+            "translated": "Oh, it is sad how love, which in theory seems like such a gentle thing, should in actual experience be so rough!"
+        },
+        {
+            "original": "   Alas, that love, whose view is muffled still,    Should, without eyes, see pathways to his will!    Where shall we dine?   O me! What fray was here?    Yet tell me not, for I have heard it all.    Heres much to do with hate but more with love.    Why then, O brawling love, O loving hate,    O anything of nothing first created!    O heavy lightness, serious vanity,    Misshapen chaos of well-seeming forms!    Feather of lead, bright smoke, cold fire, sick health,    Still-waking sleep, that is not what it is!    This love feel I, that feel no love in this.    Dost thou not laugh?   ",
+            "translated": "How can love, which is supposed to be blind, force you to be able to do what it wants? Where should we eat? [Noticing blood] Oh my goodness, what fighting happened here? No, dont tell me. I already know: it was something that had a lot to do with hate, but even more to do with love. Oh, fighting love! Oh, loving hate! Oh, love that originates from nothing! Oh heavy lightness! Serious frivolity! Beautiful shapes smashed together to create an ugly chaos! Love is like heavy feathers, bright smoke, cold fire, sick health, waking sleep, the opposite of what it is! Thats the love I feel, since no one loves me in return. Are you laughing?"
+        },
+        {
+            "original": "  No, coz, I rather weep.  ",
+            "translated": "No, cousinI'm crying instead.."
+        },
+        {
+            "original": "  Good heart, at what?  ",
+            "translated": "But why, my good man?"
+        },
+        {
+            "original": "  At thy good hearts oppression.  ",
+            "translated": "Because of the way love has oppressed your heart."
+        },
+        {
+            "original": "   Why, such is loves transgression.    Griefs of mine own lie heavy in my breast,    Which thou wilt propagate, to have it pressed    With more of thine.   This love that thou hast shown    Doth add more grief to too much of mine own.    Love is a smoke raised with the fume of sighs;    Being purged, a fire sparkling in lovers eyes;    Being vexed, a sea nourished with loving tears.    What is it else? A madness most discreet,    A choking gall, and a preserving sweet.    Farewell, my coz.   ",
+            "translated": "Thats how it it goes with love. My own sadness is a heavy weight on my chest, and now youre going to add your own sadness to mine. The love you are showing me is only increasing my grief. Love is like a smoke made out of the sighs of lovers. When the smoke clears, love is a fire burning in the lovers' eyes. But if that love is thwarted, then it is a sea made out of lovers' tears. What else is love? A wise madness. A sweet candy that makes you choke. Goodbye, my cousin."
+        },
+        {
+            "original": "  Soft! I will go along.And if you leave me so, you do me wrong.  ",
+            "translated": "Wait! Ill come with you. If you leave me behind, youll be insulting me."
+        },
+        {
+            "original": "  Tut, I have lost myself. I am not here.This is not Romeo. Hes some other where.  ",
+            "translated": "Oh, Im not acting like myself. Its as if Im not even here. This is not Romeo, hes somewhere else."
+        },
+        {
+            "original": "  Tell me in sadness, who is that you love.  ",
+            "translated": "Tell me, seriously, who is the one you love?"
+        },
+        {
+            "original": "  What, shall I groan and tell thee?  ",
+            "translated": "What? Should I cry out the name in a groan of sadness?"
+        },
+        {
+            "original": "  Groan! Why, no. But sadly, tell me who.  ",
+            "translated": "Groan?! Why, of course not. Just tell me who it is."
+        },
+        {
+            "original": "  A sick man in sadness makes his will,A word ill urged to one that is so ill. In sadness, cousin, I do love a woman.  ",
+            "translated": "You wouldnt ask a sick man to seriously write out his willit would only make him feel worse. Seriously, cousin, I do love a woman."
+        },
+        {
+            "original": "  I aimed so near when I supposed you loved.  ",
+            "translated": "I figured that out when I guessed you were in love."
+        },
+        {
+            "original": "  A right good markman! And shes fair I love.  ",
+            "translated": "Then you have good aim! And the woman I love is beautiful."
+        },
+        {
+            "original": "  A right fair mark, fair coz, is soonest hit.  ",
+            "translated": "My dear cousin, a beautiful target is usually the one that is hit fastest."
+        },
+        {
+            "original": "   Well, in that hit you miss. Shell not be hit    With Cupids arrow. She hath Dians wit.    And, in strong proof of chastity well armed    From loves weak childish bow, she lives uncharmed.    She will not stay the siege of loving terms,    Nor bide th encounter of assailing eyes,    Nor ope her lap to saint-seducing gold.    Oh, she is rich in beauty, only poor    That when she dies, with beauty dies her store.   ",
+            "translated": "Well, now you missed the target. She wont be hit by Cupids arrow. Shes like Diana, protected by the armor of chastity. She is immune to the weak and childish arrows of love. She ignores words of love, refuses to even let you look at her with loving eyes, or open her lap to receive golden gifts that would even tempt a saint. Oh, shes rich in beauty. But shes also poor, because when she dies her beauty will die along with her."
+        },
+        {
+            "original": "  Then she hath sworn that she will still live chaste?  ",
+            "translated": "So shes sworn to live her life a virgin?"
+        },
+        {
+            "original": "   She hath, and in that sparing makes huge waste,    For beauty, starved with her severity,    Cuts beauty off from all posterity.    She is too fair, too wise, wisely too fair,    To merit bliss by making me despair.    She hath forsworn to love, and in that vow    Do I live dead that live to tell it now.   ",
+            "translated": "She has, and in doing so she wastes her beauty, because by living in chastity she ensures that she will never pass her beauty on to her children. Shes too beautiful, and too smart, to be allowed to gain entrance to Heaven by making me despair. Shes sworn never to love, and in that vow has sentenced me to a kind of living death."
+        },
+        {
+            "original": "  Be ruled by me. Forget to think of her.  ",
+            "translated": "Listen to me. Stop thinking about her."
+        },
+        {
+            "original": "  O, teach me how I should forget to think!  ",
+            "translated": "Oh, then teach me to forget how to think!"
+        },
+        {
+            "original": "  By giving liberty unto thine eyes.Examine other beauties.  ",
+            "translated": "By letting your eyes wander. Take a look at other beautiful girls."
+        },
+        {
+            "original": "   Tis the way    To call hers exquisite, in question more.    These happy masks that kiss fair ladies brows,    Being black, puts us in mind they hide the fair.    He that is strucken blind cannot forget    The precious treasure of his eyesight lost.    Show me a mistress that is passing fair;    What doth her beauty serve but as a note    Where I may read who passed that passing fair?    Farewell. Thou canst not teach me to forget.   ",
+            "translated": "Such comparisons will only make her own beauty more obvious. It will be like the masks that pretty girls wear to hide their faces. When they hide their beauty, they make us think of it more. A blind man cant forget the precious eyesight he lost. Show me any beautiful girl. What good is her beauty, other than a reminder of \u00a0a girl who is even more beautiful? Goodbye. You cant teach me to forget."
+        },
+        {
+            "original": "  I'll pay that doctrine or else die in debt.  ",
+            "translated": "I'll teach you how to forget, or else I'll die owing you the lesson."
+        }
+    ]
+}

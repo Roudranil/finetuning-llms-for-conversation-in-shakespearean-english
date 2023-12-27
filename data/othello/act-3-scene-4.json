@@ -1,0 +1,372 @@
+{
+    "dialogs": [
+        {
+            "original": "  Do you know, sirrah, where Lieutenant Cassio lies?  ",
+            "translated": "Do you know where Lieutenant Cassio lies?"
+        },
+        {
+            "original": "  I dare not say he lies anywhere.  ",
+            "translated": "I daresay he doesn't lie anywhere."
+        },
+        {
+            "original": "  Why, man?  ",
+            "translated": "Why?"
+        },
+        {
+            "original": "  Hes a soldier, and for one to say a soldier lies, tis stabbing.  ",
+            "translated": "He's a soldier, and to accuse a soldier of lying is as bad as stabbing him."
+        },
+        {
+            "original": "  Go to. Where lodges he?  ",
+            "translated": "Oh, come on. I mean where does he sleep?"
+        },
+        {
+            "original": "  To tell you where he lodges is to tell you where I lie.  ",
+            "translated": "To tell you where he sleeps would be to tell you where I lie."
+        },
+        {
+            "original": "  Can anything be made of this?  ",
+            "translated": "That doesn't make any sense.\u00a0"
+        },
+        {
+            "original": "  I know not where he lodges, and for me to devise a lodging and say he lies here, or he lies there, were to lie in mine own throat.  ",
+            "translated": "I don't know where he sleeps, so for me to say that he sleeps somewhere would be lying."
+        },
+        {
+            "original": "  Can you inquire him out and be edified by report?  ",
+            "translated": "Can you ask around and find out?"
+        },
+        {
+            "original": "  I will catechize the world for him, that is, make questions, and by them answer.  ",
+            "translated": "I will interrogate all the world about him, and make everyone answer my questions."
+        },
+        {
+            "original": "  Seek him, bid him come hither. Tell him I have moved mylord on his behalf, and hope all will be well.  ",
+            "translated": "Find him and tell him to come to me. Tell him I have persuaded my husband on his behalf, and I hope that everything will be resolved."
+        },
+        {
+            "original": "  To do this is within the compass of mans wit, and therefore I will attempt the doing it.  ",
+            "translated": "To do that is within the scope of a man's ability. And therefore I'll give it a try."
+        },
+        {
+            "original": "  Where should I lose that handkerchief, Emilia?  ",
+            "translated": "Where could I have lost that handkerchief, Emilia?"
+        },
+        {
+            "original": "  I know not, madam.  ",
+            "translated": "I don't know, madam."
+        },
+        {
+            "original": "   Believe me, I had rather have lost my purse    Full of crusadoes.   And but my noble Moor    Is true of mind and made of no such baseness    As jealous creatures are, it were enough    To put him to ill thinking.   ",
+            "translated": "Believe me, I would rather have lost my purse full of coins. Losing my handkerchief would be enough to make my husband jealous, if he were less loyal and more of a jealous man."
+        },
+        {
+            "original": "  Is he not jealous?  ",
+            "translated": "Is he not a jealous man?"
+        },
+        {
+            "original": "  Who, he? I think the sun where he was bornDrew all such humors from him.  ",
+            "translated": "Who, Othello? I think he got so much sunlight where he was born that it burned the jealousy out of him."
+        },
+        {
+            "original": "  Look where he comes.  ",
+            "translated": "Look, he's coming here."
+        },
+        {
+            "original": "  I will not leave him now till CassioBe called to him.How is t with you, my lord?  ",
+            "translated": "I won't stop bothering him now until he reinstates Cassio.\u00a0[To OTHELLO] How are you doing, my husband?"
+        },
+        {
+            "original": "  Well, my good lady.  [aside]  Oh, hardness to dissemble!How do you, Desdemona?  ",
+            "translated": "I'm doing well, my good lady.\u00a0[To himself]\u00a0Oh, it's so hard to pretend I'm fine!\u00a0[To DESDEMONA]\u00a0How are you, Desdemona?"
+        },
+        {
+            "original": "  Well, my good lord.  ",
+            "translated": "Well, my good husband."
+        },
+        {
+            "original": "  Give me your hand. This hand is moist, my lady.  ",
+            "translated": "Give me your hand. It's moist, my lady."
+        },
+        {
+            "original": "  It hath felt no age nor known no sorrow.  ",
+            "translated": "Yes, because I am young and haven't experienced any sorrow."
+        },
+        {
+            "original": "   This argues fruitfulness and liberal heart.    Hot, hot, and moist. This hand of yours requires    A sequester from liberty, fasting, and prayer,    Much castigation, exercise devout,    For heres a young and sweating devil here,    That commonly rebels. 'Tis a good hand,    A frank one.   ",
+            "translated": "Warm and moist skin means that you are fertile and have a generous heart. This hand of yours suggests that you need to be secluded, to fast and to pray. You need some discipline, for someone with these kinds of sweating hands commonly rebels against authority. It's a good hand, an open one."
+        },
+        {
+            "original": "  You may indeed say so,For twas that hand that gave away my heart.  ",
+            "translated": "You could say that, for it was that hand that gave you my heart."
+        },
+        {
+            "original": "  A liberal hand. The hearts of old gave hands, But our new heraldry is hands, not hearts.  ",
+            "translated": "A giving hand. It used to be that people's hearts controlled whether they gave someone their hand in marriage. But now people give away their hands without consulting their hearts."
+        },
+        {
+            "original": "  I cannot speak of this. Come now, your promise.  ",
+            "translated": "I can't speak to that. Now come on, remember your promise."
+        },
+        {
+            "original": "  What promise, chuck?  ",
+            "translated": "What promise, dear?"
+        },
+        {
+            "original": "  I have sent to bid Cassio come speak with you.  ",
+            "translated": "I have sent someone to tell Cassio to come speak to you."
+        },
+        {
+            "original": "  I have a salt and sorry rheum offends me.Lend me thy handkerchief.  ",
+            "translated": "I have a cold and a runny nose. Lend me your handkerchief."
+        },
+        {
+            "original": "  Here, my lord.  ",
+            "translated": "Here, my lord."
+        },
+        {
+            "original": "  That which I gave you.  ",
+            "translated": "No, give me the one I gave to you."
+        },
+        {
+            "original": "  I have it not about me.  ",
+            "translated": "I don't have it with me."
+        },
+        {
+            "original": "  Not?  ",
+            "translated": "You don't?"
+        },
+        {
+            "original": "  No, indeed, my lord.  ",
+            "translated": "No, my lord."
+        },
+        {
+            "original": "   Thats a fault. That handkerchief    Did an Egyptian to my mother give,    She was a charmer and could almost read    The thoughts of people.   She told her, while she kept it    'Twould make her amiable and subdue my father    Entirely to her love, but if she lost it    Or made gift of it,   my fathers eye    Should hold her loath\u00e8d and his spirits should hunt    After new fancies. She, dying, gave it me    And bid me, when my fate would have me wived,    To give it her.   I did so, and take heed on t,    Make it a darling like your precious eye.    To lose t or give t away were such perdition    As nothing else could match.   ",
+            "translated": "That's not good. My mother was given that handkerchief by an Egyptian woman who could read people's minds. She told my mother that as long as she had the handkerchief, she would be desirable and my father would be helplessly in love with her, but if she lost it or gave it away, my father would hate her and he would go after other women. Before my mother died, she gave the handkerchief to me and told me to give it to my wife whenever I married. I did this, and so keep it close like a precious treasure. To lose that handkerchief or give it away would be a sin greater than any other."
+        },
+        {
+            "original": "  Is t possible?  ",
+            "translated": "Is this true?"
+        },
+        {
+            "original": "   'Tis true. Theres magic in the web of it.    A sibyl, that had numbered in the world    The sun to course two hundred compasses,    In her prophetic fury sewed the work.    The worms were hallowed that did breed the silk,    And it was dyed in mummy which the skillful    Conserved of maidens' hearts.   ",
+            "translated": "It is true. There's magic in the sewing. A prophetess who lived to the age of two hundred sewed the handkerchief while she was in a trance. The worms that made the silk were magical, and it was tinted in dye extracted from embalmed virgins' hearts."
+        },
+        {
+            "original": "  Indeed? Is t true?  ",
+            "translated": "Really? Is this true?"
+        },
+        {
+            "original": "  Most veritable, therefore look to t well.  ",
+            "translated": "Absolutely, so look after that handkerchief carefully."
+        },
+        {
+            "original": "  Then would to Heaven that I had never seen t!  ",
+            "translated": "God, I wish I'd never seen it!"
+        },
+        {
+            "original": "  Ha! Wherefore?  ",
+            "translated": "Aha! Why do you wish that?"
+        },
+        {
+            "original": "  Why do you speak so startingly and rash?  ",
+            "translated": "Why are you talking in fits in startsand so impulsively, too?"
+        },
+        {
+            "original": "  Is t lost? Is t gone? Speak, is t out o' th' way?  ",
+            "translated": "Is the handkerchief lost? Is it gone? Tell me, have you lost it?"
+        },
+        {
+            "original": "  Bless us!  ",
+            "translated": "God help me."
+        },
+        {
+            "original": "  Say you?  ",
+            "translated": "What do you say?"
+        },
+        {
+            "original": "  It is not lost, but what and if it were?  ",
+            "translated": "It isn't lost, but what if it were?"
+        },
+        {
+            "original": "  How!  ",
+            "translated": "What?"
+        },
+        {
+            "original": "  I say, it is not lost.  ",
+            "translated": "I'm telling you, it's not lost."
+        },
+        {
+            "original": "  Fetch t, let me see t.  ",
+            "translated": "Go get it, then. Let me see it."
+        },
+        {
+            "original": "   Why, so I can, sir, but I will not now.    This is a trick to put me from my suit.    Pray you, let Cassio be received again.   ",
+            "translated": "Well, sir, I could do that, but I won't right now. You're trying to trick me so I forget about persuading you regarding Cassio. Please, let Cassio be your lieutenant again."
+        },
+        {
+            "original": "  Fetch me the handkerchiefmy mind misgives.  ",
+            "translated": "Bring me the handkerchief. I am worried."
+        },
+        {
+            "original": "  Come, come,Youll never meet a more sufficient man.  ",
+            "translated": "Come on. You'll never find a better man for the job than Cassio."
+        },
+        {
+            "original": "  The handkerchief!  ",
+            "translated": "The handkerchief!"
+        },
+        {
+            "original": "  A man that all his timeHath founded his good fortunes on your love,Shared dangers with you  ",
+            "translated": "Cassio has always had good fortune because of your love for him. He and you have faced dangers together."
+        },
+        {
+            "original": "  The handkerchief!  ",
+            "translated": "The handkerchief!"
+        },
+        {
+            "original": "  In sooth, you are to blame.  ",
+            "translated": "To tell the truth, it's all your fault."
+        },
+        {
+            "original": "  Zounds!  ",
+            "translated": "Christ!"
+        },
+        {
+            "original": "  Is not this man jealous?  ",
+            "translated": "Doesn't that look like a jealous man?"
+        },
+        {
+            "original": "  I ne'er saw this before.Sure, theres some wonder in this handkerchief,I am most unhappy in the loss of it.  ",
+            "translated": "I've never seen him like this. There really must be some magic in that handkerchief. I am really sad and unlucky that I lost it.\u00a0"
+        },
+        {
+            "original": "   'Tis not a year or two shows us a man.    They are all but stomachs, and we all but food.    To eat us hungerly, and when they are full,    They belch us. Look you, Cassio and my husband!   ",
+            "translated": "It takes just a year or two for a man's true colors to become apparent. They're nothing but hungry stomachs, and we women are the food. All they want is to get their fill of us, and when they've had enough they throw us back up. Look, here comes Cassio and my husband."
+        },
+        {
+            "original": "  There is no other way. 'Tis she must do t,And, lo, the happiness! Go and importune her.  ",
+            "translated": "There's no other way. She must be the one to do it. And what luck, here she is! Go and ask her."
+        },
+        {
+            "original": "  How now, good Cassio, whats the news with you?  ",
+            "translated": "How are you, Cassio? What's going on with you?"
+        },
+        {
+            "original": "   Madam, my former suit. I do beseech you    That by your virtuous means I may again    Exist, and be a member of his love    Whom I, with all the office of my heart    Entirely honor.   I would not be delayed.    If my offence be of such mortal kind    That nor my service past, nor present sorrows,    Nor purposed merit in futurity,    Can ransom me into his love again,    But to know so must be my benefit.    So shall I clothe me in a forced content,    And shut myself up in some other course,    To fortunes alms.   ",
+            "translated": "Madam, only my case from before. I beg you to use your virtuous powers to help me return to the good graces of Othello, whom I honor with all of my heart. I want this to happen quickly. If my offense was so bad that neither my past service nor my present regret, nor the future good deeds I promise can buy back his love, then I at least would like to know this now. If that is the case then I will pretend to be content, and settle on a new career to try my fortunes there."
+        },
+        {
+            "original": "   Alas, thrice-gentle Cassio,    My advocation is not now in tune.    My lord is not my lord, nor should I know him    Were he in favor as in humor altered.    So help me every spirit sanctified    As I have spoken for you all my best    And stood within the blank of his displeasure    For my free speech.   You must awhile be patient.    What I can do I will, and more I will    Than for myself I dare. Let that suffice you.   ",
+            "translated": "Alas, dearest Cassio, my pleading on your behalf isn't working right now. My husband is not acting like himself. If his physical appearance were as transformed as his inner character is now, I wouldn't even recognize him. So help me God, I have spoken up for you as best I could and he has looked down on me because of it. You must be patient for a while. I will do what I can, and I will even do more than I would dare do for myself. Let that be enough for you."
+        },
+        {
+            "original": "  Is my lord angry?  ",
+            "translated": "Is Othello angry?"
+        },
+        {
+            "original": "  He went hence but now,And certainly in strange unquietness.  ",
+            "translated": "He was just here, and he is certainly strangely bothered."
+        },
+        {
+            "original": "   Can he be angry? I have seen the cannon    When it hath blown his ranks into the air    And, like the devil, from his very arm    Puffed his own brother   and is he angry?    Something of moment then, I will go meet him.    Theres matter in t indeed, if he be angry.   ",
+            "translated": "Can he be angry? I have seen him remain calm when a cannon has blown his soldiers into the air and, like the devil, blown his own brother out of his arms. And now he's angry? It must be about a serious matter. I will go see him. If he's angry, it must really be something significant."
+        },
+        {
+            "original": "  I prithee, do so.  ",
+            "translated": "Please do go see him."
+        },
+        {
+            "original": "   Something, sure, of state,    Either from Venice, or some unhatched practice    Made demonstrable here in Cyprus to him,    Hath puddled his clear spirit, and in such cases    Mens natures wrangle with inferior things,    Though great ones are their object.   'Tis even so,    For let our finger ache and it endues    Our other healthful members even to that sense    Of pain.   Nay, we must think men are not gods,    Nor of them look for such observances    As fit the bridal.   Beshrew me much, Emilia,    I was, unhandsome warrior as I am,    Arraigning his unkindness with my soul,    But now I find I had suborned the witness,    And hes indicted falsely.   ",
+            "translated": "It must be something government-relatedeither having to do with Venice or some secret thing that's now come to light in Cyprusthat has put him in this mood. When this happens, men take out their tempers on less important things, when they're really upset with bigger issues. That's what happens when we hurt our finger, and it makes other parts of our bodies seem to hurt. No, we shouldn't idolize men, or expect them to always be as nice as they are on their wedding day. Oh, Emilia, curse me: I'm so foolish that I thought Othello was being unkind, but I was clearly falsely accusing him."
+        },
+        {
+            "original": "  Pray heaven it beState matters, as you think, and no conceptionNor no jealous toy concerning you.  ",
+            "translated": "I pray to heaven that he is upset over some government matter, as you think is the case, and not over some jealous idea about you."
+        },
+        {
+            "original": "  Alas the day! I never gave him cause.  ",
+            "translated": "God forbid! I've given him no reason to be jealous."
+        },
+        {
+            "original": "   But jealous souls will not be answered so.    They are not ever jealous for the cause,    But jealous for theyre jealous.   It is a monster    Begot upon itself, born on itself.   ",
+            "translated": "But jealous souls need no evidence. They aren't jealous because of a reason, but merely because they are jealous people. Jealousy is a monster that gives birth to itself."
+        },
+        {
+            "original": "  Heaven keep the monster from Othellos mind!  ",
+            "translated": "May heaven keep that monster away from Othello's mind!"
+        },
+        {
+            "original": "  Lady, amen.  ",
+            "translated": "Amen, my lady."
+        },
+        {
+            "original": "   I will go seek him.Cassio, walk hereabout.    If I do find him fit, Ill move your suit    And seek to effect it to my uttermost.   ",
+            "translated": "I will go find him. Cassio, stay around here. If I find him in a good mood, I'll plead your case and try my hardest to get you your job back."
+        },
+        {
+            "original": "  I humbly thank your ladyship.  ",
+            "translated": "My lady, I humbly thank you."
+        },
+        {
+            "original": "  Save you, friend Cassio!  ",
+            "translated": "Hello, my friend Cassio!"
+        },
+        {
+            "original": "  What make you from home? How is t with you, my most fair Bianca?Indeed, sweet love, I was coming to your house.  ",
+            "translated": "What are you doing away from home? How are you, my most beautiful Bianca? I was actually just on my way to your house, my sweet love."
+        },
+        {
+            "original": "   And I was going to your lodging, Cassio.    What, keep a week away? Seven days and nights?    Eight score eight hours?   And lovers' absent hours    More tedious than the dial eightscore times!    Oh weary reckoning!   ",
+            "translated": "And I was on my way to yours, Cassio. Why have you been away for a week? Seven days and nights? One hundred and sixty-eight hours? And hours that lovers spend apart pass eight times more slowly than normal. How tiresome to count the hours going by!"
+        },
+        {
+            "original": "   Pardon me, Bianca,    I have this while with leaden thoughts been pressed,    But I shall, in a more continuate time,    Strike off this score of absence.   Sweet Bianca,     (giving her DESDEMONAs handkerchief)     Take me this work out.   ",
+            "translated": "Pardon me, Bianca. I've been busy with heavy thoughts. But, when I have some time, I will make up for being away for so long. Sweet Bianca, copy out the pattern on this. [He gives her DESDEMONA's handkerchief]"
+        },
+        {
+            "original": "   O Cassio, whence came this?    This is some token from a newer friend!    To the felt absence now I feel a cause.    Is t come to this? Well, well.   ",
+            "translated": "Oh, Cassio, where did you get this from? This is some gift from another woman! Now I see why you haven't come to see me. Has it come to this? Well, well, well."
+        },
+        {
+            "original": "   Go to, woman,    Throw your vile guesses in the devils teeth    From whence you have them.   You are jealous now    That this is from some mistress, some remembrance.    No, in good troth, Bianca.   ",
+            "translated": "Oh please, woman. Throw your vile guesses back to hell, where they came from. You are jealous now and think that this handkerchief is from some mistress. No, in truth, it isn't, Bianca."
+        },
+        {
+            "original": "  Why, whose is it?  ",
+            "translated": "Whose is it, then?"
+        },
+        {
+            "original": "   I know not neither, I found it in my chamber.    I like the work well.   Ere it be demanded,    As like enough it will, I would have it copied.    Take it and do t, and leave me for this time.   ",
+            "translated": "I don't know. I found it in my bedroom, and I like the pattern on it. Before someone asks for it back, I want to have the pattern copied. Take it and do it, and leave me alone for a bit."
+        },
+        {
+            "original": "  Leave you! Wherefore?  ",
+            "translated": "Leave you! Why?"
+        },
+        {
+            "original": "  I do attend here on the generalAnd think it no addition, nor my wish,To have him see me womaned.  ",
+            "translated": "I am waiting on the general here, and I don't think it would be very good for him to see me with a woman."
+        },
+        {
+            "original": "  Why, I pray you?  ",
+            "translated": "Why?"
+        },
+        {
+            "original": "  Not that I love you not.  ",
+            "translated": "It's not that I don't love you."
+        },
+        {
+            "original": "  But that you do not love me.I pray you bring me on the way a littleAnd say if I shall see you soon at night.  ",
+            "translated": "But that you don't love me. Please come with me just a little ways, and tell me if I will see you soon at night."
+        },
+        {
+            "original": "  'Tis but a little way that I can bring you, For I attend here. But Ill see you soon.  ",
+            "translated": "I can't go with you very far, for I must wait here. But I will see you soon."
+        },
+        {
+            "original": "  'Tis very good. I must be circumstanced.  ",
+            "translated": "That's good enough. I have to take what I can get given the circumstances."
+        }
+    ]
+}
