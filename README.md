@@ -54,11 +54,10 @@ Each json file as the following structure
             "original": "original dialog here",
             "translated": "translated dialog here"
         },
-        { ... },
-        .
-        .
-        .
+        {
+            // more such dialog pairs
+        },
     ]
 }
 ```
-Note that the array of dialogs is in the same order as they occur in the books. Meaning any dialog can be taken as the **repsonse** to the dialog that comesjust before it in the array.
+Note that the array of dialogs is in the same order as they occur in the books. Meaning any dialog can be taken as the **repsonse** to the dialog that comesjust before it in the array. Refer to [docs/scrape.md](docs/scrape.md) for more info on the scraping side.
