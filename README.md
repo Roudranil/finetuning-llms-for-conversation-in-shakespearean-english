@@ -95,6 +95,6 @@ Check out the final dataset on [ `🤗 Datasets` ](https://huggingface.co/datase
 I mainly looking at $\le 3$ B models. For now I am considering are:
 | Model name                                                                                                          | Size |
 | ------------------------------------------------------------------------------------------------------------------- | ---- |
-| [ericzzz/falcon-rw-1b-instruct-openorca](https://huggingface.co/ericzzz/falcon-rw-1b-instruct-openorca)             | $1$B |
-| [togethercomputer/RedPajama-INCITE-Chat-3B-v1](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1) | $3$B |
+| [ericzzz/falcon-rw-1b-instruct-openorca](https://huggingface.co/ericzzz/falcon-rw-1b-instruct-openorca)             | $1B$ |
+| [togethercomputer/RedPajama-INCITE-Chat-3B-v1](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1) | $3B$ |
 | [mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)                     | $7B$ |
