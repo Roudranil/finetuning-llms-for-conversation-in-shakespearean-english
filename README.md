@@ -10,6 +10,8 @@
     - [Scraping](#scraping)
     - [Processing to CSV](#processing-to-csv)
     - [On 🤗 Datasets](#on--datasets)
+  - [Models](#models)
+    - [Model list that I am considering](#model-list-that-i-am-considering)
 <!--toc:end-->
 
 ## Introduction
@@ -21,6 +23,7 @@ goal is to try out with some small models first ($1$ B - $1.5$ B)
 ## Setup
 
 Run the following commands to get started with the environment.
+
 ```bash
 python -m venv .env
 source .env/scripts/bin/activate
@@ -32,14 +35,15 @@ pip install -r requirements.txt
 ### Overview
 
 A quick internet search will lead to 2 primary sources for datasets containing works of Shakespeare:
-- [Tiny Shakespeare from Andrej Karpathy's repository](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) [`[🤗 Datasets]`](https://huggingface.co/datasets/Trelis/tiny-shakespeare)
-- Translation of complete works of Shakespeare - [Shakescleare](https://www.litcharts.com/shakescleare/shakespeare-translations) [`[Kaggle datasets]`](https://www.kaggle.com/datasets/garnavaurha/shakespearify)
+* [Tiny Shakespeare from Andrej Karpathy's repository](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) [`[🤗 Datasets]`](https://huggingface.co/datasets/Trelis/tiny-shakespeare)
+* Translation of complete works of Shakespeare - [Shakescleare](https://www.litcharts.com/shakescleare/shakespeare-translations) [`[Kaggle datasets]`](https://www.kaggle.com/datasets/garnavaurha/shakespearify)
 
 However for my purpose I needed a dataset where I have both a dialog, its translation and its response pair of original dialog and translation. In the tiny shakespeare dataset, there are no translations. The translated dataset does not have dialogs in the correct sequence. Hence rather than hack some way to do what I want, I decided to scrape the site myself.
 
 ### Scraping
 
 [src/scraping.py](src/scraping.py) contains the code to scrape [Shakescleare](https://www.litcharts.com/shakescleare/shakespeare-translations). The code is highly inspired by [shakespeare_crawler.py](https://github.com/ToruOwO/style-transfer-writing/blob/9119fae3f56312d4c202945051bdfd3761aed63b/data/shakespeare_crawler/shakespeare_crawler/spiders/shakespeare_crawler.py) from [ToruOwO/style-transfer-writing](https://github.com/ToruOwO/style-transfer-writing). The scraping is done in a very specific format. Below is the structure of the data directory. Each folder in it corresponds to one book's worth of translated dialogs. In each book, there are separate json files containing the dialogs corresponding to their chapters.
+
 ```
 data
 ├── book_name
@@ -48,7 +52,9 @@ data
 .   .
 .   .
 ```
+
 Each json file as the following structure
+
 ```json
 {
     "dialogs":[
@@ -62,6 +68,7 @@ Each json file as the following structure
     ]
 }
 ```
+
 Note that the array of dialogs is in the same order as they occur in the books. Meaning any dialog can be taken as the **repsonse** to the dialog that comes just before it in the array. Refer to [docs/scrape.md](docs/scrape.md) for more info on the scraping side.
 
 ### Processing to CSV
@@ -72,10 +79,22 @@ This part is done in [src/dataset.py]. Simply the JSON files are loaded, then th
 | bookname-chaptername-line-# | some dialog in modern english | reply to that dialog as written in shakespearean english |
 
 To create the dataset, navigate to the src folder and run
+
 ```bash
 python dataset.py
 ```
 
 ### On 🤗 Datasets
 
-Check out the final dataset on [`🤗 Datasets`](https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset)
+Check out the final dataset on [ `🤗 Datasets` ](https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset)
+
+## Models
+
+### Model list that I am considering
+
+I mainly looking at $\le 3$ B models. For now I am considering are:
+| Model name                                                                                                          | Size |
+| ------------------------------------------------------------------------------------------------------------------- | ---- |
+| [ericzzz/falcon-rw-1b-instruct-openorca](https://huggingface.co/ericzzz/falcon-rw-1b-instruct-openorca)             | $1$B |
+| [togethercomputer/RedPajama-INCITE-Chat-3B-v1](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1) | $3$B |
+| [mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)                     | $7B$ |
