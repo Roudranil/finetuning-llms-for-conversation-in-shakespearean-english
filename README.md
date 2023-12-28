@@ -12,6 +12,7 @@
     - [On 🤗 Datasets](#on--datasets)
   - [Models](#models)
     - [Model list that I am considering](#model-list-that-i-am-considering)
+  - [Areas of improvement](#areas-of-improvement)
 <!--toc:end-->
 
 ## Introduction
@@ -98,3 +99,15 @@ I mainly looking at $\le 3$ B models. For now I am considering are:
 | [ericzzz/falcon-rw-1b-instruct-openorca](https://huggingface.co/ericzzz/falcon-rw-1b-instruct-openorca)             | $1B$ |
 | [togethercomputer/RedPajama-INCITE-Chat-3B-v1](https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-3B-v1) | $3B$ |
 | [mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)                     | $7B$ |
+
+Check out [doc/model.md](doc/model.md) for more information on the training params and the prompt templates I used, and other information.
+
+## Areas of improvement
+
+I identified the following as areas of improvement:
+- Clean the dialogs - there are multiple spaces, cases, and punctuations which are weirdly placed. They need to be deal with.
+- There are characters with accents - I was unable to get a good unicode replacement script going so this can be done
+- Better training arguments
+  - Longer training times (more number of steps)
+  - experimenting with hyperparameters, for both training and generation
+- Better prompt templates - We can use multiple dialog pairs in one prompt. 
