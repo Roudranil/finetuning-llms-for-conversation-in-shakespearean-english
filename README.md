@@ -1,8 +1,8 @@
-# Shakespearen Chatbot with opensource LLM's
+# Finetuning smaller open source LLM's for conversation in Shakespearean English
 
 <!--toc:start-->
 
-- [Shakespearen Chatbot with opensource LLM's](#shakespearen-chatbot-with-opensource-llms)
+- [Finetuning smaller open source LLM's for conversation in Shakespearean English](#finetuning-smaller-open-source-llms-for-conversation-in-shakespearean-english)
   - [Introduction](#introduction)
   - [Setup](#setup)
   - [Dataset creation](#dataset-creation)
@@ -87,7 +87,7 @@ python dataset.py
 
 ### On 🤗 Datasets
 
-Check out the final dataset on [ `🤗 Datasets` ](https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset)
+Check out the final dataset [`Shakespearean and Modern English Conversational Dataset` on  `🤗 Datasets` ](https://huggingface.co/datasets/Roudranil/shakespearean-and-modern-english-conversational-dataset)
 
 ## Models
 
