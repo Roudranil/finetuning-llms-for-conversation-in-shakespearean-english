@@ -22,7 +22,7 @@ As stated in the [README.md](../README.md), I tried finetuning on the following 
 > [!IMPORTANT]
 > Model needs to be trained for longer.
 
-For now, I had trained it for only 3 epochs, with minimum loss at 2.19. However during generation I ran into some bugs (WIP). 
+Currently, the model has been trained for a total of 6600 steps, reaching a minimum loss of 1.8. 
 
 ### Prompt template:
 ```python
